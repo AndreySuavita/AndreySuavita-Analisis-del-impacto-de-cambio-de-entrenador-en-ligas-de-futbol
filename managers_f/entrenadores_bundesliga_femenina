@@ -1,0 +1,332 @@
+club,fecha_activo_inicio,fecha_activo_fin,entrenador,pais,fecha_nacimiento
+Hoffenheim,01-07-2020,30-06-2025,Gabor Gallai,Alemania,21-08-1979
+Hoffenheim,01-07-2008,30-06-2020,Jürgen Ehrmann,Alemania,23-02-1961
+Wolfsburgo,01-07-2021,30-06-2025,Tommy Stroot,Alemania,24-12-1988
+Wolfsburgo,01-07-2017,30-06-2021,Stephan Lerch,Alemania,10-08-1984
+Wolfsburgo,01-07-2008,30-06-2017,Ralf Kellermann,Alemania,24-09-1968
+Wolfsburgo,01-07-2003,30-06-2008,Bernd Huneke,Alemania,14-03-1966
+SGS Essen,01-07-2019,30-06-2025,Markus Högner,Alemania,26-04-1967
+SGS Essen,01-07-2016,30-06-2019,Daniel Kraus,Alemania,11-05-1984
+SGS Essen,01-07-2010,30-06-2016,Markus Högner,Alemania,26-04-1967
+SGS Essen,01-07-2004,30-06-2010,Ralf Agolli,Alemania,23-04-1961
+Eintracht Frankfurt,29-09-2017,30-06-2026,Niko Arnautis,Alemania,01-04-1980
+Eintracht Frankfurt,02-12-2015,28-09-2017,Matt Ross,Australia,04-01-1978
+Eintracht Frankfurt,01-07-2013,01-12-2015,Colin Bell,Inglaterra,05-08-1961
+Eintracht Frankfurt,18-04-2013,30-06-2013,Sascha Glass,Alemania,12-10-1972
+Eintracht Frankfurt,12-09-2012,17-04-2013,Philipp Dahm,Alemania,31-05-1979
+Eintracht Frankfurt,15-10-2009,11-09-2012,Sven Kahlert,Alemania,14-10-1970
+Eintracht Frankfurt,01-07-2008,14-10-2009,Günter Wegmann,Alemania,15-02-1954
+Eintracht Frankfurt,01-07-2004,30-06-2008,Hans-Jürgen Tritschoks,Alemania,09-11-1955
+Eintracht Frankfurt,01-07-1998,30-06-2004,Monika Staab,Alemania,09-01-1959
+FC Carl Zeiss Jena,01-07-2022,30-06-2023,Steffen Beck,Alemania,19-10-1963
+FC Carl Zeiss Jena,01-07-2020,30-06-2022,Anne Pochert,Alemania,04-02-1986
+FC Carl Zeiss Jena,01-07-2019,30-06-2020,Chris Heck,Alemania,11-02-1974
+FC Carl Zeiss Jena,01-07-2018,30-06-2019,Steffen Beck,Alemania,19-10-1963
+FC Carl Zeiss Jena,21-11-2016,30-06-2018,Katja Greulich,Alemania,25-03-1985
+FC Carl Zeiss Jena,04-11-2016,20-11-2016,Steffen Beck,Alemania,19-10-1963
+FC Carl Zeiss Jena,01-07-2016,04-11-2016,Christian Franz-Pohlmann,Alemania,15-08-1980
+FC Carl Zeiss Jena,30-01-2012,30-06-2016,Daniel Kraus,Alemania,11-05-1984
+FC Carl Zeiss Jena,01-07-2011,29-01-2012,Martina Voss-Tecklenburg,Alemania,22-12-1967
+FC Carl Zeiss Jena,29-12-2010,30-06-2011,Konrad Weise,Alemania,17-08-1951
+FC Carl Zeiss Jena,04-11-2010,28-12-2010,Daniel Kraus,Alemania,11-05-1984
+FC Carl Zeiss Jena,01-07-2010,03-11-2010,Thorsten Zaunmüller,Alemania,11-05-1970
+FC Carl Zeiss Jena,01-07-2003,30-06-2010,Heidi Vater,Alemania,07-07-1966
+Bayern Múnich,01-07-2022,30-06-2023,Alexander Straus,Noruega,20-10-1975
+Bayern Múnich,01-07-2019,30-06-2022,Jens Scheuer,Alemania,12-10-1978
+Bayern Múnich,01-07-2010,30-06-2019,Thomas Wörle,Alemania,11-02-1982
+Bayern Múnich,01-07-2008,30-06-2010,Günther Wörle,Alemania,01-10-1949
+Bayern Múnich,01-01-2004,30-06-2008,Sissy Raith,Alemania,11-06-1960
+Bayern Múnich,01-07-2000,31-12-2003,Peter König,Alemania,09-05-1947
+Bayern Múnich,01-07-1987,30-06-1990,Cornelia Doll,Alemania,30-06-1958
+Turbine Potsdam,14-11-2022,30-06-2023,Sven Weigang,Alemania,14-11-1964
+Turbine Potsdam,31-10-2022,13-11-2022,Dirk Heinrichs,Alemania,20-05-1968
+Turbine Potsdam,17-06-2022,30-10-2022,Sebastian Middeke,Alemania,02-02-1984
+Turbine Potsdam,01-07-2020,30-06-2022,Sofian Chahed,Túnez,18-04-1983
+Turbine Potsdam,01-07-2016,30-06-2020,Matthias Rudolph,Alemania,06-09-1982
+Turbine Potsdam,16-12-1997,30-06-2016,Bernd Schröder,Alemania,22-07-1942
+Turbine Potsdam,01-07-1997,15-12-1997,Eckhard Düwiger,Alemania,01-02-1947
+Turbine Potsdam,01-07-1995,30-06-1997,Lothar Müller,Alemania,
+Turbine Potsdam,21-11-1994,30-06-1995,Sabine Seidel,Alemania,08-09-1956
+Turbine Potsdam,01-07-1993,20-11-1994,Frank Lange,Alemania,15-11-1951
+Turbine Potsdam,01-07-1992,30-06-1993,Peter Raupach,Alemania,
+Turbine Potsdam,01-07-1971,30-06-1992,Bernd Schröder,Alemania,22-07-1942
+SC Sand,11-11-2021,30-06-2023,Alexander Fischinger,Alemania,10-04-1964
+SC Sand,10-07-2021,09-11-2021,Matthias Frieböse,Alemania,
+SC Sand,21-04-2021,30-06-2021,Alexander Fischinger,Alemania,10-04-1964
+SC Sand,24-08-2020,20-04-2021,Nora Häuptle,Suiza,09-09-1983
+SC Sand,01-01-2020,30-06-2020,Sven Thoß,Alemania,28-07-1966
+SC Sand,01-07-2017,31-12-2019,Sascha Glass,Alemania,12-10-1972
+SC Sand,01-03-2017,30-06-2017,Richard Dura,Polonia,
+SC Sand,13-02-2017,28-02-2017,Claudia von Lanken,Alemania,03-06-1977
+SC Sand,12-07-2016,12-02-2017,Colin Bell,Inglaterra,05-08-1961
+SC Sand,06-08-2015,30-06-2016,Alexander Fischinger,Alemania,10-04-1964
+SC Sand,10-12-2014,05-08-2015,Sven Kahlert,Alemania,14-10-1970
+SC Sand,01-07-2014,09-12-2014,Niko Koutroubis,Grecia,23-08-1969
+SC Sand,05-08-2013,30-06-2014,Dieter Wendling,Alemania,30-12-1954
+SC Sand,01-07-2008,30-06-2013,Oliver Dewes,Alemania,02-02-1971
+SC Sand,01-07-2007,31-12-2007,Dieter Wendling,Alemania,30-12-1954
+Werder Bremen,02-04-2021,30-06-2023,Thomas Horsch,Alemania,30-10-1968
+Werder Bremen,01-07-2019,01-04-2021,Alexander Kluge,Alemania,15-10-1986
+Werder Bremen,01-07-2017,30-06-2019,Carmen Roth,Alemania,02-01-1979
+Werder Bremen,01-07-2015,30-06-2017,Steffen Rau,Alemania,30-03-1970
+Werder Bremen,01-07-2013,30-06-2015,Chadia Freyhat,Alemania,04-10-1982
+Werder Bremen,01-07-2011,08-05-2012,Dirk Hofmann,Alemania,06-06-1969
+Werder Bremen,01-07-2010,30-06-2011,Holger Stemmann,Alemania,17-10-1971
+Werder Bremen,01-07-2007,30-06-2013,Birte Brüggemann,Alemania,02-02-1971
+Werder Bremen,01-07-2007,04-12-2007,Frank Schwalenberg,Alemania,
+SC Freiburg,01-07-2022,30-06-2023,Theresa Merk,Alemania,25-10-1989
+SC Freiburg,01-07-2019,30-06-2022,Daniel Kraus,Alemania,11-05-1984
+SC Freiburg,01-07-2015,30-06-2019,Jens Scheuer,Alemania,12-10-1978
+SC Freiburg,01-07-2013,30-06-2015,Dietmar Sehrig,Alemania,07-10-1961
+SC Freiburg,01-07-2010,30-06-2013,Milorad Pilipović,Serbia,03-06-1958
+SC Freiburg,18-11-2009,30-06-2010,Edgar Beck,Alemania,15-05-1962
+SC Freiburg,22-09-2008,19-11-2009,Günter Rommel,Alemania,18-06-1956
+SC Freiburg,06-09-2008,21-09-2008,Michael Bellert,Alemania,07-02-1948
+SC Freiburg,01-01-2008,05-09-2008,Alexander Fischinger,Alemania,10-04-1964
+SC Freiburg,01-11-2007,31-12-2007,Thomas Schweizer,Alemania,13-09-1967
+SC Freiburg,13-10-2007,31-10-2007,Elke Walther,Alemania,01-04-1967
+SC Freiburg,01-07-2005,12-10-2007,Dietmar Sehrig,Alemania,07-10-1961
+SC Freiburg,01-07-2003,30-06-2005,Thomas Reger,Alemania,08-02-1962
+SC Freiburg,01-07-2001,30-06-2003,Michael Bellert,Alemania,07-02-1948
+Bayer Leverkusen,01-07-2022,30-06-2024,Robert de Pauw,Países Bajos,24-07-1981
+Bayer Leverkusen,01-07-2019,30-06-2022,Achim Feifel,Alemania,03-08-1964
+Bayer Leverkusen,05-04-2017,30-06-2019,Verena Hagedorn,Alemania,02-07-1982
+Bayer Leverkusen,08-03-2017,04-04-2017,Malte Dresen,Alemania,14-01-1989
+Bayer Leverkusen,01-07-2012,08-03-2017,Thomas Obliers,Alemania,21-10-1967
+Bayer Leverkusen,01-07-2008,30-06-2012,Doreen Meier,Alemania,09-11-1968
+Colonia,01-01-2020,30-06-2025,Sascha Glass,Alemania,12-10-1972
+Colonia,01-09-2016,31-12-2019,Willi Breuer,Alemania,30-11-1954
+Colonia,01-12-2015,31-08-2016,Marcus Kühn,Alemania,20-11-1971
+Colonia,13-11-2015,30-11-2015,Nico Reese,Alemania,
+Colonia,01-07-2012,12-11-2015,Willi Breuer,Alemania,30-11-1954
+Colonia,01-07-2010,30-06-2012,Marcus Kühn,Alemania,20-11-1971
+Colonia,01-07-2009,30-06-2010,Klaus Schmischke,Alemania,
+MSV Duisburg,13-03-2022,30-06-2023,Nico Schneck,Alemania,06-10-1987
+MSV Duisburg,01-07-2021,12-03-2022,Henrik Lehm,Dinamarca,23-08-1960
+MSV Duisburg,26-02-2018,30-06-2021,Thomas Gerstner,Alemania,06-11-1966
+MSV Duisburg,14-02-2018,25-02-2018,Robert Augustin,Alemania,14-02-1992
+MSV Duisburg,01-07-2017,14-02-2018,Christian Franz-Pohlmann,Alemania,15-08-1980
+MSV Duisburg,01-07-2014,30-06-2017,Inka Grings,Alemania,31-10-1978
+MSV Duisburg,01-03-2013,30-06-2014,Sven Kahlert,Alemania,14-10-1970
+MSV Duisburg,29-10-2012,28-02-2013,Petra Hauser,Alemania,15-01-1971
+MSV Duisburg,18-02-2011,28-10-2012,Marco Ketelaer,Alemania,18-07-1969
+MSV Duisburg,12-02-2008,17-02-2011,Martina Voss-Tecklenburg,Alemania,22-12-1967
+MSV Duisburg,17-11-2006,10-02-2008,Thomas Obliers,Alemania,21-10-1967
+MSV Duisburg,01-07-2005,16-11-2006,Dietmar Herhaus,Alemania,
+MSV Duisburg,01-07-1999,30-06-2005,Jürgen Krust,Alemania,15-08-1943
+SV Meppen,15-07-2022,30-06-2023,Carin Bakhuis,Países Bajos,04-01-1990
+SV Meppen,01-07-2019,30-06-2022,Theodoros Dedes,Grecia,17-02-1990
+SV Meppen,01-07-2016,30-06-2019,Roger Müller,Alemania,
+SV Meppen,01-07-2013,30-06-2016,Tommy Stroot,Alemania,24-12-1988
+SV Meppen,01-07-2011,30-06-2013,Maria Reisinger,Alemania,13-06-1971
+1. FFC Frankfurt,29-09-2017,30-06-2026,Niko Arnautis,Alemania,01-04-1980
+1. FFC Frankfurt,02-12-2015,28-09-2017,Matt Ross,Australia,04-01-1978
+1. FFC Frankfurt,01-07-2013,01-12-2015,Colin Bell,Inglaterra,05-08-1961
+1. FFC Frankfurt,18-04-2013,30-06-2013,Sascha Glass,Alemania,12-10-1972
+1. FFC Frankfurt,12-09-2012,17-04-2013,Philipp Dahm,Alemania,31-05-1979
+1. FFC Frankfurt,15-10-2009,11-09-2012,Sven Kahlert,Alemania,14-10-1970
+1. FFC Frankfurt,01-07-2008,14-10-2009,Günter Wegmann,Alemania,15-02-1954
+1. FFC Frankfurt,01-07-2004,30-06-2008,Hans-Jürgen Tritschoks,Alemania,09-11-1955
+1. FFC Frankfurt,01-07-1998,30-06-2004,Monika Staab,Alemania,09-01-1959
+FF USV Jena,01-07-2022,30-06-2023,Steffen Beck,Alemania,19-10-1963
+FF USV Jena,01-07-2020,30-06-2022,Anne Pochert,Alemania,04-02-1986
+FF USV Jena,01-07-2019,30-06-2020,Chris Heck,Alemania,11-02-1974
+FF USV Jena,01-07-2018,30-06-2019,Steffen Beck,Alemania,19-10-1963
+FF USV Jena,21-11-2016,30-06-2018,Katja Greulich,Alemania,25-03-1985
+FF USV Jena,04-11-2016,20-11-2016,Steffen Beck,Alemania,19-10-1963
+FF USV Jena,01-07-2016,04-11-2016,Christian Franz-Pohlmann,Alemania,15-08-1980
+FF USV Jena,30-01-2012,30-06-2016,Daniel Kraus,Alemania,11-05-1984
+FF USV Jena,01-07-2011,29-01-2012,Martina Voss-Tecklenburg,Alemania,22-12-1967
+FF USV Jena,29-12-2010,30-06-2011,Konrad Weise,Alemania,17-08-1951
+FF USV Jena,04-11-2010,28-12-2010,Daniel Kraus,Alemania,11-05-1984
+FF USV Jena,01-07-2010,03-11-2010,Thorsten Zaunmüller,Alemania,11-05-1970
+FF USV Jena,01-07-2003,30-06-2010,Heidi Vater,Alemania,07-07-1966
+Bor. Mönchengladbach,12-07-2021,30-06-2022,Christoph Schaefer,Alemania,
+Bor. Mönchengladbach,04-05-2021,30-06-2021,Romeo Schäfer,Alemania,05-02-1986
+Bor. Mönchengladbach,01-07-2020,03-05-2021,Peter Hansen,Alemania,16-04-1962
+Bor. Mönchengladbach,01-07-2016,30-06-2020,René Krienen,Alemania,26-08-1982
+Bor. Mönchengladbach,01-07-2014,30-06-2018,Mike Schmalenberg,Alemania,25-03-1986
+Bor. Mönchengladbach,01-07-2013,30-06-2014,Kyle Berger,Estados Unidos,04-07-1975
+Bor. Mönchengladbach,14-04-2012,30-06-2013,Eike Herding,Alemania,05-11-1984
+Bor. Mönchengladbach,01-07-2009,12-04-2012,Friedel Baumann,Alemania,07-12-1962
+Herforder SV,01-07-2018,30-06-2019,Maximilian Grove,Alemania,15-02-1991
+Herforder SV,27-03-2017,30-06-2018,Ralf Lietz,Alemania,11-08-1966
+Herforder SV,01-04-2016,26-03-2017,Daniel Hollensteiner,Alemania,09-06-1982
+Herforder SV,15-10-2010,31-03-2016,Jürgen Prüfer,Alemania,17-04-1967
+Herforder SV,01-07-2008,14-10-2010,Tanja Schulte,Alemania,05-04-1975
+Herforder SV,01-07-2003,30-06-2008,Björn Kenter,Alemania,01-02-1973
+VfL Sindelfingen,01-07-2018,30-06-2019,Muhidin Avdusinovic,Alemania,
+VfL Sindelfingen,08-02-2018,30-06-2018,Nadine Rolser,Alemania,13-04-1990
+VfL Sindelfingen,01-07-2017,07-02-2018,Alexander Schick,Alemania,
+VfL Sindelfingen,31-12-2013,30-06-2017,Saban Uzun,Alemania,14-05-1987
+VfL Sindelfingen,01-07-2008,30-12-2013,Niko Koutroubis,Grecia,23-08-1969
+VfL Sindelfingen,01-01-2008,30-06-2008,Dietmar Sehrig,Alemania,07-10-1961
+VfL Sindelfingen,01-07-2005,31-12-2007,Günter Rommel,Alemania,18-06-1956
+BV Cloppenburg,01-01-2020,30-06-2020,Tanja Schulte,Alemania,05-04-1975
+BV Cloppenburg,01-07-2019,31-12-2019,Sven Thoß,Alemania,28-07-1966
+BV Cloppenburg,23-12-2018,30-06-2019,Tanja Schulte,Alemania,05-04-1975
+BV Cloppenburg,01-07-2018,22-12-2018,Imke Wübbenhorst,Alemania,10-12-1988
+BV Cloppenburg,22-10-2010,30-06-2018,Tanja Schulte,Alemania,05-04-1975
+BV Cloppenburg,01-07-2010,17-10-2010,Matthias Rieck-Göken,Alemania,
+FCR 2001 Duisburg,13-03-2022,30-06-2023,Nico Schneck,Alemania,06-10-1987
+FCR 2001 Duisburg,01-07-2021,12-03-2022,Henrik Lehm,Dinamarca,23-08-1960
+FCR 2001 Duisburg,26-02-2018,30-06-2021,Thomas Gerstner,Alemania,06-11-1966
+FCR 2001 Duisburg,14-02-2018,25-02-2018,Robert Augustin,Alemania,14-02-1992
+FCR 2001 Duisburg,01-07-2017,14-02-2018,Christian Franz-Pohlmann,Alemania,15-08-1980
+FCR 2001 Duisburg,01-07-2014,30-06-2017,Inka Grings,Alemania,31-10-1978
+FCR 2001 Duisburg,01-03-2013,30-06-2014,Sven Kahlert,Alemania,14-10-1970
+FCR 2001 Duisburg,29-10-2012,28-02-2013,Petra Hauser,Alemania,15-01-1971
+FCR 2001 Duisburg,18-02-2011,28-10-2012,Marco Ketelaer,Alemania,18-07-1969
+FCR 2001 Duisburg,12-02-2008,17-02-2011,Martina Voss-Tecklenburg,Alemania,22-12-1967
+FCR 2001 Duisburg,17-11-2006,10-02-2008,Thomas Obliers,Alemania,21-10-1967
+FCR 2001 Duisburg,01-07-2005,16-11-2006,Dietmar Herhaus,Alemania,
+FCR 2001 Duisburg,01-07-1999,30-06-2005,Jürgen Krust,Alemania,15-08-1943
+SC 07 Bad Neuenahr,01-01-2020,30-06-2023,Anne-Kathrine Kremer,Alemania,30-12-1987
+SC 07 Bad Neuenahr,01-07-2019,07-11-2019,Jörg Rohleder,Alemania,
+SC 07 Bad Neuenahr,20-03-2014,30-05-2015,Thomas Remark,Alemania,05-10-1959
+SC 07 Bad Neuenahr,03-09-2013,30-06-2014,Carsten Beschorner,Alemania,26-10-1968
+SC 07 Bad Neuenahr,01-07-2011,30-06-2013,Colin Bell,Inglaterra,05-08-1961
+SC 07 Bad Neuenahr,22-03-2011,30-06-2011,Mirco Borniger,Alemania,14-12-1984
+SC 07 Bad Neuenahr,01-07-2009,21-03-2011,Thomas Obliers,Alemania,21-10-1967
+SC 07 Bad Neuenahr,06-04-2009,30-06-2009,Georg Engel,Alemania,17-03-1951
+SC 07 Bad Neuenahr,24-01-2008,30-06-2008,Sandra Minnert,Alemania,07-04-1973
+SC 07 Bad Neuenahr,01-07-2005,23-01-2008,Dietmar Schacht,Alemania,28-09-1962
+SC 07 Bad Neuenahr,01-01-2002,30-06-2005,Doreen Meier,Alemania,09-11-1968
+SC 07 Bad Neuenahr,01-01-2001,31-12-2001,Werner Bongartz,Alemania,31-03-1963
+SC 07 Bad Neuenahr,01-07-2000,30-06-2001,Iraklis Metaxas,Alemania,10-07-1967
+FSV Gütersloh 2009,01-07-2022,30-06-2023,Britta Hainke,Alemania,10-03-1968
+FSV Gütersloh 2009,01-01-2019,30-06-2022,Steffen Enge,Alemania,08-12-1965
+FSV Gütersloh 2009,01-07-2018,31-12-2018,Mark Oliver Stricker,Alemania,11-04-1972
+FSV Gütersloh 2009,18-03-2018,30-06-2018,Markus Graskamp,Alemania,22-09-1970
+FSV Gütersloh 2009,01-07-2016,18-03-2018,Britta Hainke,Alemania,10-03-1968
+FSV Gütersloh 2009,01-07-2015,30-06-2016,Christian Franz-Pohlmann,Alemania,15-08-1980
+FSV Gütersloh 2009,01-07-2013,30-06-2015,Ralf Lietz,Alemania,11-08-1966
+FSV Gütersloh 2009,01-07-2010,30-06-2013,Markus Graskamp,Alemania,22-09-1970
+FSV Gütersloh 2009,28-01-2010,30-06-2010,Christina Krüger,Alemania,29-11-1984
+FSV Gütersloh 2009,01-07-2009,27-01-2010,Heiko Bonan,Alemania,10-02-1966
+FSV Gütersloh 2009,01-07-2000,30-06-2002,Mark Oliver Stricker,Alemania,11-04-1972
+Hamburgo,01-07-2021,30-06-2023,Lewe Timm,Alemania,
+Hamburgo,01-07-2018,30-06-2020,Manuel Alpers,Alemania,10-08-1977
+Hamburgo,01-07-2015,30-06-2018,Christian Kroll,Alemania,07-06-1986
+Hamburgo,29-01-2015,30-06-2015,Kay-Ole Schönemann,Alemania,03-10-1985
+Hamburgo,01-07-2013,28-01-2015,Ralf Schehr,Alemania,28-10-1953
+Hamburgo,01-07-2012,30-06-2013,Holger Prischmann,Alemania,00-00-1960
+Hamburgo,01-07-2005,30-06-2012,Achim Feifel,Alemania,03-08-1964
+Hamburgo,01-07-2001,30-06-2005,Andrew Pfennig,Alemania,01-01-1962
+1. FC Lok Leipzig,16-07-2012,30-06-2013,Hendrik Rudolph,Alemania,10-09-1960
+1. FC Lok Leipzig,25-05-2012,03-07-2012,Christof Reimann,Alemania,30-12-1983
+1. FC Lok Leipzig,18-04-2012,24-05-2012,Frank Tresp,Alemania,
+1. FC Lok Leipzig,05-10-2011,17-04-2012,Jürgen Brauße,Alemania,27-11-1954
+1. FC Lok Leipzig,01-07-2011,04-10-2011,Claudia von Lanken,Alemania,03-06-1977
+1. FC Lok Leipzig,01-07-2010,30-06-2011,Jürgen Brauße,Alemania,27-11-1954
+1. FC Lok Leipzig,07-02-2010,30-06-2010,Michael Meyer,Alemania,05-03-1951
+1. FC Lok Leipzig,01-07-2008,06-02-2010,Sven Thoß,Alemania,28-07-1966
+SG Essen-Schönebeck,01-07-2019,30-06-2025,Markus Högner,Alemania,26-04-1967
+SG Essen-Schönebeck,01-07-2016,30-06-2019,Daniel Kraus,Alemania,11-05-1984
+SG Essen-Schönebeck,01-07-2010,30-06-2016,Markus Högner,Alemania,26-04-1967
+SG Essen-Schönebeck,01-07-2004,30-06-2010,Ralf Agolli,Alemania,23-04-1961
+1. FC Saarbrücken,01-07-2016,30-06-2023,Taifour Diane,Guinea  ,01-11-1972
+1. FC Saarbrücken,01-07-2011,30-06-2016,Winfried Klein,Alemania,19-06-1956
+1. FC Saarbrücken,05-02-2011,30-06-2011,Tobias Jungfleisch,Alemania,
+1. FC Saarbrücken,01-07-2009,04-02-2011,Stephan Fröhlich,Alemania,22-05-1970
+1. FC Saarbrücken,01-07-2008,30-06-2009,Winfried Klein,Alemania,19-06-1956
+1. FC Saarbrücken,01-07-2004,30-06-2008,Guido Mey,Alemania,18-09-1944
+1. FC Saarbrücken,01-07-2003,30-06-2004,Georgios Tselios,Alemania,21-04-1968
+1. FC Saarbrücken,01-07-2001,30-06-2002,Klaus Scherer,Alemania,01-07-1958
+1. FC Saarbrücken,01-07-2000,30-06-2001,Uwe Grub,Alemania,25-01-1961
+1. FC Saarbrücken,01-07-1995,30-06-2000,Margret Kratz,Alemania,11-01-1962
+TeBe Berlin,24-02-2012,30-06-2012,Stephan Marx,Alemania,
+TeBe Berlin,01-07-2011,23-02-2012,Dirk Fleischer,Alemania,03-12-1968
+TeBe Berlin,09-08-2010,30-06-2011,Jürgen Druschky,Alemania,
+TeBe Berlin,01-07-2010,08-08-2010,Oliver Ronneberger,Alemania,
+TeBe Berlin,01-07-2007,30-06-2010,Thomas Grunenberg,Alemania,02-11-1955
+TeBe Berlin,01-07-2005,30-06-2008,Sven Thoß,Alemania,28-07-1966
+TeBe Berlin,01-07-2002,30-06-2003,Gabriela Wahnschaffe,Alemania,11-11-1961
+TSV Crailsheim,01-07-2020,30-06-2022,Tanja Hofmann,Alemania,11-10-1987
+TSV Crailsheim,01-07-2019,30-06-2020,Martin Grund,Alemania,28-02-1990
+TSV Crailsheim,01-07-2017,30-06-2018,Wulf Saur,Alemania,21-12-1964
+TSV Crailsheim,01-07-2016,30-06-2017,Benjamin Röseke,Alemania,
+TSV Crailsheim,01-07-2014,30-06-2016,Petar Kosturkov,Bulgaria,17-09-1969
+TSV Crailsheim,01-07-2009,30-06-2014,Christian Isert,Alemania,05-01-1968
+TSV Crailsheim,01-07-2008,30-06-2009,Hubert Müller,Alemania,22-08-1952
+TSV Crailsheim,07-01-2008,30-06-2008,Andreas Haferkamp,Alemania,19-12-1965
+TSV Crailsheim,01-07-2006,18-12-2007,Günther Wörle,Alemania,01-10-1949
+TSV Crailsheim,01-07-2004,30-06-2005,Wulf Sauer,Alemania,
+SG Wattenscheid 09,01-07-2009,30-06-2010,Jörg Amthor,Alemania,23-10-1962
+SG Wattenscheid 09,01-07-2008,30-06-2009,Jürgen Krust,Alemania,15-08-1943
+SG Wattenscheid 09,01-07-2008,30-06-2009,Thomas Obliers,Alemania,21-10-1967
+SG Wattenscheid 09,07-03-2008,30-06-2008,André Birker,Alemania,
+SG Wattenscheid 09,01-01-2005,03-03-2008,Tanja Schulte,Alemania,05-04-1975
+Heike Rheine,01-07-2011,30-06-2012,Uwe Kitroschat,Alemania,
+Heike Rheine,01-07-2000,30-06-2007,Nicole Werner,Alemania,16-08-1972
+Brauweiler Pulheim,07-10-2006,30-06-2007,Manuel Gonzalez,Alemania,
+Brauweiler Pulheim,01-07-2004,15-09-2006,Willi Küpper,Alemania,05-12-1951
+Brauweiler Pulheim,08-05-2004,30-06-2004,Anja Koser,Alemania,09-05-1970
+Brauweiler Pulheim,15-11-2003,26-04-2004,Peter Angenendt,Alemania,
+Brauweiler Pulheim,01-07-2002,03-11-2003,Friedhelm Fröhlich,Alemania,26-04-1952
+Brauweiler Pulheim,01-07-1999,30-06-2002,Hans-Jürgen Tritschoks,Alemania,09-11-1955
+FSV Frankfurt,01-07-2005,30-06-2006,Frank Schwalenberg,Alemania,
+FSV Frankfurt,01-01-2004,30-06-2005,Bernd Witzenrath,Alemania,06-05-1947
+FSV Frankfurt,01-07-2003,08-12-2003,Lars Isecke,Alemania,26-09-1971
+FSV Frankfurt,01-07-2002,30-06-2003,Nicole Brandebusemeyer,Alemania,09-10-1974
+FSV Frankfurt,01-07-2000,30-06-2002,Anouschka Bernhard,Alemania,05-10-1970
+FSV Frankfurt,01-07-1998,28-02-1999,Anouschka Bernhard,Alemania,05-10-1970
+TuS Niederkirchen,01-07-2022,30-06-2023,Andreas Hack,Alemania,23-11-1982
+TuS Niederkirchen,01-07-2021,30-06-2022,Rolf Freymüller,Alemania,
+TuS Niederkirchen,01-07-2015,30-06-2021,Niko Koutroubis,Grecia,23-08-1969
+TuS Niederkirchen,10-12-2014,30-06-2015,Markus Bähr,Alemania,10-09-1974
+TuS Niederkirchen,06-11-2012,09-12-2014,Goran Barisic,Alemania,
+TuS Niederkirchen,29-03-2012,01-11-2012,Andreas Hack,Alemania,23-11-1982
+TuS Niederkirchen,01-07-2009,28-03-2012,Torben Meyer,Alemania,19-04-1968
+TuS Niederkirchen,01-07-2002,30-06-2003,Heinz Wilhelmi,Alemania,19-08-1954
+TuS Niederkirchen,01-10-1999,30-06-2000,Paul Hoffmann,Alemania,
+WSV Wolfsburg-Wendschott,01-07-2002,30-06-2003,Can Vanli,Turquía,04-11-1962
+WSV Wolfsburg-Wendschott,01-07-1999,30-06-2002,Petra Damm,Alemania,20-03-1961
+FCR Duisburg 55,13-03-2022,30-06-2023,Nico Schneck,Alemania,06-10-1987
+FCR Duisburg 55,01-07-2021,12-03-2022,Henrik Lehm,Dinamarca,23-08-1960
+FCR Duisburg 55,26-02-2018,30-06-2021,Thomas Gerstner,Alemania,06-11-1966
+FCR Duisburg 55,14-02-2018,25-02-2018,Robert Augustin,Alemania,14-02-1992
+FCR Duisburg 55,01-07-2017,14-02-2018,Christian Franz-Pohlmann,Alemania,15-08-1980
+FCR Duisburg 55,01-07-2014,30-06-2017,Inka Grings,Alemania,31-10-1978
+FCR Duisburg 55,01-03-2013,30-06-2014,Sven Kahlert,Alemania,14-10-1970
+FCR Duisburg 55,29-10-2012,28-02-2013,Petra Hauser,Alemania,15-01-1971
+FCR Duisburg 55,18-02-2011,28-10-2012,Marco Ketelaer,Alemania,18-07-1969
+FCR Duisburg 55,12-02-2008,17-02-2011,Martina Voss-Tecklenburg,Alemania,22-12-1967
+FCR Duisburg 55,17-11-2006,10-02-2008,Thomas Obliers,Alemania,21-10-1967
+FCR Duisburg 55,01-07-2005,16-11-2006,Dietmar Herhaus,Alemania,
+FCR Duisburg 55,01-07-1999,30-06-2005,Jürgen Krust,Alemania,15-08-1943
+FFC Flaesheim-Hillen,01-07-2000,30-06-2001,Hermann Erlhoff,Alemania,22-12-1944
+Sportfreunde Siegen,01-07-2021,30-06-2022,Paul Müller,Alemania,00-00-1977
+Sportfreunde Siegen,01-07-2019,30-06-2021,Andreas Edelmann,Alemania,07-04-1966
+Sportfreunde Siegen,01-07-2011,30-06-2014,Reiner Jakobs,Alemania,10-02-1955
+Sportfreunde Siegen,01-07-1999,30-06-2001,Claudia Klein,Alemania,24-09-1971
+1. FC Nürnberg,01-07-2022,30-06-2023,Alex Theiss,Alemania,
+1. FC Nürnberg,01-07-2021,30-06-2022,Matthias Meyer,Alemania,17-02-1975
+1. FC Nürnberg,01-07-2017,30-06-2021,Osman Cankaya,Alemania,07-05-1989
+1. FC Nürnberg,01-07-2015,30-06-2017,Norbert Frey,Alemania,17-06-1961
+1. FC Nürnberg,01-07-2014,30-06-2015,Dragan Misetic,Croacia,13-12-1971
+1. FC Nürnberg,04-11-2013,31-12-2013,Norbert Frey,Alemania,17-06-1961
+1. FC Nürnberg,01-07-2013,03-11-2013,Peter Wießmeier,Alemania,22-08-1965
+1. FC Nürnberg,01-11-1999,30-06-2000,Ioan Pal,Alemania,11-05-1946
+1. FC Nürnberg,01-07-1999,30-06-2000,Klaus Müller,Alemania,
+Grün-Weiß Brauweiler,07-10-2006,30-06-2007,Manuel Gonzalez,Alemania,
+Grün-Weiß Brauweiler,01-07-2004,15-09-2006,Willi Küpper,Alemania,05-12-1951
+Grün-Weiß Brauweiler,08-05-2004,30-06-2004,Anja Koser,Alemania,09-05-1970
+Grün-Weiß Brauweiler,15-11-2003,26-04-2004,Peter Angenendt,Alemania,
+Grün-Weiß Brauweiler,01-07-2002,03-11-2003,Friedhelm Fröhlich,Alemania,26-04-1952
+Grün-Weiß Brauweiler,01-07-1999,30-06-2002,Hans-Jürgen Tritschoks,Alemania,09-11-1955
+SSV Turbine Potsdam,14-11-2022,30-06-2023,Sven Weigang,Alemania,14-11-1964
+SSV Turbine Potsdam,31-10-2022,13-11-2022,Dirk Heinrichs,Alemania,20-05-1968
+SSV Turbine Potsdam,17-06-2022,30-10-2022,Sebastian Middeke,Alemania,02-02-1984
+SSV Turbine Potsdam,01-07-2020,30-06-2022,Sofian Chahed,Túnez,18-04-1983
+SSV Turbine Potsdam,01-07-2016,30-06-2020,Matthias Rudolph,Alemania,06-09-1982
+SSV Turbine Potsdam,16-12-1997,30-06-2016,Bernd Schröder,Alemania,22-07-1942
+SSV Turbine Potsdam,01-07-1997,15-12-1997,Eckhard Düwiger,Alemania,01-02-1947
+SSV Turbine Potsdam,01-07-1995,30-06-1997,Lothar Müller,Alemania,
+SSV Turbine Potsdam,21-11-1994,30-06-1995,Sabine Seidel,Alemania,08-09-1956
+SSV Turbine Potsdam,01-07-1993,20-11-1994,Frank Lange,Alemania,15-11-1951
+SSV Turbine Potsdam,01-07-1992,30-06-1993,Peter Raupach,Alemania,
+SSV Turbine Potsdam,01-07-1971,30-06-1992,Bernd Schröder,Alemania,22-07-1942
+SG Praunheim,01-07-1983,30-06-1998,Monika Staab,Alemania,09-01-1959
+SC Klinge-Seckach,01-07-2009,30-06-2011,Horst Haselmann,Alemania,
+SC Klinge-Seckach,01-07-1989,30-06-1997,Ulrike Ballweg,Alemania,17-09-1965

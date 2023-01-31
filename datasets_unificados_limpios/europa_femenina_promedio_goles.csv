@@ -1,0 +1,381 @@
+jornada,fecha,puntos_actuales,equipo,liga,entrenador_nuevo,promedio_goles_hechos_antes_de_cambio_entrenador_1_5,promedio_goles_hechos_despues_de_cambio_entrenador_1_5,promedio_goles_recibidos_antes_de_cambio_entrenador_1_5,promedio_goles_recibidos_despues_de_cambio_entrenador_1_5,puntos_hechos_antes_de_cambio_entrenador_1_5,puntos_hechos_despues_de_cambio_entrenador_1_5,porcentaje_victorias_despues_de_cambio_entrenador_1_5,porcentaje_victorias_antes_de_cambio_entrenador_1_5,porcentaje_empates_despues_de_cambio_entrenador_1_5,porcentaje_empates_antes_de_cambio_entrenador_1_5,porcentaje_derrotas_despues_de_cambio_entrenador_1_5,porcentaje_derrotas_antes_de_cambio_entrenador_1_5
+8,15-11-2015,2,Colonia,bundesliga_femenina,Nico Reese,1.0,0.5,2.8,2.5,1,1,0.0,0.0,0.5,0.2,0.5,0.8
+10,06-12-2015,5,Colonia,bundesliga_femenina,Marcus Kühn,1.0,0.8,2.2,1.4,2,4,0.2,0.0,0.2,0.4,0.6,0.6
+1,03-09-2017,0,Colonia,bundesliga_femenina,Willi Breuer,1.4,0.4,3.0,3.8,6,0,0.0,0.4,0.0,0.0,1.0,0.6
+12,04-06-2020,8,Colonia,bundesliga_femenina,Sascha Glass,2.0,1.0,3.4,1.0,3,1,0.0,0.2,1.0,0.0,0.0,0.8
+13,15-12-2019,8,Colonia,bundesliga_femenina,Willi Breuer,2.0,0.0,3.0,1.0,4,0,0.0,0.2,0.0,0.2,1.0,0.6
+14,16-02-2020,8,Colonia,bundesliga_femenina,Sascha Glass,1.6,0.6,2.4,2.6,4,6,0.4,0.2,0.0,0.2,0.6,0.6
+1,06-09-2020,0,Hoffenheim,bundesliga_femenina,Gabor Gallai,3.6,1.6,0.6,1.6,12,7,0.4,0.8,0.2,0.0,0.4,0.2
+1,06-09-2020,3,Eintracht Frankfurt,bundesliga_femenina,Niko Arnautis,1.0,2.8,0.0,0.8,3,11,0.6,1.0,0.4,0.0,0.0,0.0
+6,15-02-2004,7,Bayern Múnich,bundesliga_femenina,Sissy Raith,2.0,0.5,3.4,1.0,7,1,0.0,0.4,0.5,0.2,0.5,0.4
+8,23-11-2003,8,Bayern Múnich,bundesliga_femenina,Peter König,1.4,1.3333333333333333,2.6,3.0,5,0,0.0,0.2,0.0,0.4,1.0,0.4
+11,07-03-2004,11,Bayern Múnich,bundesliga_femenina,Sissy Raith,1.0,2.2,2.2,1.2,1,9,0.6,0.0,0.0,0.2,0.4,0.8
+1,07-09-2008,3,Bayern Múnich,bundesliga_femenina,Günther Wörle,2.2,2.6,1.4,0.2,9,15,1.0,0.6,0.0,0.0,0.0,0.4
+1,15-08-2010,3,Bayern Múnich,bundesliga_femenina,Thomas Wörle,2.4,1.8,0.8,1.4,10,9,0.6,0.6,0.0,0.2,0.4,0.2
+1,17-08-2019,3,Bayern Múnich,bundesliga_femenina,Jens Scheuer,2.4,3.2,0.6,0.6,11,12,0.8,0.6,0.0,0.4,0.2,0.0
+1,07-09-2008,0,Wolfsburgo,bundesliga_femenina,Ralf Kellermann,2.8,2.0,3.0,2.4,12,4,0.2,0.8,0.2,0.0,0.6,0.2
+1,02-09-2017,3,Wolfsburgo,bundesliga_femenina,Stephan Lerch,3.0,3.6,1.2,0.4,10,13,0.8,0.6,0.2,0.2,0.0,0.2
+1,28-08-2021,3,Wolfsburgo,bundesliga_femenina,Tommy Stroot,3.8,2.8,1.0,0.4,13,13,0.8,0.8,0.2,0.2,0.0,0.0
+1,03-09-2016,3,SGS Essen,bundesliga_femenina,Daniel Kraus,2.4,1.8,1.0,0.8,9,10,0.6,0.6,0.2,0.0,0.2,0.4
+1,18-08-2019,3,SGS Essen,bundesliga_femenina,Markus Högner,2.0,1.4,1.4,2.4,8,9,0.6,0.4,0.0,0.4,0.4,0.2
+1,26-09-2012,1,Bayer Leverkusen,bundesliga_femenina,Thomas Obliers,1.0,1.6,1.6,2.2,7,3,0.0,0.4,0.6,0.2,0.4,0.4
+14,19-03-2017,7,Bayer Leverkusen,bundesliga_femenina,Malte Dresen,0.8,0.0,3.4,1.3333333333333333,1,1,0.0,0.0,0.3333333333333333,0.2,0.6666666666666666,0.8
+17,23-04-2017,8,Bayer Leverkusen,bundesliga_femenina,Verena Hagedorn,0.4,1.2,2.6,3.2,2,1,0.0,0.0,0.2,0.4,0.8,0.6
+1,18-08-2019,0,Bayer Leverkusen,bundesliga_femenina,Achim Feifel,1.4,1.2,3.4,1.8,4,6,0.4,0.2,0.0,0.2,0.6,0.6
+1,04-09-2016,3,Turbine Potsdam,bundesliga_femenina,Matthias Rudolph,2.4,2.4,1.6,0.2,9,15,1.0,0.6,0.0,0.0,0.0,0.4
+1,06-09-2020,3,Turbine Potsdam,bundesliga_femenina,Sofian Chahed,2.0,2.6,1.6,0.6,10,13,0.8,0.6,0.2,0.2,0.0,0.2
+1,19-08-2001,3,SC Freiburg,bundesliga_femenina,Michael Bellert,1.2,1.6,1.6,1.6,6,9,0.6,0.4,0.0,0.0,0.4,0.6
+1,17-08-2003,0,SC Freiburg,bundesliga_femenina,Thomas Reger,2.0,1.8,1.8,2.6,9,4,0.2,0.6,0.2,0.0,0.6,0.4
+1,14-08-2005,0,SC Freiburg,bundesliga_femenina,Dietmar Sehrig,1.4,2.8,2.8,1.8,3,7,0.4,0.2,0.2,0.0,0.4,0.8
+4,14-10-2007,1,SC Freiburg,bundesliga_femenina,Elke Walther,1.6,1.0,4.0,3.0,4,0,0.0,0.2,0.0,0.2,1.0,0.6
+5,04-11-2007,1,SC Freiburg,bundesliga_femenina,Thomas Schweizer,1.0,0.6,4.4,3.2,1,1,0.0,0.0,0.2,0.2,0.8,0.8
+10,24-02-2008,2,SC Freiburg,bundesliga_femenina,Alexander Fischinger,0.6,1.4,3.2,1.6,1,7,0.4,0.0,0.2,0.2,0.4,0.8
+1,07-09-2008,3,SC Freiburg,bundesliga_femenina,Michael Bellert,2.2,1.6666666666666667,3.0,0.6666666666666666,6,6,0.6666666666666666,0.4,0.0,0.0,0.3333333333333333,0.6
+4,28-09-2008,6,SC Freiburg,bundesliga_femenina,Günter Rommel,1.8,2.4,2.4,2.6,6,7,0.4,0.4,0.2,0.0,0.4,0.6
+9,22-11-2009,3,SC Freiburg,bundesliga_femenina,Edgar Beck,0.2,0.6,3.2,2.4,0,3,0.2,0.0,0.0,0.0,0.8,1.0
+1,21-08-2011,1,SC Freiburg,bundesliga_femenina,Milorad Pilipović,0.8,1.2,2.0,2.2,4,7,0.4,0.2,0.2,0.2,0.4,0.6
+1,08-09-2013,0,SC Freiburg,bundesliga_femenina,Dietmar Sehrig,1.2,1.8,2.0,0.8,7,9,0.6,0.4,0.0,0.2,0.4,0.4
+1,30-08-2015,1,SC Freiburg,bundesliga_femenina,Jens Scheuer,1.8,2.0,3.4,1.4,1,6,0.2,0.0,0.6,0.2,0.2,0.8
+1,17-08-2019,0,SC Freiburg,bundesliga_femenina,Daniel Kraus,0.6,0.6,1.6,1.8,2,4,0.2,0.0,0.2,0.4,0.6,0.6
+13,14-12-2014,10,SC Sand,bundesliga_femenina,Sven Kahlert,1.2,2.4,2.4,2.2,3,7,0.4,0.2,0.2,0.0,0.4,0.8
+1,30-08-2015,3,SC Sand,bundesliga_femenina,Alexander Fischinger,0.8,1.4,1.2,0.8,5,7,0.4,0.2,0.2,0.4,0.4,0.4
+1,04-09-2016,1,SC Sand,bundesliga_femenina,Colin Bell,0.2,0.6,2.4,0.4,0,7,0.4,0.0,0.2,0.0,0.4,1.0
+12,19-02-2017,17,SC Sand,bundesliga_femenina,Claudia von Lanken,2.4,0.5,1.0,2.5,9,0,0.0,0.6,0.0,0.0,1.0,0.4
+14,19-03-2017,20,SC Sand,bundesliga_femenina,Richard Dura,1.2,1.2,1.6,1.2,6,4,0.2,0.4,0.2,0.0,0.6,0.6
+1,03-09-2017,3,SC Sand,bundesliga_femenina,Sascha Glass,1.8,1.2,1.4,2.0,7,6,0.4,0.4,0.0,0.2,0.6,0.4
+14,16-02-2020,16,SC Sand,bundesliga_femenina,Sven Thoß,1.2,1.0,2.8,1.6,6,6,0.4,0.4,0.0,0.0,0.6,0.6
+1,06-09-2020,0,SC Sand,bundesliga_femenina,Nora Häuptle,1.4,0.2,2.2,3.2,6,3,0.2,0.4,0.0,0.0,0.8,0.6
+18,25-04-2021,10,SC Sand,bundesliga_femenina,Alexander Fischinger,1.0,6.0,3.0,1.0,1,3,1.0,0.0,0.0,0.2,0.0,0.8
+19,21-03-2021,11,SC Sand,bundesliga_femenina,Nora Häuptle,2.0,0.0,2.8,0.0,4,1,0.0,0.2,1.0,0.2,0.0,0.6
+20,07-05-2021,12,SC Sand,bundesliga_femenina,Alexander Fischinger,1.8,1.0,2.6,0.0,4,7,0.6666666666666666,0.2,0.3333333333333333,0.2,0.0,0.6
+1,29-08-2021,0,SC Sand,bundesliga_femenina,Matthias Frieböse,1.8,0.2,0.2,2.2,11,1,0.0,0.6,0.2,0.4,0.8,0.0
+8,14-11-2021,1,SC Sand,bundesliga_femenina,Alexander Fischinger,0.0,0.4,1.6,2.0,1,1,0.0,0.0,0.2,0.2,0.8,0.8
+1,03-09-2017,0,Werder Bremen,bundesliga_femenina,Carmen Roth,0.6,1.2,3.2,2.2,3,5,0.2,0.2,0.4,0.0,0.4,0.8
+1,06-09-2020,0,Werder Bremen,bundesliga_femenina,Alexander Kluge,1.2,1.0,1.6,3.2,5,3,0.2,0.2,0.0,0.4,0.8,0.4
+17,18-04-2021,13,Werder Bremen,bundesliga_femenina,Thomas Horsch,0.6,1.5,3.8,3.5,0,3,0.5,0.0,0.0,0.0,0.5,1.0
+19,17-03-2021,16,Werder Bremen,bundesliga_femenina,Alexander Kluge,1.2,2.0,2.8,1.0,3,3,1.0,0.2,0.0,0.0,0.0,0.8
+20,09-05-2021,19,Werder Bremen,bundesliga_femenina,Thomas Horsch,1.4,0.4,2.6,4.2,6,3,0.2,0.4,0.0,0.0,0.8,0.6
+1,31-08-2014,0,MSV Duisburg,bundesliga_femenina,Inka Grings,1.8,0.2,1.8,2.8,4,0,0.0,0.2,0.0,0.2,1.0,0.6
+1,03-09-2017,0,MSV Duisburg,bundesliga_femenina,Christian Franz-Pohlmann,1.6,0.4,1.8,1.4,4,0,0.0,0.2,0.0,0.2,1.0,0.6
+12,18-02-2018,3,MSV Duisburg,bundesliga_femenina,Robert Augustin,0.2,2.0,2.0,1.0,0,3,1.0,0.0,0.0,0.0,0.0,1.0
+13,28-03-2018,3,MSV Duisburg,bundesliga_femenina,Thomas Gerstner,0.4,0.8,1.6,1.2,3,6,0.4,0.2,0.0,0.0,0.6,0.8
+1,15-08-2010,0,FF USV Jena,bundesliga_femenina,Thorsten Zaunmüller,0.6,1.4,4.8,1.8,0,5,0.2,0.0,0.4,0.0,0.4,1.0
+12,07-11-2010,9,FF USV Jena,bundesliga_femenina,Daniel Kraus,0.6,0.75,3.6,1.5,3,4,0.25,0.2,0.25,0.0,0.5,0.8
+16,30-01-2011,12,FF USV Jena,bundesliga_femenina,Konrad Weise,0.8,1.4,2.0,3.2,4,3,0.2,0.2,0.0,0.2,0.8,0.6
+1,21-08-2011,0,FF USV Jena,bundesliga_femenina,Martina Voss-Tecklenburg,2.2,0.4,2.2,1.6,7,4,0.2,0.4,0.2,0.2,0.6,0.4
+12,14-03-2012,9,FF USV Jena,bundesliga_femenina,Daniel Kraus,0.6,0.8,1.2,2.6,5,6,0.4,0.2,0.0,0.4,0.6,0.4
+1,04-09-2016,3,FF USV Jena,bundesliga_femenina,Christian Franz-Pohlmann,1.6,0.8,1.6,1.4,9,3,0.2,0.6,0.0,0.0,0.8,0.4
+7,05-11-2016,6,FF USV Jena,bundesliga_femenina,Steffen Beck,0.6,0.3333333333333333,1.4,2.3333333333333335,3,0,0.0,0.2,0.0,0.0,1.0,0.8
+10,11-12-2016,6,FF USV Jena,bundesliga_femenina,Katja Greulich,0.6,0.8,1.8,1.6,3,4,0.2,0.2,0.2,0.0,0.6,0.8
+1,17-08-2019,0,FF USV Jena,bundesliga_femenina,Chris Heck,0.6,1.6,1.6,5.2,4,1,0.0,0.2,0.2,0.2,0.8,0.6
+1,05-09-2004,3,1. FFC Frankfurt,bundesliga_femenina,Hans-Jürgen Tritschoks,2.6,4.0,1.6,1.0,12,15,1.0,0.8,0.0,0.0,0.0,0.2
+1,06-09-2008,3,1. FFC Frankfurt,bundesliga_femenina,Günter Wegmann,3.4,3.4,1.0,1.0,13,12,0.8,0.8,0.0,0.2,0.2,0.0
+5,18-10-2009,12,1. FFC Frankfurt,bundesliga_femenina,Sven Kahlert,2.8,3.6,1.2,2.2,12,9,0.6,0.8,0.0,0.0,0.4,0.2
+3,23-09-2012,6,1. FFC Frankfurt,bundesliga_femenina,Philipp Dahm,1.8,2.2,2.2,0.8,6,13,0.8,0.4,0.2,0.0,0.0,0.6
+15,24-04-2013,32,1. FFC Frankfurt,bundesliga_femenina,Sascha Glass,2.0,1.0,0.8,0.0,10,3,1.0,0.6,0.0,0.2,0.0,0.2
+16,24-03-2013,35,1. FFC Frankfurt,bundesliga_femenina,Philipp Dahm,1.4,4.333333333333333,0.6,1.6666666666666667,10,6,0.6666666666666666,0.6,0.0,0.2,0.3333333333333333,0.2
+19,21-04-2013,41,1. FFC Frankfurt,bundesliga_femenina,Sascha Glass,3.4,2.25,1.0,1.0,12,9,0.75,0.8,0.0,0.0,0.25,0.2
+1,08-09-2013,3,1. FFC Frankfurt,bundesliga_femenina,Colin Bell,2.0,2.6,1.4,0.8,9,11,0.6,0.6,0.4,0.0,0.0,0.4
+10,06-12-2015,19,1. FFC Frankfurt,bundesliga_femenina,Matt Ross,1.2,3.2,2.4,1.4,4,12,0.8,0.2,0.0,0.2,0.2,0.6
+4,01-10-2017,9,1. FFC Frankfurt,bundesliga_femenina,Niko Arnautis,1.0,1.6,1.2,0.6,6,10,0.6,0.4,0.2,0.0,0.2,0.6
+1,16-09-2018,0,Bor. Mönchengladbach,bundesliga_femenina,René Krienen,0.6,1.0,3.6,3.8,3,1,0.0,0.2,0.2,0.0,0.8,0.8
+10,17-10-2010,1,Herforder SV,bundesliga_femenina,Jürgen Prüfer,0.8,0.6,3.8,4.4,0,1,0.0,0.0,0.2,0.0,0.8,1.0
+1,02-09-2012,0,VfL Sindelfingen,bundesliga_femenina,Niko Koutroubis,2.0,0.8,2.0,5.0,7,3,0.2,0.4,0.0,0.2,0.8,0.4
+11,23-02-2014,1,VfL Sindelfingen,bundesliga_femenina,Saban Uzun,0.2,0.0,5.0,6.0,1,0,0.0,0.0,0.0,0.2,1.0,0.8
+1,14-08-2005,3,FCR 2001 Duisburg,bundesliga_femenina,Dietmar Herhaus,4.6,5.2,0.2,0.2,15,13,0.8,1.0,0.2,0.0,0.0,0.0
+8,25-11-2006,21,FCR 2001 Duisburg,bundesliga_femenina,Thomas Obliers,2.6,2.8,1.4,1.0,12,13,0.8,0.8,0.2,0.0,0.0,0.2
+6,20-02-2008,18,FCR 2001 Duisburg,bundesliga_femenina,Martina Voss-Tecklenburg,3.4,1.5,0.6,1.0,15,4,0.5,1.0,0.5,0.0,0.0,0.0
+8,02-12-2007,19,FCR 2001 Duisburg,bundesliga_femenina,Thomas Obliers,2.2,2.5,0.8,0.5,13,3,0.5,0.8,0.0,0.2,0.5,0.0
+10,24-02-2008,22,FCR 2001 Duisburg,bundesliga_femenina,Martina Voss-Tecklenburg,2.2,3.2,1.0,1.2,10,12,0.8,0.6,0.0,0.2,0.2,0.2
+20,20-02-2011,47,FCR 2001 Duisburg,bundesliga_femenina,Marco Ketelaer,1.8,2.6,0.4,0.8,12,13,0.8,0.8,0.2,0.0,0.0,0.2
+8,04-11-2012,7,FCR 2001 Duisburg,bundesliga_femenina,Petra Hauser,1.4,1.0,2.6,1.8,3,4,0.2,0.2,0.2,0.0,0.6,0.8
+13,03-03-2013,11,FCR 2001 Duisburg,bundesliga_femenina,Sven Kahlert,1.0,2.8,1.8,2.4,4,9,0.6,0.2,0.0,0.2,0.4,0.6
+1,15-10-2000,3,SC 07 Bad Neuenahr,bundesliga_femenina,Iraklis Metaxas,1.0,1.4,2.0,2.4,4,7,0.4,0.2,0.2,0.2,0.4,0.6
+1,19-08-2001,0,SC 07 Bad Neuenahr,bundesliga_femenina,Werner Bongartz,2.6,1.2,3.0,4.0,7,3,0.2,0.4,0.0,0.2,0.8,0.4
+12,24-02-2002,11,SC 07 Bad Neuenahr,bundesliga_femenina,Doreen Meier,1.0,1.0,1.4,1.0,7,7,0.4,0.4,0.2,0.2,0.4,0.4
+1,14-08-2005,0,SC 07 Bad Neuenahr,bundesliga_femenina,Dietmar Schacht,1.8,3.0,2.4,3.2,6,9,0.6,0.4,0.0,0.0,0.4,0.6
+6,20-02-2008,7,SC 07 Bad Neuenahr,bundesliga_femenina,Sandra Minnert,1.8,0.0,1.4,1.0,7,0,0.0,0.4,0.0,0.2,1.0,0.4
+7,18-11-2007,7,SC 07 Bad Neuenahr,bundesliga_femenina,Dietmar Schacht,1.8,1.6666666666666667,1.6,2.3333333333333335,6,3,0.3333333333333333,0.4,0.0,0.0,0.6666666666666666,0.6
+10,24-02-2008,13,SC 07 Bad Neuenahr,bundesliga_femenina,Sandra Minnert,2.0,3.0,1.8,0.8,6,12,0.8,0.4,0.0,0.0,0.2,0.6
+11,13-04-2009,11,SC 07 Bad Neuenahr,bundesliga_femenina,Georg Engel,1.6,2.0,4.8,1.0,4,3,1.0,0.2,0.0,0.2,0.0,0.6
+12,14-12-2008,11,SC 07 Bad Neuenahr,bundesliga_femenina,Sandra Minnert,1.6,0.0,3.2,1.0,7,0,0.0,0.4,0.0,0.2,1.0,0.4
+13,21-02-2009,11,SC 07 Bad Neuenahr,bundesliga_femenina,Georg Engel,1.6,1.4,2.6,4.2,7,3,0.2,0.4,0.0,0.2,0.8,0.4
+1,20-09-2009,3,SC 07 Bad Neuenahr,bundesliga_femenina,Thomas Obliers,1.4,2.2,3.2,0.0,4,15,1.0,0.2,0.0,0.2,0.0,0.6
+1,21-08-2011,1,SC 07 Bad Neuenahr,bundesliga_femenina,Colin Bell,2.2,1.0,1.6,1.8,9,2,0.0,0.6,0.4,0.0,0.6,0.4
+1,15-08-2010,0,SG Essen-Schönebeck,bundesliga_femenina,Markus Högner,0.2,1.4,1.8,1.6,2,5,0.2,0.0,0.4,0.4,0.4,0.6
+6,09-10-2011,3,1. FC Lok Leipzig,bundesliga_femenina,Jürgen Brauße,0.8,0.8,2.4,2.4,3,6,0.4,0.2,0.0,0.0,0.6,0.8
+18,22-04-2012,9,1. FC Lok Leipzig,bundesliga_femenina,Frank Tresp,0.6,1.0,4.4,3.0,0,4,0.25,0.0,0.25,0.0,0.5,1.0
+22,28-05-2012,13,1. FC Lok Leipzig,bundesliga_femenina,Christof Reimann,1.2,0.0,4.2,8.0,4,0,0.0,0.2,0.0,0.2,1.0,0.6
+1,19-08-2001,0,Hamburgo,bundesliga_femenina,Andrew Pfennig,1.2,1.2,4.0,4.4,0,0,0.0,0.0,0.0,0.0,1.0,1.0
+1,14-08-2005,3,Hamburgo,bundesliga_femenina,Achim Feifel,0.8,2.0,2.8,2.0,3,10,0.6,0.2,0.2,0.0,0.2,0.8
+1,15-10-2000,0,1. FC Saarbrücken,bundesliga_femenina,Uwe Grub,1.2,1.4,1.6,2.4,4,6,0.4,0.2,0.0,0.2,0.6,0.6
+1,19-08-2001,0,1. FC Saarbrücken,bundesliga_femenina,Klaus Scherer,1.0,0.4,5.6,2.4,0,3,0.2,0.0,0.0,0.0,0.8,1.0
+1,17-08-2003,0,1. FC Saarbrücken,bundesliga_femenina,Georgios Tselios,1.0,0.4,3.6,6.4,1,0,0.0,0.0,0.0,0.2,1.0,0.8
+1,19-08-2007,1,1. FC Saarbrücken,bundesliga_femenina,Guido Mey,0.4,1.6,6.0,2.4,1,4,0.0,0.0,0.8,0.2,0.2,0.8
+1,20-09-2009,0,1. FC Saarbrücken,bundesliga_femenina,Stephan Fröhlich,0.4,0.8,1.8,3.0,1,2,0.0,0.0,0.4,0.2,0.6,0.8
+17,16-02-2011,13,1. FC Saarbrücken,bundesliga_femenina,Tobias Jungfleisch,0.8,0.8,2.2,5.2,4,1,0.0,0.2,0.2,0.2,0.8,0.6
+1,20-09-2009,0,TeBe Berlin,bundesliga_femenina,Thomas Grunenberg,0.6,1.0,2.6,2.6,4,2,0.0,0.2,0.4,0.2,0.6,0.6
+1,10-09-2006,3,TSV Crailsheim,bundesliga_femenina,Günther Wörle,1.2,1.4,1.8,1.4,6,6,0.4,0.4,0.0,0.0,0.6,0.6
+10,24-02-2008,11,TSV Crailsheim,bundesliga_femenina,Andreas Haferkamp,1.2,1.0,1.4,2.8,7,2,0.0,0.4,0.4,0.2,0.6,0.4
+1,07-09-2008,0,TSV Crailsheim,bundesliga_femenina,Hubert Müller,1.6,0.2,2.6,4.2,3,0,0.0,0.2,0.0,0.0,1.0,0.8
+12,24-03-2008,8,SG Wattenscheid 09,bundesliga_femenina,André Birker,0.4,0.8,3.4,3.2,1,3,0.2,0.0,0.0,0.2,0.8,0.8
+1,15-10-2000,1,Heike Rheine,bundesliga_femenina,Nicole Werner,1.0,0.6,2.4,2.6,3,1,0.0,0.2,0.2,0.0,0.8,0.8
+1,25-08-2002,1,Brauweiler Pulheim,bundesliga_femenina,Friedhelm Fröhlich,1.2,1.0,0.8,1.2,8,5,0.2,0.4,0.4,0.4,0.4,0.2
+7,16-11-2003,5,Brauweiler Pulheim,bundesliga_femenina,Peter Angenendt,0.6,1.2,2.0,2.2,4,5,0.2,0.2,0.4,0.2,0.4,0.6
+17,09-05-2004,10,Brauweiler Pulheim,bundesliga_femenina,Anja Koser,0.6,3.0,3.2,3.2,1,4,0.2,0.0,0.2,0.2,0.6,0.8
+1,14-08-2005,0,Brauweiler Pulheim,bundesliga_femenina,Willi Küpper,3.2,1.6,2.6,2.8,5,4,0.2,0.2,0.2,0.4,0.6,0.4
+3,08-10-2006,0,Brauweiler Pulheim,bundesliga_femenina,Manuel Gonzalez,1.2,0.4,4.6,2.8,1,0,0.0,0.0,0.0,0.2,1.0,0.8
+1,23-08-1998,1,FSV Frankfurt,bundesliga_femenina,Anouschka Bernhard,3.2,1.0,1.4,1.2,10,5,0.2,0.6,0.4,0.2,0.4,0.2
+1,03-10-2002,0,FSV Frankfurt,bundesliga_femenina,Nicole Brandebusemeyer,2.6,1.0,1.2,4.0,11,3,0.2,0.6,0.0,0.4,0.8,0.0
+1,17-08-2003,0,FSV Frankfurt,bundesliga_femenina,Lars Isecke,3.4,2.2,2.2,2.2,6,5,0.2,0.4,0.4,0.0,0.4,0.6
+11,26-05-2004,12,FSV Frankfurt,bundesliga_femenina,Bernd Witzenrath,1.2,1.2,1.8,1.8,7,6,0.4,0.4,0.0,0.2,0.6,0.4
+1,14-08-2005,0,FSV Frankfurt,bundesliga_femenina,Frank Schwalenberg,0.8,0.2,1.0,6.2,8,0,0.0,0.4,0.0,0.4,1.0,0.2
+1,29-08-1999,1,WSV Wolfsburg-Wendschott,bundesliga_femenina,Petra Damm,1.8,1.8,2.0,1.8,5,5,0.2,0.2,0.4,0.4,0.4,0.4
+1,25-08-2002,1,WSV Wolfsburg-Wendschott,bundesliga_femenina,Can Vanli,1.2,1.6,2.6,3.2,6,5,0.2,0.4,0.4,0.0,0.4,0.6
+5,13-10-1999,3,TuS Niederkirchen,bundesliga_femenina,Paul Hoffmann,1.2,0.2,2.2,3.2,6,1,0.0,0.4,0.2,0.0,0.8,0.6
+1,25-08-2002,0,TuS Niederkirchen,bundesliga_femenina,Heinz Wilhelmi,0.6,0.6,2.6,3.4,4,1,0.0,0.2,0.2,0.2,0.8,0.6
+1,29-08-1999,3,FCR Duisburg 55,bundesliga_femenina,Jürgen Krust,3.4,6.2,0.6,0.6,13,15,1.0,0.8,0.0,0.2,0.0,0.0
+1,29-08-1999,1,Sportfreunde Siegen,bundesliga_femenina,Claudia Klein,1.0,2.6,0.6,2.2,8,7,0.4,0.4,0.2,0.4,0.4,0.2
+1,15-10-2000,1,FFC Flaesheim-Hillen,bundesliga_femenina,Hermann Erlhoff,1.2,0.4,2.6,1.4,5,3,0.0,0.2,0.6,0.4,0.4,0.4
+1,29-08-1999,3,Grün-Weiß Brauweiler,bundesliga_femenina,Hans-Jürgen Tritschoks,1.0,2.6,0.4,1.6,9,9,0.6,0.4,0.0,0.6,0.4,0.0
+12,15-02-1998,16,SSV Turbine Potsdam,bundesliga_femenina,Bernd Schröder,1.8,1.2,1.0,2.4,9,3,0.2,0.6,0.0,0.0,0.8,0.4
+1,09-04-2012,0,AIK Solna,damallsvenskan_suecia_femenina,Mattias Eriksson,1.2,0.6,2.6,2.2,4,1,0.0,0.2,0.2,0.2,0.8,0.6
+1,17-04-2021,1,AIK Solna,damallsvenskan_suecia_femenina,Maiju Ruotsalainen,0.4,1.2,4.4,2.0,0,5,0.2,0.0,0.4,0.0,0.4,1.0
+1,16-04-2017,3,Djurgårdens IF,damallsvenskan_suecia_femenina,Joel Riddez,1.4,1.2,2.2,1.6,3,6,0.4,0.0,0.0,0.6,0.6,0.4
+15,25-08-2019,9,Djurgårdens IF,damallsvenskan_suecia_femenina,Pierre Fondin,1.0,0.6,3.2,2.4,0,1,0.0,0.0,0.2,0.0,0.8,1.0
+14,28-08-2021,17,Djurgårdens IF,damallsvenskan_suecia_femenina,Magnus Pålsson,1.2,1.4,0.6,1.8,8,7,0.4,0.4,0.2,0.4,0.4,0.2
+5,20-05-2018,4,Eskilstuna United,damallsvenskan_suecia_femenina,Magnus Karlsson,1.0,1.2,2.8,1.2,6,5,0.2,0.4,0.4,0.0,0.4,0.6
+1,26-03-2022,3,Eskilstuna United,damallsvenskan_suecia_femenina,Fredrik Bernhardsson,1.6,1.6,2.0,1.2,6,7,0.4,0.4,0.2,0.0,0.4,0.6
+1,09-04-2011,3,Kristianstads DFF,damallsvenskan_suecia_femenina,Elísabet Gunnarsdóttir,0.8,2.0,3.0,0.6,1,10,0.6,0.0,0.2,0.2,0.2,0.8
+1,10-04-2011,1,KIF Örebro DFF,damallsvenskan_suecia_femenina,Rickard Nilsson,1.8,1.2,1.0,1.2,10,6,0.2,0.6,0.6,0.2,0.2,0.2
+21,04-11-2017,13,KIF Örebro DFF,damallsvenskan_suecia_femenina,Stefan Ärnsved,0.8,1.2,3.0,1.6,1,7,0.4,0.0,0.2,0.2,0.4,0.8
+1,17-04-2021,0,KIF Örebro DFF,damallsvenskan_suecia_femenina,Rickard Johansson,1.6,0.8,1.4,1.4,7,7,0.4,0.4,0.2,0.2,0.4,0.4
+1,13-04-2011,1,Linköpings FC,damallsvenskan_suecia_femenina,Jörgen Petersson,2.4,1.4,0.8,1.4,10,8,0.4,0.6,0.4,0.2,0.2,0.2
+1,09-04-2012,1,Linköpings FC,damallsvenskan_suecia_femenina,Martin Sjögren,2.2,0.6,0.6,1.0,13,6,0.2,0.8,0.6,0.2,0.2,0.0
+1,16-04-2017,3,Linköpings FC,damallsvenskan_suecia_femenina,Kim Björkegren,3.2,2.8,0.4,0.8,13,15,1.0,0.8,0.0,0.2,0.0,0.0
+1,15-04-2018,3,Linköpings FC,damallsvenskan_suecia_femenina,Marcus Walfridson,0.8,1.0,1.6,1.0,8,7,0.4,0.4,0.2,0.4,0.4,0.2
+10,03-07-2018,17,Linköpings FC,damallsvenskan_suecia_femenina,Olof Unogård,1.2,3.4,1.2,1.4,7,8,0.4,0.4,0.4,0.2,0.2,0.4
+1,18-04-2021,0,Linköpings FC,damallsvenskan_suecia_femenina,Andrée Jeglertz,1.4,1.6,2.0,1.2,9,10,0.6,0.6,0.2,0.0,0.2,0.4
+1,13-04-2014,3,Umeå IK FF,damallsvenskan_suecia_femenina,Jonas Wikström,1.8,1.8,1.0,0.2,10,11,0.6,0.6,0.4,0.2,0.0,0.2
+1,27-06-2020,0,Umeå IK FF,damallsvenskan_suecia_femenina,Robert Bergström,0.4,0.6,1.4,2.4,3,1,0.0,0.0,0.2,0.6,0.8,0.4
+1,27-03-2022,1,Umeå IK FF,damallsvenskan_suecia_femenina,Samuel Fagerholm,0.8,1.0,2.4,1.6,4,4,0.2,0.2,0.2,0.2,0.6,0.6
+1,18-04-2021,0,Hammarby IF,damallsvenskan_suecia_femenina,Pablo Piñones-Arce,0.8,1.8,3.0,1.4,3,5,0.2,0.2,0.4,0.0,0.4,0.8
+1,13-04-2011,1,Piteå IF,damallsvenskan_suecia_femenina,Stellan Carlsson,1.2,1.4,2.6,2.4,1,4,0.2,0.0,0.2,0.2,0.6,0.8
+1,27-03-2022,0,IFK Kalmar,damallsvenskan_suecia_femenina,Frank Berntzen,0.8,1.0,4.6,2.0,0,6,0.4,0.0,0.0,0.0,0.6,1.0
+1,27-03-2022,1,BK Häcken,damallsvenskan_suecia_femenina,Robert Vilahamn,1.6,2.6,0.6,1.0,8,11,0.6,0.4,0.4,0.4,0.0,0.2
+11,02-07-2014,27,FC Rosengård,damallsvenskan_suecia_femenina,Markus Tilly,3.0,3.2,0.6,0.8,15,15,1.0,1.0,0.0,0.0,0.0,0.0
+8,15-07-2015,22,FC Rosengård,damallsvenskan_suecia_femenina,Jack Majgaard,4.0,2.0,0.6,1.2,15,8,0.4,1.0,0.4,0.0,0.2,0.0
+17,30-09-2017,34,FC Rosengård,damallsvenskan_suecia_femenina,Malin Levenstad,1.6,2.2,1.2,1.4,9,8,0.4,0.4,0.4,0.6,0.2,0.0
+1,16-04-2018,1,FC Rosengård,damallsvenskan_suecia_femenina,Jonas Eidevall,2.0,3.2,1.2,0.8,8,10,0.6,0.4,0.2,0.4,0.2,0.2
+11,03-07-2021,29,FC Rosengård,damallsvenskan_suecia_femenina,Renée Slegers,2.6,3.6,0.2,0.0,13,13,0.8,0.8,0.2,0.2,0.0,0.0
+1,17-04-2019,0,Växjö DFF,damallsvenskan_suecia_femenina,Pierre Fondin,1.8,0.4,2.6,1.4,6,5,0.2,0.4,0.4,0.0,0.4,0.6
+8,21-07-2019,5,Växjö DFF,damallsvenskan_suecia_femenina,Maria Nilsson,0.4,2.0,1.4,1.8,4,10,0.6,0.2,0.2,0.2,0.2,0.6
+1,09-04-2011,1,Kopparbergs/Göteborg FC,damallsvenskan_suecia_femenina,Torbjörn Nilsson,1.8,2.2,0.8,0.4,9,7,0.4,0.4,0.2,0.6,0.4,0.0
+1,13-04-2014,3,Kopparbergs/Göteborg FC,damallsvenskan_suecia_femenina,Stefan Rehn,0.8,2.0,2.2,0.6,3,9,0.4,0.2,0.6,0.0,0.0,0.8
+8,21-07-2019,18,Kopparbergs/Göteborg FC,damallsvenskan_suecia_femenina,Marcus Lantz,2.4,2.2,1.0,0.8,11,8,0.4,0.6,0.4,0.4,0.2,0.0
+1,28-06-2020,3,Kopparbergs/Göteborg FC,damallsvenskan_suecia_femenina,Mats Gren,2.2,2.6,0.8,0.4,15,13,0.8,1.0,0.2,0.0,0.0,0.0
+1,09-04-2012,0,Jitex BK,damallsvenskan_suecia_femenina,Stefan Rehn,1.2,2.0,2.6,2.2,6,7,0.4,0.4,0.2,0.0,0.4,0.6
+1,13-04-2014,0,Jitex BK,damallsvenskan_suecia_femenina,Anders Holmvén,0.4,0.6,1.4,2.2,5,0,0.0,0.2,0.0,0.4,1.0,0.4
+7,24-05-2014,0,Jitex BK,damallsvenskan_suecia_femenina,Jerry Carlsson,0.6,0.2,2.2,3.6,0,0,0.0,0.0,0.0,0.0,1.0,1.0
+1,09-04-2012,3,Tyresö FF,damallsvenskan_suecia_femenina,Tony Gustavsson,2.4,3.4,1.6,0.6,9,12,0.8,0.6,0.0,0.0,0.2,0.4
+1,10-04-2011,1,LdB FC Malmö,damallsvenskan_suecia_femenina,Martin Sjögren,2.4,2.0,0.4,0.8,10,13,0.8,0.6,0.2,0.2,0.0,0.2
+1,09-04-2012,3,LdB FC Malmö,damallsvenskan_suecia_femenina,Peter Moberg,2.4,3.6,1.6,1.2,9,12,0.8,0.6,0.0,0.0,0.2,0.4
+1,16-04-2013,3,LdB FC Malmö,damallsvenskan_suecia_femenina,Jonas Eidevall,2.0,1.6,0.6,0.6,10,11,0.6,0.6,0.4,0.2,0.0,0.2
+1,02-11-2009,0,sc Heerenveen,eredivisie_paises_bajos_femenina,Rick Mulder,1.4,0.8,2.4,1.6,6,4,0.2,0.4,0.2,0.0,0.6,0.6
+1,02-09-2011,3,sc Heerenveen,eredivisie_paises_bajos_femenina,Peter Meindertsma,1.6,1.8,1.4,2.4,8,6,0.4,0.4,0.0,0.4,0.6,0.2
+13,17-04-2012,11,sc Heerenveen,eredivisie_paises_bajos_femenina,Maarten de Jong,1.0,1.0,1.2,1.0,4,1,0.0,0.2,1.0,0.2,0.0,0.6
+14,24-02-2012,14,sc Heerenveen,eredivisie_paises_bajos_femenina,Peter Meindertsma,1.0,1.5,1.0,1.0,5,4,0.5,0.2,0.5,0.4,0.0,0.4
+16,13-04-2012,15,sc Heerenveen,eredivisie_paises_bajos_femenina,Maarten de Jong,1.2,1.4,1.2,3.4,6,0,0.0,0.2,0.0,0.6,1.0,0.2
+1,21-08-2015,0,sc Heerenveen,eredivisie_paises_bajos_femenina,Fred de Boer,1.4,0.8,3.4,2.6,0,1,0.0,0.0,0.2,0.0,0.8,1.0
+1,02-09-2016,3,sc Heerenveen,eredivisie_paises_bajos_femenina,Jan Schulting,0.8,1.4,3.0,1.8,4,5,0.2,0.2,0.4,0.2,0.4,0.6
+1,01-09-2017,0,sc Heerenveen,eredivisie_paises_bajos_femenina,Roeland ten Berge,3.6,1.2,1.8,1.4,12,5,0.2,0.8,0.4,0.0,0.4,0.2
+1,03-09-2017,3,AFC Ajax,eredivisie_paises_bajos_femenina,Benno Nihom,1.4,2.0,0.6,0.6,11,11,0.6,0.6,0.4,0.4,0.0,0.0
+1,25-08-2019,3,AFC Ajax,eredivisie_paises_bajos_femenina,Danny Schenkel,1.0,1.6,0.4,1.0,9,10,0.6,0.4,0.2,0.6,0.2,0.0
+1,07-09-2018,0,PSV Eindhoven,eredivisie_paises_bajos_femenina,Sander Luiten,1.8,3.6,3.8,0.2,1,12,0.8,0.0,0.0,0.2,0.2,0.8
+9,20-12-2020,21,PSV Eindhoven,eredivisie_paises_bajos_femenina,Rick de Rooij,3.2,1.8,1.2,0.4,12,13,0.8,0.8,0.2,0.0,0.0,0.2
+1,21-08-2008,1,ADO Den Haag,eredivisie_paises_bajos_femenina,Sarina Wiegman,1.0,1.6,1.0,2.0,8,4,0.2,0.4,0.2,0.4,0.6,0.2
+1,21-08-2015,0,ADO Den Haag,eredivisie_paises_bajos_femenina,Marcel Valk,3.2,0.8,1.2,1.4,15,5,0.2,1.0,0.4,0.0,0.4,0.0
+1,02-09-2016,3,ADO Den Haag,eredivisie_paises_bajos_femenina,Arend Regeer,1.6,1.6,2.4,1.0,6,12,0.8,0.4,0.0,0.0,0.2,0.6
+1,23-08-2019,3,ADO Den Haag,eredivisie_paises_bajos_femenina,Sjaak Polak,1.8,1.2,2.2,0.8,4,8,0.4,0.0,0.4,0.8,0.2,0.2
+1,02-09-2016,0,PEC Zwolle,eredivisie_paises_bajos_femenina,Carin Meesters-Bakhuis,1.4,0.6,2.6,1.4,4,2,0.0,0.2,0.4,0.2,0.6,0.6
+15,03-02-2017,5,PEC Zwolle,eredivisie_paises_bajos_femenina,Joran Pot,1.6,1.4,4.2,3.2,3,1,0.0,0.2,0.2,0.0,0.8,0.8
+1,01-09-2017,0,PEC Zwolle,eredivisie_paises_bajos_femenina,Wim van der Wal,1.6,2.6,3.2,2.2,0,7,0.4,0.0,0.2,0.0,0.4,1.0
+1,23-08-2019,0,PEC Zwolle,eredivisie_paises_bajos_femenina,Joran Pot,1.4,1.8,2.4,3.4,2,2,0.0,0.0,0.4,0.4,0.6,0.6
+1,21-08-2008,0,FC Twente,eredivisie_paises_bajos_femenina,Mary Kok-Willemsen,1.0,0.8,1.6,2.0,6,4,0.2,0.4,0.2,0.0,0.6,0.6
+1,02-09-2011,3,FC Twente,eredivisie_paises_bajos_femenina,John van Miert,2.4,1.6,1.0,1.0,12,12,0.8,0.8,0.0,0.0,0.2,0.2
+10,24-01-2012,24,FC Twente,eredivisie_paises_bajos_femenina,Arjan Veurink,1.8,1.6,1.0,0.6,12,8,0.4,0.8,0.4,0.0,0.2,0.2
+1,02-09-2016,0,FC Twente,eredivisie_paises_bajos_femenina,Tommy Stroot,4.0,3.2,0.6,1.0,15,12,0.8,1.0,0.0,0.0,0.2,0.0
+1,27-08-2021,3,FC Twente,eredivisie_paises_bajos_femenina,Robert de Pauw,1.4,3.6,0.8,1.4,12,9,0.6,0.8,0.0,0.0,0.4,0.2
+1,07-09-2018,3,vv Alkmaar,eredivisie_paises_bajos_femenina,Judith Kuipers,3.0,0.6,1.6,2.6,13,4,0.2,0.8,0.2,0.2,0.6,0.0
+1,25-08-2019,0,vv Alkmaar,eredivisie_paises_bajos_femenina,Corina Dekker,2.6,2.0,2.0,2.6,7,3,0.0,0.4,0.6,0.2,0.4,0.4
+1,27-08-2021,0,vv Alkmaar,eredivisie_paises_bajos_femenina,Mark de Vries,1.6,0.4,2.6,3.6,3,3,0.2,0.0,0.0,0.6,0.8,0.4
+1,07-09-2018,3,Excelsior Barendrecht,eredivisie_paises_bajos_femenina,Richard Mank,1.6,1.8,2.8,2.4,2,6,0.4,0.0,0.0,0.4,0.6,0.6
+1,03-09-2017,0,Achilles'29,eredivisie_paises_bajos_femenina,Robert de Pauw,1.4,1.0,2.6,1.8,6,4,0.2,0.4,0.2,0.0,0.6,0.6
+1,16-03-2018,1,Achilles'29,eredivisie_paises_bajos_femenina,Marck Cieraad,1.0,2.0,3.0,1.6,4,10,0.6,0.2,0.2,0.2,0.2,0.6
+2,28-08-2015,0,SC Telstar VVNH,eredivisie_paises_bajos_femenina,Gideon Dijks,2.6,1.2,3.2,3.2,5,6,0.4,0.2,0.0,0.4,0.6,0.4
+1,01-10-2009,0,FC Utrecht,eredivisie_paises_bajos_femenina,Marc Verkuijl,1.2,0.8,1.6,1.0,6,6,0.4,0.4,0.0,0.0,0.6,0.6
+1,21-08-2008,1,AZ Alkmaar,eredivisie_paises_bajos_femenina,Ed Engelkes,1.6,0.8,1.2,0.2,8,8,0.4,0.4,0.4,0.4,0.2,0.2
+2,06-10-2008,3,Willem II,eredivisie_paises_bajos_femenina,Edwin Petersen,2.2,2.2,0.6,0.8,11,13,0.8,0.6,0.2,0.4,0.0,0.0
+1,01-10-2009,3,Willem II,eredivisie_paises_bajos_femenina,Mark Schenning,2.8,2.8,1.8,1.4,12,12,0.8,0.8,0.0,0.0,0.2,0.2
+1,02-09-2010,0,Willem II,eredivisie_paises_bajos_femenina,Frans de Kat,0.8,1.2,2.2,1.6,5,4,0.2,0.2,0.2,0.4,0.6,0.4
+12,08-12-2019,7,Real Betis,laliga_femenina,Pier,0.8,1.0,1.2,1.8,3,4,0.2,0.0,0.2,0.6,0.6,0.4
+14,06-01-2021,7,Real Betis,laliga_femenina,Rafa Ríos,0.6,0.0,2.6,2.0,0,0,0.0,0.0,0.0,0.0,1.0,1.0
+15,14-02-2021,10,Real Betis,laliga_femenina,Amorós,0.6,1.6,2.4,1.6,0,9,0.6,0.0,0.0,0.0,0.4,1.0
+1,08-09-2019,3,Levante,laliga_femenina,María Pry,1.4,0.6,1.0,0.4,6,7,0.4,0.4,0.2,0.0,0.4,0.6
+1,05-09-2021,3,Levante,laliga_femenina,Ángel Villacampa,1.8,2.0,1.0,0.6,8,8,0.4,0.4,0.4,0.4,0.2,0.2
+1,03-09-2017,3,Sporting de Huelva,laliga_femenina,Antonio Toledo,2.6,1.4,1.4,1.0,10,9,0.6,0.6,0.0,0.2,0.4,0.2
+1,05-09-2021,3,SD Eibar,laliga_femenina,Ana Junyent,0.8,1.6,3.2,2.0,3,6,0.4,0.2,0.0,0.0,0.6,0.8
+1,06-09-2015,3,Athletic,laliga_femenina,Joseba,2.8,1.6,0.2,0.6,15,13,0.8,1.0,0.2,0.0,0.0,0.0
+30,05-05-2019,50,Athletic,laliga_femenina,Ángel Villacampa,1.2,0.6,0.6,1.6,10,3,0.2,0.6,0.0,0.2,0.8,0.2
+15,10-01-2021,14,Athletic,laliga_femenina,Iraia Iturregui,0.6,1.0,1.6,1.6,2,4,0.2,0.0,0.2,0.4,0.6,0.6
+1,03-09-2017,3,Barcelona,laliga_femenina,Fran Sánchez,4.0,5.0,0.6,0.2,10,15,1.0,0.6,0.0,0.2,0.0,0.2
+1,07-09-2019,3,Barcelona,laliga_femenina,Lluís Cortés,4.0,3.8,0.6,0.6,12,13,0.8,0.8,0.2,0.0,0.0,0.2
+1,04-09-2021,3,Barcelona,laliga_femenina,Jonatan Giráldez,4.8,7.0,1.2,0.2,15,15,1.0,1.0,0.0,0.0,0.0,0.0
+8,05-11-2017,1,Real Sociedad,laliga_femenina,Gonzalo Arconada,0.4,2.6,2.0,0.6,0,11,0.6,0.0,0.4,0.0,0.0,1.0
+1,09-12-2020,3,Real Sociedad,laliga_femenina,Natalia Arroyo,1.4,2.2,1.4,0.6,7,12,0.8,0.4,0.0,0.2,0.2,0.4
+1,06-09-2015,3,Atlético,laliga_femenina,Miguel Ángel Sopuerta,2.0,4.2,0.4,0.4,13,13,0.8,0.8,0.2,0.2,0.0,0.0
+14,16-01-2016,32,Atlético,laliga_femenina,Ángel Villacampa,1.8,3.0,1.2,0.6,9,13,0.8,0.6,0.2,0.0,0.0,0.4
+1,08-09-2018,3,Atlético,laliga_femenina,Sánchez Vera,3.0,3.8,0.6,0.6,15,15,1.0,1.0,0.0,0.0,0.0,0.0
+5,12-10-2019,12,Atlético,laliga_femenina,Pablo López,2.0,2.6,1.4,0.4,12,15,1.0,0.8,0.0,0.0,0.0,0.2
+1,03-10-2020,3,Atlético,laliga_femenina,Dani,2.2,1.6,0.2,0.2,13,13,0.8,0.8,0.2,0.2,0.0,0.0
+15,14-02-2021,31,Atlético,laliga_femenina,Sánchez Vera,1.6,2.2,1.4,1.4,8,10,0.6,0.4,0.2,0.4,0.2,0.2
+1,04-09-2021,3,Atlético,laliga_femenina,Óscar Fernández,2.0,3.0,0.4,0.8,13,13,0.8,0.8,0.2,0.2,0.0,0.0
+11,02-12-2018,6,Sevilla,laliga_femenina,Cristian Toro,1.2,0.6,2.8,2.4,0,3,0.2,0.0,0.0,0.0,0.8,1.0
+19,02-02-2020,15,Valencia,laliga_femenina,Carolina Miranda,0.6,2.0,1.0,2.0,3,1,0.0,0.0,1.0,0.6,0.0,0.4
+20,16-02-2020,16,Valencia,laliga_femenina,sin entrenador,0.8,0.0,1.2,0.0,3,1,0.0,0.0,1.0,0.6,0.0,0.4
+21,23-02-2020,17,Valencia,laliga_femenina,Carolina Miranda,0.6,0.0,1.0,0.0,3,1,0.0,0.0,1.0,0.6,0.0,0.4
+22,29-02-2020,17,Valencia,laliga_femenina,sin entrenador,0.6,0.0,0.8,2.0,4,0,0.0,0.0,0.0,0.8,1.0,0.2
+1,04-10-2020,3,Valencia,laliga_femenina,José Bargues,0.4,1.4,1.0,1.4,3,6,0.2,0.0,0.6,0.6,0.2,0.4
+1,05-09-2021,0,Valencia,laliga_femenina,Andrea Esteban,1.4,1.0,1.4,3.8,7,1,0.0,0.4,0.2,0.2,0.8,0.4
+15,04-01-2020,13,UDG Tenerife Sur,laliga_femenina,Francis Díaz,0.8,2.0,1.8,2.6,4,7,0.4,0.2,0.2,0.2,0.4,0.6
+1,08-09-2019,3,Madrid CFF,laliga_femenina,Óscar Fernández,0.6,1.2,1.6,1.6,6,9,0.6,0.4,0.0,0.0,0.4,0.6
+1,05-09-2021,0,Madrid CFF,laliga_femenina,Victor Fernández,2.0,2.0,2.2,1.8,5,8,0.4,0.2,0.4,0.4,0.2,0.4
+1,08-09-2019,0,Rayo,laliga_femenina,Carlos Santiso,1.0,0.8,3.0,1.6,3,7,0.4,0.2,0.2,0.0,0.4,0.8
+1,04-09-2021,0,Rayo,laliga_femenina,Miguel Quejigo García,1.4,0.6,1.0,3.0,5,1,0.0,0.2,0.2,0.4,0.8,0.4
+12,08-12-2019,2,Espanyol,laliga_femenina,Ferrón,0.4,0.6,2.2,2.6,1,1,0.0,0.0,0.2,0.2,0.8,0.8
+1,03-10-2020,0,Espanyol,laliga_femenina,Rubén Casado,0.6,0.8,2.0,1.4,1,6,0.4,0.0,0.0,0.2,0.6,0.8
+1,08-09-2019,3,EDF Logroño,laliga_femenina,Gerardo,1.8,2.2,2.4,1.0,6,10,0.6,0.4,0.2,0.0,0.2,0.6
+6,20-01-2021,2,EDF Logroño,laliga_femenina,Javier Moncayo,0.6,0.0,2.4,2.0,2,0,0.0,0.0,0.0,0.4,1.0,0.6
+7,11-11-2020,2,EDF Logroño,laliga_femenina,Gerardo,0.4,0.6,2.4,1.6,2,2,0.0,0.0,0.4,0.4,0.6,0.6
+12,19-12-2020,7,EDF Logroño,laliga_femenina,Javier Moncayo,0.6,1.6,1.6,1.4,2,7,0.4,0.0,0.2,0.4,0.4,0.6
+1,04-10-2020,1,Santa Teresa CD,laliga_femenina,Antúnez,0.8,1.0,2.6,1.8,3,7,0.4,0.2,0.2,0.0,0.4,0.8
+1,28-08-2021,1,Saint-Étienne,ligue_1_femenina,Jérôme Bonnet,0.4,1.2,3.8,2.2,1,4,0.2,0.0,0.2,0.2,0.6,0.8
+1,01-09-2013,3,Guingamp,ligue_1_femenina,Sarah M'Barek,0.6,1.8,3.6,0.8,3,11,0.6,0.2,0.4,0.0,0.0,0.8
+1,25-08-2018,0,Guingamp,ligue_1_femenina,Frédéric Biancalani,0.4,0.8,0.6,1.2,6,7,0.4,0.4,0.2,0.0,0.4,0.6
+1,25-08-2018,3,Paris FC,ligue_1_femenina,Sandrine Soubeyrand,1.0,0.8,0.6,2.2,9,5,0.2,0.4,0.4,0.6,0.4,0.0
+1,10-11-2013,3,Montpellier,ligue_1_femenina,Jean-Louis Saez,2.2,3.4,1.6,0.6,7,12,0.8,0.4,0.0,0.2,0.2,0.4
+1,05-09-2020,1,Montpellier,ligue_1_femenina,Frédéric Mendy,2.8,1.6,1.6,1.2,9,10,0.6,0.6,0.2,0.0,0.2,0.4
+20,08-05-2021,27,Montpellier,ligue_1_femenina,John Utaka,1.6,0.6666666666666666,1.8,1.3333333333333333,7,3,0.3333333333333333,0.4,0.0,0.2,0.6666666666666666,0.4
+1,28-08-2021,3,Montpellier,ligue_1_femenina,Yannick Chandioux,1.0,1.6,1.6,1.4,6,6,0.4,0.4,0.0,0.0,0.6,0.6
+1,31-08-2014,3,Lyon,ligue_1_femenina,Gérard Prêcheur,4.0,6.4,0.4,0.2,15,15,1.0,1.0,0.0,0.0,0.0,0.0
+1,03-09-2017,3,Lyon,ligue_1_femenina,Reynald Pedros,4.4,5.6,0.0,0.4,15,15,1.0,1.0,0.0,0.0,0.0,0.0
+1,24-08-2019,3,Lyon,ligue_1_femenina,Jean-Luc Vasseur,4.0,5.8,0.4,0.8,13,15,1.0,0.8,0.0,0.2,0.0,0.0
+1,27-08-2021,3,Lyon,ligue_1_femenina,Sonia Bompastor,4.6,4.6,0.2,0.2,15,15,1.0,1.0,0.0,0.0,0.0,0.0
+1,24-08-2019,3,Girondins Bordeaux,ligue_1_femenina,Pedro Losa,1.2,1.8,3.2,1.2,4,9,0.6,0.2,0.0,0.2,0.4,0.6
+1,28-08-2021,1,Girondins Bordeaux,ligue_1_femenina,Patrice Lair,1.2,2.0,1.0,1.4,9,7,0.4,0.6,0.2,0.0,0.4,0.4
+1,28-08-2021,0,Dijon FCO,ligue_1_femenina,Christophe Forest,1.0,1.0,1.4,2.6,6,6,0.4,0.4,0.0,0.0,0.6,0.6
+1,05-09-2020,1,FC Fleury 91,ligue_1_femenina,David Fanzel,0.8,1.0,1.8,2.0,6,7,0.4,0.4,0.2,0.0,0.4,0.6
+1,29-08-2021,0,FC Fleury 91,ligue_1_femenina,Fabrice Abriel,0.6,1.0,2.8,1.6,3,9,0.6,0.2,0.0,0.0,0.4,0.8
+15,27-02-2021,10,GPSO 92 Issy,ligue_1_femenina,Camillo Vaz,0.4,0.0,2.6,2.8,4,0,0.0,0.2,0.0,0.2,1.0,0.6
+1,31-08-2013,3,ASJ Soyaux,ligue_1_femenina,Juan Paredes,0.8,1.4,3.6,3.0,0,4,0.2,0.0,0.2,0.0,0.6,1.0
+1,03-09-2017,1,ASJ Soyaux,ligue_1_femenina,Sébastien Joseph,0.8,1.2,4.6,0.6,4,11,0.6,0.2,0.4,0.2,0.0,0.6
+8,13-11-2020,6,ASJ Soyaux,ligue_1_femenina,Laurent Mortel,0.4,0.6,2.2,2.4,3,1,0.0,0.2,0.2,0.0,0.8,0.8
+1,28-08-2021,3,ASJ Soyaux,ligue_1_femenina,Dragan Cvetković,1.0,0.6,2.2,2.2,6,3,0.2,0.4,0.0,0.0,0.8,0.6
+1,30-11-2011,3,París Saint-Germain,ligue_1_femenina,Camillo Vaz,2.4,2.6,1.2,0.6,12,15,1.0,0.8,0.0,0.0,0.0,0.2
+1,09-09-2012,1,París Saint-Germain,ligue_1_femenina,Farid Benstiti,2.4,3.8,1.8,0.4,9,11,0.6,0.6,0.4,0.0,0.0,0.4
+1,10-09-2016,0,París Saint-Germain,ligue_1_femenina,Patrice Lair,3.2,2.4,1.0,0.6,13,12,0.8,0.8,0.0,0.2,0.2,0.0
+1,25-08-2018,3,París Saint-Germain,ligue_1_femenina,Olivier Echouafni,1.6,3.2,0.6,0.4,10,13,0.8,0.6,0.2,0.2,0.0,0.2
+1,29-08-2021,3,París Saint-Germain,ligue_1_femenina,Didier Olle-Nicolle,3.8,3.6,0.4,0.0,15,15,1.0,1.0,0.0,0.0,0.0,0.0
+1,11-09-2016,0,FC Metz-Algrange,ligue_1_femenina,David Fanzel,2.0,0.0,1.8,3.8,7,0,0.0,0.4,0.0,0.2,1.0,0.4
+1,30-10-2018,3,FC Metz-Algrange,ligue_1_femenina,Manuel Peixoto,0.8,0.2,3.6,1.6,3,3,0.2,0.2,0.0,0.0,0.8,0.8
+1,26-08-2018,0,Lille OSC,ligue_1_femenina,Dominique Carlier,1.0,1.0,1.4,2.8,6,5,0.2,0.4,0.4,0.0,0.4,0.6
+1,30-08-2015,3,ASPTT Albi,ligue_1_femenina,Adolphe Ogouyon,1.2,2.0,2.4,1.2,6,8,0.4,0.4,0.4,0.0,0.2,0.6
+1,03-09-2017,0,ASPTT Albi,ligue_1_femenina,Théodore Genoux,1.2,0.4,2.4,2.6,6,1,0.0,0.4,0.2,0.0,0.8,0.6
+1,30-08-2015,1,Juvisy FCF,ligue_1_femenina,Emmanuel Beauchet,2.4,2.2,1.2,0.6,9,13,0.8,0.6,0.2,0.0,0.0,0.4
+1,08-11-2019,0,Gallos Blancos,mex_primera_division_femenina,Félix Martínez,1.0,0.0,3.0,2.0,0,0,0.0,0.0,0.0,0.0,1.0,1.0
+1,21-10-2022,0,Gallos Blancos,mex_primera_division_femenina,Carla Rossi,1.0,0.0,3.0,1.0,0,0,0.0,0.0,0.0,0.0,1.0,1.0
+1,22-10-2022,3,Pumas UNAM,mex_primera_division_femenina,César Cotero,3.0,3.0,2.0,2.0,15,15,1.0,1.0,0.0,0.0,0.0,0.0
+1,21-04-2019,3,Puebla FC,mex_primera_division_femenina,Jorge Gómez,1.0,1.0,1.0,0.0,5,15,1.0,0.0,0.0,1.0,0.0,0.0
+1,23-10-2022,0,Puebla FC,mex_primera_division_femenina,Pablo Luna,1.0,0.0,3.0,3.0,0,0,0.0,0.0,0.0,0.0,1.0,1.0
+1,20-11-2020,3,Club León,mex_primera_division_femenina,sin entrenador,3.0,3.0,1.0,2.0,15,15,1.0,1.0,0.0,0.0,0.0,0.0
+1,02-05-2021,0,Club León,mex_primera_division_femenina,Everaldo Begines,3.0,1.0,2.0,2.0,15,0,0.0,1.0,0.0,0.0,1.0,0.0
+1,24-10-2022,0,Club León,mex_primera_division_femenina,Adrián Martínez,1.0,1.0,2.0,2.0,0,0,0.0,0.0,0.0,0.0,1.0,1.0
+1,21-04-2019,3,Deportivo Guadalajara,mex_primera_division_femenina,Luis Manuel Díaz,1.0,3.0,1.0,1.0,5,15,1.0,0.0,0.0,1.0,0.0,0.0
+1,12-11-2019,3,Deportivo Guadalajara,mex_primera_division_femenina,Ramón Villa Zevallos,3.0,2.0,1.0,1.0,15,15,1.0,1.0,0.0,0.0,0.0,0.0
+1,25-10-2022,3,Deportivo Guadalajara,mex_primera_division_femenina,Juan Alfaro,1.0,3.0,0.0,0.0,15,15,1.0,1.0,0.0,0.0,0.0,0.0
+1,04-05-2021,0,Club Necaxa,mex_primera_division_femenina,sin entrenador,1.0,0.0,2.0,3.0,0,0,0.0,0.0,0.0,0.0,1.0,1.0
+1,25-10-2022,0,Club Necaxa,mex_primera_division_femenina,Gerardo Castillo,1.0,0.0,1.0,2.0,5,0,0.0,0.0,0.0,1.0,1.0,0.0
+1,25-10-2022,3,UANL Tigres,mex_primera_division_femenina,Carmelina Moscato,1.0,5.0,1.0,2.0,5,15,1.0,0.0,0.0,1.0,0.0,0.0
+1,25-10-2022,3,Mazatlán FC,mex_primera_division_femenina,José Madrigal,0.0,3.0,1.0,1.0,0,15,1.0,0.0,0.0,0.0,0.0,1.0
+1,20-11-2020,3,Santos Laguna,mex_primera_division_femenina,Martín Pérez,0.0,2.0,2.0,0.0,0,15,1.0,0.0,0.0,0.0,0.0,1.0
+1,01-05-2021,3,Santos Laguna,mex_primera_division_femenina,Jorge Macías,2.0,3.0,0.0,2.0,15,15,1.0,1.0,0.0,0.0,0.0,0.0
+1,22-11-2021,0,Santos Laguna,mex_primera_division_femenina,Martín Pérez,3.0,0.0,2.0,2.0,15,0,0.0,1.0,0.0,0.0,1.0,0.0
+1,25-10-2022,0,Santos Laguna,mex_primera_division_femenina,Jorge Campos,1.0,0.0,0.0,4.0,15,0,0.0,1.0,0.0,0.0,1.0,0.0
+1,20-11-2020,1,Atlético San Luis,mex_primera_division_femenina,Rigoberto Esparza,1.0,1.0,1.0,1.0,5,5,0.0,0.0,1.0,1.0,0.0,0.0
+1,22-11-2021,1,Atlético San Luis,mex_primera_division_femenina,Luis Martínez,1.0,1.0,4.0,1.0,0,5,0.0,0.0,1.0,0.0,0.0,1.0
+1,25-10-2022,3,Atlético San Luis,mex_primera_division_femenina,Fernando Samayoa,3.0,2.0,1.0,0.0,15,15,1.0,1.0,0.0,0.0,0.0,0.0
+1,08-11-2019,1,Cruz Azul,mex_primera_division_femenina,Rogelio Martínez,0.0,2.0,1.0,2.0,0,5,0.0,0.0,1.0,0.0,0.0,1.0
+1,25-10-2022,0,Cruz Azul,mex_primera_division_femenina,Carlos Pérez,3.0,0.0,1.0,3.0,15,0,0.0,1.0,0.0,0.0,1.0,0.0
+1,25-10-2022,0,CF Pachuca,mex_primera_division_femenina,Juan Cacho,1.0,1.0,1.0,3.0,5,0,0.0,0.0,0.0,1.0,1.0,0.0
+1,22-10-2022,0,Atlas Guadalajara,mex_primera_division_femenina,Fabiola Vargas,2.0,2.0,1.0,3.0,15,0,0.0,1.0,0.0,0.0,1.0,0.0
+1,20-11-2020,0,Deportivo Toluca,mex_primera_division_femenina,Agustín Contreras,2.0,0.0,0.0,2.0,15,0,0.0,1.0,0.0,0.0,1.0,0.0
+1,03-05-2021,0,Deportivo Toluca,mex_primera_division_femenina,Juan Mendoza,0.0,0.0,2.0,1.0,0,0,0.0,0.0,0.0,0.0,1.0,1.0
+1,24-10-2022,3,Deportivo Toluca,mex_primera_division_femenina,Gabriel Velasco,2.0,2.0,3.0,1.0,0,15,1.0,0.0,0.0,0.0,0.0,1.0
+1,04-05-2021,3,Club Tijuana,mex_primera_division_femenina,sin entrenador,2.0,3.0,1.0,0.0,15,15,1.0,1.0,0.0,0.0,0.0,0.0
+1,21-11-2021,3,Club Tijuana,mex_primera_division_femenina,Carla Rossi,3.0,4.0,0.0,2.0,15,15,1.0,1.0,0.0,0.0,0.0,0.0
+1,03-05-2022,3,Club Tijuana,mex_primera_division_femenina,sin entrenador,4.0,3.0,2.0,2.0,15,15,1.0,1.0,0.0,0.0,0.0,0.0
+1,25-10-2022,0,Club Tijuana,mex_primera_division_femenina,Juan Romo,3.0,2.0,2.0,5.0,15,0,0.0,1.0,0.0,0.0,1.0,0.0
+1,21-10-2022,3,CF América,mex_primera_division_femenina,Ángel Villacampa,1.0,1.0,1.0,0.0,5,15,1.0,0.0,0.0,1.0,0.0,0.0
+1,25-10-2022,3,CF Monterrey,mex_primera_division_femenina,Eva Espejo,0.0,4.0,1.0,0.0,0,15,1.0,0.0,0.0,0.0,0.0,1.0
+1,19-11-2020,0,FC Juárez,mex_primera_division_femenina,Ángel Aponte,0.0,0.0,2.0,3.0,0,0,0.0,0.0,0.0,0.0,1.0,1.0
+1,02-05-2021,3,FC Juárez,mex_primera_division_femenina,Aaron Balderas,0.0,2.0,3.0,1.0,0,15,1.0,0.0,0.0,0.0,0.0,1.0
+1,03-05-2022,0,FC Juárez,mex_primera_division_femenina,Ángel Aponte,2.0,2.0,4.0,3.0,0,0,0.0,0.0,0.0,0.0,1.0,1.0
+1,23-10-2022,3,FC Juárez,mex_primera_division_femenina,Milagros Martinez,2.0,3.0,3.0,0.0,0,15,1.0,0.0,0.0,0.0,0.0,1.0
+5,25-09-2021,24,NJ/NY Gotham FC,national_womens_soccer_league_femenina,Scott Parkinson,1.0,1.2,1.6,0.8,2,7,0.2,0.0,0.8,0.4,0.0,0.6
+7,02-10-2022,13,NJ/NY Gotham FC,national_womens_soccer_league_femenina,Hue Menzies,0.0,3.0,1.6,3.0,0,1,0.0,0.0,1.0,0.0,0.0,1.0
+1,30-04-2016,3,Washington Spirit,national_womens_soccer_league_femenina,Jim Gabarra,1.6,1.6,1.4,1.0,7,12,0.8,0.4,0.0,0.2,0.2,0.4
+1,21-04-2019,0,Washington Spirit,national_womens_soccer_league_femenina,Richie Burke,0.2,2.0,1.8,0.8,1,12,0.8,0.0,0.0,0.2,0.2,0.8
+4,29-08-2021,19,Washington Spirit,national_womens_soccer_league_femenina,Kris Ward,1.4,1.0,1.0,1.4,7,5,0.2,0.4,0.4,0.2,0.4,0.4
+6,25-09-2022,13,Washington Spirit,national_womens_soccer_league_femenina,Albertin Montoya,1.0,1.6,1.6,2.0,2,6,0.4,0.0,0.0,0.4,0.6,0.6
+5,26-09-2021,16,Racing Louisville,national_womens_soccer_league_femenina,Mario Sánchez,1.2,0.8,1.4,2.0,5,3,0.0,0.2,0.6,0.4,0.4,0.4
+2,30-05-2022,0,Racing Louisville,national_womens_soccer_league_femenina,Kim Björkegren,1.2,1.0,1.8,0.8,5,8,0.4,0.2,0.4,0.4,0.2,0.4
+3,25-07-2021,10,OL Reign,national_womens_soccer_league_femenina,Laura Harvey,0.6,1.4,1.2,1.2,4,9,0.6,0.2,0.0,0.2,0.4,0.6
+2,29-05-2022,1,Chicago Red Stars,national_womens_soccer_league_femenina,Chris Petrucelli,1.2,2.2,0.8,1.8,10,8,0.4,0.6,0.4,0.2,0.2,0.2
+4,21-07-2019,8,Orlando Pride,national_womens_soccer_league_femenina,Marc Skinner,1.2,2.2,2.0,2.0,4,9,0.6,0.2,0.0,0.2,0.4,0.6
+4,29-08-2021,19,Orlando Pride,national_womens_soccer_league_femenina,Becky Burleigh,0.6,1.2,1.6,0.8,2,8,0.4,0.0,0.4,0.4,0.2,0.6
+2,28-05-2022,1,Orlando Pride,national_womens_soccer_league_femenina,Amanda Cromwell,0.8,1.8,1.8,1.8,1,8,0.4,0.0,0.4,0.2,0.2,0.8
+4,17-07-2022,9,Orlando Pride,national_womens_soccer_league_femenina,Seb Hines,0.2,1.2,3.0,1.0,3,8,0.4,0.2,0.4,0.0,0.2,0.8
+1,30-04-2022,0,NC Courage,national_womens_soccer_league_femenina,Sean Nahas,1.0,1.2,2.0,2.0,4,1,0.0,0.2,0.2,0.2,0.8,0.6
+1,31-03-2018,1,Houston Dash,national_womens_soccer_league_femenina,Vera Pauw,0.6,0.2,2.0,1.4,1,2,0.0,0.0,0.4,0.2,0.6,0.8
+1,30-05-2021,3,Houston Dash,national_womens_soccer_league_femenina,James Clarkson,0.6,1.4,1.6,1.4,3,7,0.4,0.2,0.2,0.0,0.4,0.8
+4,31-07-2022,18,Houston Dash,national_womens_soccer_league_femenina,Amorós,1.8,2.2,1.6,1.6,7,7,0.4,0.4,0.2,0.2,0.4,0.4
+2,30-05-2022,3,Kansas City Current,national_womens_soccer_league_femenina,Matt Potter,0.0,0.6,3.0,1.2,0,4,0.2,0.0,0.2,0.0,0.6,1.0
+1,27-04-2014,3,Portland Thorns,national_womens_soccer_league_femenina,Paul Riley,1.4,1.2,1.8,1.4,4,7,0.4,0.2,0.2,0.2,0.4,0.6
+1,01-04-2018,3,Portland Thorns,national_womens_soccer_league_femenina,Mark Parsons,2.0,1.4,0.4,1.2,13,8,0.4,0.8,0.4,0.2,0.2,0.0
+2,29-05-2022,1,Portland Thorns,national_womens_soccer_league_femenina,Rhian Wilkinson,0.8,1.2,0.8,1.0,6,6,0.2,0.2,0.6,0.6,0.2,0.2
+1,31-03-2018,0,Sky Blue FC,national_womens_soccer_league_femenina,Denise Reddy,1.6,0.2,2.8,1.0,4,1,0.0,0.2,0.2,0.2,0.8,0.6
+1,25-03-2018,3,Seattle Reign,national_womens_soccer_league_femenina,Vlatko Andonovski,1.0,1.0,1.0,0.6,7,10,0.6,0.4,0.2,0.2,0.2,0.4
+1,28-04-2014,3,Boston Breakers,national_womens_soccer_league_femenina,Tom Durkin,1.6,1.8,1.4,2.2,8,6,0.4,0.4,0.0,0.4,0.6,0.2
+1,25-04-2016,0,Boston Breakers,national_womens_soccer_league_femenina,Matt Beard,1.2,0.2,2.8,1.8,3,3,0.2,0.2,0.0,0.0,0.8,0.8
+1,04-09-2021,3,Aston Villa,premier_league_femenina,Carla Ward,0.6,0.8,1.4,1.8,3,7,0.4,0.0,0.2,0.6,0.4,0.4
+8,06-12-2020,6,Tottenham Hotspur WFC,premier_league_femenina,Rehanne Skinner,1.0,2.0,2.8,1.2,2,12,0.8,0.0,0.0,0.4,0.2,0.6
+8,06-12-2020,4,West Ham United WFC,premier_league_femenina,Billy Stewart,1.0,3.0,2.0,1.5,3,3,0.5,0.2,0.0,0.0,0.5,0.8
+10,20-04-2021,8,West Ham United WFC,premier_league_femenina,Oliver Harder,2.0,0.2,1.8,1.6,6,2,0.0,0.4,0.4,0.0,0.6,0.6
+1,05-09-2020,3,Manchester City WFC,premier_league_femenina,Gareth Taylor,2.2,1.6,1.0,1.0,13,8,0.4,0.8,0.4,0.2,0.2,0.0
+1,03-09-2021,3,Manchester United WFC,premier_league_femenina,Marc Skinner,1.8,2.0,0.4,1.8,12,10,0.6,0.8,0.2,0.0,0.2,0.2
+1,05-09-2021,3,Arsenal,premier_league_femenina,Jonas Eidevall,2.2,3.8,0.2,0.4,13,15,1.0,0.8,0.0,0.2,0.0,0.0
+1,08-09-2019,0,Birmingham City WFC,premier_league_femenina,Marta Tejedor,1.4,0.4,0.8,1.6,9,3,0.2,0.6,0.0,0.0,0.8,0.4
+1,06-09-2020,0,Birmingham City WFC,premier_league_femenina,Carla Ward,0.0,1.4,1.6,1.6,0,6,0.4,0.0,0.0,0.0,0.6,1.0
+1,04-09-2021,0,Birmingham City WFC,premier_league_femenina,Scott Booth,0.4,0.4,2.6,2.4,2,1,0.0,0.0,0.2,0.4,0.8,0.6
+6,06-11-2021,6,Everton,premier_league_femenina,Jean-Luc Vasseur,1.2,0.6,2.4,0.8,6,5,0.2,0.4,0.4,0.0,0.4,0.6
+11,30-01-2021,5,Bristol City WFC,premier_league_femenina,Matt Beard,1.0,1.0,4.2,2.2,2,5,0.2,0.0,0.4,0.4,0.4,0.6
+5,14-10-2018,6,Liverpool,premier_league_femenina,Victoria Jepson,0.3333333333333333,0.8,2.0,1.4,3,6,0.4,0.3333333333333333,0.0,0.0,0.6,0.6666666666666666
+15,07-08-2022,40,SK Brann,toppserien_noruega_femenina,Oliver Harder,1.4,3.2,0.6,1.0,12,11,0.6,0.8,0.4,0.0,0.0,0.2
+1,12-04-2011,1,Stabæk FK,toppserien_noruega_femenina,Roger Finjord,2.6,2.2,0.4,0.2,11,11,0.6,0.6,0.4,0.4,0.0,0.0
+1,14-04-2012,3,Stabæk FK,toppserien_noruega_femenina,Øyvind Eide,2.0,3.6,0.6,0.6,12,13,0.8,0.8,0.2,0.0,0.0,0.2
+1,22-05-2021,3,Rosenborg BK,toppserien_noruega_femenina,Steinar Lein,2.0,2.2,0.8,0.0,11,15,1.0,0.6,0.0,0.4,0.0,0.0
+1,04-07-2020,0,Vålerenga IF,toppserien_noruega_femenina,Jack Majgaard,1.6,2.2,0.6,1.0,11,12,0.8,0.6,0.0,0.4,0.2,0.0
+1,28-03-2016,3,Avaldsnes IL,toppserien_noruega_femenina,Kent Michael Bøe,3.8,2.0,0.2,1.0,15,12,0.8,1.0,0.0,0.0,0.2,0.0
+1,01-05-2018,0,Avaldsnes IL,toppserien_noruega_femenina,Lena Tyriberget,2.8,0.8,0.8,2.0,12,3,0.2,0.8,0.0,0.0,0.8,0.2
+1,17-04-2017,3,Lillestrøm SK,toppserien_noruega_femenina,Hege Riise,4.6,4.4,0.8,1.2,13,13,0.8,0.8,0.2,0.2,0.0,0.0
+1,14-04-2012,1,Røa IL,toppserien_noruega_femenina,Geir Nordby,3.2,1.2,0.8,1.0,12,6,0.2,0.8,0.6,0.0,0.2,0.2

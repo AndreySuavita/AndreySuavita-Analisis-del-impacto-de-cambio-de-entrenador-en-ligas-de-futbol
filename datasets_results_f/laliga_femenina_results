@@ -1,0 +1,2467 @@
+fecha,jornada,local,visitante,goles_local,goles_visitante
+21-05-2023,30,Athletic,Villarreal CF,,
+,30,Atlético,UDG Tenerife Sur,,
+,30,CD Alavés,Alhama CF,,
+,30,Sevilla,Valencia,,
+,30,Sporting de Huelva,Levante Las Planas,,
+,30,Madrid CFF,Barcelona,,
+,30,Real Sociedad,Real Madrid,,
+,30,Levante,Real Betis,,
+14-05-2023,29,Alhama CF,Sporting de Huelva,,
+,29,Real Betis,CD Alavés,,
+,29,Barcelona,Athletic,,
+,29,Valencia,Madrid CFF,,
+,29,Villarreal CF,Atlético,,
+,29,Levante Las Planas,Real Sociedad,,
+,29,Real Madrid,Levante,,
+,29,UDG Tenerife Sur,Sevilla,,
+07-05-2023,28,Athletic,Real Betis,,
+,28,Atlético,Levante Las Planas,,
+,28,CD Alavés,UDG Tenerife Sur,,
+,28,Sevilla,Real Madrid,,
+,28,Sporting de Huelva,Villarreal CF,,
+,28,Madrid CFF,Alhama CF,,
+,28,Real Sociedad,Barcelona,,
+,28,Levante,Valencia,,
+30-04-2023,27,Alhama CF,Sevilla,,
+,27,Real Betis,Atlético,,
+,27,Barcelona,Sporting de Huelva,,
+,27,Valencia,CD Alavés,,
+,27,Villarreal CF,Real Sociedad,,
+,27,Levante Las Planas,Athletic,,
+,27,Real Madrid,Madrid CFF,,
+,27,UDG Tenerife Sur,Levante,,
+23-04-2023,26,Athletic,Alhama CF,,
+,26,Atlético,Levante,,
+,26,CD Alavés,Levante Las Planas,,
+,26,Sevilla,Barcelona,,
+,26,Sporting de Huelva,Madrid CFF,,
+,26,Real Madrid,Villarreal CF,,
+,26,Real Sociedad,Valencia,,
+,26,UDG Tenerife Sur,Real Betis,,
+16-04-2023,25,Alhama CF,Real Sociedad,,
+,25,Athletic,CD Alavés,,
+,25,Real Betis,Real Madrid,,
+,25,Barcelona,Atlético,,
+,25,Valencia,Sporting de Huelva,,
+,25,Levante Las Planas,UDG Tenerife Sur,,
+,25,Madrid CFF,Sevilla,,
+,25,Levante,Villarreal CF,,
+02-04-2023,24,Alhama CF,Barcelona,,
+,24,Atlético,Valencia,,
+,24,Sevilla,CD Alavés,,
+,24,Villarreal CF,UDG Tenerife Sur,,
+,24,Sporting de Huelva,Real Betis,,
+,24,Madrid CFF,Levante,,
+,24,Real Madrid,Levante Las Planas,,
+,24,Real Sociedad,Athletic,,
+26-03-2023,23,Athletic,Sevilla,,
+,23,Real Betis,Villarreal CF,,
+,23,CD Alavés,Atlético,,
+,23,Barcelona,Real Madrid,,
+,23,Valencia,Alhama CF,,
+,23,Levante Las Planas,Madrid CFF,,
+,23,UDG Tenerife Sur,Sporting de Huelva,,
+,23,Levante,Real Sociedad,,
+19-03-2023,22,Alhama CF,Atlético,,
+,22,Barcelona,Valencia,,
+,22,Sevilla,Real Betis,,
+,22,Villarreal CF,Levante Las Planas,,
+,22,Sporting de Huelva,Levante,,
+,22,Madrid CFF,Athletic,,
+,22,Real Madrid,UDG Tenerife Sur,,
+,22,Real Sociedad,CD Alavés,,
+12-03-2023,21,Athletic,Valencia,,
+,21,Atlético,Real Madrid,,
+,21,Real Betis,Real Sociedad,,
+,21,CD Alavés,Sporting de Huelva,,
+,21,Villarreal CF,Alhama CF,,
+,21,Levante Las Planas,Sevilla,,
+,21,UDG Tenerife Sur,Madrid CFF,,
+,21,Levante,Barcelona,,
+05-03-2023,20,Alhama CF,Real Madrid,,
+,20,Barcelona,Villarreal CF,,
+,20,Sevilla,Levante,,
+,20,Valencia,UDG Tenerife Sur,,
+,20,Sporting de Huelva,Athletic,,
+,20,Levante Las Planas,Real Betis,,
+,20,Madrid CFF,CD Alavés,,
+,20,Real Sociedad,Atlético,,
+12-02-2023,19,Atlético,Athletic,,
+,19,Real Betis,Valencia,,
+,19,CD Alavés,Barcelona,,
+,19,Villarreal CF,Madrid CFF,,
+,19,Real Madrid,Sporting de Huelva,,
+,19,Real Sociedad,Sevilla,,
+,19,UDG Tenerife Sur,Alhama CF,,
+,19,Levante,Levante Las Planas,,
+05-02-2023,18,Alhama CF,Levante Las Planas,,
+,18,Athletic,UDG Tenerife Sur,,
+,18,CD Alavés,Levante,,
+,18,Barcelona,Real Betis,,
+,18,Sevilla,Villarreal CF,,
+,18,Valencia,Real Madrid,,
+,18,Sporting de Huelva,Atlético,,
+,18,Madrid CFF,Real Sociedad,,
+29-01-2023,17,Atlético,Sevilla,,
+,17,Real Betis,Madrid CFF,,
+,17,Villarreal CF,CD Alavés,,
+,17,Levante Las Planas,Valencia,,
+,17,Real Madrid,Athletic,,
+,17,Real Sociedad,Sporting de Huelva,,
+,17,UDG Tenerife Sur,Barcelona,,
+,17,Levante,Alhama CF,,
+25-01-2023,16,Athletic,Levante,,
+,16,Real Betis,Alhama CF,,
+,16,CD Alavés,Real Madrid,,
+,16,Barcelona,Levante Las Planas,,
+,16,Sevilla,Sporting de Huelva,,
+,16,Valencia,Villarreal CF,,
+,16,Madrid CFF,Atlético,,
+,16,UDG Tenerife Sur,Real Sociedad,,
+15-01-2023,15,Alhama CF,Athletic,,
+,15,Atlético,Villarreal CF,,
+,15,Sevilla,Madrid CFF,,
+,15,Valencia,Real Sociedad,,
+,15,Sporting de Huelva,Barcelona,,
+,15,Levante Las Planas,CD Alavés,,
+,15,Real Madrid,Real Betis,,
+,15,Levante,UDG Tenerife Sur,,
+08-01-2023,14,Athletic,Levante Las Planas,,
+,14,Real Betis,Sporting de Huelva,,
+,14,CD Alavés,Valencia,,
+,14,Barcelona,Sevilla,,
+,14,Villarreal CF,Levante,,
+,14,Madrid CFF,Real Madrid,,
+,14,Real Sociedad,Alhama CF,,
+,14,UDG Tenerife Sur,Atlético,,
+18-12-2022,13,Alhama CF,CD Alavés,,
+,13,Atlético,Real Betis,,
+,13,Sevilla,Athletic,,
+,13,Valencia,Barcelona,,
+,13,Sporting de Huelva,UDG Tenerife Sur,,
+,13,Levante Las Planas,Villarreal CF,,
+,13,Real Madrid,Real Sociedad,,
+,13,Levante,Madrid CFF,,
+11-12-2022,12,Real Betis,Athletic,,
+,12,CD Alavés,Sevilla,,
+,12,Barcelona,Alhama CF,,
+,12,Villarreal CF,Sporting de Huelva,,
+,12,Madrid CFF,Valencia,,
+,12,Real Madrid,Atlético,,
+,12,Real Sociedad,Levante,,
+,12,UDG Tenerife Sur,Levante Las Planas,,
+04-12-2022,11,Alhama CF,Villarreal CF,,
+,11,Athletic,Madrid CFF,,
+,11,Real Betis,Levante,,
+,11,Barcelona,Real Sociedad,,
+,11,Sevilla,UDG Tenerife Sur,,
+,11,Valencia,Atlético,,
+,11,Sporting de Huelva,CD Alavés,,
+,11,Levante Las Planas,Real Madrid,,
+27-11-2022,10,Atlético,Barcelona,,
+,10,CD Alavés,Real Betis,,
+,10,Villarreal CF,Athletic,,
+,10,Madrid CFF,Sporting de Huelva,,
+,10,Real Madrid,Alhama CF,,
+,10,Real Sociedad,Levante Las Planas,,
+,10,UDG Tenerife Sur,Valencia,,
+,10,Levante,Sevilla,,
+20-11-2022,9,Alhama CF,UDG Tenerife Sur,,
+,9,Athletic,Real Sociedad,,
+,9,Real Betis,Sevilla,,
+,9,Barcelona,CD Alavés,,
+,9,Valencia,Levante,,
+,9,Sporting de Huelva,Real Madrid,,
+,9,Levante Las Planas,Atlético,,
+,9,Madrid CFF,Villarreal CF,,
+06-11-2022,8,Atlético,Alhama CF,,
+,8,Sevilla,Levante Las Planas,,
+,8,Valencia,Athletic,,
+,8,Villarreal CF,Real Betis,,
+,8,Real Madrid,Barcelona,,
+,8,Real Sociedad,Madrid CFF,,
+,8,UDG Tenerife Sur,CD Alavés,,
+,8,Levante,Sporting de Huelva,,
+30-10-2022,7,Alhama CF,Real Betis,,
+,7,Athletic,Atlético,,
+,7,CD Alavés,Real Sociedad,,
+,7,Barcelona,Levante,,
+,7,Villarreal CF,Valencia,,
+,7,Levante Las Planas,Sporting de Huelva,,
+,7,Madrid CFF,UDG Tenerife Sur,,
+,7,Real Madrid,Sevilla,,
+23-10-2022,6,Atlético,Madrid CFF,,
+,6,Real Betis,Barcelona,,
+,6,CD Alavés,Athletic,,
+,6,Sevilla,Alhama CF,,
+,6,Valencia,Levante Las Planas,,
+,6,Sporting de Huelva,Real Sociedad,,
+,6,UDG Tenerife Sur,Villarreal CF,,
+,6,Levante,Real Madrid,,
+16-10-2022,5,Alhama CF,Valencia,,
+,5,Athletic,Barcelona,,
+,5,Atlético,Sporting de Huelva,,
+,5,Villarreal CF,Sevilla,,
+,5,Levante Las Planas,Levante,,
+,5,Madrid CFF,Real Betis,,
+,5,Real Madrid,CD Alavés,,
+,5,Real Sociedad,UDG Tenerife Sur,,
+02-10-2022,4,Athletic,Real Madrid,,
+,4,Real Betis,UDG Tenerife Sur,,
+,4,CD Alavés,Villarreal CF,,
+,4,Barcelona,Madrid CFF,,
+,4,Sevilla,Real Sociedad,,
+,4,Sporting de Huelva,Valencia,,
+,4,Levante Las Planas,Alhama CF,,
+,4,Levante,Atlético,,
+25-09-2022,3,Atlético,CD Alavés,,
+,3,Valencia,Sevilla,,
+,3,Villarreal CF,Barcelona,,
+,3,Sporting de Huelva,Alhama CF,,
+,3,Madrid CFF,Levante Las Planas,,
+,3,Real Sociedad,Real Betis,,
+,3,UDG Tenerife Sur,Real Madrid,,
+,3,Levante,Athletic,,
+18-09-2022,2,Alhama CF,Levante,,
+,2,Athletic,Sporting de Huelva,,
+,2,Real Betis,Levante Las Planas,,
+,2,CD Alavés,Madrid CFF,,
+,2,Barcelona,UDG Tenerife Sur,,
+,2,Sevilla,Atlético,,
+,2,Real Madrid,Valencia,,
+,2,Real Sociedad,Villarreal CF,,
+11-09-2022,1,Alhama CF,Madrid CFF,,
+,1,Atlético,Real Sociedad,,
+,1,Valencia,Real Betis,,
+,1,Villarreal CF,Real Madrid,,
+,1,Sporting de Huelva,Sevilla,,
+,1,Levante Las Planas,Barcelona,,
+,1,UDG Tenerife Sur,Athletic,,
+,1,Levante,CD Alavés,,
+14-05-2022,30,Real Betis,Rayo,1.0,3.0
+,30,Levante,UDG Tenerife Sur,4.0,1.0
+15-05-2022,30,Sporting de Huelva,Madrid CFF,2.0,0.0
+,30,SD Eibar,Valencia,5.0,1.0
+,30,Athletic,Sevilla,1.0,4.0
+,30,Barcelona,Atlético,2.0,1.0
+,30,Real Madrid,Villarreal CF,1.0,0.0
+,30,Real Sociedad,CD Alavés,6.0,1.0
+07-05-2022,29,CD Alavés,Athletic,1.0,3.0
+08-05-2022,29,Atlético,SD Eibar,3.0,1.0
+,29,Sevilla,Sporting de Huelva,3.0,1.0
+,29,Valencia,Real Madrid,0.0,0.0
+,29,Villarreal CF,Real Betis,2.0,0.0
+,29,UDG Tenerife Sur,Real Sociedad,1.0,1.0
+,29,Madrid CFF,Levante,1.0,3.0
+,29,Rayo,Barcelona,1.0,6.0
+30-04-2022,28,Real Betis,Valencia,0.0,0.0
+,28,Athletic,UDG Tenerife Sur,2.0,1.0
+01-05-2022,28,Real Madrid,Madrid CFF,1.0,0.0
+,28,Levante,Atlético,0.0,5.0
+,28,SD Eibar,Villarreal CF,1.0,1.0
+,28,Sporting de Huelva,CD Alavés,2.0,1.0
+,28,Real Sociedad,Rayo,4.0,0.0
+05-05-2022,28,Barcelona,Sevilla,5.0,1.0
+16-04-2022,27,Sevilla,Real Sociedad,1.0,2.0
+,27,Valencia,Barcelona,0.0,2.0
+,27,UDG Tenerife Sur,SD Eibar,3.0,2.0
+17-04-2022,27,CD Alavés,Real Madrid,0.0,1.0
+,27,Rayo,Levante,3.0,4.0
+,27,Atlético,Athletic,3.0,0.0
+,27,Villarreal CF,Sporting de Huelva,1.0,1.0
+,27,Madrid CFF,Real Betis,2.0,2.0
+02-04-2022,26,Athletic,Valencia,2.0,2.0
+,26,Barcelona,Villarreal CF,6.0,1.0
+,26,Real Sociedad,Madrid CFF,0.0,1.0
+,26,Real Betis,Atlético,1.0,1.0
+03-04-2022,26,Levante,Sevilla,3.0,0.0
+,26,SD Eibar,CD Alavés,2.0,0.0
+,26,Sporting de Huelva,Real Madrid,3.0,1.0
+,26,Rayo,UDG Tenerife Sur,1.0,2.0
+26-03-2022,25,Sevilla,SD Eibar,4.0,1.0
+,25,Madrid CFF,Barcelona,1.0,2.0
+,25,Real Madrid,Levante,1.0,0.0
+,25,Atlético,Valencia,3.0,0.0
+,25,CD Alavés,Rayo,3.0,1.0
+,25,Villarreal CF,Athletic,1.0,1.0
+27-03-2022,25,Sporting de Huelva,Real Sociedad,1.0,2.0
+,25,UDG Tenerife Sur,Real Betis,0.0,0.0
+12-03-2022,24,SD Eibar,Sporting de Huelva,1.0,2.0
+,24,Athletic,Madrid CFF,2.0,1.0
+,24,Real Betis,Real Sociedad,0.0,3.0
+13-03-2022,24,Rayo,Atlético,0.0,0.0
+,24,Barcelona,Real Madrid,5.0,0.0
+,24,UDG Tenerife Sur,Sevilla,1.0,0.0
+30-03-2022,24,Levante,CD Alavés,3.0,0.0
+,24,Valencia,Villarreal CF,2.0,1.0
+05-03-2022,23,Real Madrid,Athletic,2.0,0.0
+06-03-2022,23,Atlético,UDG Tenerife Sur,4.0,1.0
+,23,CD Alavés,Barcelona,0.0,6.0
+,23,Sporting de Huelva,Rayo,1.0,1.0
+,23,Madrid CFF,Valencia,1.0,0.0
+,23,Real Sociedad,SD Eibar,2.0,1.0
+,23,Sevilla,Real Betis,0.0,0.0
+20-03-2022,23,Villarreal CF,Levante,0.0,2.0
+12-02-2022,22,Real Betis,Sporting de Huelva,0.0,0.0
+13-02-2022,22,SD Eibar,Real Madrid,0.0,2.0
+,22,Levante,Real Sociedad,1.0,0.0
+,22,Valencia,CD Alavés,1.0,0.0
+,22,Athletic,Barcelona,0.0,3.0
+,22,Atlético,Sevilla,5.0,0.0
+,22,Rayo,Madrid CFF,3.0,2.0
+,22,UDG Tenerife Sur,Villarreal CF,3.0,1.0
+06-02-2022,21,Real Sociedad,Atlético,2.0,2.0
+,21,CD Alavés,Sevilla,1.0,1.0
+,21,Barcelona,SD Eibar,7.0,0.0
+,21,Villarreal CF,Rayo,1.0,0.0
+,21,Sporting de Huelva,Athletic,2.0,0.0
+,21,Madrid CFF,UDG Tenerife Sur,0.0,1.0
+,21,Real Madrid,Real Betis,1.0,0.0
+,21,Valencia,Levante,2.0,0.0
+02-02-2022,20,Real Betis,CD Alavés,4.0,1.0
+,20,UDG Tenerife Sur,Sporting de Huelva,1.0,0.0
+,20,Atlético,Madrid CFF,3.0,2.0
+,20,Sevilla,Villarreal CF,0.0,3.0
+,20,Rayo,Valencia,1.0,1.0
+,20,Levante,Barcelona,1.0,4.0
+,20,Real Sociedad,Real Madrid,1.0,3.0
+,20,Athletic,SD Eibar,3.0,1.0
+29-01-2022,19,Barcelona,Real Betis,4.0,0.0
+,19,Villarreal CF,Real Sociedad,1.0,4.0
+,19,Real Madrid,Sevilla,3.0,1.0
+30-01-2022,19,Valencia,UDG Tenerife Sur,1.0,2.0
+,19,SD Eibar,Madrid CFF,2.0,1.0
+,19,Athletic,Rayo,2.0,1.0
+,19,CD Alavés,Atlético,1.0,1.0
+,19,Sporting de Huelva,Levante,1.0,1.0
+15-01-2022,18,Madrid CFF,Villarreal CF,2.0,4.0
+16-01-2022,18,Real Betis,SD Eibar,2.0,0.0
+,18,Levante,Athletic,2.0,3.0
+,18,Atlético,Sporting de Huelva,3.0,2.0
+,18,Sevilla,Valencia,3.0,1.0
+,18,UDG Tenerife Sur,CD Alavés,1.0,0.0
+09-02-2022,18,Real Sociedad,Barcelona,1.0,9.0
+20-04-2022,18,Rayo,Real Madrid,0.0,1.0
+12-01-2022,17,Villarreal CF,Atlético,0.0,5.0
+,17,SD Eibar,Levante,1.0,2.0
+,17,Barcelona,Sporting de Huelva,5.0,0.0
+,17,Sevilla,Rayo,2.0,1.0
+,17,Valencia,Real Sociedad,0.0,3.0
+,17,CD Alavés,Madrid CFF,2.0,1.0
+,17,Athletic,Real Betis,1.0,1.0
+19-03-2022,17,Real Madrid,UDG Tenerife Sur,2.0,0.0
+08-01-2022,16,Villarreal CF,CD Alavés,3.0,1.0
+,16,Madrid CFF,Sevilla,1.0,2.0
+,16,UDG Tenerife Sur,Barcelona,0.0,7.0
+09-01-2022,16,Rayo,SD Eibar,0.0,1.0
+,16,Real Betis,Levante,1.0,0.0
+,16,Sporting de Huelva,Valencia,2.0,0.0
+,16,Real Sociedad,Athletic,1.0,0.0
+09-03-2022,16,Atlético,Real Madrid,0.0,2.0
+22-12-2021,15,Real Betis,Villarreal CF,0.0,1.0
+,15,Real Madrid,Sporting de Huelva,3.0,0.0
+,15,CD Alavés,Real Sociedad,0.0,4.0
+,15,Barcelona,Madrid CFF,7.0,0.0
+,15,Sevilla,UDG Tenerife Sur,1.0,2.0
+,15,Valencia,SD Eibar,2.0,0.0
+09-02-2022,15,Levante,Rayo,4.0,2.0
+,15,Athletic,Atlético,2.0,1.0
+18-12-2021,14,SD Eibar,Real Sociedad,2.0,3.0
+,14,Atlético,Real Betis,6.0,1.0
+,14,Barcelona,Rayo,4.0,0.0
+,14,Villarreal CF,Valencia,0.0,2.0
+,14,Sporting de Huelva,Sevilla,0.0,0.0
+,14,UDG Tenerife Sur,Athletic,2.0,0.0
+19-12-2021,14,Madrid CFF,Real Madrid,1.0,3.0
+,14,CD Alavés,Levante,1.0,1.0
+11-12-2021,13,Athletic,CD Alavés,4.0,1.0
+12-12-2021,13,Levante,Villarreal CF,1.0,2.0
+,13,Valencia,Madrid CFF,1.0,3.0
+,13,SD Eibar,UDG Tenerife Sur,0.0,2.0
+,13,Rayo,Real Betis,0.0,2.0
+,13,Sevilla,Atlético,0.0,0.0
+,13,Real Madrid,Barcelona,1.0,3.0
+,13,Real Sociedad,Sporting de Huelva,2.0,2.0
+04-12-2021,12,Real Betis,Sevilla,0.0,0.0
+,12,Barcelona,Athletic,4.0,0.0
+,12,UDG Tenerife Sur,Rayo,3.0,2.0
+,12,Villarreal CF,Real Madrid,0.0,2.0
+05-12-2021,12,Sporting de Huelva,SD Eibar,1.0,1.0
+,12,Atlético,Levante,2.0,1.0
+,12,CD Alavés,Valencia,3.0,1.0
+,12,Madrid CFF,Real Sociedad,1.0,2.0
+20-11-2021,11,Athletic,Sporting de Huelva,2.0,2.0
+,11,Sevilla,Barcelona,1.0,10.0
+,11,Levante,Madrid CFF,4.0,0.0
+21-11-2021,11,Valencia,Real Betis,1.0,0.0
+,11,Real Sociedad,UDG Tenerife Sur,3.0,0.0
+,11,SD Eibar,Atlético,0.0,3.0
+,11,Rayo,Villarreal CF,2.0,2.0
+,11,Real Madrid,CD Alavés,1.0,1.0
+13-11-2021,10,Atlético,Real Sociedad,0.0,1.0
+,10,Barcelona,Levante,4.0,0.0
+,10,Madrid CFF,Sporting de Huelva,2.0,1.0
+,10,Real Betis,Real Madrid,1.0,4.0
+14-11-2021,10,Villarreal CF,Sevilla,2.0,3.0
+,10,Rayo,Athletic,0.0,2.0
+,10,CD Alavés,SD Eibar,1.0,0.0
+,10,UDG Tenerife Sur,Valencia,2.0,1.0
+06-11-2021,9,Villarreal CF,Madrid CFF,0.0,3.0
+,9,Sporting de Huelva,UDG Tenerife Sur,0.0,3.0
+,9,Real Madrid,Rayo,1.0,0.0
+,9,SD Eibar,Barcelona,0.0,3.0
+,9,Athletic,Levante,2.0,3.0
+,9,Real Sociedad,Real Betis,4.0,0.0
+,9,Sevilla,CD Alavés,1.0,0.0
+07-11-2021,9,Valencia,Atlético,1.0,1.0
+31-10-2021,8,Real Betis,Athletic,4.0,2.0
+,8,Levante,Sporting de Huelva,0.0,0.0
+,8,Atlético,Villarreal CF,3.0,0.0
+,8,CD Alavés,UDG Tenerife Sur,1.0,1.0
+,8,Barcelona,Real Sociedad,8.0,1.0
+,8,Rayo,Sevilla,1.0,0.0
+,8,Real Madrid,Valencia,2.0,1.0
+,8,Madrid CFF,SD Eibar,1.0,3.0
+16-10-2021,7,Valencia,Rayo,1.0,0.0
+,7,Sevilla,Real Madrid,3.0,0.0
+17-10-2021,7,SD Eibar,Real Betis,1.0,2.0
+,7,Sporting de Huelva,Barcelona,0.0,5.0
+,7,Madrid CFF,CD Alavés,0.0,1.0
+,7,UDG Tenerife Sur,Atlético,1.0,1.0
+,7,Athletic,Villarreal CF,2.0,1.0
+,7,Real Sociedad,Levante,0.0,1.0
+09-10-2021,6,CD Alavés,Sporting de Huelva,0.0,0.0
+,6,Atlético,Barcelona,0.0,3.0
+10-10-2021,6,Real Betis,Madrid CFF,4.0,5.0
+,6,Sevilla,Athletic,0.0,0.0
+,6,Levante,Valencia,1.0,0.0
+,6,Rayo,Real Sociedad,1.0,3.0
+,6,Real Madrid,SD Eibar,2.0,1.0
+10-11-2021,6,Villarreal CF,UDG Tenerife Sur,0.0,2.0
+02-10-2021,5,Barcelona,CD Alavés,9.0,1.0
+03-10-2021,5,SD Eibar,Rayo,4.0,0.0
+,5,Athletic,Real Madrid,2.0,0.0
+,5,Sporting de Huelva,Real Betis,0.0,1.0
+,5,Real Sociedad,Villarreal CF,4.0,0.0
+,5,Valencia,Sevilla,1.0,2.0
+,5,Madrid CFF,Atlético,2.0,2.0
+,5,UDG Tenerife Sur,Levante,2.0,0.0
+29-09-2021,4,Rayo,Sporting de Huelva,0.0,0.0
+,4,Sevilla,Madrid CFF,2.0,2.0
+,4,Villarreal CF,Barcelona,0.0,8.0
+,4,Levante,SD Eibar,5.0,0.0
+,4,Valencia,Athletic,1.0,3.0
+,4,Real Madrid,Real Sociedad,0.0,1.0
+,4,Atlético,CD Alavés,3.0,2.0
+,4,Real Betis,UDG Tenerife Sur,2.0,2.0
+25-09-2021,3,SD Eibar,Athletic,1.0,2.0
+,3,Barcelona,Valencia,8.0,0.0
+,3,Real Sociedad,Sevilla,2.0,0.0
+,3,CD Alavés,Villarreal CF,2.0,0.0
+,3,Madrid CFF,Rayo,4.0,2.0
+,3,UDG Tenerife Sur,Real Madrid,1.0,1.0
+26-09-2021,3,Levante,Real Betis,1.0,1.0
+,3,Sporting de Huelva,Atlético,0.0,3.0
+11-09-2021,2,Real Betis,Barcelona,0.0,5.0
+12-09-2021,2,Sevilla,Levante,0.0,0.0
+,2,Villarreal CF,SD Eibar,1.0,0.0
+,2,Valencia,Sporting de Huelva,2.0,2.0
+,2,Athletic,Real Sociedad,0.0,1.0
+,2,Rayo,CD Alavés,1.0,2.0
+,2,Real Madrid,Atlético,0.0,2.0
+,2,UDG Tenerife Sur,Madrid CFF,1.0,2.0
+04-09-2021,1,Barcelona,UDG Tenerife Sur,5.0,0.0
+,1,Atlético,Rayo,5.0,0.0
+05-09-2021,1,SD Eibar,Sevilla,3.0,2.0
+,1,Levante,Real Madrid,4.0,0.0
+,1,Sporting de Huelva,Villarreal CF,0.0,0.0
+,1,CD Alavés,Real Betis,2.0,1.0
+,1,Real Sociedad,Valencia,4.0,1.0
+,1,Madrid CFF,Athletic,0.0,2.0
+26-06-2021,34,Sevilla,Espanyol,2.0,1.0
+27-06-2021,34,Atlético,Levante,1.0,0.0
+,34,Barcelona,SD Eibar,9.0,1.0
+,34,Rayo,EDF Logroño,0.0,0.0
+,34,Real Madrid,UDG Tenerife Sur,1.0,1.0
+,34,Sporting de Huelva,Santa Teresa CD,2.0,1.0
+,34,Deportivo de La Coruña,Athletic,3.0,0.0
+,34,Valencia,Real Sociedad,1.0,3.0
+,34,Madrid CFF,Real Betis,2.0,2.0
+19-06-2021,33,Real Betis,Deportivo de La Coruña,3.0,1.0
+,33,Espanyol,Madrid CFF,3.0,3.0
+,33,SD Eibar,Sporting de Huelva,1.0,3.0
+20-06-2021,33,Athletic,Sevilla,2.0,0.0
+,33,EDF Logroño,Atlético,0.0,2.0
+,33,Santa Teresa CD,Real Madrid,1.0,5.0
+,33,UDG Tenerife Sur,Rayo,2.0,0.0
+,33,Levante,Valencia,1.0,1.0
+,33,Real Sociedad,Barcelona,1.0,4.0
+05-06-2021,32,Deportivo de La Coruña,UDG Tenerife Sur,1.0,1.0
+,32,Atlético,Espanyol,4.0,1.0
+,32,Sevilla,Real Betis,2.0,0.0
+06-06-2021,32,Real Madrid,Real Sociedad,3.0,2.0
+,32,Levante,Athletic,4.0,0.0
+,32,Rayo,Santa Teresa CD,5.0,0.0
+,32,EDF Logroño,SD Eibar,1.0,2.0
+,32,Barcelona,Madrid CFF,3.0,2.0
+,32,Valencia,Sporting de Huelva,3.0,1.0
+22-05-2021,31,Madrid CFF,Levante,2.0,3.0
+,31,SD Eibar,Valencia,0.0,1.0
+,31,Real Betis,Rayo,1.0,1.0
+,31,Espanyol,Barcelona,2.0,3.0
+23-05-2021,31,Athletic,Real Madrid,1.0,3.0
+,31,Sporting de Huelva,Deportivo de La Coruña,3.0,0.0
+,31,Santa Teresa CD,EDF Logroño,1.0,1.0
+,31,UDG Tenerife Sur,Sevilla,2.0,0.0
+,31,Real Sociedad,Atlético,0.0,0.0
+15-05-2021,30,Sevilla,Madrid CFF,0.0,1.0
+,30,Valencia,Real Betis,1.0,2.0
+,30,Atlético,Athletic,3.0,1.0
+,30,Deportivo de La Coruña,Espanyol,2.0,1.0
+,30,Rayo,Real Sociedad,1.0,2.0
+16-05-2021,30,EDF Logroño,UDG Tenerife Sur,2.0,1.0
+,30,Real Madrid,SD Eibar,2.0,0.0
+,30,Levante,Santa Teresa CD,1.0,1.0
+24-06-2021,30,Barcelona,Sporting de Huelva,5.0,0.0
+08-05-2021,29,Real Betis,SD Eibar,0.0,0.0
+,29,Rayo,Real Madrid,0.0,3.0
+09-05-2021,29,Sevilla,Deportivo de La Coruña,3.0,1.0
+,29,Sporting de Huelva,EDF Logroño,3.0,1.0
+,29,Madrid CFF,Atlético,0.0,1.0
+,29,Santa Teresa CD,Valencia,0.0,1.0
+,29,UDG Tenerife Sur,Barcelona,0.0,1.0
+,29,Espanyol,Levante,1.0,1.0
+,29,Athletic,Real Sociedad,2.0,1.0
+01-05-2021,28,SD Eibar,UDG Tenerife Sur,2.0,1.0
+,28,Atlético,Rayo,0.0,0.0
+,28,EDF Logroño,Real Betis,0.0,1.0
+02-05-2021,28,Deportivo de La Coruña,Madrid CFF,3.0,0.0
+,28,Valencia,Espanyol,2.0,1.0
+,28,Real Madrid,Sporting de Huelva,1.0,1.0
+,28,Levante,Sevilla,2.0,1.0
+19-05-2021,28,Barcelona,Athletic,8.0,0.0
+30-05-2021,28,Real Sociedad,Santa Teresa CD,4.0,1.0
+24-04-2021,27,Real Betis,Real Sociedad,2.0,2.0
+,27,UDG Tenerife Sur,Levante,0.0,2.0
+,27,Rayo,Sevilla,3.0,2.0
+25-04-2021,27,Athletic,EDF Logroño,2.0,1.0
+,27,Deportivo de La Coruña,Valencia,1.0,1.0
+,27,Sporting de Huelva,Espanyol,2.0,1.0
+,27,Madrid CFF,Real Madrid,0.0,2.0
+,27,Santa Teresa CD,SD Eibar,2.0,0.0
+01-06-2021,27,Atlético,Barcelona,4.0,3.0
+17-04-2021,26,Espanyol,Rayo,2.0,2.0
+,26,SD Eibar,Athletic,2.0,5.0
+,26,Barcelona,Deportivo de La Coruña,9.0,0.0
+,26,Real Sociedad,EDF Logroño,3.0,1.0
+,26,UDG Tenerife Sur,Santa Teresa CD,3.0,1.0
+,26,Levante,Sporting de Huelva,2.0,2.0
+,26,Valencia,Madrid CFF,2.0,0.0
+18-04-2021,26,Sevilla,Atlético,3.0,2.0
+,26,Real Madrid,Real Betis,1.0,1.0
+03-04-2021,25,Real Sociedad,SD Eibar,0.0,1.0
+,25,Rayo,Valencia,3.0,3.0
+,25,Madrid CFF,UDG Tenerife Sur,2.0,4.0
+04-04-2021,25,Athletic,Santa Teresa CD,2.0,1.0
+,25,Sporting de Huelva,Sevilla,4.0,2.0
+,25,Barcelona,Levante,7.0,1.0
+,25,Real Betis,Espanyol,0.0,0.0
+,25,EDF Logroño,Real Madrid,0.0,4.0
+19-05-2021,25,Atlético,Deportivo de La Coruña,1.0,1.0
+27-03-2021,24,Deportivo de La Coruña,Real Madrid,0.0,2.0
+,24,Sevilla,Barcelona,0.0,4.0
+,24,Levante,EDF Logroño,3.0,2.0
+,24,SD Eibar,Rayo,0.0,0.0
+28-03-2021,24,Santa Teresa CD,Real Betis,0.0,2.0
+,24,UDG Tenerife Sur,Athletic,3.0,2.0
+,24,Madrid CFF,Sporting de Huelva,1.0,0.0
+,24,Espanyol,Real Sociedad,0.0,4.0
+,24,Valencia,Atlético,0.0,0.0
+20-03-2021,23,Athletic,Valencia,2.0,0.0
+,23,SD Eibar,Espanyol,0.0,1.0
+,23,Sporting de Huelva,Atlético,1.0,0.0
+,23,Rayo,Barcelona,0.0,4.0
+21-03-2021,23,Real Betis,UDG Tenerife Sur,1.0,2.0
+,23,EDF Logroño,Deportivo de La Coruña,3.0,0.0
+,23,Santa Teresa CD,Madrid CFF,0.0,3.0
+,23,Real Sociedad,Sevilla,2.0,2.0
+,23,Real Madrid,Levante,1.0,2.0
+13-03-2021,22,Deportivo de La Coruña,Rayo,3.0,0.0
+,22,Levante,Real Betis,1.0,1.0
+,22,Espanyol,Santa Teresa CD,1.0,2.0
+14-03-2021,22,Madrid CFF,SD Eibar,3.0,1.0
+,22,Athletic,Sporting de Huelva,1.0,1.0
+,22,UDG Tenerife Sur,Real Sociedad,1.0,2.0
+,22,Atlético,Real Madrid,0.0,1.0
+,22,Sevilla,EDF Logroño,0.0,0.0
+,22,Barcelona,Valencia,5.0,0.0
+06-03-2021,21,Valencia,Sevilla,1.0,2.0
+,21,SD Eibar,Levante,0.0,2.0
+,21,Santa Teresa CD,Barcelona,0.0,3.0
+07-03-2021,21,Real Sociedad,Deportivo de La Coruña,2.0,0.0
+,21,EDF Logroño,Madrid CFF,2.0,2.0
+,21,Sporting de Huelva,UDG Tenerife Sur,2.0,1.0
+,21,Real Madrid,Espanyol,4.0,1.0
+,21,Real Betis,Atlético,0.0,4.0
+,21,Rayo,Athletic,2.0,3.0
+10-02-2021,20,Deportivo de La Coruña,SD Eibar,0.0,0.0
+,20,Sporting de Huelva,Rayo,1.0,0.0
+,20,Madrid CFF,Athletic,1.0,0.0
+,20,Atlético,Santa Teresa CD,0.0,1.0
+,20,Valencia,EDF Logroño,3.0,2.0
+,20,Barcelona,Real Betis,6.0,0.0
+11-02-2021,20,Sevilla,Real Madrid,1.0,1.0
+,20,Levante,Real Sociedad,3.0,2.0
+17-03-2021,20,Espanyol,UDG Tenerife Sur,2.0,3.0
+06-02-2021,19,Real Betis,Sporting de Huelva,2.0,0.0
+,19,EDF Logroño,Barcelona,0.0,2.0
+,19,Real Sociedad,Madrid CFF,1.0,1.0
+,19,Real Madrid,Valencia,3.0,1.0
+,19,UDG Tenerife Sur,Atlético,2.0,2.0
+,19,Rayo,Levante,1.0,1.0
+07-02-2021,19,Athletic,Espanyol,3.0,0.0
+,19,Santa Teresa CD,Deportivo de La Coruña,0.0,3.0
+,19,SD Eibar,Sevilla,1.0,3.0
+30-01-2021,18,Sevilla,Santa Teresa CD,1.0,1.0
+31-01-2021,18,Atlético,SD Eibar,2.0,1.0
+,18,Barcelona,Real Madrid,4.0,1.0
+,18,Madrid CFF,Rayo,2.0,1.0
+,18,Espanyol,EDF Logroño,1.0,0.0
+,18,Deportivo de La Coruña,Levante,1.0,3.0
+27-02-2021,18,Valencia,UDG Tenerife Sur,2.0,2.0
+,18,Real Betis,Athletic,1.0,0.0
+24-03-2021,18,Sporting de Huelva,Real Sociedad,1.0,2.0
+26-01-2021,17,Real Madrid,Santa Teresa CD,1.0,0.0
+27-01-2021,17,Madrid CFF,Sevilla,1.0,0.0
+,17,Espanyol,Valencia,1.0,1.0
+,17,EDF Logroño,Rayo,2.0,1.0
+,17,Real Sociedad,Real Betis,5.0,1.0
+28-01-2021,17,Levante,Atlético,3.0,0.0
+14-02-2021,17,UDG Tenerife Sur,SD Eibar,2.0,1.0
+03-03-2021,17,Deportivo de La Coruña,Sporting de Huelva,1.0,0.0
+22-06-2021,17,Athletic,Barcelona,0.0,4.0
+23-01-2021,16,SD Eibar,Real Sociedad,2.0,2.0
+,16,Real Betis,Madrid CFF,1.0,2.0
+,16,Santa Teresa CD,Athletic,2.0,2.0
+24-01-2021,16,Valencia,Deportivo de La Coruña,3.0,0.0
+,16,Atlético,Sevilla,3.0,0.0
+14-02-2021,16,Rayo,Espanyol,2.0,0.0
+27-02-2021,16,Sporting de Huelva,Levante,1.0,2.0
+03-03-2021,16,Real Madrid,EDF Logroño,2.0,0.0
+20-04-2021,16,Barcelona,UDG Tenerife Sur,6.0,1.0
+09-01-2021,15,Levante,UDG Tenerife Sur,1.0,0.0
+10-01-2021,15,Athletic,SD Eibar,0.0,1.0
+16-01-2021,15,Sevilla,Rayo,0.0,0.0
+,15,Espanyol,Sporting de Huelva,1.0,1.0
+14-02-2021,15,Atlético,Valencia,4.0,1.0
+,15,Deportivo de La Coruña,Real Betis,1.0,3.0
+28-02-2021,15,EDF Logroño,Santa Teresa CD,2.0,2.0
+,15,Real Sociedad,Real Madrid,3.0,1.0
+28-04-2021,15,Madrid CFF,Barcelona,0.0,2.0
+05-01-2021,14,UDG Tenerife Sur,Deportivo de La Coruña,4.0,1.0
+06-01-2021,14,Real Sociedad,Athletic,1.0,0.0
+,14,SD Eibar,EDF Logroño,2.0,0.0
+,14,Real Betis,Sevilla,0.0,2.0
+,14,Real Madrid,Madrid CFF,2.0,0.0
+,14,Rayo,Atlético,1.0,1.0
+,14,Barcelona,Espanyol,5.0,0.0
+,14,Valencia,Levante,2.0,3.0
+14-02-2021,14,Santa Teresa CD,Sporting de Huelva,0.0,1.0
+22-12-2020,13,EDF Logroño,Athletic,3.0,0.0
+,13,Levante,Madrid CFF,4.0,2.0
+,13,Deportivo de La Coruña,Barcelona,1.0,6.0
+,13,Santa Teresa CD,Rayo,0.0,1.0
+,13,Sporting de Huelva,Real Madrid,0.0,1.0
+,13,Sevilla,UDG Tenerife Sur,2.0,1.0
+,13,Valencia,SD Eibar,4.0,2.0
+,13,Espanyol,Real Betis,2.0,1.0
+,13,Atlético,Real Sociedad,3.0,2.0
+19-12-2020,12,Real Betis,EDF Logroño,1.0,3.0
+,12,Athletic,Rayo,0.0,0.0
+,12,Barcelona,Sevilla,6.0,0.0
+,12,Real Madrid,Atlético,0.0,1.0
+,12,UDG Tenerife Sur,Sporting de Huelva,1.0,1.0
+,12,Levante,Espanyol,1.0,0.0
+,12,Madrid CFF,Deportivo de La Coruña,1.0,1.0
+,12,Real Sociedad,Valencia,2.0,2.0
+,12,SD Eibar,Santa Teresa CD,2.0,0.0
+12-12-2020,11,Valencia,Barcelona,0.0,7.0
+13-12-2020,11,Atlético,Madrid CFF,0.0,1.0
+,11,Deportivo de La Coruña,EDF Logroño,2.0,1.0
+,11,Espanyol,Real Madrid,1.0,8.0
+,11,Sporting de Huelva,Athletic,1.0,0.0
+,11,Rayo,SD Eibar,3.0,0.0
+,11,Santa Teresa CD,UDG Tenerife Sur,0.0,1.0
+,11,Sevilla,Real Sociedad,1.0,1.0
+,11,Real Betis,Levante,0.0,2.0
+05-12-2020,10,Athletic,Atlético,3.0,3.0
+,10,EDF Logroño,Sporting de Huelva,1.0,1.0
+,10,Barcelona,Santa Teresa CD,9.0,0.0
+,10,Real Madrid,Sevilla,5.0,2.0
+,10,SD Eibar,Deportivo de La Coruña,2.0,4.0
+,10,Madrid CFF,Valencia,4.0,1.0
+,10,Levante,Rayo,5.0,1.0
+06-12-2020,10,UDG Tenerife Sur,Real Betis,3.0,1.0
+,10,Real Sociedad,Espanyol,1.0,0.0
+21-11-2020,9,Real Betis,Real Madrid,0.0,3.0
+,9,Barcelona,Real Sociedad,5.0,1.0
+,9,Sevilla,Valencia,0.0,0.0
+22-11-2020,9,Athletic,UDG Tenerife Sur,2.0,2.0
+,9,EDF Logroño,Espanyol,1.0,1.0
+,9,Sporting de Huelva,SD Eibar,2.0,2.0
+,9,Rayo,Madrid CFF,1.0,4.0
+,9,Santa Teresa CD,Levante,0.0,2.0
+,9,Deportivo de La Coruña,Atlético,1.0,8.0
+14-11-2020,8,Valencia,Rayo,1.0,0.0
+,8,Levante,Deportivo de La Coruña,4.0,1.0
+15-11-2020,8,Real Madrid,Athletic,1.0,0.0
+,8,UDG Tenerife Sur,EDF Logroño,2.0,0.0
+,8,Espanyol,Sevilla,0.0,3.0
+,8,Real Sociedad,Sporting de Huelva,1.0,0.0
+,8,Atlético,Real Betis,4.0,1.0
+17-01-2021,8,Madrid CFF,Santa Teresa CD,4.0,0.0
+27-02-2021,8,SD Eibar,Barcelona,0.0,3.0
+11-11-2020,7,Athletic,Levante,0.0,2.0
+,7,EDF Logroño,Real Sociedad,0.0,2.0
+,7,Barcelona,Atlético,3.0,0.0
+,7,Santa Teresa CD,Espanyol,1.0,0.0
+,7,Real Betis,Valencia,2.0,1.0
+,7,UDG Tenerife Sur,Real Madrid,2.0,1.0
+09-12-2020,7,Sporting de Huelva,Madrid CFF,1.0,0.0
+,7,Sevilla,SD Eibar,0.0,1.0
+28-02-2021,7,Rayo,Deportivo de La Coruña,3.0,1.0
+07-11-2020,6,Valencia,Santa Teresa CD,5.0,0.0
+08-11-2020,6,Real Sociedad,UDG Tenerife Sur,1.0,2.0
+,6,SD Eibar,Real Madrid,1.0,3.0
+,6,Atlético,Sporting de Huelva,0.0,0.0
+,6,Deportivo de La Coruña,Sevilla,1.0,2.0
+18-11-2020,6,Rayo,Real Betis,1.0,0.0
+,6,Espanyol,Athletic,2.0,1.0
+20-01-2021,6,Madrid CFF,EDF Logroño,2.0,0.0
+03-02-2021,6,Levante,Barcelona,0.0,3.0
+04-11-2020,5,Real Madrid,Deportivo de La Coruña,3.0,0.0
+,5,Sporting de Huelva,Real Betis,0.0,1.0
+,5,EDF Logroño,Valencia,2.0,2.0
+,5,Santa Teresa CD,Real Sociedad,0.0,4.0
+,5,UDG Tenerife Sur,Espanyol,2.0,0.0
+05-11-2020,5,SD Eibar,Atlético,0.0,1.0
+,5,Athletic,Madrid CFF,2.0,0.0
+16-12-2020,5,Sevilla,Levante,1.0,0.0
+20-01-2021,5,Barcelona,Rayo,7.0,0.0
+31-10-2020,4,Real Betis,Barcelona,0.0,5.0
+,4,Espanyol,SD Eibar,0.0,1.0
+,4,Deportivo de La Coruña,Santa Teresa CD,1.0,2.0
+,4,Madrid CFF,Real Sociedad,1.0,0.0
+,4,Valencia,Athletic,1.0,1.0
+01-11-2020,4,Rayo,UDG Tenerife Sur,2.0,3.0
+,4,Sevilla,Sporting de Huelva,4.0,0.0
+,4,Atlético,EDF Logroño,2.0,0.0
+09-12-2020,4,Levante,Real Madrid,1.0,2.0
+17-10-2020,3,Real Sociedad,Levante,3.0,2.0
+18-10-2020,3,Athletic,Real Betis,2.0,2.0
+,3,SD Eibar,Madrid CFF,0.0,1.0
+,3,Sporting de Huelva,Barcelona,0.0,6.0
+,3,Santa Teresa CD,Atlético,0.0,2.0
+,3,Espanyol,Deportivo de La Coruña,3.0,2.0
+,3,UDG Tenerife Sur,Valencia,2.0,1.0
+,3,EDF Logroño,Sevilla,0.0,0.0
+,3,Real Madrid,Rayo,3.0,1.0
+10-10-2020,2,Levante,SD Eibar,2.0,2.0
+,2,Real Betis,Santa Teresa CD,1.0,2.0
+,2,Atlético,UDG Tenerife Sur,1.0,1.0
+11-10-2020,2,Sevilla,Athletic,0.0,2.0
+,2,Deportivo de La Coruña,Real Sociedad,0.0,2.0
+,2,Barcelona,EDF Logroño,6.0,0.0
+,2,Valencia,Real Madrid,1.0,1.0
+,2,Madrid CFF,Espanyol,0.0,1.0
+16-12-2020,2,Rayo,Sporting de Huelva,1.0,0.0
+03-10-2020,1,EDF Logroño,Levante,1.0,2.0
+,1,Athletic,Deportivo de La Coruña,2.0,1.0
+,1,Espanyol,Atlético,0.0,2.0
+04-10-2020,1,Sporting de Huelva,Valencia,1.0,2.0
+,1,SD Eibar,Real Betis,1.0,0.0
+,1,Santa Teresa CD,Sevilla,1.0,1.0
+,1,UDG Tenerife Sur,Madrid CFF,0.0,1.0
+,1,Real Madrid,Barcelona,0.0,4.0
+09-12-2020,1,Real Sociedad,Rayo,2.0,0.0
+17-05-2020,30,Atlético,Rayo,,
+,30,Sevilla,CD Tacón,,
+,30,EDF Logroño,Espanyol,,
+,30,Barcelona,Athletic,,
+,30,Madrid CFF,Real Sociedad,,
+,30,Deportivo de La Coruña,Valencia,,
+,30,Levante,Real Betis,,
+,30,Sporting de Huelva,UDG Tenerife Sur,,
+10-05-2020,29,CD Tacón,Atlético,,
+,29,Valencia,Madrid CFF,,
+,29,Real Sociedad,Deportivo de La Coruña,,
+,29,UDG Tenerife Sur,Barcelona,,
+,29,Real Betis,EDF Logroño,,
+,29,Espanyol,Levante,,
+,29,Rayo,Sevilla,,
+,29,Athletic,Sporting de Huelva,,
+03-05-2020,28,Deportivo de La Coruña,Madrid CFF,,
+,28,CD Tacón,Rayo,,
+,28,Barcelona,Espanyol,,
+,28,Sevilla,Athletic,,
+,28,EDF Logroño,Real Sociedad,,
+,28,Levante,Valencia,,
+,28,Sporting de Huelva,Real Betis,,
+,28,Atlético,UDG Tenerife Sur,,
+26-04-2020,27,Athletic,Atlético,,
+,27,UDG Tenerife Sur,Rayo,,
+,27,Espanyol,CD Tacón,,
+,27,Real Betis,Barcelona,,
+,27,Valencia,EDF Logroño,,
+,27,Deportivo de La Coruña,Levante,,
+,27,Madrid CFF,Sevilla,,
+,27,Real Sociedad,Sporting de Huelva,,
+19-04-2020,26,Levante,Madrid CFF,,
+,26,Sevilla,Deportivo de La Coruña,,
+,26,Sporting de Huelva,Espanyol,,
+,26,EDF Logroño,Athletic,,
+,26,Rayo,Real Sociedad,,
+,26,Barcelona,Valencia,,
+,26,Atlético,Real Betis,,
+,26,CD Tacón,UDG Tenerife Sur,,
+05-04-2020,25,Espanyol,Atlético,,
+,25,Athletic,Rayo,,
+,25,Real Sociedad,CD Tacón,,
+,25,Deportivo de La Coruña,Barcelona,,
+,25,Levante,EDF Logroño,,
+,25,Valencia,Sevilla,,
+,25,Madrid CFF,Sporting de Huelva,,
+,25,Real Betis,UDG Tenerife Sur,,
+29-03-2020,24,Rayo,Madrid CFF,,
+,24,EDF Logroño,Deportivo de La Coruña,,
+,24,UDG Tenerife Sur,Espanyol,,
+,24,CD Tacón,Atlético,,
+,24,Barcelona,Real Sociedad,,
+,24,Atlético,Valencia,,
+,24,Sporting de Huelva,Levante,,
+,24,Sevilla,Real Betis,,
+21-03-2020,23,Deportivo de La Coruña,Atlético,,
+,23,Levante,Barcelona,,
+,23,Valencia,Sporting de Huelva,,
+22-03-2020,23,Espanyol,Rayo,,
+,23,Real Betis,CD Tacón,,
+,23,Madrid CFF,EDF Logroño,,
+,23,Real Sociedad,Sevilla,,
+,23,Athletic,UDG Tenerife Sur,,
+29-02-2020,22,Sevilla,Levante,0.0,2.0
+,22,UDG Tenerife Sur,Valencia,2.0,0.0
+01-03-2020,22,Rayo,Real Betis,0.0,2.0
+,22,Barcelona,Madrid CFF,5.0,0.0
+,22,CD Tacón,Deportivo de La Coruña,3.0,4.0
+,22,Sporting de Huelva,EDF Logroño,1.0,1.0
+,22,Athletic,Espanyol,0.0,0.0
+,22,Atlético,Real Sociedad,3.0,0.0
+22-02-2020,21,Deportivo de La Coruña,Sporting de Huelva,5.0,1.0
+,21,Espanyol,Sevilla,0.0,1.0
+23-02-2020,21,Real Sociedad,UDG Tenerife Sur,1.0,0.0
+,21,Madrid CFF,Atlético,0.0,1.0
+,21,Levante,CD Tacón,2.0,1.0
+,21,EDF Logroño,Barcelona,0.0,6.0
+,21,Real Betis,Athletic,2.0,2.0
+,21,Valencia,Rayo,0.0,0.0
+15-02-2020,20,Sevilla,EDF Logroño,1.0,1.0
+,20,Real Betis,Espanyol,2.0,1.0
+16-02-2020,20,Atlético,Levante,4.0,1.0
+,20,Athletic,Real Sociedad,2.0,1.0
+,20,UDG Tenerife Sur,Madrid CFF,2.0,2.0
+,20,Barcelona,Sporting de Huelva,7.0,0.0
+,20,CD Tacón,Valencia,0.0,0.0
+,20,Rayo,Deportivo de La Coruña,2.0,1.0
+01-02-2020,19,Real Sociedad,Espanyol,4.0,1.0
+,19,Barcelona,Sevilla,3.0,0.0
+,19,Levante,UDG Tenerife Sur,6.0,2.0
+02-02-2020,19,Valencia,Real Betis,2.0,2.0
+,19,Sporting de Huelva,Rayo,1.0,0.0
+,19,Deportivo de La Coruña,Athletic,0.0,2.0
+,19,Madrid CFF,CD Tacón,3.0,4.0
+,19,EDF Logroño,Atlético,0.0,3.0
+25-01-2020,18,Rayo,Levante,0.0,3.0
+,18,Atlético,Barcelona,0.0,0.0
+,18,Real Betis,Real Sociedad,1.0,1.0
+26-01-2020,18,Espanyol,Madrid CFF,1.0,3.0
+,18,Athletic,Valencia,1.0,0.0
+,18,Sevilla,Sporting de Huelva,1.0,0.0
+,18,CD Tacón,EDF Logroño,0.0,1.0
+,18,UDG Tenerife Sur,Deportivo de La Coruña,5.0,3.0
+18-01-2020,17,Valencia,Espanyol,1.0,1.0
+,17,Barcelona,Rayo,3.0,1.0
+,17,Levante,Real Sociedad,3.0,0.0
+19-01-2020,17,EDF Logroño,UDG Tenerife Sur,1.0,1.0
+,17,Sporting de Huelva,CD Tacón,1.0,3.0
+,17,Madrid CFF,Athletic,4.0,1.0
+,17,Sevilla,Atlético,2.0,2.0
+,17,Deportivo de La Coruña,Real Betis,3.0,1.0
+11-01-2020,16,Espanyol,Deportivo de La Coruña,0.0,3.0
+,16,Atlético,Sporting de Huelva,1.0,0.0
+,16,CD Tacón,Barcelona,0.0,6.0
+,16,UDG Tenerife Sur,Sevilla,1.0,0.0
+12-01-2020,16,Rayo,EDF Logroño,3.0,2.0
+,16,Athletic,Levante,1.0,1.0
+,16,Real Sociedad,Valencia,1.0,0.0
+,16,Real Betis,Madrid CFF,2.0,0.0
+04-01-2020,15,CD Tacón,Sevilla,5.0,1.0
+,15,UDG Tenerife Sur,Sporting de Huelva,1.0,3.0
+,15,Espanyol,EDF Logroño,1.0,3.0
+05-01-2020,15,Athletic,Barcelona,0.0,3.0
+,15,Rayo,Atlético,1.0,1.0
+,15,Real Sociedad,Madrid CFF,5.0,0.0
+06-01-2020,15,Real Betis,Levante,0.0,2.0
+,15,Valencia,Deportivo de La Coruña,1.0,1.0
+21-12-2019,14,Atlético,CD Tacón,2.0,1.0
+,14,Barcelona,UDG Tenerife Sur,3.0,1.0
+,14,Sporting de Huelva,Athletic,0.0,3.0
+,14,Madrid CFF,Valencia,1.0,1.0
+,14,Sevilla,Rayo,2.0,2.0
+22-12-2019,14,Levante,Espanyol,1.0,1.0
+,14,EDF Logroño,Real Betis,3.0,2.0
+19-02-2020,14,Deportivo de La Coruña,Real Sociedad,3.0,3.0
+14-12-2019,13,Real Sociedad,EDF Logroño,5.0,0.0
+,13,Espanyol,Barcelona,0.0,4.0
+,13,Real Betis,Sporting de Huelva,1.0,1.0
+15-12-2019,13,Athletic,Sevilla,0.0,0.0
+,13,Madrid CFF,Deportivo de La Coruña,2.0,2.0
+,13,Rayo,CD Tacón,1.0,1.0
+,13,Valencia,Levante,0.0,1.0
+,13,UDG Tenerife Sur,Atlético,0.0,2.0
+07-12-2019,12,EDF Logroño,Valencia,1.0,0.0
+,12,Sporting de Huelva,Real Sociedad,0.0,2.0
+08-12-2019,12,Rayo,UDG Tenerife Sur,3.0,1.0
+,12,Atlético,Athletic,2.0,2.0
+,12,Barcelona,Real Betis,3.0,0.0
+,12,Sevilla,Madrid CFF,1.0,0.0
+,12,CD Tacón,Espanyol,2.0,1.0
+,12,Levante,Deportivo de La Coruña,1.0,0.0
+30-11-2019,11,Espanyol,Sporting de Huelva,0.0,0.0
+,11,Real Betis,Atlético,2.0,2.0
+,11,Valencia,Barcelona,0.0,4.0
+,11,Athletic,EDF Logroño,3.0,0.0
+01-12-2019,11,Deportivo de La Coruña,Sevilla,2.0,1.0
+,11,UDG Tenerife Sur,CD Tacón,1.0,1.0
+,11,Madrid CFF,Levante,0.0,4.0
+,11,Real Sociedad,Rayo,1.0,1.0
+23-11-2019,10,CD Tacón,Real Sociedad,3.0,1.0
+,10,Sporting de Huelva,Madrid CFF,2.0,0.0
+,10,Atlético,Espanyol,3.0,0.0
+24-11-2019,10,Rayo,Athletic,1.0,4.0
+,10,Sevilla,Valencia,4.0,3.0
+,10,Barcelona,Deportivo de La Coruña,6.0,1.0
+,10,UDG Tenerife Sur,Real Betis,1.0,0.0
+,10,EDF Logroño,Levante,3.0,4.0
+16-11-2019,9,Espanyol,UDG Tenerife Sur,,
+,9,Levante,Sporting de Huelva,,
+17-11-2019,9,Madrid CFF,Rayo,,
+,9,Deportivo de La Coruña,EDF Logroño,,
+,9,Athletic,CD Tacón,,
+,9,Real Sociedad,Barcelona,,
+,9,Valencia,Atlético,,
+,9,Real Betis,Sevilla,,
+02-11-2019,8,EDF Logroño,Madrid CFF,1.0,1.0
+,8,Sevilla,Real Sociedad,1.0,2.0
+03-11-2019,8,Rayo,Espanyol,2.0,1.0
+,8,Barcelona,Levante,5.0,0.0
+,8,Sporting de Huelva,Valencia,2.0,1.0
+,8,UDG Tenerife Sur,Athletic,1.0,0.0
+,8,Atlético,Deportivo de La Coruña,4.0,1.0
+,8,CD Tacón,Real Betis,1.0,1.0
+26-10-2019,7,Espanyol,Athletic,1.0,2.0
+,7,Real Sociedad,Atlético,1.0,4.0
+,7,Madrid CFF,Barcelona,0.0,4.0
+,7,Real Betis,Rayo,0.0,0.0
+27-10-2019,7,Deportivo de La Coruña,CD Tacón,3.0,1.0
+,7,Levante,Sevilla,3.0,2.0
+,7,EDF Logroño,Sporting de Huelva,3.0,0.0
+,7,Valencia,UDG Tenerife Sur,2.0,0.0
+19-10-2019,6,Athletic,Real Betis,2.0,1.0
+,6,Sporting de Huelva,Deportivo de La Coruña,0.0,1.0
+,6,UDG Tenerife Sur,Real Sociedad,0.0,0.0
+20-10-2019,6,Atlético,Madrid CFF,1.0,0.0
+,6,CD Tacón,Levante,0.0,3.0
+,6,Sevilla,Espanyol,4.0,0.0
+,6,Rayo,Valencia,3.0,2.0
+,6,Barcelona,EDF Logroño,5.0,0.0
+12-10-2019,5,Levante,Atlético,0.0,1.0
+,5,Deportivo de La Coruña,Rayo,3.0,0.0
+13-10-2019,5,Sporting de Huelva,Barcelona,0.0,1.0
+,5,Madrid CFF,UDG Tenerife Sur,1.0,3.0
+,5,EDF Logroño,Sevilla,1.0,0.0
+,5,Valencia,CD Tacón,1.0,1.0
+,5,Espanyol,Real Betis,2.0,2.0
+,5,Real Sociedad,Athletic,0.0,2.0
+28-09-2019,4,UDG Tenerife Sur,Levante,0.0,1.0
+,4,Espanyol,Real Sociedad,0.0,1.0
+,4,Rayo,Sporting de Huelva,1.0,0.0
+29-09-2019,4,Sevilla,Barcelona,0.0,2.0
+,4,Atlético,EDF Logroño,2.0,0.0
+,4,Athletic,Deportivo de La Coruña,0.0,2.0
+,4,Real Betis,Valencia,1.0,0.0
+,4,CD Tacón,Madrid CFF,1.0,2.0
+21-09-2019,3,Barcelona,Atlético,6.0,1.0
+,3,Madrid CFF,Espanyol,2.0,1.0
+22-09-2019,3,Valencia,Athletic,2.0,0.0
+,3,Sporting de Huelva,Sevilla,1.0,0.0
+,3,Deportivo de La Coruña,UDG Tenerife Sur,1.0,1.0
+,3,EDF Logroño,CD Tacón,5.0,1.0
+,3,Levante,Rayo,0.0,1.0
+,3,Real Sociedad,Real Betis,2.0,0.0
+14-09-2019,2,UDG Tenerife Sur,EDF Logroño,1.0,1.0
+,2,Real Betis,Deportivo de La Coruña,3.0,4.0
+,2,CD Tacón,Sporting de Huelva,3.0,0.0
+15-09-2019,2,Rayo,Barcelona,1.0,1.0
+,2,Athletic,Madrid CFF,3.0,0.0
+,2,Atlético,Sevilla,3.0,0.0
+,2,Espanyol,Valencia,0.0,3.0
+,2,Real Sociedad,Levante,0.0,0.0
+07-09-2019,1,Sevilla,UDG Tenerife Sur,4.0,0.0
+,1,Sporting de Huelva,Atlético,0.0,1.0
+,1,Barcelona,CD Tacón,9.0,1.0
+08-09-2019,1,Deportivo de La Coruña,Espanyol,3.0,1.0
+,1,EDF Logroño,Rayo,4.0,1.0
+,1,Levante,Athletic,2.0,0.0
+,1,Madrid CFF,Real Betis,1.0,0.0
+,1,Valencia,Real Sociedad,2.0,2.0
+05-05-2019,30,Espanyol,Sporting de Huelva,2.0,1.0
+,30,Málaga CF,Rayo,4.0,2.0
+,30,EDF Logroño,Fundación Albacete,4.0,1.0
+,30,Madrid CFF,Athletic,2.0,0.0
+,30,Real Sociedad,Atlético,1.0,3.0
+,30,UDG Tenerife Sur,Barcelona,1.0,0.0
+,30,Valencia,Real Betis,1.0,4.0
+,30,Sevilla,Levante,1.0,0.0
+24-04-2019,29,Barcelona,Sevilla,6.0,2.0
+27-04-2019,29,Levante,Madrid CFF,0.0,1.0
+,29,Athletic,Málaga CF,0.0,0.0
+,29,Atlético,Valencia,3.0,0.0
+28-04-2019,29,Rayo,UDG Tenerife Sur,0.0,2.0
+,29,Fundación Albacete,Espanyol,3.0,2.0
+,29,Sporting de Huelva,Real Sociedad,0.0,0.0
+,29,Real Betis,EDF Logroño,3.0,2.0
+17-04-2019,28,Madrid CFF,Barcelona,0.0,4.0
+21-04-2019,28,Sevilla,Athletic,1.0,2.0
+,28,EDF Logroño,Rayo,3.0,0.0
+,28,Real Sociedad,Real Betis,1.0,0.0
+,28,Málaga CF,Sporting de Huelva,1.0,1.0
+,28,UDG Tenerife Sur,Fundación Albacete,1.0,0.0
+22-04-2019,28,Espanyol,Atlético,0.0,1.0
+,28,Valencia,Levante,1.0,3.0
+13-04-2019,27,Fundación Albacete,Athletic,0.0,1.0
+,27,Rayo,Espanyol,1.0,5.0
+,27,Real Betis,Sevilla,1.0,1.0
+,27,Barcelona,Málaga CF,6.0,0.0
+14-04-2019,27,Real Sociedad,Valencia,6.0,0.0
+,27,Levante,EDF Logroño,4.0,0.0
+,27,Sporting de Huelva,Atlético,0.0,3.0
+,27,Madrid CFF,UDG Tenerife Sur,0.0,1.0
+30-03-2019,26,Atlético,Real Betis,3.0,1.0
+31-03-2019,26,Espanyol,Real Sociedad,1.0,1.0
+,26,Sevilla,Madrid CFF,3.0,0.0
+,26,Málaga CF,Fundación Albacete,4.0,2.0
+,26,Athletic,Levante,2.0,0.0
+,26,UDG Tenerife Sur,Sporting de Huelva,3.0,1.0
+,26,EDF Logroño,Barcelona,0.0,4.0
+,26,Valencia,Rayo,1.0,2.0
+23-03-2019,25,Levante,Atlético,0.0,4.0
+,25,Barcelona,Valencia,3.0,0.0
+24-03-2019,25,Fundación Albacete,Real Sociedad,0.0,1.0
+,25,Athletic,Espanyol,1.0,2.0
+,25,Madrid CFF,Málaga CF,1.0,0.0
+,25,Sporting de Huelva,EDF Logroño,0.0,2.0
+,25,Sevilla,UDG Tenerife Sur,0.0,2.0
+,25,Rayo,Real Betis,0.0,0.0
+16-03-2019,24,Real Betis,Fundación Albacete,3.0,0.0
+17-03-2019,24,Málaga CF,Levante,0.0,1.0
+,24,Espanyol,Sevilla,2.0,0.0
+,24,EDF Logroño,Madrid CFF,2.0,1.0
+,24,Valencia,Sporting de Huelva,6.0,0.0
+,24,Real Sociedad,Rayo,2.0,0.0
+,24,Atlético,Barcelona,0.0,2.0
+,24,UDG Tenerife Sur,Athletic,3.0,1.0
+10-03-2019,23,Fundación Albacete,Valencia,0.0,2.0
+12-03-2019,23,Sporting de Huelva,Real Betis,1.0,0.0
+,23,Barcelona,Real Sociedad,4.0,1.0
+,23,Levante,UDG Tenerife Sur,3.0,2.0
+13-03-2019,23,Athletic,EDF Logroño,4.0,3.0
+,23,Sevilla,Málaga CF,5.0,0.0
+,23,Madrid CFF,Espanyol,1.0,1.0
+,23,Rayo,Atlético,0.0,3.0
+23-02-2019,22,Valencia,Athletic,0.0,0.0
+,22,Atlético,Fundación Albacete,6.0,1.0
+,22,Espanyol,Levante,2.0,1.0
+24-02-2019,22,EDF Logroño,Sevilla,1.0,2.0
+,22,Real Sociedad,Madrid CFF,3.0,0.0
+,22,Sporting de Huelva,Rayo,0.0,1.0
+,22,UDG Tenerife Sur,Málaga CF,1.0,0.0
+,22,Real Betis,Barcelona,0.0,3.0
+13-02-2019,21,Sevilla,Valencia,2.0,2.0
+,21,Málaga CF,EDF Logroño,1.0,1.0
+,21,Barcelona,Sporting de Huelva,2.0,3.0
+,21,Levante,Real Sociedad,1.0,1.0
+,21,UDG Tenerife Sur,Espanyol,2.0,1.0
+,21,Fundación Albacete,Rayo,2.0,1.0
+,21,Madrid CFF,Atlético,0.0,3.0
+14-02-2019,21,Athletic,Real Betis,2.0,2.0
+09-02-2019,20,Real Betis,Levante,0.0,0.0
+,20,Atlético,Sevilla,3.0,0.0
+,20,Valencia,Madrid CFF,5.0,3.0
+10-02-2019,20,Real Sociedad,Athletic,2.0,2.0
+,20,Espanyol,Málaga CF,1.0,1.0
+,20,EDF Logroño,UDG Tenerife Sur,0.0,1.0
+,20,Sporting de Huelva,Fundación Albacete,0.0,0.0
+,20,Rayo,Barcelona,0.0,4.0
+02-02-2019,19,Málaga CF,Valencia,1.0,4.0
+03-02-2019,19,Athletic,Rayo,1.0,0.0
+,19,Madrid CFF,Real Betis,1.0,3.0
+,19,EDF Logroño,Espanyol,2.0,0.0
+,19,Levante,Sporting de Huelva,1.0,1.0
+,19,Sevilla,Real Sociedad,0.0,2.0
+,19,UDG Tenerife Sur,Atlético,1.0,2.0
+,19,Barcelona,Fundación Albacete,3.0,1.0
+26-01-2019,18,Rayo,Levante,0.0,1.0
+,18,Atlético,Málaga CF,4.0,1.0
+27-01-2019,18,Fundación Albacete,Sevilla,0.0,1.0
+,18,Real Betis,Espanyol,2.0,0.0
+,18,Real Sociedad,UDG Tenerife Sur,1.0,1.0
+,18,Valencia,EDF Logroño,2.0,1.0
+,18,Sporting de Huelva,Madrid CFF,0.0,2.0
+,18,Barcelona,Athletic,2.0,1.0
+12-01-2019,17,Madrid CFF,Fundación Albacete,1.0,1.0
+,17,Levante,Barcelona,0.0,1.0
+13-01-2019,17,Málaga CF,Real Sociedad,1.0,3.0
+,17,Athletic,Sporting de Huelva,4.0,0.0
+,17,Sevilla,Rayo,2.0,0.0
+,17,UDG Tenerife Sur,Real Betis,1.0,2.0
+,17,Espanyol,Valencia,1.0,1.0
+,17,EDF Logroño,Atlético,1.0,3.0
+05-01-2019,16,Real Betis,Málaga CF,1.0,1.0
+,16,Rayo,Madrid CFF,0.0,1.0
+,16,Real Sociedad,EDF Logroño,3.0,0.0
+,16,Atlético,Athletic,3.0,0.0
+06-01-2019,16,Sporting de Huelva,Sevilla,2.0,1.0
+,16,Fundación Albacete,Levante,0.0,1.0
+,16,Valencia,UDG Tenerife Sur,1.0,2.0
+,16,Barcelona,Espanyol,0.0,0.0
+21-12-2018,15,Valencia,Real Sociedad,0.0,4.0
+22-12-2018,15,EDF Logroño,Levante,2.0,4.0
+,15,Málaga CF,Barcelona,0.0,4.0
+,15,Athletic,Fundación Albacete,2.0,0.0
+,15,UDG Tenerife Sur,Madrid CFF,2.0,3.0
+,15,Atlético,Sporting de Huelva,3.0,1.0
+,15,Espanyol,Rayo,1.0,1.0
+23-12-2018,15,Sevilla,Real Betis,2.0,3.0
+15-12-2018,14,Levante,Athletic,2.0,0.0
+,14,Rayo,Valencia,1.0,1.0
+,14,Barcelona,EDF Logroño,2.0,0.0
+16-12-2018,14,Madrid CFF,Sevilla,0.0,1.0
+,14,Fundación Albacete,Málaga CF,1.0,1.0
+,14,Real Sociedad,Espanyol,0.0,0.0
+,14,Sporting de Huelva,UDG Tenerife Sur,1.0,1.0
+,14,Real Betis,Atlético,1.0,2.0
+09-12-2018,13,Rayo,EDF Logroño,1.0,1.0
+,13,Fundación Albacete,UDG Tenerife Sur,1.0,3.0
+,13,Real Betis,Real Sociedad,2.0,1.0
+,13,Sporting de Huelva,Málaga CF,2.0,0.0
+,13,Athletic,Sevilla,6.0,0.0
+,13,Barcelona,Madrid CFF,7.0,0.0
+,13,Atlético,Espanyol,3.0,1.0
+,13,Levante,Valencia,0.0,0.0
+05-12-2018,12,Sevilla,Barcelona,0.0,2.0
+,12,Madrid CFF,Levante,2.0,3.0
+,12,EDF Logroño,Real Betis,1.0,0.0
+06-12-2018,12,Málaga CF,Athletic,0.0,2.0
+,12,Real Sociedad,Sporting de Huelva,0.0,1.0
+,12,UDG Tenerife Sur,Rayo,2.0,3.0
+,12,Espanyol,Fundación Albacete,2.0,4.0
+,12,Valencia,Atlético,0.0,4.0
+01-12-2018,11,Athletic,Madrid CFF,3.0,0.0
+,11,Rayo,Málaga CF,1.0,0.0
+,11,Atlético,Real Sociedad,5.0,0.0
+02-12-2018,11,Real Betis,Valencia,4.0,0.0
+,11,Fundación Albacete,EDF Logroño,2.0,2.0
+,11,Levante,Sevilla,1.0,0.0
+,11,Sporting de Huelva,Espanyol,1.0,0.0
+,11,Barcelona,UDG Tenerife Sur,3.0,0.0
+21-11-2018,10,Espanyol,Madrid CFF,1.0,0.0
+,10,Málaga CF,Sevilla,3.0,1.0
+,10,Valencia,Fundación Albacete,2.0,2.0
+,10,EDF Logroño,Athletic,1.0,3.0
+,10,Real Betis,Sporting de Huelva,1.0,0.0
+,10,Real Sociedad,Barcelona,2.0,5.0
+,10,UDG Tenerife Sur,Levante,0.0,6.0
+22-11-2018,10,Atlético,Rayo,3.0,1.0
+17-11-2018,9,Rayo,Real Sociedad,2.0,1.0
+,9,Fundación Albacete,Real Betis,2.0,3.0
+18-11-2018,9,Athletic,UDG Tenerife Sur,2.0,0.0
+,9,Sporting de Huelva,Valencia,0.0,2.0
+,9,Sevilla,Espanyol,0.0,1.0
+,9,Madrid CFF,EDF Logroño,4.0,0.0
+,9,Levante,Málaga CF,7.0,0.0
+,9,Barcelona,Atlético,2.0,1.0
+03-11-2018,8,Real Betis,Rayo,3.0,1.0
+04-11-2018,8,Real Sociedad,Fundación Albacete,1.0,1.0
+,8,EDF Logroño,Sporting de Huelva,2.0,0.0
+,8,Málaga CF,Madrid CFF,2.0,1.0
+,8,Espanyol,Athletic,1.0,2.0
+,8,UDG Tenerife Sur,Sevilla,2.0,1.0
+,8,Valencia,Barcelona,0.0,0.0
+,8,Atlético,Levante,2.0,0.0
+27-10-2018,7,Athletic,Valencia,2.0,2.0
+,7,Fundación Albacete,Atlético,1.0,4.0
+,7,Madrid CFF,Real Sociedad,0.0,2.0
+28-10-2018,7,Levante,Espanyol,4.0,0.0
+,7,Rayo,Sporting de Huelva,1.0,0.0
+,7,Málaga CF,UDG Tenerife Sur,1.0,3.0
+,7,Sevilla,EDF Logroño,3.0,4.0
+,7,Barcelona,Real Betis,3.0,0.0
+20-10-2018,6,Rayo,Fundación Albacete,2.0,0.0
+21-10-2018,6,Espanyol,UDG Tenerife Sur,1.0,1.0
+,6,EDF Logroño,Málaga CF,1.0,2.0
+,6,Real Betis,Athletic,0.0,0.0
+,6,Real Sociedad,Levante,1.0,2.0
+,6,Sporting de Huelva,Barcelona,1.0,3.0
+,6,Atlético,Madrid CFF,6.0,1.0
+28-11-2018,6,Valencia,Sevilla,4.0,1.0
+13-10-2018,5,Madrid CFF,Valencia,1.0,1.0
+,5,Levante,Real Betis,2.0,1.0
+,5,Sevilla,Atlético,1.0,3.0
+14-10-2018,5,Fundación Albacete,Sporting de Huelva,3.0,2.0
+,5,Málaga CF,Espanyol,2.0,1.0
+,5,UDG Tenerife Sur,EDF Logroño,1.0,0.0
+,5,Barcelona,Rayo,9.0,1.0
+,5,Athletic,Real Sociedad,2.0,1.0
+29-09-2018,4,Real Betis,Madrid CFF,3.0,1.0
+,4,Rayo,Athletic,1.0,1.0
+30-09-2018,4,Real Sociedad,Sevilla,2.0,0.0
+,4,Sporting de Huelva,Levante,1.0,1.0
+,4,Espanyol,EDF Logroño,1.0,0.0
+,4,Atlético,UDG Tenerife Sur,2.0,0.0
+,4,Fundación Albacete,Barcelona,1.0,6.0
+,4,Valencia,Málaga CF,0.0,0.0
+22-09-2018,3,Madrid CFF,Rayo,0.0,4.0
+,3,Espanyol,Barcelona,0.0,3.0
+,3,Athletic,Atlético,2.0,4.0
+,3,Levante,Fundación Albacete,3.0,1.0
+23-09-2018,3,Sevilla,Sporting de Huelva,2.0,1.0
+,3,UDG Tenerife Sur,Valencia,3.0,0.0
+,3,EDF Logroño,Real Sociedad,2.0,2.0
+,3,Málaga CF,Real Betis,0.0,3.0
+15-09-2018,2,Fundación Albacete,Madrid CFF,3.0,1.0
+,2,Real Betis,UDG Tenerife Sur,1.0,2.0
+16-09-2018,2,Rayo,Sevilla,0.0,1.0
+,2,Sporting de Huelva,Athletic,0.0,0.0
+,2,Valencia,Espanyol,3.0,0.0
+,2,Real Sociedad,Málaga CF,3.0,0.0
+,2,Atlético,EDF Logroño,6.0,0.0
+24-10-2018,2,Barcelona,Levante,0.0,0.0
+08-09-2018,1,Málaga CF,Atlético,0.0,4.0
+,1,Espanyol,Real Betis,1.0,0.0
+09-09-2018,1,Sevilla,Fundación Albacete,2.0,4.0
+,1,Madrid CFF,Sporting de Huelva,3.0,1.0
+,1,Athletic,Barcelona,0.0,1.0
+,1,Levante,Rayo,1.0,0.0
+,1,UDG Tenerife Sur,Real Sociedad,2.0,3.0
+,1,EDF Logroño,Valencia,0.0,0.0
+12-05-2018,30,Fundación Albacete,Valencia,0.0,2.0
+13-05-2018,30,Sevilla,Real Betis,0.0,1.0
+,30,Espanyol,UDG Tenerife Sur,0.0,3.0
+,30,Rayo,Madrid CFF,3.0,2.0
+,30,Levante,Barcelona,0.0,5.0
+,30,Zaragoza CFF,Atlético,1.0,6.0
+,30,Real Sociedad,Athletic,1.0,4.0
+,30,Sporting de Huelva,Santa Teresa CD,1.0,0.0
+05-05-2018,29,Real Betis,Sporting de Huelva,0.0,1.0
+,29,UDG Tenerife Sur,Sevilla,2.0,0.0
+,29,Valencia,Zaragoza CFF,1.0,0.0
+,29,Atlético,Levante,1.0,0.0
+,29,Barcelona,Rayo,7.0,0.0
+06-05-2018,29,Santa Teresa CD,Real Sociedad,1.0,4.0
+,29,Athletic,Fundación Albacete,2.0,0.0
+,29,Madrid CFF,Espanyol,1.0,1.0
+28-04-2018,28,Zaragoza CFF,Athletic,2.0,1.0
+,28,Levante,Valencia,0.0,1.0
+,28,Espanyol,Barcelona,1.0,3.0
+29-04-2018,28,Sevilla,Madrid CFF,3.0,1.0
+,28,Real Sociedad,Sporting de Huelva,0.0,1.0
+,28,Real Betis,UDG Tenerife Sur,0.0,1.0
+,28,Fundación Albacete,Santa Teresa CD,4.0,0.0
+,28,Rayo,Atlético,1.0,4.0
+21-04-2018,27,Athletic,Levante,1.0,0.0
+,27,Atlético,Espanyol,2.0,0.0
+22-04-2018,27,Valencia,Rayo,4.0,1.0
+,27,Real Sociedad,Fundación Albacete,2.0,2.0
+,27,Santa Teresa CD,Zaragoza CFF,3.0,1.0
+,27,Sporting de Huelva,UDG Tenerife Sur,1.0,1.0
+,27,Barcelona,Sevilla,5.0,0.0
+,27,Madrid CFF,Real Betis,0.0,1.0
+14-04-2018,26,Rayo,Athletic,2.0,2.0
+,26,Sevilla,Atlético,1.0,2.0
+15-04-2018,26,Levante,Santa Teresa CD,3.0,0.0
+,26,Zaragoza CFF,Real Sociedad,2.0,0.0
+,26,Espanyol,Valencia,0.0,0.0
+,26,Fundación Albacete,Sporting de Huelva,0.0,3.0
+,26,UDG Tenerife Sur,Madrid CFF,2.0,0.0
+,26,Real Betis,Barcelona,0.0,2.0
+30-03-2018,25,Real Sociedad,Levante,2.0,1.0
+,25,Fundación Albacete,Zaragoza CFF,3.0,0.0
+31-03-2018,25,Athletic,Espanyol,1.0,0.0
+,25,Valencia,Sevilla,1.0,1.0
+01-04-2018,25,Santa Teresa CD,Rayo,2.0,0.0
+,25,Sporting de Huelva,Madrid CFF,3.0,0.0
+,25,Barcelona,UDG Tenerife Sur,3.0,1.0
+,25,Atlético,Real Betis,1.0,0.0
+24-03-2018,24,Real Betis,Valencia,0.0,0.0
+,24,Levante,Fundación Albacete,4.0,2.0
+,24,UDG Tenerife Sur,Atlético,0.0,4.0
+25-03-2018,24,Sevilla,Athletic,3.0,2.0
+,24,Rayo,Real Sociedad,2.0,3.0
+,24,Zaragoza CFF,Sporting de Huelva,2.0,1.0
+,24,Espanyol,Santa Teresa CD,3.0,0.0
+,24,Madrid CFF,Barcelona,1.0,2.0
+17-03-2018,23,Athletic,Real Betis,1.0,0.0
+,23,Atlético,Madrid CFF,2.0,2.0
+18-03-2018,23,Fundación Albacete,Rayo,3.0,1.0
+,23,Valencia,UDG Tenerife Sur,0.0,0.0
+,23,Real Sociedad,Espanyol,1.0,1.0
+,23,Santa Teresa CD,Sevilla,1.0,1.0
+,23,Zaragoza CFF,Levante,3.0,0.0
+,23,Sporting de Huelva,Barcelona,1.0,1.0
+10-03-2018,22,Madrid CFF,Valencia,2.0,1.0
+,22,Real Betis,Santa Teresa CD,3.0,0.0
+,22,Espanyol,Fundación Albacete,1.0,2.0
+11-03-2018,22,Sevilla,Real Sociedad,0.0,2.0
+,22,Rayo,Zaragoza CFF,1.0,1.0
+,22,Levante,Sporting de Huelva,2.0,1.0
+,22,UDG Tenerife Sur,Athletic,4.0,1.0
+,22,Barcelona,Atlético,1.0,1.0
+24-02-2018,21,Real Sociedad,Real Betis,1.0,1.0
+,21,Sporting de Huelva,Atlético,2.0,4.0
+25-02-2018,21,Santa Teresa CD,UDG Tenerife Sur,0.0,3.0
+,21,Zaragoza CFF,Espanyol,2.0,0.0
+,21,Fundación Albacete,Sevilla,1.0,1.0
+,21,Athletic,Madrid CFF,2.0,3.0
+,21,Levante,Rayo,2.0,3.0
+,21,Valencia,Barcelona,1.0,4.0
+17-02-2018,20,Real Betis,Fundación Albacete,4.0,0.0
+,20,Atlético,Valencia,1.0,0.0
+18-02-2018,20,Madrid CFF,Santa Teresa CD,2.0,1.0
+,20,UDG Tenerife Sur,Real Sociedad,0.0,2.0
+,20,Rayo,Sporting de Huelva,3.0,1.0
+,20,Sevilla,Zaragoza CFF,3.0,2.0
+,20,Espanyol,Levante,0.0,6.0
+,20,Barcelona,Athletic,0.0,1.0
+10-02-2018,19,Levante,Sevilla,1.0,1.0
+,19,Santa Teresa CD,Barcelona,0.0,3.0
+11-02-2018,19,Zaragoza CFF,Real Betis,1.0,1.0
+,19,Fundación Albacete,UDG Tenerife Sur,2.0,2.0
+,19,Rayo,Espanyol,1.0,1.0
+,19,Real Sociedad,Madrid CFF,3.0,0.0
+,19,Sporting de Huelva,Valencia,1.0,3.0
+,19,Athletic,Atlético,2.0,2.0
+03-02-2018,18,Atlético,Santa Teresa CD,2.0,1.0
+,18,Madrid CFF,Fundación Albacete,1.0,0.0
+,18,Sevilla,Rayo,1.0,0.0
+,18,Barcelona,Real Sociedad,0.0,0.0
+04-02-2018,18,Espanyol,Sporting de Huelva,1.0,0.0
+,18,UDG Tenerife Sur,Zaragoza CFF,2.0,0.0
+,18,Valencia,Athletic,3.0,1.0
+,18,Real Betis,Levante,2.0,0.0
+27-01-2018,17,Espanyol,Sevilla,1.0,0.0
+,17,Fundación Albacete,Barcelona,0.0,3.0
+28-01-2018,17,Levante,UDG Tenerife Sur,0.0,1.0
+,17,Zaragoza CFF,Madrid CFF,1.0,1.0
+,17,Rayo,Real Betis,1.0,3.0
+,17,Santa Teresa CD,Valencia,1.0,1.0
+,17,Sporting de Huelva,Athletic,1.0,0.0
+,17,Real Sociedad,Atlético,1.0,1.0
+13-01-2018,16,Valencia,Real Sociedad,3.0,1.0
+,16,Atlético,Fundación Albacete,4.0,3.0
+,16,Madrid CFF,Levante,2.0,1.0
+14-01-2018,16,Sevilla,Sporting de Huelva,1.0,2.0
+,16,Athletic,Santa Teresa CD,1.0,0.0
+,16,UDG Tenerife Sur,Rayo,3.0,1.0
+,16,Barcelona,Zaragoza CFF,2.0,0.0
+,16,Real Betis,Espanyol,2.0,0.0
+06-01-2018,15,Atlético,Zaragoza CFF,3.0,0.0
+,15,Athletic,Real Sociedad,2.0,1.0
+,15,Madrid CFF,Rayo,2.0,0.0
+07-01-2018,15,Santa Teresa CD,Sporting de Huelva,1.0,1.0
+,15,Real Betis,Sevilla,1.0,0.0
+,15,Valencia,Fundación Albacete,3.0,0.0
+,15,Barcelona,Levante,5.0,0.0
+,15,UDG Tenerife Sur,Espanyol,1.0,0.0
+16-12-2017,14,Zaragoza CFF,Valencia,1.0,3.0
+,14,Levante,Atlético,0.0,4.0
+17-12-2017,14,Fundación Albacete,Athletic,1.0,3.0
+,14,Sevilla,UDG Tenerife Sur,1.0,0.0
+,14,Real Sociedad,Santa Teresa CD,0.0,0.0
+,14,Sporting de Huelva,Real Betis,0.0,0.0
+,14,Espanyol,Madrid CFF,1.0,2.0
+,14,Rayo,Barcelona,1.0,2.0
+09-12-2017,13,Valencia,Levante,2.0,3.0
+,13,Madrid CFF,Sevilla,0.0,2.0
+,13,Atlético,Rayo,0.0,1.0
+10-12-2017,13,Athletic,Zaragoza CFF,4.0,0.0
+,13,Santa Teresa CD,Fundación Albacete,1.0,0.0
+,13,Sporting de Huelva,Real Sociedad,1.0,3.0
+,13,UDG Tenerife Sur,Real Betis,2.0,3.0
+,13,Barcelona,Espanyol,4.0,0.0
+06-12-2017,12,Fundación Albacete,Real Sociedad,0.0,3.0
+,12,Levante,Athletic,3.0,2.0
+,12,Zaragoza CFF,Santa Teresa CD,4.0,1.0
+,12,Real Betis,Madrid CFF,2.0,1.0
+,12,UDG Tenerife Sur,Sporting de Huelva,5.0,1.0
+,12,Rayo,Valencia,4.0,2.0
+,12,Sevilla,Barcelona,0.0,2.0
+,12,Espanyol,Atlético,0.0,1.0
+02-12-2017,11,Athletic,Rayo,3.0,1.0
+,11,Barcelona,Real Betis,6.0,1.0
+,11,Sporting de Huelva,Fundación Albacete,2.0,0.0
+,11,Valencia,Espanyol,1.0,1.0
+,11,Real Sociedad,Zaragoza CFF,6.0,2.0
+03-12-2017,11,Santa Teresa CD,Levante,0.0,3.0
+,11,Madrid CFF,UDG Tenerife Sur,1.0,3.0
+,11,Atlético,Sevilla,2.0,0.0
+18-11-2017,10,Levante,Real Sociedad,1.0,1.0
+,10,Sevilla,Valencia,1.0,3.0
+19-11-2017,10,Zaragoza CFF,Fundación Albacete,0.0,1.0
+,10,Madrid CFF,Sporting de Huelva,2.0,1.0
+,10,Espanyol,Athletic,0.0,2.0
+,10,Rayo,Santa Teresa CD,3.0,0.0
+,10,UDG Tenerife Sur,Barcelona,1.0,0.0
+,10,Real Betis,Atlético,2.0,4.0
+11-11-2017,9,Athletic,Sevilla,2.0,1.0
+,9,Fundación Albacete,Levante,1.0,0.0
+12-11-2017,9,Atlético,UDG Tenerife Sur,2.0,0.0
+,9,Sporting de Huelva,Zaragoza CFF,1.0,1.0
+,9,Real Sociedad,Rayo,3.0,0.0
+,9,Santa Teresa CD,Espanyol,0.0,0.0
+,9,Valencia,Real Betis,5.0,2.0
+,9,Barcelona,Madrid CFF,7.0,0.0
+04-11-2017,8,Barcelona,Sporting de Huelva,3.0,0.0
+,8,Madrid CFF,Atlético,0.0,3.0
+,8,Levante,Zaragoza CFF,5.0,1.0
+05-11-2017,8,Espanyol,Real Sociedad,0.0,0.0
+,8,Real Betis,Athletic,1.0,2.0
+,8,Sevilla,Santa Teresa CD,1.0,2.0
+,8,Rayo,Fundación Albacete,2.0,2.0
+,8,UDG Tenerife Sur,Valencia,0.0,0.0
+28-10-2017,7,Santa Teresa CD,Real Betis,1.0,2.0
+29-10-2017,7,Athletic,UDG Tenerife Sur,0.0,1.0
+,7,Valencia,Madrid CFF,4.0,0.0
+,7,Zaragoza CFF,Rayo,0.0,1.0
+,7,Fundación Albacete,Espanyol,1.0,3.0
+,7,Sporting de Huelva,Levante,0.0,1.0
+,7,Real Sociedad,Sevilla,0.0,1.0
+,7,Atlético,Barcelona,1.0,1.0
+14-10-2017,6,Real Betis,Real Sociedad,4.0,0.0
+,6,Barcelona,Valencia,2.0,0.0
+,6,Rayo,Levante,0.0,4.0
+15-10-2017,6,Sevilla,Fundación Albacete,3.0,3.0
+,6,Espanyol,Zaragoza CFF,2.0,1.0
+,6,UDG Tenerife Sur,Santa Teresa CD,5.0,1.0
+,6,Madrid CFF,Athletic,0.0,1.0
+,6,Atlético,Sporting de Huelva,3.0,1.0
+07-10-2017,5,Zaragoza CFF,Sevilla,0.0,1.0
+,5,Fundación Albacete,Real Betis,4.0,1.0
+,5,Valencia,Atlético,0.0,1.0
+08-10-2017,5,Santa Teresa CD,Madrid CFF,1.0,1.0
+,5,Levante,Espanyol,1.0,1.0
+,5,Real Sociedad,UDG Tenerife Sur,1.0,2.0
+,5,Sporting de Huelva,Rayo,3.0,1.0
+,5,Athletic,Barcelona,1.0,2.0
+30-09-2017,4,Barcelona,Santa Teresa CD,10.0,0.0
+,4,Madrid CFF,Real Sociedad,2.0,1.0
+,4,Atlético,Athletic,6.0,0.0
+01-10-2017,4,Sevilla,Levante,5.0,5.0
+,4,Valencia,Sporting de Huelva,1.0,0.0
+,4,UDG Tenerife Sur,Fundación Albacete,0.0,5.0
+,4,Espanyol,Rayo,0.0,1.0
+,4,Real Betis,Zaragoza CFF,1.0,0.0
+23-09-2017,3,Santa Teresa CD,Atlético,0.0,3.0
+,3,Levante,Real Betis,0.0,1.0
+24-09-2017,3,Fundación Albacete,Madrid CFF,1.0,1.0
+,3,Sporting de Huelva,Espanyol,2.0,0.0
+,3,Rayo,Sevilla,1.0,1.0
+,3,Athletic,Valencia,3.0,2.0
+,3,Zaragoza CFF,UDG Tenerife Sur,1.0,1.0
+,3,Real Sociedad,Barcelona,0.0,1.0
+09-09-2017,2,Real Betis,Rayo,1.0,2.0
+,2,Barcelona,Fundación Albacete,3.0,0.0
+10-09-2017,2,Athletic,Sporting de Huelva,2.0,0.0
+,2,Valencia,Santa Teresa CD,1.0,1.0
+,2,Sevilla,Espanyol,1.0,3.0
+,2,UDG Tenerife Sur,Levante,1.0,2.0
+,2,Madrid CFF,Zaragoza CFF,3.0,2.0
+,2,Atlético,Real Sociedad,1.0,0.0
+02-09-2017,1,Real Sociedad,Valencia,0.0,1.0
+,1,Espanyol,Real Betis,1.0,0.0
+,1,Fundación Albacete,Atlético,1.0,3.0
+03-09-2017,1,Rayo,UDG Tenerife Sur,1.0,1.0
+,1,Sporting de Huelva,Sevilla,2.0,1.0
+,1,Santa Teresa CD,Athletic,1.0,2.0
+,1,Levante,Madrid CFF,1.0,1.0
+,1,Zaragoza CFF,Barcelona,0.0,9.0
+20-05-2017,30,Atlético,Real Sociedad,2.0,1.0
+,30,Levante,Barcelona,2.0,1.0
+21-05-2017,30,Real Betis,Fundación Albacete,3.0,1.0
+,30,Athletic,Espanyol,3.0,3.0
+,30,Oiartzun ,Zaragoza CFF,0.0,2.0
+,30,Valencia,Rayo,4.0,1.0
+,30,Santa Teresa CD,UDG Tenerife Sur,2.0,1.0
+,30,UD Tacuense,Sporting de Huelva,2.0,4.0
+13-05-2017,29,Espanyol,Real Betis,2.0,0.0
+,29,Barcelona,Atlético,1.0,1.0
+14-05-2017,29,Fundación Albacete,UD Tacuense,2.0,1.0
+,29,Zaragoza CFF,Athletic,1.0,3.0
+,29,Sporting de Huelva,Santa Teresa CD,3.0,1.0
+,29,Rayo,Oiartzun ,7.0,1.0
+,29,UDG Tenerife Sur,Levante,3.0,0.0
+,29,Real Sociedad,Valencia,0.0,4.0
+06-05-2017,28,Real Betis,Zaragoza CFF,1.0,0.0
+,28,Valencia,Barcelona,0.0,1.0
+07-05-2017,28,Athletic,Rayo,3.0,2.0
+,28,Oiartzun ,Real Sociedad,1.0,1.0
+,28,Levante,Santa Teresa CD,4.0,0.0
+,28,Sporting de Huelva,Fundación Albacete,2.0,2.0
+,28,UD Tacuense,Espanyol,0.0,0.0
+,28,Atlético,UDG Tenerife Sur,3.0,0.0
+29-04-2017,27,Rayo,Real Betis,0.0,4.0
+,27,Levante,Atlético,0.0,3.0
+30-04-2017,27,Santa Teresa CD,Fundación Albacete,1.0,3.0
+,27,Zaragoza CFF,UD Tacuense,0.0,1.0
+,27,Real Sociedad,Athletic,2.0,0.0
+,27,Espanyol,Sporting de Huelva,2.0,1.0
+,27,UDG Tenerife Sur,Valencia,1.0,3.0
+02-05-2017,27,Barcelona,Oiartzun ,13.0,0.0
+22-04-2017,26,Atlético,Santa Teresa CD,5.0,0.0
+,26,Real Betis,Real Sociedad,1.0,0.0
+23-04-2017,26,Fundación Albacete,Espanyol,0.0,2.0
+,26,Sporting de Huelva,Zaragoza CFF,3.0,0.0
+,26,UD Tacuense,Rayo,0.0,2.0
+,26,Oiartzun ,UDG Tenerife Sur,1.0,0.0
+,26,Valencia,Levante,6.0,0.0
+25-04-2017,26,Athletic,Barcelona,0.0,4.0
+14-04-2017,25,UDG Tenerife Sur,Athletic,4.0,0.0
+15-04-2017,25,Levante,Oiartzun ,2.0,1.0
+,25,Atlético,Valencia,0.0,0.0
+16-04-2017,25,Rayo,Sporting de Huelva,2.0,1.0
+,25,Santa Teresa CD,Espanyol,3.0,0.0
+,25,Zaragoza CFF,Fundación Albacete,3.0,2.0
+,25,Real Sociedad,UD Tacuense,8.0,1.0
+,25,Barcelona,Real Betis,3.0,0.0
+01-04-2017,24,Oiartzun ,Atlético,1.0,4.0
+,24,Athletic,Levante,3.0,2.0
+,24,Fundación Albacete,Rayo,0.0,2.0
+,24,Valencia,Santa Teresa CD,2.0,0.0
+02-04-2017,24,Espanyol,Zaragoza CFF,0.0,2.0
+,24,UD Tacuense,Barcelona,1.0,2.0
+,24,Sporting de Huelva,Real Sociedad,2.0,3.0
+,24,Real Betis,UDG Tenerife Sur,1.0,3.0
+25-03-2017,23,Levante,Real Betis,2.0,1.0
+,23,UDG Tenerife Sur,UD Tacuense,2.0,0.0
+26-03-2017,23,Rayo,Espanyol,3.0,2.0
+,23,Valencia,Oiartzun ,3.0,0.0
+,23,Santa Teresa CD,Zaragoza CFF,1.0,1.0
+,23,Real Sociedad,Fundación Albacete,1.0,0.0
+,23,Barcelona,Sporting de Huelva,5.0,1.0
+,23,Atlético,Athletic,1.0,1.0
+18-03-2017,22,Fundación Albacete,Barcelona,0.0,2.0
+,22,Real Betis,Atlético,0.0,2.0
+19-03-2017,22,Zaragoza CFF,Rayo,2.0,1.0
+,22,Oiartzun ,Santa Teresa CD,0.0,1.0
+,22,Espanyol,Real Sociedad,1.0,3.0
+,22,Sporting de Huelva,UDG Tenerife Sur,1.0,1.0
+,22,UD Tacuense,Levante,3.0,1.0
+,22,Athletic,Valencia,1.0,2.0
+11-03-2017,21,Oiartzun ,Athletic,0.0,5.0
+,21,Real Sociedad,Zaragoza CFF,6.0,1.0
+,21,Barcelona,Espanyol,5.0,0.0
+12-03-2017,21,Santa Teresa CD,Rayo,0.0,2.0
+,21,Levante,Sporting de Huelva,2.0,0.0
+,21,UDG Tenerife Sur,Fundación Albacete,8.0,1.0
+,21,Atlético,UD Tacuense,11.0,0.0
+,21,Valencia,Real Betis,5.0,0.0
+25-02-2017,20,Rayo,Real Sociedad,0.0,3.0
+,20,Zaragoza CFF,Barcelona,0.0,6.0
+26-02-2017,20,Fundación Albacete,Levante,3.0,5.0
+,20,Sporting de Huelva,Atlético,2.0,3.0
+,20,Athletic,Santa Teresa CD,2.0,1.0
+,20,Espanyol,UDG Tenerife Sur,1.0,1.0
+,20,UD Tacuense,Valencia,0.0,5.0
+,20,Real Betis,Oiartzun ,1.0,0.0
+18-02-2017,19,Athletic,Real Betis,3.0,2.0
+,19,Atlético,Fundación Albacete,1.0,0.0
+19-02-2017,19,Santa Teresa CD,Real Sociedad,1.0,0.0
+,19,Levante,Espanyol,2.0,1.0
+,19,Valencia,Sporting de Huelva,2.0,0.0
+,19,Oiartzun ,UD Tacuense,2.0,0.0
+,19,UDG Tenerife Sur,Zaragoza CFF,2.0,0.0
+,19,Barcelona,Rayo,3.0,0.0
+11-02-2017,18,Real Sociedad,Barcelona,0.0,3.0
+,18,Espanyol,Atlético,1.0,2.0
+12-02-2017,18,Rayo,UDG Tenerife Sur,3.0,1.0
+,18,Zaragoza CFF,Levante,1.0,1.0
+,18,Fundación Albacete,Valencia,0.0,4.0
+,18,Sporting de Huelva,Oiartzun ,2.0,0.0
+,18,UD Tacuense,Athletic,0.0,2.0
+,18,Real Betis,Santa Teresa CD,1.0,1.0
+28-01-2017,17,Valencia,Espanyol,0.0,0.0
+,17,Atlético,Zaragoza CFF,5.0,1.0
+,17,Santa Teresa CD,Barcelona,2.0,0.0
+29-01-2017,17,UDG Tenerife Sur,Real Sociedad,0.0,1.0
+,17,Levante,Rayo,1.0,2.0
+,17,Oiartzun ,Fundación Albacete,2.0,1.0
+,17,Athletic,Sporting de Huelva,4.0,0.0
+,17,Real Betis,UD Tacuense,2.0,3.0
+14-01-2017,16,Rayo,Atlético,0.0,3.0
+,16,Real Sociedad,Levante,2.0,1.0
+15-01-2017,16,Zaragoza CFF,Valencia,0.0,4.0
+,16,Espanyol,Oiartzun ,0.0,2.0
+,16,Fundación Albacete,Athletic,3.0,1.0
+,16,Sporting de Huelva,Real Betis,0.0,2.0
+,16,UD Tacuense,Santa Teresa CD,0.0,1.0
+,16,Barcelona,UDG Tenerife Sur,3.0,0.0
+07-01-2017,15,Real Sociedad,Atlético,0.0,1.0
+,15,Fundación Albacete,Real Betis,0.0,2.0
+08-01-2017,15,Sporting de Huelva,UD Tacuense,3.0,2.0
+,15,Zaragoza CFF,Oiartzun ,2.0,2.0
+,15,Espanyol,Athletic,1.0,1.0
+,15,Rayo,Valencia,0.0,1.0
+,15,UDG Tenerife Sur,Santa Teresa CD,1.0,0.0
+,15,Barcelona,Levante,4.0,0.0
+11-12-2016,14,Santa Teresa CD,Sporting de Huelva,1.0,0.0
+,14,Real Betis,Espanyol,2.0,1.0
+,14,Oiartzun ,Rayo,0.0,1.0
+,14,Valencia,Real Sociedad,3.0,0.0
+,14,Atlético,Barcelona,2.0,1.0
+,14,Levante,UDG Tenerife Sur,3.0,2.0
+,14,UD Tacuense,Fundación Albacete,1.0,1.0
+,14,Athletic,Zaragoza CFF,4.0,0.0
+06-12-2016,13,Real Sociedad,Oiartzun ,4.0,0.0
+07-12-2016,13,Barcelona,Valencia,1.0,1.0
+08-12-2016,13,Fundación Albacete,Sporting de Huelva,3.0,3.0
+,13,Rayo,Athletic,2.0,3.0
+,13,Santa Teresa CD,Levante,0.0,3.0
+,13,Espanyol,UD Tacuense,2.0,0.0
+,13,UDG Tenerife Sur,Atlético,0.0,0.0
+,13,Zaragoza CFF,Real Betis,2.0,1.0
+02-12-2016,12,Athletic,Real Sociedad,1.0,1.0
+03-12-2016,12,Oiartzun ,Barcelona,0.0,1.0
+,12,Valencia,UDG Tenerife Sur,2.0,2.0
+,12,Real Betis,Rayo,0.0,3.0
+04-12-2016,12,Fundación Albacete,Santa Teresa CD,2.0,0.0
+,12,Sporting de Huelva,Espanyol,2.0,1.0
+,12,UD Tacuense,Zaragoza CFF,1.0,1.0
+,12,Atlético,Levante,5.0,0.0
+19-11-2016,11,Real Sociedad,Real Betis,0.0,2.0
+,11,Levante,Valencia,2.0,1.0
+,11,UDG Tenerife Sur,Oiartzun ,2.0,1.0
+20-11-2016,11,Rayo,UD Tacuense,5.0,1.0
+,11,Zaragoza CFF,Sporting de Huelva,1.0,1.0
+,11,Santa Teresa CD,Atlético,1.0,3.0
+,11,Espanyol,Fundación Albacete,3.0,3.0
+,11,Barcelona,Athletic,2.0,1.0
+12-11-2016,10,Valencia,Atlético,1.0,1.0
+13-11-2016,10,Athletic,UDG Tenerife Sur,2.0,0.0
+,10,Fundación Albacete,Zaragoza CFF,2.0,3.0
+,10,UD Tacuense,Real Sociedad,0.0,2.0
+,10,Oiartzun ,Levante,1.0,2.0
+,10,Sporting de Huelva,Rayo,3.0,1.0
+,10,Espanyol,Santa Teresa CD,2.0,0.0
+,10,Real Betis,Barcelona,1.0,1.0
+05-11-2016,9,Atlético,Oiartzun ,4.0,0.0
+,9,Levante,Athletic,3.0,1.0
+,9,UDG Tenerife Sur,Real Betis,4.0,0.0
+06-11-2016,9,Rayo,Fundación Albacete,3.0,1.0
+,9,Zaragoza CFF,Espanyol,2.0,1.0
+,9,Real Sociedad,Sporting de Huelva,1.0,2.0
+,9,Santa Teresa CD,Valencia,0.0,0.0
+,9,Barcelona,UD Tacuense,3.0,0.0
+29-10-2016,8,Espanyol,Rayo,0.0,3.0
+30-10-2016,8,Zaragoza CFF,Santa Teresa CD,0.0,0.0
+,8,Fundación Albacete,Real Sociedad,1.0,1.0
+,8,Sporting de Huelva,Barcelona,0.0,1.0
+,8,Athletic,Atlético,1.0,2.0
+,8,Oiartzun ,Valencia,0.0,1.0
+,8,UD Tacuense,UDG Tenerife Sur,1.0,1.0
+,8,Real Betis,Levante,1.0,2.0
+15-10-2016,7,Barcelona,Fundación Albacete,7.0,0.0
+,7,Atlético,Real Betis,2.0,1.0
+,7,Rayo,Zaragoza CFF,2.0,1.0
+16-10-2016,7,Real Sociedad,Espanyol,1.0,1.0
+,7,UDG Tenerife Sur,Sporting de Huelva,4.0,3.0
+,7,Levante,UD Tacuense,2.0,1.0
+,7,Santa Teresa CD,Oiartzun ,2.0,2.0
+,7,Valencia,Athletic,3.0,1.0
+12-10-2016,6,Zaragoza CFF,Real Sociedad,2.0,1.0
+,6,UD Tacuense,Atlético,0.0,7.0
+,6,Fundación Albacete,UDG Tenerife Sur,2.0,3.0
+,6,Sporting de Huelva,Levante,1.0,1.0
+,6,Rayo,Santa Teresa CD,1.0,1.0
+,6,Real Betis,Valencia,0.0,0.0
+02-11-2016,6,Espanyol,Barcelona,1.0,6.0
+15-12-2016,6,Athletic,Oiartzun ,4.0,0.0
+08-10-2016,5,Oiartzun ,Real Betis,2.0,3.0
+,5,Atlético,Sporting de Huelva,4.0,1.0
+,5,UDG Tenerife Sur,Espanyol,2.0,1.0
+09-10-2016,5,Real Sociedad,Rayo,2.0,0.0
+,5,Levante,Fundación Albacete,2.0,1.0
+,5,Valencia,UD Tacuense,1.0,0.0
+,5,Santa Teresa CD,Athletic,1.0,2.0
+,5,Barcelona,Zaragoza CFF,3.0,0.0
+01-10-2016,4,Espanyol,Levante,1.0,3.0
+,4,Real Betis,Athletic,1.0,2.0
+02-10-2016,4,Real Sociedad,Santa Teresa CD,0.0,1.0
+,4,Zaragoza CFF,UDG Tenerife Sur,1.0,1.0
+,4,UD Tacuense,Oiartzun ,3.0,3.0
+,4,Sporting de Huelva,Valencia,0.0,0.0
+,4,Fundación Albacete,Atlético,1.0,4.0
+,4,Rayo,Barcelona,0.0,4.0
+24-09-2016,3,Valencia,Fundación Albacete,4.0,0.0
+,3,Santa Teresa CD,Real Betis,3.0,0.0
+,3,Levante,Zaragoza CFF,3.0,0.0
+25-09-2016,3,Athletic,UD Tacuense,7.0,0.0
+,3,Oiartzun ,Sporting de Huelva,1.0,1.0
+,3,UDG Tenerife Sur,Rayo,4.0,1.0
+,3,Barcelona,Real Sociedad,2.0,0.0
+,3,Atlético,Espanyol,6.0,0.0
+10-09-2016,2,Zaragoza CFF,Atlético,2.0,2.0
+,2,Rayo,Levante,0.0,2.0
+11-09-2016,2,Sporting de Huelva,Athletic,1.0,1.0
+,2,Real Sociedad,UDG Tenerife Sur,0.0,0.0
+,2,Fundación Albacete,Oiartzun ,2.0,0.0
+,2,UD Tacuense,Real Betis,0.0,0.0
+,2,Espanyol,Valencia,0.0,2.0
+,2,Barcelona,Santa Teresa CD,6.0,0.0
+03-09-2016,1,Athletic,Fundación Albacete,2.0,0.0
+,1,Atlético,Rayo,2.0,0.0
+04-09-2016,1,Valencia,Zaragoza CFF,5.0,0.0
+,1,Santa Teresa CD,UD Tacuense,3.0,0.0
+,1,Levante,Real Sociedad,0.0,0.0
+,1,Oiartzun ,Espanyol,0.0,0.0
+,1,UDG Tenerife Sur,Barcelona,0.0,4.0
+,1,Real Betis,Sporting de Huelva,3.0,4.0
+11-06-2016,30,Valencia,Levante,3.0,0.0
+12-06-2016,30,Espanyol,UD Collerense,0.0,0.0
+,30,Santa Teresa CD,Fundación Albacete,1.0,0.0
+,30,Real Sociedad,Sporting de Huelva,0.0,1.0
+,30,Oiartzun ,Rayo,0.0,2.0
+,30,Oviedo Moderno CF,Barcelona,0.0,5.0
+,30,UDG Tenerife Sur,Athletic,2.0,1.0
+,30,Atlético,Transportes Alcaine,7.0,2.0
+04-06-2016,29,Athletic,Oviedo Moderno CF,3.0,0.0
+05-06-2016,29,UD Collerense,Valencia,0.0,7.0
+,29,Rayo,Real Sociedad,2.0,2.0
+,29,Levante,UDG Tenerife Sur,6.0,1.0
+,29,Fundación Albacete,Espanyol,0.0,1.0
+,29,Transportes Alcaine,Oiartzun ,1.0,1.0
+,29,Barcelona,Atlético,0.0,1.0
+,29,Sporting de Huelva,Santa Teresa CD,1.0,0.0
+28-05-2016,28,Atlético,Athletic,1.0,2.0
+29-05-2016,28,Oviedo Moderno CF,Levante,0.0,3.0
+,28,Santa Teresa CD,Rayo,3.0,0.0
+,28,UD Collerense,Fundación Albacete,4.0,4.0
+,28,Oiartzun ,Barcelona,0.0,5.0
+,28,Espanyol,Sporting de Huelva,1.0,0.0
+,28,Real Sociedad,Transportes Alcaine,4.0,2.0
+,28,UDG Tenerife Sur,Valencia,1.0,0.0
+21-05-2016,27,Levante,Atlético,1.0,1.0
+,27,Sporting de Huelva,UD Collerense,2.0,1.0
+,27,UDG Tenerife Sur,Oviedo Moderno CF,4.0,0.0
+22-05-2016,27,Valencia,Fundación Albacete,6.0,2.0
+,27,Rayo,Espanyol,1.0,1.0
+,27,Barcelona,Real Sociedad,1.0,0.0
+,27,Athletic,Oiartzun ,2.0,0.0
+,27,Transportes Alcaine,Santa Teresa CD,1.0,4.0
+14-05-2016,26,Santa Teresa CD,Barcelona,0.0,7.0
+15-05-2016,26,Fundación Albacete,Sporting de Huelva,2.0,2.0
+,26,UD Collerense,Rayo,1.0,3.0
+,26,Real Sociedad,Athletic,1.0,2.0
+,26,Oiartzun ,Levante,0.0,1.0
+,26,Oviedo Moderno CF,Valencia,2.0,2.0
+,26,Espanyol,Transportes Alcaine,2.0,3.0
+,26,Atlético,UDG Tenerife Sur,5.0,0.0
+30-04-2016,25,Levante,Real Sociedad,2.0,1.0
+,25,Transportes Alcaine,UD Collerense,4.0,1.0
+,25,Athletic,Santa Teresa CD,3.0,1.0
+,25,UDG Tenerife Sur,Oiartzun ,4.0,0.0
+01-05-2016,25,Rayo,Fundación Albacete,2.0,2.0
+,25,Valencia,Sporting de Huelva,1.0,2.0
+,25,Barcelona,Espanyol,7.0,1.0
+,25,Oviedo Moderno CF,Atlético,0.0,1.0
+23-04-2016,24,Oiartzun ,Oviedo Moderno CF,1.0,0.0
+24-04-2016,24,Santa Teresa CD,Levante,1.0,3.0
+,24,Real Sociedad,UDG Tenerife Sur,1.0,1.0
+,24,Espanyol,Athletic,0.0,2.0
+,24,Fundación Albacete,Transportes Alcaine,3.0,1.0
+,24,UD Collerense,Barcelona,0.0,3.0
+,24,Sporting de Huelva,Rayo,3.0,1.0
+,24,Atlético,Valencia,0.0,3.0
+16-04-2016,23,Atlético,Oiartzun ,3.0,0.0
+,23,Athletic,UD Collerense,5.0,0.0
+,23,Levante,Espanyol,3.0,2.0
+17-04-2016,23,Valencia,Rayo,0.0,1.0
+,23,Transportes Alcaine,Sporting de Huelva,2.0,1.0
+,23,Barcelona,Fundación Albacete,2.0,0.0
+,23,UDG Tenerife Sur,Santa Teresa CD,4.0,1.0
+,23,Oviedo Moderno CF,Real Sociedad,1.0,2.0
+02-04-2016,22,Fundación Albacete,Athletic,1.0,3.0
+,22,UD Collerense,Levante,1.0,2.0
+,22,Rayo,Transportes Alcaine,2.0,1.0
+03-04-2016,22,Santa Teresa CD,Oviedo Moderno CF,1.0,1.0
+,22,Sporting de Huelva,Barcelona,1.0,2.0
+,22,Real Sociedad,Atlético,1.0,0.0
+,22,Oiartzun ,Valencia,0.0,2.0
+,22,Espanyol,UDG Tenerife Sur,0.0,0.0
+25-03-2016,21,UDG Tenerife Sur,UD Collerense,3.0,2.0
+26-03-2016,21,Levante,Fundación Albacete,1.0,1.0
+27-03-2016,21,Athletic,Sporting de Huelva,3.0,0.0
+,21,Oiartzun ,Real Sociedad,0.0,1.0
+,21,Barcelona,Rayo,4.0,0.0
+,21,Oviedo Moderno CF,Espanyol,2.0,2.0
+,21,Atlético,Santa Teresa CD,4.0,2.0
+,21,Valencia,Transportes Alcaine,2.0,0.0
+20-03-2016,20,Transportes Alcaine,Barcelona,0.0,3.0
+,20,Rayo,Athletic,2.0,0.0
+,20,Sporting de Huelva,Levante,2.0,1.0
+,20,Fundación Albacete,UDG Tenerife Sur,2.0,0.0
+,20,UD Collerense,Oviedo Moderno CF,2.0,2.0
+,20,Espanyol,Atlético,1.0,2.0
+,20,Santa Teresa CD,Oiartzun ,1.0,1.0
+,20,Real Sociedad,Valencia,0.0,1.0
+12-03-2016,19,Valencia,Barcelona,1.0,2.0
+,19,Athletic,Transportes Alcaine,3.0,0.0
+13-03-2016,19,Levante,Rayo,2.0,1.0
+,19,UDG Tenerife Sur,Sporting de Huelva,1.0,1.0
+,19,Oiartzun ,Espanyol,1.0,0.0
+,19,Real Sociedad,Santa Teresa CD,1.0,0.0
+,19,Oviedo Moderno CF,Fundación Albacete,0.0,3.0
+,19,Atlético,UD Collerense,5.0,0.0
+27-02-2016,18,Espanyol,Real Sociedad,0.0,0.0
+,18,Transportes Alcaine,Levante,1.0,2.0
+28-02-2016,18,UD Collerense,Oiartzun ,2.0,2.0
+,18,Rayo,UDG Tenerife Sur,1.0,1.0
+,18,Santa Teresa CD,Valencia,2.0,0.0
+,18,Barcelona,Athletic,1.0,1.0
+,18,Sporting de Huelva,Oviedo Moderno CF,3.0,2.0
+,18,Fundación Albacete,Atlético,1.0,3.0
+20-02-2016,17,Valencia,Athletic,1.0,2.0
+,17,UDG Tenerife Sur,Transportes Alcaine,4.0,0.0
+21-02-2016,17,Oviedo Moderno CF,Rayo,1.0,2.0
+,17,Real Sociedad,UD Collerense,3.0,1.0
+,17,Santa Teresa CD,Espanyol,3.0,1.0
+,17,Levante,Barcelona,0.0,1.0
+,17,Oiartzun ,Fundación Albacete,1.0,0.0
+,17,Atlético,Sporting de Huelva,3.0,1.0
+06-02-2016,16,Rayo,Atlético,0.0,3.0
+07-02-2016,16,Athletic,Levante,0.0,0.0
+,16,Barcelona,UDG Tenerife Sur,3.0,0.0
+,16,Transportes Alcaine,Oviedo Moderno CF,1.0,0.0
+,16,UD Collerense,Santa Teresa CD,2.0,2.0
+,16,Espanyol,Valencia,0.0,4.0
+,16,Fundación Albacete,Real Sociedad,0.0,6.0
+,16,Sporting de Huelva,Oiartzun ,3.0,0.0
+30-01-2016,15,Levante,Valencia,0.0,0.0
+31-01-2016,15,Rayo,Oiartzun ,1.0,1.0
+,15,Athletic,UDG Tenerife Sur,5.0,1.0
+,15,UD Collerense,Espanyol,1.0,0.0
+,15,Fundación Albacete,Santa Teresa CD,4.0,4.0
+,15,Transportes Alcaine,Atlético,1.0,6.0
+,15,Barcelona,Oviedo Moderno CF,8.0,0.0
+,15,Sporting de Huelva,Real Sociedad,0.0,0.0
+16-01-2016,14,Atlético,Barcelona,0.0,0.0
+,14,Oviedo Moderno CF,Athletic,0.0,2.0
+17-01-2016,14,Valencia,UD Collerense,3.0,1.0
+,14,Santa Teresa CD,Sporting de Huelva,3.0,2.0
+,14,Real Sociedad,Rayo,3.0,1.0
+,14,Espanyol,Fundación Albacete,2.0,1.0
+,14,UDG Tenerife Sur,Levante,0.0,0.0
+,14,Oiartzun ,Transportes Alcaine,1.0,2.0
+09-01-2016,13,Transportes Alcaine,Real Sociedad,1.0,2.0
+10-01-2016,13,Fundación Albacete,UD Collerense,3.0,2.0
+,13,Rayo,Santa Teresa CD,2.0,1.0
+,13,Athletic,Atlético,3.0,0.0
+,13,Valencia,UDG Tenerife Sur,3.0,0.0
+,13,Barcelona,Oiartzun ,2.0,0.0
+,13,Levante,Oviedo Moderno CF,3.0,1.0
+,13,Sporting de Huelva,Espanyol,0.0,1.0
+12-12-2015,12,Real Sociedad,Barcelona,0.0,3.0
+,12,Atlético,Levante,1.0,2.0
+13-12-2015,12,UD Collerense,Sporting de Huelva,0.0,4.0
+,12,Oviedo Moderno CF,UDG Tenerife Sur,1.0,4.0
+,12,Santa Teresa CD,Transportes Alcaine,2.0,0.0
+,12,Oiartzun ,Athletic,0.0,4.0
+,12,Espanyol,Rayo,2.0,1.0
+,12,Fundación Albacete,Valencia,2.0,6.0
+05-12-2015,11,Athletic,Real Sociedad,5.0,0.0
+,11,Valencia,Oviedo Moderno CF,2.0,0.0
+06-12-2015,11,Sporting de Huelva,Fundación Albacete,2.0,2.0
+,11,Rayo,UD Collerense,2.0,1.0
+,11,Transportes Alcaine,Espanyol,0.0,1.0
+,11,Barcelona,Santa Teresa CD,5.0,1.0
+,11,Levante,Oiartzun ,1.0,1.0
+,11,UDG Tenerife Sur,Atlético,0.0,1.0
+21-11-2015,10,Espanyol,Barcelona,0.0,0.0
+22-11-2015,10,UD Collerense,Transportes Alcaine,2.0,2.0
+,10,Oiartzun ,UDG Tenerife Sur,2.0,0.0
+,10,Santa Teresa CD,Athletic,0.0,1.0
+,10,Fundación Albacete,Rayo,2.0,3.0
+,10,Sporting de Huelva,Valencia,1.0,0.0
+,10,Real Sociedad,Levante,4.0,0.0
+,10,Atlético,Oviedo Moderno CF,5.0,1.0
+14-11-2015,9,Oviedo Moderno CF,Oiartzun ,3.0,1.0
+15-11-2015,9,Valencia,Atlético,0.0,2.0
+,9,Athletic,Espanyol,5.0,0.0
+,9,Transportes Alcaine,Fundación Albacete,3.0,0.0
+,9,Barcelona,UD Collerense,2.0,1.0
+,9,UDG Tenerife Sur,Real Sociedad,3.0,0.0
+,9,Levante,Santa Teresa CD,4.0,0.0
+,9,Rayo,Sporting de Huelva,0.0,1.0
+07-11-2015,8,Oiartzun ,Atlético,0.0,5.0
+,8,Real Sociedad,Oviedo Moderno CF,3.0,0.0
+,8,Espanyol,Levante,0.0,2.0
+08-11-2015,8,UD Collerense,Athletic,0.0,3.0
+,8,Santa Teresa CD,UDG Tenerife Sur,1.0,4.0
+,8,Fundación Albacete,Barcelona,0.0,10.0
+,8,Rayo,Valencia,1.0,1.0
+,8,Sporting de Huelva,Transportes Alcaine,3.0,1.0
+31-10-2015,7,UDG Tenerife Sur,Espanyol,2.0,3.0
+01-11-2015,7,Levante,UD Collerense,4.0,0.0
+,7,Athletic,Fundación Albacete,5.0,1.0
+,7,Transportes Alcaine,Rayo,2.0,0.0
+,7,Barcelona,Sporting de Huelva,1.0,1.0
+,7,Valencia,Oiartzun ,8.0,0.0
+,7,Oviedo Moderno CF,Santa Teresa CD,0.0,1.0
+,7,Atlético,Real Sociedad,2.0,1.0
+18-10-2015,6,UD Collerense,UDG Tenerife Sur,1.0,2.0
+,6,Real Sociedad,Oiartzun ,3.0,0.0
+,6,Santa Teresa CD,Atlético,0.0,1.0
+,6,Transportes Alcaine,Valencia,0.0,2.0
+,6,Rayo,Barcelona,1.0,2.0
+,6,Espanyol,Oviedo Moderno CF,4.0,0.0
+,6,Sporting de Huelva,Athletic,0.0,2.0
+,6,Fundación Albacete,Levante,1.0,6.0
+10-10-2015,5,Oviedo Moderno CF,UD Collerense,0.0,0.0
+11-10-2015,5,Athletic,Rayo,1.0,0.0
+,5,Levante,Sporting de Huelva,4.0,0.0
+,5,UDG Tenerife Sur,Fundación Albacete,1.0,0.0
+,5,Oiartzun ,Santa Teresa CD,3.0,2.0
+,5,Valencia,Real Sociedad,1.0,2.0
+,5,Atlético,Espanyol,3.0,0.0
+,5,Barcelona,Transportes Alcaine,6.0,0.0
+03-10-2015,4,Transportes Alcaine,Athletic,0.0,1.0
+,4,Rayo,Levante,2.0,0.0
+,4,Fundación Albacete,Oviedo Moderno CF,3.0,2.0
+04-10-2015,4,Santa Teresa CD,Real Sociedad,1.0,3.0
+,4,Barcelona,Valencia,2.0,0.0
+,4,Espanyol,Oiartzun ,2.0,1.0
+,4,Sporting de Huelva,UDG Tenerife Sur,0.0,2.0
+,4,UD Collerense,Atlético,0.0,5.0
+26-09-2015,3,Real Sociedad,Espanyol,2.0,0.0
+27-09-2015,3,Oiartzun ,UD Collerense,2.0,1.0
+,3,Athletic,Barcelona,1.0,1.0
+,3,Oviedo Moderno CF,Sporting de Huelva,0.0,4.0
+,3,UDG Tenerife Sur,Rayo,3.0,0.0
+,3,Atlético,Fundación Albacete,9.0,1.0
+,3,Levante,Transportes Alcaine,2.0,3.0
+08-12-2015,3,Valencia,Santa Teresa CD,2.0,2.0
+12-09-2015,2,Rayo,Oviedo Moderno CF,0.0,1.0
+13-09-2015,2,Transportes Alcaine,UDG Tenerife Sur,1.0,0.0
+,2,UD Collerense,Real Sociedad,0.0,2.0
+,2,Athletic,Valencia,3.0,2.0
+,2,Fundación Albacete,Oiartzun ,4.0,3.0
+,2,Sporting de Huelva,Atlético,1.0,1.0
+,2,Espanyol,Santa Teresa CD,1.0,0.0
+,2,Barcelona,Levante,7.0,1.0
+05-09-2015,1,Valencia,Espanyol,2.0,0.0
+06-09-2015,1,Santa Teresa CD,UD Collerense,3.0,1.0
+,1,Levante,Athletic,0.0,2.0
+,1,UDG Tenerife Sur,Barcelona,1.0,3.0
+,1,Oviedo Moderno CF,Transportes Alcaine,1.0,3.0
+,1,Oiartzun ,Sporting de Huelva,2.0,2.0
+,1,Real Sociedad,Fundación Albacete,2.0,2.0
+,1,Atlético,Rayo,3.0,0.0
+01-05-2015,30,Atlético,Sporting de Huelva,2.0,0.0
+02-05-2015,30,Barcelona,Espanyol,3.0,0.0
+03-05-2015,30,Santa Teresa CD,Sevilla,3.0,1.0
+,30,UD Collerense,Transportes Alcaine,0.0,1.0
+,30,Fundación Albacete,Real Sociedad,2.0,2.0
+,30,Athletic,CE Sant Gabriel,2.0,0.0
+,30,Oviedo Moderno CF,Valencia,0.0,3.0
+,30,Levante,Rayo,1.0,1.0
+25-04-2015,29,Valencia,Athletic,0.0,2.0
+26-04-2015,29,CE Sant Gabriel,Atlético,1.0,3.0
+,29,Transportes Alcaine,Barcelona,0.0,4.0
+,29,Sevilla,UD Collerense,0.0,1.0
+,29,Real Sociedad,Santa Teresa CD,2.0,0.0
+,29,Rayo,Fundación Albacete,1.0,3.0
+,29,Sporting de Huelva,Levante,1.0,1.0
+,29,Espanyol,Oviedo Moderno CF,4.0,0.0
+18-04-2015,28,Atlético,Valencia,1.0,1.0
+19-04-2015,28,UD Collerense,Real Sociedad,1.0,4.0
+,28,Athletic,Espanyol,7.0,1.0
+,28,Santa Teresa CD,Rayo,3.0,1.0
+,28,Transportes Alcaine,Sevilla,5.0,3.0
+,28,Fundación Albacete,Sporting de Huelva,3.0,0.0
+,28,Oviedo Moderno CF,Barcelona,0.0,0.0
+,28,Levante,CE Sant Gabriel,3.0,0.0
+11-04-2015,27,Valencia,Levante,1.0,2.0
+,27,Oviedo Moderno CF,Athletic,0.0,2.0
+12-04-2015,27,CE Sant Gabriel,Fundación Albacete,2.0,0.0
+,27,Barcelona,Sevilla,8.0,0.0
+,27,Real Sociedad,Transportes Alcaine,0.0,0.0
+,27,Sporting de Huelva,Santa Teresa CD,2.0,0.0
+,27,Espanyol,Atlético,0.0,1.0
+,27,Rayo,UD Collerense,1.0,1.0
+02-04-2015,26,Transportes Alcaine,Rayo,1.0,2.0
+,26,Atlético,Oviedo Moderno CF,3.0,0.0
+03-04-2015,26,Fundación Albacete,Valencia,2.0,2.0
+04-04-2015,26,Athletic,Barcelona,1.0,0.0
+05-04-2015,26,UD Collerense,Sporting de Huelva,2.0,3.0
+,26,Santa Teresa CD,CE Sant Gabriel,2.0,0.0
+,26,Sevilla,Real Sociedad,2.0,1.0
+,26,Levante,Espanyol,3.0,2.0
+28-03-2015,25,Athletic,Atlético,0.0,0.0
+,25,Rayo,Sevilla,2.0,1.0
+29-03-2015,25,CE Sant Gabriel,UD Collerense,1.0,0.0
+,25,Oviedo Moderno CF,Levante,0.0,0.0
+,25,Barcelona,Real Sociedad,3.0,0.0
+,25,Valencia,Santa Teresa CD,1.0,1.0
+,25,Espanyol,Fundación Albacete,2.0,1.0
+,25,Sporting de Huelva,Transportes Alcaine,3.0,0.0
+21-03-2015,24,Transportes Alcaine,CE Sant Gabriel,0.0,1.0
+22-03-2015,24,Atlético,Barcelona,1.0,1.0
+,24,UD Collerense,Valencia,2.0,1.0
+,24,Santa Teresa CD,Espanyol,1.0,1.0
+,24,Real Sociedad,Rayo,2.0,3.0
+,24,Sevilla,Sporting de Huelva,0.0,5.0
+,24,Fundación Albacete,Oviedo Moderno CF,3.0,1.0
+,24,Levante,Athletic,4.0,1.0
+14-03-2015,23,CE Sant Gabriel,Sevilla,3.0,0.0
+,23,Valencia,Transportes Alcaine,2.0,1.0
+15-03-2015,23,Athletic,Fundación Albacete,4.0,2.0
+,23,Barcelona,Rayo,3.0,1.0
+,23,Espanyol,UD Collerense,5.0,2.0
+,23,Sporting de Huelva,Real Sociedad,2.0,2.0
+,23,Oviedo Moderno CF,Santa Teresa CD,1.0,2.0
+,23,Atlético,Levante,3.0,1.0
+07-03-2015,22,Rayo,Sporting de Huelva,2.0,1.0
+08-03-2015,22,UD Collerense,Oviedo Moderno CF,1.0,2.0
+,22,Santa Teresa CD,Athletic,0.0,3.0
+,22,Real Sociedad,CE Sant Gabriel,2.0,1.0
+,22,Sevilla,Valencia,1.0,3.0
+,22,Transportes Alcaine,Espanyol,1.0,2.0
+,22,Levante,Barcelona,1.0,2.0
+,22,Fundación Albacete,Atlético,1.0,3.0
+28-02-2015,21,Valencia,Real Sociedad,1.0,0.0
+01-03-2015,21,Athletic,UD Collerense,6.0,0.0
+,21,Barcelona,Sporting de Huelva,7.0,0.0
+,21,Espanyol,Sevilla,2.0,1.0
+,21,Oviedo Moderno CF,Transportes Alcaine,2.0,1.0
+,21,Levante,Fundación Albacete,8.0,1.0
+,21,Atlético,Santa Teresa CD,1.0,0.0
+,21,CE Sant Gabriel,Rayo,1.0,3.0
+21-02-2015,20,Transportes Alcaine,Athletic,0.0,0.0
+22-02-2015,20,Real Sociedad,Espanyol,3.0,0.0
+,20,UD Collerense,Atlético,0.0,0.0
+,20,Santa Teresa CD,Levante,0.0,0.0
+,20,Sporting de Huelva,CE Sant Gabriel,2.0,0.0
+,20,Fundación Albacete,Barcelona,0.0,2.0
+,20,Rayo,Valencia,0.0,2.0
+,20,Sevilla,Oviedo Moderno CF,5.0,2.0
+14-02-2015,19,Barcelona,CE Sant Gabriel,5.0,0.0
+,19,Oviedo Moderno CF,Real Sociedad,2.0,2.0
+15-02-2015,19,Levante,UD Collerense,5.0,0.0
+,19,Athletic,Sevilla,7.0,0.0
+,19,Fundación Albacete,Santa Teresa CD,1.0,1.0
+,19,Valencia,Sporting de Huelva,1.0,1.0
+,19,Espanyol,Rayo,2.0,0.0
+,19,Atlético,Transportes Alcaine,2.0,2.0
+31-01-2015,18,Real Sociedad,Athletic,1.0,1.0
+,18,Transportes Alcaine,Levante,0.0,0.0
+01-02-2015,18,Santa Teresa CD,Barcelona,0.0,4.0
+,18,CE Sant Gabriel,Valencia,1.0,3.0
+,18,UD Collerense,Fundación Albacete,2.0,1.0
+,18,Sporting de Huelva,Espanyol,3.0,2.0
+,18,Sevilla,Atlético,1.0,1.0
+,18,Rayo,Oviedo Moderno CF,1.0,0.0
+24-01-2015,17,Barcelona,Valencia,1.0,2.0
+25-01-2015,17,Santa Teresa CD,UD Collerense,1.0,0.0
+,17,Athletic,Rayo,0.0,0.0
+,17,Levante,Sevilla,3.0,1.0
+,17,Fundación Albacete,Transportes Alcaine,0.0,0.0
+,17,Espanyol,CE Sant Gabriel,2.0,0.0
+,17,Oviedo Moderno CF,Sporting de Huelva,2.0,2.0
+,17,Atlético,Real Sociedad,3.0,1.0
+17-01-2015,16,Rayo,Atlético,2.0,3.0
+,16,Sevilla,Fundación Albacete,1.0,0.0
+18-01-2015,16,UD Collerense,Barcelona,0.0,1.0
+,16,Valencia,Espanyol,3.0,1.0
+,16,CE Sant Gabriel,Oviedo Moderno CF,3.0,0.0
+,16,Sporting de Huelva,Athletic,2.0,2.0
+,16,Transportes Alcaine,Santa Teresa CD,1.0,1.0
+,16,Real Sociedad,Levante,0.0,1.0
+10-01-2015,15,Espanyol,Barcelona,0.0,4.0
+,15,Rayo,Levante,0.0,0.0
+11-01-2015,15,CE Sant Gabriel,Athletic,1.0,4.0
+,15,Sevilla,Santa Teresa CD,2.0,3.0
+,15,Real Sociedad,Fundación Albacete,1.0,1.0
+,15,Valencia,Oviedo Moderno CF,4.0,1.0
+,15,Transportes Alcaine,UD Collerense,0.0,2.0
+,15,Sporting de Huelva,Atlético,0.0,2.0
+22-11-2014,14,Oviedo Moderno CF,Espanyol,1.0,1.0
+,14,Barcelona,Transportes Alcaine,4.0,0.0
+23-11-2014,14,UD Collerense,Sevilla,3.0,0.0
+,14,Levante,Sporting de Huelva,1.0,1.0
+,14,Athletic,Valencia,1.0,0.0
+,14,Santa Teresa CD,Real Sociedad,3.0,3.0
+,14,Fundación Albacete,Rayo,2.0,3.0
+,14,Atlético,CE Sant Gabriel,3.0,1.0
+25-10-2014,13,Valencia,Atlético,2.0,2.0
+,13,Rayo,Santa Teresa CD,3.0,0.0
+26-10-2014,13,Real Sociedad,UD Collerense,4.0,1.0
+,13,Sevilla,Transportes Alcaine,0.0,1.0
+,13,Sporting de Huelva,Fundación Albacete,4.0,3.0
+,13,Barcelona,Oviedo Moderno CF,5.0,1.0
+,13,Espanyol,Athletic,1.0,1.0
+,13,CE Sant Gabriel,Levante,0.0,3.0
+13-12-2014,12,Levante,Valencia,0.0,0.0
+,12,Transportes Alcaine,Real Sociedad,2.0,1.0
+,12,Athletic,Oviedo Moderno CF,3.0,0.0
+14-12-2014,12,UD Collerense,Rayo,1.0,4.0
+,12,Fundación Albacete,CE Sant Gabriel,2.0,0.0
+,12,Santa Teresa CD,Sporting de Huelva,2.0,0.0
+,12,Sevilla,Barcelona,0.0,3.0
+,12,Atlético,Espanyol,1.0,0.0
+06-12-2014,11,Barcelona,Athletic,4.0,0.0
+,11,Rayo,Transportes Alcaine,5.0,0.0
+07-12-2014,11,Sporting de Huelva,UD Collerense,2.0,1.0
+,11,CE Sant Gabriel,Santa Teresa CD,2.0,0.0
+,11,Real Sociedad,Sevilla,0.0,1.0
+,11,Valencia,Fundación Albacete,1.0,0.0
+,11,Espanyol,Levante,1.0,0.0
+,11,Oviedo Moderno CF,Atlético,0.0,1.0
+29-11-2014,10,Atlético,Athletic,2.0,0.0
+30-11-2014,10,Santa Teresa CD,Valencia,1.0,0.0
+,10,UD Collerense,CE Sant Gabriel,2.0,2.0
+,10,Transportes Alcaine,Sporting de Huelva,1.0,3.0
+,10,Real Sociedad,Barcelona,0.0,2.0
+,10,Sevilla,Rayo,1.0,5.0
+,10,Fundación Albacete,Espanyol,2.0,1.0
+13-01-2015,10,Levante,Oviedo Moderno CF,5.0,0.0
+15-11-2014,9,Athletic,Levante,1.0,1.0
+,9,CE Sant Gabriel,Transportes Alcaine,1.0,1.0
+16-11-2014,9,Barcelona,Atlético,1.0,0.0
+,9,Sporting de Huelva,Sevilla,3.0,0.0
+,9,Oviedo Moderno CF,Fundación Albacete,1.0,0.0
+,9,Espanyol,Santa Teresa CD,4.0,0.0
+,9,Valencia,UD Collerense,5.0,0.0
+,9,Rayo,Real Sociedad,0.0,1.0
+08-11-2014,8,Levante,Atlético,1.0,3.0
+,8,Transportes Alcaine,Valencia,0.0,0.0
+09-11-2014,8,Santa Teresa CD,Oviedo Moderno CF,2.0,3.0
+,8,Real Sociedad,Sporting de Huelva,0.0,0.0
+,8,Sevilla,CE Sant Gabriel,0.0,2.0
+,8,UD Collerense,Espanyol,1.0,2.0
+,8,Fundación Albacete,Athletic,1.0,1.0
+20-12-2014,8,Rayo,Barcelona,0.0,1.0
+01-11-2014,7,Barcelona,Levante,3.0,0.0
+,7,Athletic,Santa Teresa CD,3.0,0.0
+02-11-2014,7,CE Sant Gabriel,Real Sociedad,0.0,1.0
+,7,Sporting de Huelva,Rayo,0.0,1.0
+,7,Valencia,Sevilla,3.0,0.0
+,7,Oviedo Moderno CF,UD Collerense,4.0,1.0
+,7,Espanyol,Transportes Alcaine,2.0,2.0
+,7,Atlético,Fundación Albacete,3.0,1.0
+18-10-2014,6,Sevilla,Espanyol,2.0,2.0
+,6,Fundación Albacete,Levante,0.0,2.0
+19-10-2014,6,UD Collerense,Athletic,0.0,1.0
+,6,Sporting de Huelva,Barcelona,0.0,4.0
+,6,Santa Teresa CD,Atlético,2.0,2.0
+,6,Real Sociedad,Valencia,2.0,5.0
+,6,Transportes Alcaine,Oviedo Moderno CF,1.0,2.0
+,6,Rayo,CE Sant Gabriel,2.0,1.0
+11-10-2014,5,Valencia,Rayo,0.0,0.0
+,5,Athletic,Transportes Alcaine,3.0,1.0
+12-10-2014,5,CE Sant Gabriel,Sporting de Huelva,2.0,6.0
+,5,Levante,Santa Teresa CD,1.0,0.0
+,5,Barcelona,Fundación Albacete,8.0,0.0
+,5,Espanyol,Real Sociedad,2.0,2.0
+,5,Oviedo Moderno CF,Sevilla,3.0,3.0
+,5,Atlético,UD Collerense,3.0,1.0
+04-10-2014,4,Santa Teresa CD,Fundación Albacete,3.0,2.0
+,4,CE Sant Gabriel,Barcelona,0.0,3.0
+,4,Transportes Alcaine,Atlético,1.0,2.0
+05-10-2014,4,Sevilla,Athletic,0.0,8.0
+,4,Sporting de Huelva,Valencia,1.0,2.0
+,4,UD Collerense,Levante,2.0,2.0
+,4,Rayo,Espanyol,0.0,0.0
+,4,Real Sociedad,Oviedo Moderno CF,1.0,3.0
+27-09-2014,3,Athletic,Real Sociedad,2.0,1.0
+,3,Levante,Transportes Alcaine,5.0,1.0
+28-09-2014,3,Fundación Albacete,UD Collerense,1.0,3.0
+,3,Valencia,CE Sant Gabriel,3.0,0.0
+,3,Espanyol,Sporting de Huelva,4.0,2.0
+,3,Oviedo Moderno CF,Rayo,1.0,1.0
+,3,Barcelona,Santa Teresa CD,4.0,0.0
+,3,Atlético,Sevilla,1.0,0.0
+20-09-2014,2,Valencia,Barcelona,2.0,1.0
+21-09-2014,2,CE Sant Gabriel,Espanyol,2.0,4.0
+,2,UD Collerense,Santa Teresa CD,2.0,1.0
+,2,Rayo,Athletic,1.0,2.0
+,2,Sevilla,Levante,0.0,5.0
+,2,Transportes Alcaine,Fundación Albacete,0.0,0.0
+,2,Sporting de Huelva,Oviedo Moderno CF,1.0,1.0
+,2,Real Sociedad,Atlético,0.0,2.0
+06-09-2014,1,Athletic,Sporting de Huelva,4.0,1.0
+,1,Fundación Albacete,Sevilla,3.0,1.0
+07-09-2014,1,Santa Teresa CD,Transportes Alcaine,1.0,3.0
+,1,Espanyol,Valencia,0.0,5.0
+,1,Oviedo Moderno CF,CE Sant Gabriel,2.0,0.0
+,1,Levante,Real Sociedad,1.0,0.0
+,1,Barcelona,UD Collerense,2.0,0.0
+,1,Atlético,Rayo,0.0,0.0
+03-05-2014,30,Barcelona,Sevilla,4.0,0.0
+,30,Atlético,Sporting de Huelva,5.0,2.0
+04-05-2014,30,Levante,Real Sociedad,1.0,1.0
+,30,Levante Las Planas,Granada,2.0,1.0
+,30,Oviedo Moderno CF,Rayo,0.0,0.0
+,30,Transportes Alcaine,Espanyol,1.0,1.0
+,30,Athletic,UD Collerense,2.0,0.0
+,30,Valencia,CE Sant Gabriel,1.0,2.0
+26-04-2014,29,Rayo,Valencia,2.0,1.0
+27-04-2014,29,CE Sant Gabriel,Atlético,2.0,1.0
+,29,Granada,Transportes Alcaine,4.0,0.0
+,29,Sevilla,Athletic,0.0,2.0
+,29,Real Sociedad,Levante Las Planas,1.0,1.0
+,29,Sporting de Huelva,Barcelona,2.0,1.0
+,29,Espanyol,Oviedo Moderno CF,3.0,3.0
+,29,UD Collerense,Levante,1.0,1.0
+17-04-2014,28,Transportes Alcaine,Real Sociedad,1.0,0.0
+18-04-2014,28,Rayo,Espanyol,2.0,3.0
+,28,Atlético,Valencia,1.0,1.0
+19-04-2014,28,Athletic,Sporting de Huelva,1.0,1.0
+20-04-2014,28,Levante Las Planas,UD Collerense,2.0,3.0
+,28,Oviedo Moderno CF,Granada,2.0,2.0
+,28,Barcelona,CE Sant Gabriel,5.0,1.0
+,28,Levante,Sevilla,1.0,0.0
+12-04-2014,27,Granada,Rayo,0.0,0.0
+13-04-2014,27,Atlético,Barcelona,0.0,3.0
+,27,CE Sant Gabriel,Athletic,1.0,2.0
+,27,Sevilla,Levante Las Planas,1.0,0.0
+,27,UD Collerense,Transportes Alcaine,3.0,1.0
+,27,Sporting de Huelva,Levante,1.0,2.0
+,27,Valencia,Espanyol,2.0,2.0
+,27,Real Sociedad,Oviedo Moderno CF,1.0,1.0
+19-03-2014,26,Barcelona,Valencia,1.0,0.0
+29-03-2014,26,Athletic,Atlético,4.0,1.0
+,26,Oviedo Moderno CF,UD Collerense,3.0,0.0
+30-03-2014,26,Rayo,Real Sociedad,2.0,0.0
+,26,Espanyol,Granada,2.0,2.0
+,26,Transportes Alcaine,Sevilla,3.0,1.0
+,26,Levante Las Planas,Sporting de Huelva,2.0,4.0
+,26,Levante,CE Sant Gabriel,2.0,0.0
+22-03-2014,25,Atlético,Levante,1.0,1.0
+23-03-2014,25,CE Sant Gabriel,Levante Las Planas,1.0,2.0
+,25,Sevilla,Oviedo Moderno CF,0.0,2.0
+,25,Valencia,Granada,2.0,1.0
+,25,UD Collerense,Rayo,3.0,3.0
+,25,Sporting de Huelva,Transportes Alcaine,0.0,2.0
+,25,Real Sociedad,Espanyol,3.0,0.0
+26-03-2014,25,Barcelona,Athletic,1.0,0.0
+15-03-2014,24,Levante,Barcelona,1.0,1.0
+16-03-2014,24,Granada,Real Sociedad,1.0,1.0
+,24,Espanyol,UD Collerense,1.0,3.0
+,24,Oviedo Moderno CF,Sporting de Huelva,1.0,2.0
+,24,Transportes Alcaine,CE Sant Gabriel,2.0,0.0
+,24,Levante Las Planas,Atlético,0.0,3.0
+,24,Rayo,Sevilla,3.0,1.0
+,24,Athletic,Valencia,3.0,0.0
+08-03-2014,23,Atlético,Transportes Alcaine,5.0,2.0
+,23,UD Collerense,Granada,0.0,2.0
+09-03-2014,23,CE Sant Gabriel,Oviedo Moderno CF,3.0,0.0
+,23,Athletic,Levante,3.0,2.0
+,23,Valencia,Real Sociedad,0.0,0.0
+,23,Barcelona,Levante Las Planas,4.0,0.0
+,23,Sporting de Huelva,Rayo,2.0,1.0
+,23,Sevilla,Espanyol,0.0,1.0
+01-03-2014,22,Levante,Valencia,0.0,0.0
+,22,Granada,Sevilla,1.0,2.0
+02-03-2014,22,Real Sociedad,UD Collerense,1.0,0.0
+,22,Rayo,CE Sant Gabriel,1.0,3.0
+,22,Espanyol,Sporting de Huelva,3.0,1.0
+,22,Levante Las Planas,Athletic,0.0,1.0
+,22,Transportes Alcaine,Barcelona,1.0,4.0
+,22,Oviedo Moderno CF,Atlético,2.0,2.0
+15-02-2014,21,Atlético,Rayo,2.0,0.0
+16-02-2014,21,CE Sant Gabriel,Espanyol,3.0,2.0
+,21,Valencia,UD Collerense,2.0,0.0
+,21,Athletic,Transportes Alcaine,7.0,0.0
+,21,Sevilla,Real Sociedad,0.0,4.0
+,21,Sporting de Huelva,Granada,4.0,0.0
+,21,Barcelona,Oviedo Moderno CF,4.0,1.0
+,21,Levante,Levante Las Planas,0.0,1.0
+08-02-2014,20,Oviedo Moderno CF,Athletic,0.0,0.0
+09-02-2014,20,UD Collerense,Sevilla,5.0,1.0
+,20,Rayo,Barcelona,0.0,1.0
+,20,Granada,CE Sant Gabriel,2.0,2.0
+,20,Transportes Alcaine,Levante,0.0,1.0
+,20,Real Sociedad,Sporting de Huelva,2.0,0.0
+,20,Espanyol,Atlético,2.0,1.0
+,20,Levante Las Planas,Valencia,0.0,2.0
+01-02-2014,19,Barcelona,Espanyol,4.0,0.0
+02-02-2014,19,CE Sant Gabriel,Real Sociedad,0.0,2.0
+,19,Sporting de Huelva,UD Collerense,1.0,0.0
+,19,Valencia,Sevilla,3.0,1.0
+,19,Athletic,Rayo,2.0,2.0
+,19,Levante,Oviedo Moderno CF,2.0,1.0
+,19,Atlético,Granada,5.0,0.0
+,19,Levante Las Planas,Transportes Alcaine,2.0,0.0
+25-01-2014,18,Rayo,Levante,2.0,1.0
+,18,UD Collerense,CE Sant Gabriel,5.0,2.0
+26-01-2014,18,Sevilla,Sporting de Huelva,2.0,2.0
+,18,Real Sociedad,Atlético,3.0,2.0
+,18,Espanyol,Athletic,1.0,2.0
+,18,Oviedo Moderno CF,Levante Las Planas,2.0,0.0
+,18,Transportes Alcaine,Valencia,0.0,0.0
+,18,Granada,Barcelona,0.0,3.0
+18-01-2014,17,Valencia,Sporting de Huelva,1.0,0.0
+,17,Levante,Espanyol,1.0,0.0
+19-01-2014,17,Barcelona,Real Sociedad,2.0,2.0
+,17,Transportes Alcaine,Oviedo Moderno CF,0.0,0.0
+,17,Athletic,Granada,5.0,0.0
+,17,Atlético,UD Collerense,5.0,1.0
+,17,Levante Las Planas,Rayo,0.0,1.0
+,17,CE Sant Gabriel,Sevilla,1.0,1.0
+11-01-2014,16,Sevilla,Atlético,1.0,3.0
+,16,Real Sociedad,Athletic,1.0,2.0
+,16,Rayo,Transportes Alcaine,1.0,0.0
+12-01-2014,16,Granada,Levante,1.0,3.0
+,16,UD Collerense,Barcelona,0.0,1.0
+,16,Espanyol,Levante Las Planas,1.0,0.0
+,16,Sporting de Huelva,CE Sant Gabriel,2.0,2.0
+,16,Oviedo Moderno CF,Valencia,0.0,3.0
+04-01-2014,15,Sevilla,Barcelona,0.0,0.0
+,15,CE Sant Gabriel,Valencia,1.0,3.0
+,15,Espanyol,Transportes Alcaine,0.0,1.0
+,15,Sporting de Huelva,Atlético,1.0,1.0
+,15,Rayo,Oviedo Moderno CF,2.0,1.0
+05-01-2014,15,UD Collerense,Athletic,0.0,2.0
+,15,Real Sociedad,Levante,1.0,1.0
+,15,Granada,Levante Las Planas,5.0,1.0
+21-12-2013,14,Atlético,CE Sant Gabriel,4.0,0.0
+,14,Valencia,Rayo,0.0,1.0
+28-12-2013,14,Athletic,Sevilla,5.0,0.0
+29-12-2013,14,Levante,UD Collerense,3.0,0.0
+,14,Transportes Alcaine,Granada,2.0,1.0
+,14,Levante Las Planas,Real Sociedad,2.0,2.0
+,14,Barcelona,Sporting de Huelva,3.0,0.0
+,14,Oviedo Moderno CF,Espanyol,2.0,1.0
+14-12-2013,13,Valencia,Atlético,0.0,1.0
+15-12-2013,13,CE Sant Gabriel,Barcelona,0.0,4.0
+,13,Sevilla,Levante,1.0,0.0
+,13,Sporting de Huelva,Athletic,0.0,1.0
+,13,UD Collerense,Levante Las Planas,5.0,1.0
+,13,Espanyol,Rayo,1.0,1.0
+,13,Real Sociedad,Transportes Alcaine,0.0,3.0
+,13,Granada,Oviedo Moderno CF,2.0,2.0
+07-12-2013,12,Barcelona,Atlético,2.0,1.0
+,12,Espanyol,Valencia,0.0,1.0
+,12,Oviedo Moderno CF,Real Sociedad,2.0,0.0
+,12,Athletic,CE Sant Gabriel,4.0,0.0
+08-12-2013,12,Levante,Sporting de Huelva,0.0,3.0
+,12,Levante Las Planas,Sevilla,1.0,1.0
+,12,Transportes Alcaine,UD Collerense,2.0,2.0
+,12,Rayo,Granada,2.0,1.0
+30-11-2013,11,Valencia,Barcelona,0.0,1.0
+,11,Sevilla,Transportes Alcaine,2.0,1.0
+01-12-2013,11,Granada,Espanyol,2.0,2.0
+,11,UD Collerense,Oviedo Moderno CF,1.0,1.0
+,11,Atlético,Athletic,2.0,1.0
+,11,Sporting de Huelva,Levante Las Planas,3.0,0.0
+,11,Real Sociedad,Rayo,1.0,1.0
+,11,CE Sant Gabriel,Levante,1.0,1.0
+16-11-2013,10,Levante,Atlético,1.0,1.0
+17-11-2013,10,Granada,Valencia,1.0,5.0
+,10,Espanyol,Real Sociedad,2.0,1.0
+,10,Rayo,UD Collerense,3.0,0.0
+,10,Athletic,Barcelona,1.0,2.0
+,10,Transportes Alcaine,Sporting de Huelva,1.0,1.0
+,10,Oviedo Moderno CF,Sevilla,1.0,0.0
+,10,Levante Las Planas,CE Sant Gabriel,2.0,0.0
+09-11-2013,9,Sevilla,Rayo,1.0,2.0
+10-11-2013,9,UD Collerense,Espanyol,2.0,1.0
+,9,Real Sociedad,Granada,3.0,0.0
+,9,Valencia,Athletic,3.0,0.0
+,9,Atlético,Levante Las Planas,5.0,0.0
+,9,Sporting de Huelva,Oviedo Moderno CF,1.0,0.0
+,9,CE Sant Gabriel,Transportes Alcaine,2.0,2.0
+21-12-2013,9,Barcelona,Levante,1.0,0.0
+02-11-2013,8,Levante,Athletic,0.0,4.0
+,8,Real Sociedad,Valencia,0.0,0.0
+,8,Oviedo Moderno CF,CE Sant Gabriel,0.0,0.0
+,8,Transportes Alcaine,Atlético,0.0,2.0
+,8,Granada,UD Collerense,3.0,4.0
+03-11-2013,8,Espanyol,Sevilla,2.0,0.0
+,8,Rayo,Sporting de Huelva,1.0,1.0
+,8,Levante Las Planas,Barcelona,0.0,3.0
+20-10-2013,7,UD Collerense,Real Sociedad,2.0,1.0
+,7,Sevilla,Granada,1.0,0.0
+,7,Sporting de Huelva,Espanyol,2.0,2.0
+,7,Valencia,Levante,2.0,3.0
+,7,Athletic,Levante Las Planas,9.0,1.0
+,7,Barcelona,Transportes Alcaine,2.0,1.0
+,7,CE Sant Gabriel,Rayo,1.0,0.0
+,7,Atlético,Oviedo Moderno CF,6.0,1.0
+13-10-2013,6,UD Collerense,Valencia,1.0,2.0
+,6,Granada,Sporting de Huelva,4.0,1.0
+,6,Rayo,Atlético,0.0,0.0
+,6,Real Sociedad,Sevilla,1.0,0.0
+,6,Espanyol,CE Sant Gabriel,2.0,0.0
+,6,Transportes Alcaine,Athletic,0.0,5.0
+,6,Oviedo Moderno CF,Barcelona,0.0,0.0
+,6,Levante Las Planas,Levante,0.0,1.0
+05-10-2013,5,Athletic,Oviedo Moderno CF,1.0,0.0
+,5,Valencia,Levante Las Planas,3.0,1.0
+06-10-2013,5,CE Sant Gabriel,Granada,5.0,1.0
+,5,Sevilla,UD Collerense,3.0,2.0
+,5,Sporting de Huelva,Real Sociedad,0.0,1.0
+,5,Levante,Transportes Alcaine,2.0,1.0
+,5,Barcelona,Rayo,2.0,0.0
+,5,Atlético,Espanyol,1.0,0.0
+29-09-2013,4,UD Collerense,Sporting de Huelva,0.0,1.0
+,4,Granada,Atlético,2.0,1.0
+,4,Sevilla,Valencia,2.0,1.0
+,4,Real Sociedad,CE Sant Gabriel,2.0,0.0
+,4,Oviedo Moderno CF,Levante,0.0,1.0
+,4,Espanyol,Barcelona,0.0,3.0
+,4,Rayo,Athletic,3.0,1.0
+,4,Transportes Alcaine,Levante Las Planas,2.0,1.0
+21-09-2013,3,Valencia,Transportes Alcaine,3.0,0.0
+22-09-2013,3,CE Sant Gabriel,UD Collerense,5.0,0.0
+,3,Sporting de Huelva,Sevilla,2.0,0.0
+,3,Barcelona,Granada,10.0,0.0
+,3,Athletic,Espanyol,3.0,0.0
+,3,Levante Las Planas,Oviedo Moderno CF,2.0,1.0
+,3,Atlético,Real Sociedad,2.0,1.0
+,3,Levante,Rayo,0.0,0.0
+14-09-2013,2,Espanyol,Levante,0.0,2.0
+,2,Granada,Athletic,1.0,5.0
+15-09-2013,2,UD Collerense,Atlético,2.0,1.0
+,2,Sevilla,CE Sant Gabriel,1.0,1.0
+,2,Sporting de Huelva,Valencia,1.0,2.0
+,2,Oviedo Moderno CF,Transportes Alcaine,0.0,0.0
+,2,Real Sociedad,Barcelona,0.0,5.0
+,2,Rayo,Levante Las Planas,6.0,1.0
+07-09-2013,1,Athletic,Real Sociedad,1.0,0.0
+08-09-2013,1,CE Sant Gabriel,Sporting de Huelva,1.0,0.0
+,1,Barcelona,UD Collerense,5.0,0.0
+,1,Levante,Granada,4.0,1.0
+,1,Transportes Alcaine,Rayo,0.0,3.0
+,1,Valencia,Oviedo Moderno CF,2.0,1.0
+,1,Atlético,Sevilla,7.0,0.0
+,1,Levante Las Planas,Espanyol,2.0,2.0

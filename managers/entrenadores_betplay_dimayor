@@ -1,0 +1,593 @@
+club,fecha_activo_inicio,fecha_activo_fin,entrenador,pais,fecha_nacimiento
+Unión Magdalena,12-04-2022,31-12-2022,Claudio Rodríguez,Argentina,17-01-1960
+Unión Magdalena,17-09-2019,11-04-2022,Carlos Silva,Colombia,29-04-1973
+Unión Magdalena,01-07-2019,16-09-2019,Pedro Sarmiento,Colombia,26-10-1956
+Unión Magdalena,15-08-2017,30-06-2019,Harold Rivera,Colombia,06-07-1970
+Unión Magdalena,01-08-2015,31-12-2015,Carlos Silva,Colombia,29-04-1973
+Unión Magdalena,01-11-2013,31-12-2015,Fernando Velasco,Colombia,20-10-1954
+Unión Magdalena,01-07-1988,30-06-1989,Jorge Pinto,Colombia,16-12-1952
+Unión Magdalena,01-01-1969,31-12-1969,Antonio de la Hoz,Colombia,00-00-1920
+Unión Magdalena,01-01-1951,31-12-1952,Gyula Zsengellér,Hungría,27-12-1915
+Deportivo Pereira,20-05-2022,31-12-2022,Alejandro Restrepo,Colombia,30-01-1982
+Deportivo Pereira,01-03-2021,16-05-2022,Alexis Márquez,Colombia,27-06-1976
+Deportivo Pereira,01-01-2021,28-02-2021,Jorge Artigas,Uruguay,16-12-1975
+Deportivo Pereira,03-11-2020,31-12-2020,Alexis Márquez,Colombia,27-06-1976
+Deportivo Pereira,01-01-2019,26-10-2020,Néstor Craviotto,Argentina,03-10-1963
+Deportivo Pereira,01-01-2018,31-12-2018,José Santa,Colombia,12-09-1970
+Deportivo Pereira,01-01-2016,31-12-2016,Néstor Craviotto,Argentina,03-10-1963
+Deportivo Pereira,01-01-2015,31-12-2015,Hernán Lisi,Argentina,14-04-1971
+Deportivo Pereira,12-09-2011,31-12-2011,Alfredo Jiménez,Colombia,
+Deportivo Pereira,18-04-2011,12-09-2011,Julio Comesaña,Uruguay,10-03-1948
+Deportivo Pereira,11-10-2010,17-04-2011,Éinar Angulo,Colombia,02-09-1967
+Deportivo Pereira,01-06-2009,10-10-2010,Óscar Quintabani,Argentina,04-06-1950
+Deportivo Pereira,01-01-2009,30-06-2009,Pedro Sarmiento,Colombia,26-10-1956
+Deportivo Pereira,01-07-1949,30-06-1950,Luigi Di Franco,Italia,18-11-1918
+Patriotas FC,10-02-2022,31-12-2022,Arturo Boyacá,Colombia,17-04-1957
+Patriotas FC,18-08-2021,07-02-2022,Juan David Niño,Colombia,27-06-1988
+Patriotas FC,01-07-2021,31-12-2021,Jorge Bernal,Colombia,27-09-1952
+Patriotas FC,10-05-2021,26-06-2021,Jhon Ramirez,Colombia,03-12-1971
+Patriotas FC,17-11-2020,27-04-2021,Abel Segovia,España,02-09-1979
+Patriotas FC,04-10-2019,17-11-2020,Nelson Gómez,Colombia,01-06-1969
+Patriotas FC,01-01-2017,03-10-2019,Diego Corredor,Colombia,30-06-1981
+Patriotas FC,12-04-2016,03-06-2016,Diego Corredor,Colombia,30-06-1981
+Patriotas FC,03-04-2014,31-12-2016,Harold Rivera,Colombia,06-07-1970
+Patriotas FC,01-07-2013,01-02-2014,Julio Comesaña,Uruguay,10-03-1948
+Patriotas FC,25-04-2013,30-06-2013,Juan Díaz,Argentina,10-09-1957
+Patriotas FC,01-01-2013,25-04-2013,Arturo Reyes,Colombia,08-04-1969
+Patriotas FC,05-10-2012,31-12-2012,Eduardo Retat,Colombia,16-06-1948
+Patriotas FC,01-01-2011,04-10-2012,Miguel Prince,Colombia,30-07-1957
+Patriotas FC,01-01-2010,31-12-2010,Carlos Hoyos,Colombia,28-02-1962
+Envigado FC,18-05-2021,31-12-2022,Alberto Suárez,Colombia,22-02-1961
+Envigado FC,25-03-2021,18-04-2021,Andrés Orozco,Colombia,18-03-1979
+Envigado FC,26-09-2019,24-03-2021,José Arastey,España,30-06-1966
+Envigado FC,01-09-2018,23-09-2019,Eduardo Lara,Colombia,04-09-1960
+Envigado FC,22-08-2018,31-12-2018,Juan Ramírez,Colombia,22-03-1972
+Envigado FC,01-08-2017,21-08-2018,Ruben Bedoya,Colombia,17-08-1963
+Envigado FC,03-06-2016,31-07-2017,Ismael Rescalvo,España,02-03-1982
+Envigado FC,16-04-2013,31-05-2016,Juan Sánchez,Colombia,
+Envigado FC,01-01-2011,15-04-2013,Pedro Sarmiento,Colombia,26-10-1956
+Envigado FC,01-11-2009,31-12-2010,Ruben Bedoya,Colombia,17-08-1963
+Envigado FC,01-01-2009,31-10-2009,Óscar Aristizabal,Colombia,
+Atlético Bucaramanga,23-02-2022,31-12-2022,Armando Osma,Colombia,07-02-1961
+Atlético Bucaramanga,13-09-2021,22-02-2022,Néstor Craviotto,Argentina,03-10-1963
+Atlético Bucaramanga,03-09-2021,13-09-2021,Sergio Novoa,Colombia,10-06-1981
+Atlético Bucaramanga,08-07-2021,31-08-2021,Oscar Upegui,Colombia,20-09-1969
+Atlético Bucaramanga,01-02-2021,30-06-2021,Luis Suárez,Colombia,23-12-1959
+Atlético Bucaramanga,22-02-2020,15-02-2021,Guillermo Sanguinetti,Uruguay,21-06-1966
+Atlético Bucaramanga,30-09-2019,17-02-2020,José Rodríguez,Colombia,08-10-1965
+Atlético Bucaramanga,10-09-2019,29-09-2019,Sergio Novoa,Colombia,10-06-1981
+Atlético Bucaramanga,01-07-2019,09-09-2019,Hernán Torres,Colombia,18-02-1961
+Atlético Bucaramanga,23-04-2019,30-06-2019,Óscar Serrano,Colombia,09-08-1979
+Atlético Bucaramanga,19-02-2019,22-04-2019,Carlos Giraldo,Colombia,17-11-1979
+Atlético Bucaramanga,30-08-2018,18-02-2019,Flabio Torres,Colombia,07-12-1970
+Atlético Bucaramanga,20-08-2018,29-08-2018,Óscar Serrano,Colombia,09-08-1979
+Atlético Bucaramanga,21-05-2018,19-08-2018,Carlos Hoyos,Colombia,28-02-1962
+Atlético Bucaramanga,27-04-2018,20-05-2018,Adolfo Holguín,Colombia,
+Atlético Bucaramanga,01-01-2018,23-04-2018,Diego Cagna,Argentina,19-04-1970
+Atlético Bucaramanga,01-08-2017,31-12-2017,Jaime De La Pava,Colombia,14-04-1967
+Atlético Bucaramanga,09-03-2017,31-07-2017,Fernando Castro,Colombia,11-02-1951
+Atlético Bucaramanga,01-01-2017,08-03-2017,Harold Rivera,Colombia,06-07-1970
+Atlético Bucaramanga,01-07-2016,31-12-2016,Flabio Torres,Colombia,07-12-1970
+Atlético Bucaramanga,01-01-2015,30-06-2016,José Rodríguez,Colombia,08-10-1965
+Atlético Bucaramanga,01-01-2001,30-06-2001,Jorge Pinto,Colombia,16-12-1952
+Atlético Bucaramanga,01-01-1998,30-06-1998,Carlos Hoyos,Colombia,28-02-1962
+Deportivo Cali,01-07-2022,31-12-2022,Mayer Candelo,Colombia,20-02-1977
+Deportivo Cali,08-09-2021,30-06-2022,Rafael Dudamel,Venezuela,07-01-1973
+Deportivo Cali,01-01-2020,06-09-2021,Alfredo Arias,Uruguay,28-11-1958
+Deportivo Cali,01-01-2019,31-12-2019,Lucas Pusineri,Argentina,16-07-1976
+Deportivo Cali,01-01-2018,12-11-2018,Gerardo Pelusso,Uruguay,25-02-1954
+Deportivo Cali,10-03-2017,31-12-2017,Héctor Cárdenas,Colombia,28-08-1979
+Deportivo Cali,23-04-2016,09-03-2017,Mario Yepes,Colombia,13-01-1976
+Deportivo Cali,01-01-2015,21-04-2016,Fernando Castro,Colombia,11-02-1951
+Deportivo Cali,26-02-2014,31-12-2014,Héctor Cárdenas,Colombia,28-08-1979
+Deportivo Cali,01-01-2013,25-02-2014,Leonel Álvarez,Colombia,29-07-1965
+Deportivo Cali,09-10-2012,31-12-2012,Héctor Cárdenas,Colombia,28-08-1979
+Deportivo Cali,07-03-2012,08-10-2012,Julio Comesaña,Uruguay,10-03-1948
+Deportivo Cali,27-09-2011,06-03-2012,Rubén Insúa,Argentina,17-04-1961
+Deportivo Cali,23-09-2011,27-09-2011,Jairo Arboleda,Colombia,20-09-1947
+Deportivo Cali,01-07-2011,24-09-2011,Jorge Cruz,Colombia,07-09-1954
+Deportivo Cali,22-08-2010,30-06-2011,Jaime De La Pava,Colombia,14-04-1967
+Deportivo Cali,01-01-2010,31-12-2010,Jorge Bernal,Colombia,27-09-1952
+Deportivo Cali,15-12-2008,31-12-2009,José Eugenio Hernández,Colombia,18-03-1956
+Deportivo Cali,01-01-2008,10-12-2008,Daniel Carreño,Uruguay,01-05-1963
+Deportivo Cali,01-07-2006,31-12-2007,Omar Labruna,Argentina,03-04-1957
+Deportivo Cali,01-01-2005,30-06-2006,Pedro Sarmiento,Colombia,26-10-1956
+Deportivo Cali,01-01-2003,30-06-2003,Óscar Quintabani,Argentina,04-06-1950
+Deportivo Cali,01-01-2001,30-06-2001,Luis Suárez,Colombia,23-12-1959
+Deportivo Cali,01-01-1998,31-12-2000,José Eugenio Hernández,Colombia,18-03-1956
+Deportivo Cali,01-07-1997,30-06-1998,Reinaldo Rueda,Colombia,16-04-1957
+Deportivo Cali,01-01-1997,30-06-1997,Fernando Castro,Colombia,11-02-1951
+Deportivo Cali,01-07-1992,30-06-1994,José Yudica,Argentina,26-02-1937
+Deportivo Cali,01-07-1990,30-06-1991,Jorge Pinto,Colombia,16-12-1952
+Deportivo Cali,01-07-1990,30-06-1991,José Yudica,Argentina,26-02-1937
+Deportivo Cali,01-01-1988,31-12-1988,Óscar Tabárez,Uruguay,03-03-1947
+Deportivo Cali,01-01-1987,31-12-1987,Julio Comesaña,Uruguay,10-03-1948
+Deportivo Cali,01-01-1986,31-12-1986,Vladimir Popović,Serbia,17-03-1935
+Deportivo Cali,01-01-1981,31-12-1981,Ediberto Righi,Argentina,04-07-1936
+Deportivo Cali,01-01-1979,31-12-1980,Eduardo Manera,Argentina,22-08-1944
+Deportivo Cali,01-01-1977,31-12-1978,Carlos Bilardo,Argentina,16-03-1939
+Deportivo Cali,01-01-1975,31-12-1975,Raúl Seoane,Argentina,29-04-1935
+Deportivo Cali,01-01-1973,31-12-1973,Vladislao Cap,Argentina,05-07-1934
+Deportivo Cali,01-01-1971,31-12-1971,Roberto Resquin,Argentina,00-00-1929
+Deportivo Cali,01-01-1968,31-12-1970,Francisco Villegas,Argentina,06-10-1924
+Millonarios,01-01-2020,31-12-2022,Alberto Gamero,Colombia,03-02-1964
+Millonarios,13-11-2018,30-10-2019,Jorge Pinto,Colombia,16-12-1952
+Millonarios,01-01-2017,12-11-2018,Miguel Russo,Argentina,09-04-1956
+Millonarios,20-08-2016,31-12-2016,Diego Cocca,Argentina,11-02-1972
+Millonarios,13-08-2016,19-08-2016,Jorge Serna,Colombia,27-10-1979
+Millonarios,02-09-2015,12-08-2016,Rubén Israel,Uruguay,08-12-1955
+Millonarios,25-08-2015,01-09-2015,Neys Nieto,Colombia,14-06-1973
+Millonarios,10-09-2014,24-08-2015,Ricardo Lunari,Argentina,06-02-1970
+Millonarios,03-09-2014,09-09-2014,Neys Nieto,Colombia,14-06-1973
+Millonarios,01-01-2014,02-09-2014,Lillo,España,02-11-1965
+Millonarios,16-07-2012,31-12-2013,Hernán Torres,Colombia,18-02-1961
+Millonarios,01-07-2010,15-07-2012,Richard Páez,Venezuela,31-12-1952
+Millonarios,02-06-2009,31-12-2010,Luis García,Colombia,15-07-1950
+Millonarios,01-05-2009,30-06-2009,Nilton Bernal,Colombia,12-08-1966
+Millonarios,16-05-2008,30-04-2009,Óscar Quintabani,Argentina,04-06-1950
+Millonarios,01-07-2007,30-06-2008,Mario Vanemerak,Argentina,21-10-1963
+Millonarios,01-01-2006,30-06-2007,Juan Carlos Osorio,Colombia,08-06-1961
+Millonarios,01-01-1997,31-12-1997,Angel Castelnoble,Uruguay,
+Millonarios,01-01-1995,31-12-1995,Vladimir Popović,Serbia,17-03-1935
+Millonarios,01-01-1988,31-12-1989,Luis García,Colombia,15-07-1950
+Millonarios,01-07-1984,31-12-1985,Jorge Pinto,Colombia,16-12-1952
+Millonarios,01-01-1979,31-12-1979,Juan Hohberg,Uruguay,08-10-1926
+Millonarios,01-01-1976,31-12-1976,Humberto Ortíz,Colombia,10-05-1937
+Millonarios,01-01-1975,30-06-1980,Finot Castaño,Colombia,
+Millonarios,01-01-1970,31-12-1977,Gabriel Ochoa Uribe,Colombia,20-11-1929
+Millonarios,01-01-1969,30-06-1970,Otto Vieira,Brasil,02-08-1921
+Millonarios,01-01-1968,31-12-1968,Francisco Zuluaga,Colombia,04-02-1929
+Millonarios,01-01-1967,31-12-1968,Antonio Imbelloni,Argentina,25-08-1924
+Millonarios,01-01-1967,30-06-1967,Néstor Rossi,Argentina,10-05-1925
+Millonarios,01-01-1964,31-12-1964,João Avelino,Brasil,10-11-1929
+Millonarios,01-01-1960,31-12-1963,Gabriel Ochoa Uribe,Colombia,20-11-1929
+Millonarios,01-01-1950,31-12-1953,Adolfo Pedernera,Argentina,15-11-1918
+La Equidad,01-01-2020,31-12-2022,Alexis García,Colombia,21-07-1960
+La Equidad,01-09-2019,31-12-2019,Luis Rivera,Colombia,11-06-1975
+La Equidad,01-01-2019,31-08-2019,Humberto Sierra,Colombia,21-07-1960
+La Equidad,01-01-2018,31-12-2018,Luis Suárez,Colombia,23-12-1959
+La Equidad,26-04-2016,31-12-2017,Arturo Boyacá,Colombia,17-04-1957
+La Equidad,01-01-2015,25-04-2016,Santiago Escobar,Colombia,13-01-1964
+La Equidad,03-09-2014,31-12-2014,Faber López,Colombia,
+La Equidad,01-01-2013,02-09-2014,Néstor Otero,Colombia,18-09-1955
+La Equidad,01-01-2006,31-12-2012,Alexis García,Colombia,21-07-1960
+Atlético Nacional,01-03-2022,31-12-2022,Hernán Herrera,Colombia,28-10-1957
+Atlético Nacional,01-01-2021,05-06-2021,Alexandre Guimarães,Costa Rica,07-11-1959
+Atlético Nacional,05-11-2020,28-02-2022,Alejandro Restrepo,Colombia,30-01-1982
+Atlético Nacional,01-07-2019,01-11-2020,Juan Carlos Osorio,Colombia,08-06-1961
+Atlético Nacional,25-05-2019,30-06-2019,Alejandro Restrepo,Colombia,30-01-1982
+Atlético Nacional,06-11-2018,24-05-2019,Paulo Autuori,Brasil,25-08-1956
+Atlético Nacional,30-08-2018,05-11-2018,Hernán Herrera,Colombia,28-10-1957
+Atlético Nacional,01-01-2018,30-08-2018,Jorge Almirón,Argentina,19-06-1971
+Atlético Nacional,01-08-2017,05-12-2017,Lillo,España,02-11-1965
+Atlético Nacional,01-07-2015,31-07-2017,Reinaldo Rueda,Colombia,16-04-1957
+Atlético Nacional,01-05-2012,25-05-2015,Juan Carlos Osorio,Colombia,08-06-1961
+Atlético Nacional,01-01-2011,30-04-2012,Santiago Escobar,Colombia,13-01-1964
+Atlético Nacional,01-01-2009,31-12-2010,Ramón Cabrero,España,11-11-1947
+Atlético Nacional,01-01-2009,22-04-2009,Luis Suárez,Colombia,23-12-1959
+Atlético Nacional,01-01-2007,15-05-2008,Óscar Quintabani,Argentina,04-06-1950
+Atlético Nacional,01-01-2006,31-12-2006,Carlos Navarrete,Colombia,23-07-1959
+Atlético Nacional,01-01-2003,31-12-2003,Juan José Peláez,Colombia,
+Atlético Nacional,01-01-2002,31-12-2002,Alexis García,Colombia,21-07-1960
+Atlético Nacional,01-01-1999,31-12-2001,Luis Suárez,Colombia,23-12-1959
+Atlético Nacional,01-01-1994,31-12-1997,Juan José Peláez,Colombia,
+Atlético Nacional,01-01-1990,31-12-1993,Hernán Gómez,Colombia,03-02-1956
+Atlético Nacional,01-07-1987,31-12-1989,Francisco Maturana,Colombia,15-02-1949
+Atlético Nacional,01-01-1983,31-12-1983,Luis Cubilla,Uruguay,28-03-1940
+Atlético Nacional,01-01-1982,31-12-1982,Miguel López,Argentina,01-03-1942
+Atlético Nacional,01-01-1976,17-01-1982,Osvaldo Zubeldía,Argentina,24-06-1927
+Atlético Nacional,01-07-1975,30-06-1976,José Curti,Argentina,07-02-1925
+Atlético Nacional,01-01-1974,31-12-1975,César López Fretes,Paraguay,21-03-1923
+Atlético Nacional,01-01-1972,31-12-1972,José Curti,Argentina,07-02-1925
+Atlético Nacional,01-05-1964,31-10-1966,Juan Hohberg,Uruguay,08-10-1926
+Deportes Tolima,01-01-2020,31-12-2022,Hernán Torres,Colombia,18-02-1961
+Deportes Tolima,01-01-2018,31-12-2019,Alberto Gamero,Colombia,03-02-1964
+Deportes Tolima,01-07-2017,31-12-2017,José Eugenio Hernández,Colombia,18-03-1956
+Deportes Tolima,10-02-2017,30-06-2017,Óscar Quintabani,Argentina,04-06-1950
+Deportes Tolima,01-01-2017,08-02-2017,Gregorio Pérez,Uruguay,16-01-1948
+Deportes Tolima,10-05-2014,31-12-2016,Alberto Gamero,Colombia,03-02-1964
+Deportes Tolima,26-08-2012,10-05-2014,Carlos Castro,Colombia,
+Deportes Tolima,16-12-2010,26-08-2012,Jorge Bernal,Colombia,27-09-1952
+Deportes Tolima,01-01-2009,31-12-2011,Hernán Torres,Colombia,18-02-1961
+Deportes Tolima,01-01-2007,31-12-2007,Jaime De La Pava,Colombia,14-04-1967
+Deportes Tolima,01-01-2004,31-12-2004,Luis García,Colombia,15-07-1950
+Deportes Tolima,01-07-2001,31-12-2001,Luis Suárez,Colombia,23-12-1959
+Deportes Tolima,01-01-1983,31-12-1983,Raúl Navarro,Argentina,22-02-1942
+Deportes Tolima,01-01-1982,31-12-1982,Juan Mujica,Uruguay,22-12-1943
+América de Cali,06-04-2022,31-12-2022,Alexandre Guimarães,Costa Rica,07-11-1959
+América de Cali,16-06-2021,05-04-2022,Juan Carlos Osorio,Colombia,08-06-1961
+América de Cali,28-04-2021,31-05-2021,Jersson González,Colombia,16-01-1975
+América de Cali,01-07-2020,28-04-2021,Juan Real,Argentina,08-10-1976
+América de Cali,01-07-2019,30-06-2020,Alexandre Guimarães,Costa Rica,07-11-1959
+América de Cali,16-04-2019,30-06-2019,Jersson González,Colombia,16-01-1975
+América de Cali,20-08-2018,31-12-2018,Jersson González,Colombia,16-01-1975
+América de Cali,01-07-2018,15-04-2019,Fernando Castro,Colombia,11-02-1951
+América de Cali,04-04-2018,19-08-2018,Pedro Santos,Portugal,09-05-1980
+América de Cali,26-03-2018,04-04-2018,Carlos Asprilla,Colombia,19-10-1970
+América de Cali,08-09-2017,25-03-2018,Jorge Da Silva,Uruguay,11-12-1961
+América de Cali,01-05-2016,31-12-2017,Hernán Torres,Colombia,18-02-1961
+América de Cali,01-07-2015,31-12-2015,Alberto Suárez,Colombia,22-02-1961
+América de Cali,01-01-2015,30-06-2015,Luis García,Colombia,15-07-1950
+América de Cali,01-01-2014,26-10-2014,John López,Colombia,10-03-1968
+América de Cali,01-01-2012,31-12-2012,Eduardo Lara,Colombia,04-09-1960
+América de Cali,07-09-2011,31-12-2011,Wilson Piedrahita,Colombia,
+América de Cali,01-01-2011,06-09-2011,Álvaro Aponte,Colombia,17-12-1965
+América de Cali,01-04-2010,31-12-2010,Jorge Bermúdez,Colombia,18-06-1971
+América de Cali,01-01-2010,31-03-2010,Juan Carlos Grueso,Colombia,31-10-1970
+América de Cali,01-01-2008,31-12-2009,Diego Umaña,Colombia,12-03-1952
+América de Cali,01-01-2004,30-06-2005,Alberto Suárez,Colombia,22-02-1961
+América de Cali,01-07-2002,30-06-2003,Fernando Castro,Colombia,11-02-1951
+América de Cali,01-01-2000,30-06-2002,Jaime De La Pava,Colombia,14-04-1967
+América de Cali,01-01-1998,30-06-1998,Diego Umaña,Colombia,12-03-1952
+América de Cali,01-01-1996,31-12-1996,Diego Umaña,Colombia,12-03-1952
+América de Cali,01-01-1993,31-12-1993,Francisco Maturana,Colombia,15-02-1949
+América de Cali,01-01-1992,31-12-1992,Diego Umaña,Colombia,12-03-1952
+América de Cali,01-01-1979,31-12-1991,Gabriel Ochoa Uribe,Colombia,20-11-1929
+América de Cali,01-01-1970,31-12-1970,Ángel Perucca,Argentina,19-08-1918
+América de Cali,01-01-1966,30-06-1966,José María Minella,Argentina,06-08-1909
+América de Cali,01-01-1960,31-12-1960,Adolfo Pedernera,Argentina,15-11-1918
+Alianza Petrolera,07-03-2021,31-12-2022,Hubert Bodhert,Colombia,17-01-1972
+Alianza Petrolera,01-01-2021,04-03-2021,Wilson Gutiérrez,Colombia,05-05-1971
+Alianza Petrolera,16-11-2020,06-03-2021,Dayron Montesino,Colombia,17-10-1984
+Alianza Petrolera,01-01-2019,15-11-2020,César Torres,Colombia,23-09-1976
+Alianza Petrolera,24-10-2017,31-12-2018,Juan Real,Argentina,08-10-1976
+Alianza Petrolera,11-05-2016,31-12-2017,Jorge Bernal,Colombia,27-09-1952
+Alianza Petrolera,12-04-2016,10-05-2016,Edgar Moreno,Colombia,
+Alianza Petrolera,13-03-2015,12-04-2016,Oscar Upegui,Colombia,20-09-1969
+Alianza Petrolera,21-02-2014,12-03-2015,Adolfo Holguín,Colombia,
+Alianza Petrolera,22-02-2013,20-02-2014,Guillermo Berrio,Colombia,11-04-1967
+Alianza Petrolera,01-01-2011,21-02-2013,Héctor Estrada,Colombia,
+Alianza Petrolera,01-01-2004,31-12-2004,Juan Carlos Bedoya,Colombia,03-04-1972
+Cortuluá,24-05-2022,31-12-2022,César Torres,Colombia,23-09-1976
+Cortuluá,03-05-2022,16-05-2022,Fernando Velasco,Colombia,20-10-1954
+Cortuluá,01-01-2022,02-05-2022,Manuel Suárez,Chile,28-02-1972
+Cortuluá,01-01-2021,31-12-2021,Jaime De La Pava,Colombia,14-04-1967
+Cortuluá,06-03-2019,31-12-2019,Mayer Candelo,Colombia,20-02-1977
+Cortuluá,01-01-2018,05-03-2019,Álvaro Hernández,Colombia,22-03-1973
+Cortuluá,01-06-2017,31-12-2017,Néstor Otero,Colombia,18-09-1955
+Cortuluá,01-01-2015,31-05-2017,Jaime De La Pava,Colombia,14-04-1967
+Cortuluá,01-01-2010,31-12-2010,Fernando Velasco,Colombia,20-10-1954
+Cortuluá,01-01-2002,30-06-2002,Óscar Quintabani,Argentina,04-06-1950
+Deportivo Pasto,10-08-2021,31-12-2022,Flabio Torres,Colombia,07-12-1970
+Deportivo Pasto,10-04-2021,09-08-2021,Giovanny Rúiz,Colombia,02-05-1975
+Deportivo Pasto,01-01-2020,09-04-2021,Diego Corredor,Colombia,30-06-1981
+Deportivo Pasto,02-10-2019,31-12-2019,Octavio Zambrano,Ecuador,03-02-1958
+Deportivo Pasto,16-09-2019,01-10-2019,Jairo Enríquez,Colombia,10-10-1960
+Deportivo Pasto,01-01-2019,15-09-2019,Alexis García,Colombia,21-07-1960
+Deportivo Pasto,07-08-2018,31-12-2018,Hernán Lisi,Argentina,14-04-1971
+Deportivo Pasto,01-01-2017,06-08-2018,Flabio Torres,Colombia,07-12-1970
+Deportivo Pasto,16-07-2016,31-12-2016,José Santa,Colombia,12-09-1970
+Deportivo Pasto,07-04-2015,15-06-2016,Guillermo Berrio,Colombia,11-04-1967
+Deportivo Pasto,28-03-2015,06-04-2015,Giovanny Rúiz,Colombia,02-05-1975
+Deportivo Pasto,01-01-2015,27-03-2015,Óscar Quintabani,Argentina,04-06-1950
+Deportivo Pasto,29-05-2014,17-11-2014,Wilson Gutiérrez,Colombia,05-05-1971
+Deportivo Pasto,01-01-2014,28-05-2014,Jorge Bernal,Colombia,27-09-1952
+Deportivo Pasto,10-01-2011,31-12-2013,Flabio Torres,Colombia,07-12-1970
+Deportivo Pasto,24-03-2009,31-12-2009,Jorge Bernal,Colombia,27-09-1952
+Deportivo Pasto,01-01-2009,23-03-2009,Bernardo Redín,Colombia,26-02-1963
+Deportivo Pasto,01-01-2007,31-12-2007,Alvaro Gomez,Colombia,07-10-1954
+Deportivo Pasto,01-01-2003,31-12-2003,Néstor Otero,Colombia,18-09-1955
+Once Caldas,01-01-2022,31-12-2023,Diego Corredor,Colombia,30-06-1981
+Once Caldas,01-01-2021,31-12-2021,Eduardo Lara,Colombia,04-09-1960
+Once Caldas,01-01-2018,31-12-2020,Hubert Bodhert,Colombia,17-01-1972
+Once Caldas,03-06-2017,31-12-2017,Francisco Maturana,Colombia,15-02-1949
+Once Caldas,25-04-2017,02-06-2017,Herney Duque,Colombia,21-03-1965
+Once Caldas,01-09-2016,24-04-2017,Hernán Lisi,Argentina,14-04-1971
+Once Caldas,01-07-2015,30-08-2016,Javier Torrente,Argentina,08-06-1969
+Once Caldas,01-04-2015,25-05-2015,Francisco Córtes,Colombia,
+Once Caldas,01-01-2014,30-03-2015,Flabio Torres,Colombia,07-12-1970
+Once Caldas,01-01-2013,31-12-2013,Santiago Escobar,Colombia,13-01-1964
+Once Caldas,09-07-2012,31-12-2012,Guillermo Hoyos,Argentina,09-06-1963
+Once Caldas,02-12-2011,08-07-2012,Luis Páez,Colombia,18-12-1959
+Once Caldas,01-12-2009,30-11-2011,Juan Carlos Osorio,Colombia,08-06-1961
+Once Caldas,01-01-2009,31-12-2009,Javier Álvarez,Colombia,14-10-1958
+Once Caldas,01-01-2008,31-12-2008,Jorge Bernal,Colombia,27-09-1952
+Once Caldas,01-01-2006,31-12-2006,Juan Carlos Bedoya,Colombia,03-04-1972
+Once Caldas,01-09-2005,31-12-2005,Jaime De La Pava,Colombia,14-04-1967
+Once Caldas,29-08-2005,31-08-2005,Juan Carlos Bedoya,Colombia,03-04-1972
+Once Caldas,01-01-2005,28-08-2005,Carlos Alberto Valencia,Colombia,
+Once Caldas,01-01-2003,22-12-2004,Luis Montoya,Colombia,02-05-1957
+Once Caldas,01-01-2002,30-06-2002,Javier Álvarez,Colombia,14-10-1958
+Once Caldas,01-01-1999,30-06-1999,Alexis García,Colombia,21-07-1960
+Once Caldas,01-01-1993,31-12-1993,Carlos Restrepo,Colombia,05-03-1961
+Once Caldas,01-01-1986,31-12-1986,Francisco Maturana,Colombia,15-02-1949
+Once Caldas,01-01-1978,31-12-1978,Eduardo Manera,Argentina,22-08-1944
+Atlético Junior,01-01-2022,31-12-2022,Juan Real,Argentina,08-10-1976
+Atlético Junior,17-08-2021,31-12-2021,Arturo Reyes,Colombia,08-04-1969
+Atlético Junior,15-09-2020,17-08-2021,Luis Perea,Colombia,30-01-1979
+Atlético Junior,05-05-2019,14-09-2020,Julio Comesaña,Uruguay,10-03-1948
+Atlético Junior,01-01-2019,04-05-2019,Luis Suárez,Colombia,23-12-1959
+Atlético Junior,09-04-2018,31-12-2018,Julio Comesaña,Uruguay,10-03-1948
+Atlético Junior,01-01-2018,09-04-2018,Alexis Mendoza,Colombia,08-11-1961
+Atlético Junior,27-03-2017,31-12-2017,Julio Comesaña,Uruguay,10-03-1948
+Atlético Junior,01-01-2017,26-03-2017,Alberto Gamero,Colombia,03-02-1964
+Atlético Junior,22-07-2016,31-12-2016,Giovanni Hernández,Colombia,16-06-1976
+Atlético Junior,13-11-2014,19-07-2016,Alexis Mendoza,Colombia,08-11-1961
+Atlético Junior,19-03-2014,12-11-2014,Julio Comesaña,Uruguay,10-03-1948
+Atlético Junior,04-06-2013,18-03-2014,Miguel López,Argentina,01-03-1942
+Atlético Junior,01-01-2013,04-06-2013,Alexis García,Colombia,21-07-1960
+Atlético Junior,05-09-2011,31-12-2012,José Eugenio Hernández,Colombia,18-03-1956
+Atlético Junior,01-07-2011,04-09-2011,Jorge Pinto,Colombia,16-12-1952
+Atlético Junior,01-01-2011,30-06-2011,Óscar Quintabani,Argentina,04-06-1950
+Atlético Junior,01-01-2010,31-12-2010,Diego Umaña,Colombia,12-03-1952
+Atlético Junior,01-01-2009,31-12-2009,Julio Comesaña,Uruguay,10-03-1948
+Atlético Junior,01-07-2003,30-06-2004,Jorge Pinto,Colombia,16-12-1952
+Atlético Junior,01-01-2001,31-12-2001,Salvador Capitano,Argentina,01-01-1955
+Atlético Junior,01-01-2000,30-06-2000,Juan José Peláez,Colombia,
+Atlético Junior,01-01-1996,30-06-1996,Luis García,Colombia,15-07-1950
+Atlético Junior,01-01-1995,31-12-1995,Carlos Restrepo,Colombia,05-03-1961
+Atlético Junior,01-01-1994,31-12-1994,Julio Comesaña,Uruguay,10-03-1948
+Atlético Junior,01-01-1988,31-12-1988,Miguel López,Argentina,01-03-1942
+Atlético Junior,01-01-1984,31-12-1984,José Varacka,Argentina,27-05-1932
+Atlético Junior,01-01-1981,31-12-1981,Nelson Gallego,Colombia,
+Atlético Junior,01-01-1981,31-12-1981,José Varacka,Argentina,27-05-1932
+Atlético Junior,01-01-1978,31-12-1978,Miguel López,Argentina,01-03-1942
+Atlético Junior,01-01-1978,31-12-1978,Carlos Peña,Colombia,
+Atlético Junior,01-01-1975,31-12-1976,Jorge C. Habbeger,Argentina,19-10-1946
+Atlético Junior,01-01-1971,31-12-1971,Luis Miloc,Uruguay,31-01-1929
+Atlético Junior,01-07-1951,20-06-1953,Friedrich Donnenfeld,Austria,17-01-1912
+Rionegro Águilas Doradas,01-01-2022,31-12-2022,Leonel Álvarez,Colombia,29-07-1965
+Rionegro Águilas Doradas,17-11-2021,31-12-2021,Johan Fano,Perú,09-08-1978
+Rionegro Águilas Doradas,03-03-2021,16-11-2021,Francesco Stifano,Venezuela,19-07-1979
+Rionegro Águilas Doradas,04-01-2021,02-03-2021,Hubert Bodhert,Colombia,17-01-1972
+Rionegro Águilas Doradas,01-01-2020,31-12-2020,Francesco Stifano,Venezuela,19-07-1979
+Rionegro Águilas Doradas,05-04-2019,31-12-2019,Eduardo Cruz,Colombia,18-06-1966
+Rionegro Águilas Doradas,11-03-2019,04-04-2019,Ever Almeida,Paraguay,01-07-1948
+Rionegro Águilas Doradas,02-03-2019,11-03-2019,Juan Guzmán,Colombia,26-02-1970
+Rionegro Águilas Doradas,31-05-2018,01-03-2019,Jorge Bernal,Colombia,27-09-1952
+Rionegro Águilas Doradas,01-01-2018,15-05-2018,Hernán Torres,Colombia,18-02-1961
+Rionegro Águilas Doradas,19-04-2017,31-12-2017,Óscar Pérez,Colombia,
+Rionegro Águilas Doradas,23-08-2016,18-04-2017,Néstor Otero,Colombia,18-09-1955
+Rionegro Águilas Doradas,13-06-2016,22-08-2016,Pedro Sarmiento,Colombia,26-10-1956
+Rionegro Águilas Doradas,29-09-2015,08-06-2016,Néstor Otero,Colombia,18-09-1955
+Rionegro Águilas Doradas,07-04-2015,28-09-2015,Óscar Quintabani,Argentina,04-06-1950
+Rionegro Águilas Doradas,01-01-2015,06-04-2015,Alvaro Gomez,Colombia,07-10-1954
+Rionegro Águilas Doradas,24-09-2014,31-12-2014,Óscar Quintabani,Argentina,04-06-1950
+Rionegro Águilas Doradas,03-06-2014,23-09-2014,Jorge Bernal,Colombia,27-09-1952
+Rionegro Águilas Doradas,01-01-2014,09-05-2014,Alberto Gamero,Colombia,03-02-1964
+Rionegro Águilas Doradas,01-01-2013,31-12-2013,Jorge Bernal,Colombia,27-09-1952
+Rionegro Águilas Doradas,01-07-2012,31-12-2012,Leonel Álvarez,Colombia,29-07-1965
+Rionegro Águilas Doradas,01-01-2012,15-07-2012,Hernán Torres,Colombia,18-02-1961
+Rionegro Águilas Doradas,01-07-2011,31-12-2011,Alvaro Gomez,Colombia,07-10-1954
+Rionegro Águilas Doradas,01-01-2011,30-06-2011,Carlos Hoyos,Colombia,28-02-1962
+Rionegro Águilas Doradas,01-01-2010,31-12-2010,Alvaro Gomez,Colombia,07-10-1954
+Rionegro Águilas Doradas,01-01-2009,11-11-2009,Carlos Hoyos,Colombia,28-02-1962
+Independiente Medellín,28-06-2022,31-12-2022,David González,Colombia,20-07-1982
+Independiente Medellín,07-09-2021,17-06-2022,Julio Comesaña,Uruguay,10-03-1948
+Independiente Medellín,01-01-2021,06-09-2021,Hernán Gómez,Colombia,03-02-1956
+Independiente Medellín,16-11-2020,31-12-2020,Humberto Sierra,Colombia,21-07-1960
+Independiente Medellín,02-10-2020,15-11-2020,Javier Álvarez,Colombia,14-10-1958
+Independiente Medellín,05-09-2019,28-09-2020,Aldo Bobadilla,Paraguay,20-04-1976
+Independiente Medellín,15-05-2019,02-09-2019,Alexis Mendoza,Colombia,08-11-1961
+Independiente Medellín,06-04-2019,14-05-2019,Ricardo Calle,Colombia,18-02-1980
+Independiente Medellín,15-06-2018,05-04-2019,Octavio Zambrano,Ecuador,03-02-1958
+Independiente Medellín,01-01-2018,06-06-2018,Ismael Rescalvo,España,02-03-1982
+Independiente Medellín,11-06-2017,31-12-2017,Juan José Peláez,Colombia,
+Independiente Medellín,01-01-2017,16-06-2017,Luis Zubeldía,Argentina,13-01-1981
+Independiente Medellín,06-05-2015,31-12-2016,Leonel Álvarez,Colombia,29-07-1965
+Independiente Medellín,05-05-2015,31-12-2015,Javier Álvarez,Colombia,14-10-1958
+Independiente Medellín,22-02-2014,05-05-2015,Hernán Torres,Colombia,18-02-1961
+Independiente Medellín,09-09-2013,21-02-2014,Pedro Sarmiento,Colombia,26-10-1956
+Independiente Medellín,19-04-2013,09-09-2013,Óscar Pérez,Colombia,
+Independiente Medellín,12-02-2012,19-04-2013,Hernán Gómez,Colombia,03-02-1956
+Independiente Medellín,01-07-2011,12-02-2012,Guillermo Berrio,Colombia,11-04-1967
+Independiente Medellín,01-01-2011,30-06-2011,Édgar Carvajal,Colombia,29-09-1969
+Independiente Medellín,01-05-2009,31-12-2010,Leonel Álvarez,Colombia,29-07-1965
+Independiente Medellín,01-07-2008,31-12-2009,Santiago Escobar,Colombia,13-01-1964
+Independiente Medellín,01-01-2002,31-12-2003,Víctor Luna,Colombia,28-10-1959
+Independiente Medellín,01-01-2002,31-12-2002,Reinaldo Rueda,Colombia,16-04-1957
+Independiente Medellín,01-01-1997,31-12-1997,Zlatko Petričević,Croacia,
+Independiente Medellín,01-01-1995,31-12-1996,Jairo Ríos,Colombia,26-10-1949
+Independiente Medellín,01-01-1993,30-06-1995,Luis García,Colombia,15-07-1950
+Independiente Medellín,01-01-1967,31-12-1967,Francisco Hormazábal,Chile,04-07-1920
+Jaguares de Córdoba,27-05-2022,31-12-2022,Grigori Méndez,Colombia,30-12-1972
+Jaguares de Córdoba,25-05-2021,16-05-2022,César Torres,Colombia,23-09-1976
+Jaguares de Córdoba,01-07-2020,10-05-2021,Alberto Suárez,Colombia,22-02-1961
+Jaguares de Córdoba,30-09-2019,30-06-2020,Juan Real,Argentina,08-10-1976
+Jaguares de Córdoba,28-08-2019,29-09-2019,Jhon Bodmer,Colombia,27-11-1981
+Jaguares de Córdoba,15-03-2019,27-08-2019,Oscar Upegui,Colombia,20-09-1969
+Jaguares de Córdoba,01-01-2019,14-03-2019,Jhon Bodmer,Colombia,27-11-1981
+Jaguares de Córdoba,29-10-2018,31-12-2018,Julio Méndez,Colombia,
+Jaguares de Córdoba,01-09-2018,28-10-2018,Flavio Robatto,Argentina,16-01-1974
+Jaguares de Córdoba,01-01-2018,31-08-2018,José Rodríguez,Colombia,08-10-1965
+Jaguares de Córdoba,05-04-2016,31-12-2017,Hubert Bodhert,Colombia,17-01-1972
+Jaguares de Córdoba,01-01-2016,04-04-2016,Carlos Navarrete,Colombia,23-07-1959
+Jaguares de Córdoba,10-08-2015,31-12-2015,Jorge Bernal,Colombia,27-09-1952
+Jaguares de Córdoba,04-08-2015,09-08-2015,Julio Méndez,Colombia,
+Jaguares de Córdoba,01-01-2015,03-08-2015,Carlos Castro,Colombia,17-08-1970
+Jaguares de Córdoba,01-08-2014,31-12-2014,Héctor Estrada,Colombia,
+Jaguares de Córdoba,01-07-2013,30-06-2014,Alberto Suárez,Colombia,22-02-1961
+Santa Fe,19-05-2022,31-12-2023,Alfredo Arias,Uruguay,28-11-1958
+Santa Fe,29-04-2022,17-05-2022,Agustín Julio,Colombia,25-10-1974
+Santa Fe,25-11-2021,25-04-2022,Martín Cardetti,Argentina,22-10-1975
+Santa Fe,23-08-2021,31-12-2021,Grigori Méndez,Colombia,30-12-1972
+Santa Fe,07-08-2019,22-08-2021,Harold Rivera,Colombia,06-07-1970
+Santa Fe,13-04-2019,06-08-2019,Patricio Camps,Argentina,22-01-1972
+Santa Fe,12-02-2019,12-04-2019,Gerardo Bedoya,Colombia,26-11-1975
+Santa Fe,12-06-2018,11-02-2019,Guillermo Sanguinetti,Uruguay,21-06-1966
+Santa Fe,15-04-2018,11-06-2018,Agustín Julio,Colombia,25-10-1974
+Santa Fe,01-01-2018,14-04-2018,Gregorio Pérez,Uruguay,16-01-1948
+Santa Fe,21-07-2016,31-12-2017,Gustavo Costas,Argentina,28-02-1963
+Santa Fe,21-03-2016,20-07-2016,Alexis García,Colombia,21-07-1960
+Santa Fe,01-07-2015,20-03-2016,Gerardo Pelusso,Uruguay,25-02-1954
+Santa Fe,14-05-2014,30-06-2015,Gustavo Costas,Argentina,28-02-1963
+Santa Fe,25-09-2011,13-05-2014,Wilson Gutiérrez,Colombia,05-05-1971
+Santa Fe,24-03-2011,19-09-2011,Arturo Boyacá,Colombia,17-04-1957
+Santa Fe,08-06-2010,30-06-2011,Néstor Otero,Colombia,18-09-1955
+Santa Fe,03-05-2009,30-06-2009,Heriberto Niño,Colombia,
+Santa Fe,01-01-2009,03-05-2009,Hernán Gómez,Colombia,03-02-1956
+Santa Fe,01-01-2009,30-06-2009,Rubén Israel,Uruguay,08-12-1955
+Santa Fe,01-01-2005,31-12-2010,Germán González,Colombia,26-01-1952
+Santa Fe,01-07-1986,30-06-1987,Jorge Pinto,Colombia,16-12-1952
+Santa Fe,01-07-1985,31-12-1985,Eduardo Manera,Argentina,22-08-1944
+Santa Fe,01-01-1984,30-06-1984,Juan Carlos Lorenzo,Argentina,22-10-1922
+Santa Fe,01-01-1980,31-12-1980,Alonso Rodríguez,Colombia,
+Santa Fe,01-01-1976,31-12-1976,Francisco Hormazábal,Chile,04-07-1920
+Santa Fe,01-07-1973,30-06-1974,Dušan Nenković,Serbia,03-10-1929
+Santa Fe,01-01-1972,31-12-1972,Vladimir Popović,Serbia,17-03-1935
+Santa Fe,01-01-1969,31-12-1971,Todor Veselinović,Serbia,22-10-1930
+Santa Fe,01-01-1967,31-12-1967,Gabriel Ochoa Uribe,Colombia,20-11-1929
+Santa Fe,01-01-1961,31-12-1961,Rodolfo Kralj,Serbia,12-12-1910
+Deportes Quindío,01-01-2021,31-12-2022,Óscar Quintabani,Argentina,04-06-1950
+Deportes Quindío,01-01-2017,31-12-2019,Alberto Suárez,Colombia,22-02-1961
+Deportes Quindío,01-01-2016,31-12-2016,José Eugenio Hernández,Colombia,18-03-1956
+Deportes Quindío,01-01-2014,31-12-2015,Miguel Prince,Colombia,30-07-1957
+Deportes Quindío,24-09-2013,31-12-2013,César Torres,Colombia,23-09-1976
+Deportes Quindío,01-07-2013,24-09-2013,Arturo Boyacá,Colombia,17-04-1957
+Deportes Quindío,05-05-2013,30-06-2013,César Torres,Colombia,23-09-1976
+Deportes Quindío,01-01-2013,05-05-2013,Eduardo Cruz,Colombia,18-06-1966
+Deportes Quindío,01-01-2011,31-12-2012,Fernando Castro,Colombia,11-02-1951
+Deportes Quindío,22-10-2009,31-12-2010,Wilman Conde,Colombia,19-07-1959
+Deportes Quindío,01-12-2007,22-10-2009,Néstor Otero,Colombia,18-09-1955
+Atlético Huila,16-03-2022,31-12-2022,Carlos Abella,Colombia,25-01-1986
+Atlético Huila,01-01-2022,15-03-2022,José Santa,Colombia,12-09-1970
+Atlético Huila,01-08-2021,07-11-2021,Alberto Rujana,Líbano,29-03-1955
+Atlético Huila,01-01-2021,31-07-2021,Dayron Pérez,Colombia,24-12-1978
+Atlético Huila,26-10-2019,31-12-2019,Dayron Pérez,Colombia,24-12-1978
+Atlético Huila,15-08-2019,26-10-2019,Jorge Bernal,Colombia,27-09-1952
+Atlético Huila,19-03-2019,13-08-2019,Luis Herrera,Colombia,12-06-1962
+Atlético Huila,11-09-2018,18-03-2019,Dayron Pérez,Colombia,24-12-1978
+Atlético Huila,01-07-2017,10-09-2018,Néstor Craviotto,Argentina,03-10-1963
+Atlético Huila,22-05-2017,30-06-2017,Jorge Bermúdez,Colombia,18-06-1971
+Atlético Huila,01-01-2017,22-05-2017,Jorge Vivaldo,Argentina,18-02-1967
+Atlético Huila,27-09-2016,31-12-2016,Virgilio Puerto,Colombia,
+Atlético Huila,12-05-2016,27-09-2016,Oswaldo Durán,Colombia,
+Atlético Huila,01-01-2015,11-05-2016,José Santa,Colombia,12-09-1970
+Atlético Huila,26-08-2014,31-12-2014,Fernando Castro,Colombia,11-02-1951
+Atlético Huila,27-09-2013,25-08-2014,Virgilio Puerto,Colombia,
+Atlético Huila,01-07-2013,27-09-2013,Javier Álvarez,Colombia,14-10-1958
+Atlético Huila,11-09-2012,30-06-2013,Alvaro Gomez,Colombia,07-10-1954
+Atlético Huila,01-07-2011,11-09-2012,Néstor Otero,Colombia,18-09-1955
+Atlético Huila,20-03-2009,30-06-2011,Guillermo Berrio,Colombia,11-04-1967
+Atlético Huila,01-01-2009,19-03-2009,Miguel Prince,Colombia,30-07-1957
+Atlético Huila,01-01-1992,31-12-1995,Alberto Rujana,Líbano,29-03-1955
+Boyacá Chicó,01-01-2022,31-12-2022,John Gomez,Colombia,05-07-1967
+Boyacá Chicó,01-01-2021,31-12-2021,Mario García,México,14-09-1980
+Boyacá Chicó,02-09-2020,31-12-2020,Bélmer Aguilar,Colombia,11-11-1973
+Boyacá Chicó,13-04-2017,31-12-2018,John Gomez,Colombia,05-07-1967
+Boyacá Chicó,01-01-2017,01-09-2020,Jhon Jaime Gómez,Colombia,05-07-1967
+Boyacá Chicó,08-09-2016,12-04-2017,Nelson Oliveira,Uruguay,19-06-1974
+Boyacá Chicó,01-07-2016,07-09-2016,Darío Sierra,Colombia,12-04-1967
+Boyacá Chicó,16-05-2016,30-06-2016,Nelson Gómez,Colombia,20-09-1966
+Boyacá Chicó,01-05-2016,30-06-2016,Nelson Gómez,Colombia,01-06-1969
+Boyacá Chicó,03-02-2016,16-05-2016,Darío Sierra,Colombia,12-04-1967
+Boyacá Chicó,11-11-2015,02-02-2016,Ricardo Pérez,Colombia,24-10-1963
+Boyacá Chicó,11-05-2015,10-11-2015,Eduardo Pimentel,Colombia,18-05-1961
+Boyacá Chicó,01-01-2015,10-05-2015,Eduardo Lara,Colombia,04-09-1960
+Boyacá Chicó,01-01-2014,31-12-2014,Eduardo Pimentel,Colombia,18-05-1961
+Boyacá Chicó,01-01-2006,31-12-2013,Alberto Gamero,Colombia,03-02-1964
+Boyacá Chicó,01-01-2004,31-12-2005,Mario Vanemerak,Argentina,21-10-1963
+Cúcuta Deportivo,01-07-2022,31-12-2022,Aquivaldo Mosquera,Colombia,22-06-1981
+Cúcuta Deportivo,04-11-2020,31-12-2020,David Suárez,Colombia,10-12-1986
+Cúcuta Deportivo,17-02-2020,03-11-2020,Jorge Artigas,Uruguay,16-12-1975
+Cúcuta Deportivo,05-01-2020,16-02-2020,Jairo Patiño,Colombia,05-04-1978
+Cúcuta Deportivo,14-08-2019,31-12-2019,Guillermo Sanguinetti,Uruguay,21-06-1966
+Cúcuta Deportivo,01-07-2019,13-08-2019,Pablo Garabello,Argentina,27-09-1973
+Cúcuta Deportivo,01-01-2019,30-06-2019,Sebastián Méndez,Argentina,04-07-1977
+Cúcuta Deportivo,15-01-2018,31-12-2018,Lucas Pusineri,Argentina,16-07-1976
+Cúcuta Deportivo,01-09-2015,31-12-2015,Carlos Quintero,Colombia,
+Cúcuta Deportivo,12-05-2015,30-06-2015,Carlos Quintero,Colombia,
+Cúcuta Deportivo,01-05-2015,31-08-2015,Flabio Torres,Colombia,07-12-1970
+Cúcuta Deportivo,16-03-2015,11-05-2015,Marcelo Fuentes,Argentina,05-05-1960
+Cúcuta Deportivo,11-03-2015,15-03-2015,Carlos Quintero,Colombia,
+Cúcuta Deportivo,01-07-2014,10-03-2015,Alberto Suárez,Colombia,22-02-1961
+Cúcuta Deportivo,21-08-2013,31-12-2013,Julio González,Uruguay,01-12-1953
+Cúcuta Deportivo,01-08-2013,21-08-2013,Álvaro Aponte,Colombia,17-12-1965
+Cúcuta Deportivo,17-11-2012,31-07-2013,Guillermo Sanguinetti,Uruguay,21-06-1966
+Cúcuta Deportivo,30-10-2012,16-11-2012,Éinar Angulo,Colombia,02-09-1967
+Cúcuta Deportivo,19-03-2012,29-10-2012,Óscar Quintabani,Argentina,04-06-1950
+Cúcuta Deportivo,01-01-2012,18-03-2012,Juan Díaz,Argentina,10-09-1957
+Cúcuta Deportivo,02-08-2011,13-12-2011,Jaime De La Pava,Colombia,14-04-1967
+Cúcuta Deportivo,01-01-2011,28-07-2011,Juan Díaz,Argentina,10-09-1957
+Cúcuta Deportivo,01-01-2010,05-04-2010,Néstor Otero,Colombia,18-09-1955
+Cúcuta Deportivo,19-11-2008,03-12-2009,Jorge Pinto,Colombia,16-12-1952
+Cúcuta Deportivo,01-01-2008,31-12-2008,Pedro Sarmiento,Colombia,26-10-1956
+Cúcuta Deportivo,01-01-2007,31-12-2007,Jorge Bernal,Colombia,27-09-1952
+Cúcuta Deportivo,01-01-2006,31-12-2006,Jorge Pinto,Colombia,16-12-1952
+Cúcuta Deportivo,01-01-1962,31-12-1963,Juan Hohberg,Uruguay,08-10-1926
+Leones FC,01-07-2019,31-12-2022,Álvaro Hernández,Colombia,22-03-1973
+Leones FC,25-08-2018,28-05-2019,Luis Perea,Colombia,30-01-1979
+Leones FC,01-01-2016,24-08-2018,Juan Álvarez,Colombia,14-02-1966
+Leones FC,01-01-2012,31-12-2015,Álvaro Hernández,Colombia,22-03-1973
+Tigres FC,01-01-2022,31-12-2022,Jorge Rojas,Colombia,06-01-1983
+Tigres FC,01-01-2020,31-12-2021,Óscar Morera,Colombia,15-06-1984
+Tigres FC,01-01-2019,31-12-2019,Diego Díaz,Colombia,12-01-1990
+Tigres FC,01-01-2016,31-12-2017,Jhon Bodmer,Colombia,27-11-1981
+Fortaleza FC,01-07-2020,31-12-2022,Nelson Florez,Colombia,01-03-1974
+Fortaleza FC,01-01-2018,31-12-2019,Germán Barato,Colombia,29-07-1979
+Fortaleza FC,28-07-2016,31-12-2016,Carlos Barrato,Colombia,
+Fortaleza FC,07-06-2016,27-07-2016,Freddy Amazo,Colombia,
+Fortaleza FC,01-01-2015,31-05-2016,Nilton Bernal,Colombia,12-08-1966
+Fortaleza FC,02-03-2014,31-12-2014,Alexis García,Colombia,21-07-1960
+Fortaleza FC,01-03-2013,02-03-2014,Hernán Pacheco,Colombia,14-04-1967
+Águilas Pereira,01-01-2022,31-12-2022,Leonel Álvarez,Colombia,29-07-1965
+Águilas Pereira,17-11-2021,31-12-2021,Johan Fano,Perú,09-08-1978
+Águilas Pereira,03-03-2021,16-11-2021,Francesco Stifano,Venezuela,19-07-1979
+Águilas Pereira,04-01-2021,02-03-2021,Hubert Bodhert,Colombia,17-01-1972
+Águilas Pereira,01-01-2020,31-12-2020,Francesco Stifano,Venezuela,19-07-1979
+Águilas Pereira,05-04-2019,31-12-2019,Eduardo Cruz,Colombia,18-06-1966
+Águilas Pereira,11-03-2019,04-04-2019,Ever Almeida,Paraguay,01-07-1948
+Águilas Pereira,02-03-2019,11-03-2019,Juan Guzmán,Colombia,26-02-1970
+Águilas Pereira,31-05-2018,01-03-2019,Jorge Bernal,Colombia,27-09-1952
+Águilas Pereira,01-01-2018,15-05-2018,Hernán Torres,Colombia,18-02-1961
+Águilas Pereira,19-04-2017,31-12-2017,Óscar Pérez,Colombia,
+Águilas Pereira,23-08-2016,18-04-2017,Néstor Otero,Colombia,18-09-1955
+Águilas Pereira,13-06-2016,22-08-2016,Pedro Sarmiento,Colombia,26-10-1956
+Águilas Pereira,29-09-2015,08-06-2016,Néstor Otero,Colombia,18-09-1955
+Águilas Pereira,07-04-2015,28-09-2015,Óscar Quintabani,Argentina,04-06-1950
+Águilas Pereira,01-01-2015,06-04-2015,Alvaro Gomez,Colombia,07-10-1954
+Águilas Pereira,24-09-2014,31-12-2014,Óscar Quintabani,Argentina,04-06-1950
+Águilas Pereira,03-06-2014,23-09-2014,Jorge Bernal,Colombia,27-09-1952
+Águilas Pereira,01-01-2014,09-05-2014,Alberto Gamero,Colombia,03-02-1964
+Águilas Pereira,01-01-2013,31-12-2013,Jorge Bernal,Colombia,27-09-1952
+Águilas Pereira,01-07-2012,31-12-2012,Leonel Álvarez,Colombia,29-07-1965
+Águilas Pereira,01-01-2012,15-07-2012,Hernán Torres,Colombia,18-02-1961
+Águilas Pereira,01-07-2011,31-12-2011,Alvaro Gomez,Colombia,07-10-1954
+Águilas Pereira,01-01-2011,30-06-2011,Carlos Hoyos,Colombia,28-02-1962
+Águilas Pereira,01-01-2010,31-12-2010,Alvaro Gomez,Colombia,07-10-1954
+Águilas Pereira,01-01-2009,11-11-2009,Carlos Hoyos,Colombia,28-02-1962
+Uniautónoma FC,11-11-2015,31-12-2015,Harold Viafara,Colombia,20-07-1976
+Uniautónoma FC,10-03-2015,10-11-2015,Giovanni Hernández,Colombia,16-06-1976
+Uniautónoma FC,23-09-2014,09-03-2015,Calixto Chiquillo,Colombia,23-11-1973
+Uniautónoma FC,06-04-2014,22-09-2014,Jaime De La Pava,Colombia,14-04-1967
+Uniautónoma FC,01-08-2012,05-04-2014,José Rodríguez,Colombia,08-10-1965
+Itagüi Ditaires,01-01-2022,31-12-2022,Leonel Álvarez,Colombia,29-07-1965
+Itagüi Ditaires,17-11-2021,31-12-2021,Johan Fano,Perú,09-08-1978
+Itagüi Ditaires,03-03-2021,16-11-2021,Francesco Stifano,Venezuela,19-07-1979
+Itagüi Ditaires,04-01-2021,02-03-2021,Hubert Bodhert,Colombia,17-01-1972
+Itagüi Ditaires,01-01-2020,31-12-2020,Francesco Stifano,Venezuela,19-07-1979
+Itagüi Ditaires,05-04-2019,31-12-2019,Eduardo Cruz,Colombia,18-06-1966
+Itagüi Ditaires,11-03-2019,04-04-2019,Ever Almeida,Paraguay,01-07-1948
+Itagüi Ditaires,02-03-2019,11-03-2019,Juan Guzmán,Colombia,26-02-1970
+Itagüi Ditaires,31-05-2018,01-03-2019,Jorge Bernal,Colombia,27-09-1952
+Itagüi Ditaires,01-01-2018,15-05-2018,Hernán Torres,Colombia,18-02-1961
+Itagüi Ditaires,19-04-2017,31-12-2017,Óscar Pérez,Colombia,
+Itagüi Ditaires,23-08-2016,18-04-2017,Néstor Otero,Colombia,18-09-1955
+Itagüi Ditaires,13-06-2016,22-08-2016,Pedro Sarmiento,Colombia,26-10-1956
+Itagüi Ditaires,29-09-2015,08-06-2016,Néstor Otero,Colombia,18-09-1955
+Itagüi Ditaires,07-04-2015,28-09-2015,Óscar Quintabani,Argentina,04-06-1950
+Itagüi Ditaires,01-01-2015,06-04-2015,Alvaro Gomez,Colombia,07-10-1954
+Itagüi Ditaires,24-09-2014,31-12-2014,Óscar Quintabani,Argentina,04-06-1950
+Itagüi Ditaires,03-06-2014,23-09-2014,Jorge Bernal,Colombia,27-09-1952
+Itagüi Ditaires,01-01-2014,09-05-2014,Alberto Gamero,Colombia,03-02-1964
+Itagüi Ditaires,01-01-2013,31-12-2013,Jorge Bernal,Colombia,27-09-1952
+Itagüi Ditaires,01-07-2012,31-12-2012,Leonel Álvarez,Colombia,29-07-1965
+Itagüi Ditaires,01-01-2012,15-07-2012,Hernán Torres,Colombia,18-02-1961
+Itagüi Ditaires,01-07-2011,31-12-2011,Alvaro Gomez,Colombia,07-10-1954
+Itagüi Ditaires,01-01-2011,30-06-2011,Carlos Hoyos,Colombia,28-02-1962
+Itagüi Ditaires,01-01-2010,31-12-2010,Alvaro Gomez,Colombia,07-10-1954
+Itagüi Ditaires,01-01-2009,11-11-2009,Carlos Hoyos,Colombia,28-02-1962
+Real Cartagena,22-09-2021,31-12-2022,Stiven Sánchez,Colombia,10-08-1994
+Real Cartagena,02-05-2021,21-09-2021,Jairo Patiño,Colombia,05-04-1978
+Real Cartagena,01-01-2020,01-05-2021,Nilton Bernal,Colombia,12-08-1966
+Real Cartagena,28-09-2019,31-12-2019,Milton García,Colombia,13-03-1986
+Real Cartagena,06-05-2019,27-09-2019,José Santa,Colombia,12-09-1970
+Real Cartagena,16-05-2018,05-05-2019,Ricardo Parra,Colombia,17-11-1967
+Real Cartagena,01-07-2016,31-12-2016,José Rodríguez,Colombia,08-10-1965
+Real Cartagena,01-07-2015,31-12-2015,Hubert Bodhert,Colombia,17-01-1972
+Real Cartagena,01-08-2014,31-12-2015,Juan Jiménez,Colombia,
+Real Cartagena,27-08-2012,31-12-2012,Hubert Bodhert,Colombia,17-01-1972
+Real Cartagena,01-01-2012,27-08-2012,Germán González,Colombia,26-01-1952
+Real Cartagena,04-10-2011,31-12-2011,Mario Vanemerak,Argentina,21-10-1963
+Real Cartagena,01-01-2009,03-10-2011,Hubert Bodhert,Colombia,17-01-1972
+Real Cartagena,01-01-2001,31-12-2002,Alberto Rujana,Líbano,29-03-1955

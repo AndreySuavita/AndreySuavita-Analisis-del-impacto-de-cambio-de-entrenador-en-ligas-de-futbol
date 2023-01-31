@@ -1,0 +1,1899 @@
+fecha,jornada,local,visitante,goles_local,goles_visitante
+05-11-2022,26,AIK Solna,IFK Kalmar,1.0,2.0
+,26,Djurgårdens IF,BK Häcken,1.0,3.0
+,26,Eskilstuna United,Piteå IF,1.0,3.0
+,26,IF Brommapojkarna,FC Rosengård,0.0,3.0
+,26,Kristianstads DFF,Umeå IK FF,4.0,1.0
+,26,KIF Örebro DFF,Linköpings FC,0.0,0.0
+,26,Vittsjö GIK,Hammarby IF,1.0,2.0
+28-10-2022,25,Linköpings FC,Kristianstads DFF,4.0,1.0
+29-10-2022,25,Umeå IK FF,IF Brommapojkarna,1.0,2.0
+,25,Hammarby IF,KIF Örebro DFF,0.0,0.0
+30-10-2022,25,Piteå IF,Vittsjö GIK,1.0,2.0
+,25,IFK Kalmar,Eskilstuna United,1.0,1.0
+31-10-2022,25,BK Häcken,AIK Solna,7.0,1.0
+,25,FC Rosengård,Djurgårdens IF,3.0,0.0
+21-10-2022,24,Hammarby IF,IF Brommapojkarna,4.0,1.0
+22-10-2022,24,Vittsjö GIK,AIK Solna,1.0,0.0
+23-10-2022,24,BK Häcken,Piteå IF,3.0,1.0
+,24,Eskilstuna United,Umeå IK FF,4.0,2.0
+,24,Djurgårdens IF,KIF Örebro DFF,1.0,2.0
+,24,Kristianstads DFF,FC Rosengård,0.0,2.0
+24-10-2022,24,Linköpings FC,IFK Kalmar,2.0,2.0
+14-10-2022,23,FC Rosengård,Eskilstuna United,1.0,0.0
+16-10-2022,23,IF Brommapojkarna,Vittsjö GIK,1.0,3.0
+,23,IFK Kalmar,BK Häcken,1.0,2.0
+,23,KIF Örebro DFF,Kristianstads DFF,3.0,2.0
+,23,Piteå IF,Linköpings FC,0.0,1.0
+,23,Umeå IK FF,Djurgårdens IF,2.0,1.0
+17-10-2022,23,AIK Solna,Hammarby IF,0.0,1.0
+02-10-2022,22,IF Brommapojkarna,IFK Kalmar,2.0,3.0
+,22,Vittsjö GIK,Umeå IK FF,5.0,0.0
+,22,Djurgårdens IF,AIK Solna,4.0,2.0
+,22,Eskilstuna United,Kristianstads DFF,1.0,1.0
+,22,Linköpings FC,BK Häcken,1.0,5.0
+,22,KIF Örebro DFF,FC Rosengård,2.0,4.0
+,22,Piteå IF,Hammarby IF,1.0,1.0
+24-09-2022,21,BK Häcken,IF Brommapojkarna,1.0,0.0
+,21,Kristianstads DFF,Djurgårdens IF,4.0,0.0
+,21,FC Rosengård,Vittsjö GIK,3.0,2.0
+25-09-2022,21,IFK Kalmar,Piteå IF,0.0,1.0
+,21,AIK Solna,Eskilstuna United,1.0,2.0
+,21,Umeå IK FF,KIF Örebro DFF,1.0,3.0
+26-09-2022,21,Hammarby IF,Linköpings FC,0.0,1.0
+16-09-2022,20,FC Rosengård,IFK Kalmar,6.0,2.0
+,20,Kristianstads DFF,Hammarby IF,3.0,1.0
+17-09-2022,20,Eskilstuna United,BK Häcken,1.0,2.0
+18-09-2022,20,IF Brommapojkarna,Djurgårdens IF,1.0,1.0
+,20,KIF Örebro DFF,AIK Solna,5.0,1.0
+19-09-2022,20,Umeå IK FF,Piteå IF,0.0,1.0
+,20,Vittsjö GIK,Linköpings FC,1.0,2.0
+09-09-2022,19,BK Häcken,Umeå IK FF,5.0,0.0
+10-09-2022,19,AIK Solna,Kristianstads DFF,2.0,6.0
+,19,Hammarby IF,FC Rosengård,2.0,0.0
+,19,IFK Kalmar,KIF Örebro DFF,0.0,4.0
+11-09-2022,19,Linköpings FC,Eskilstuna United,5.0,2.0
+,19,Piteå IF,IF Brommapojkarna,0.0,0.0
+12-09-2022,19,Djurgårdens IF,Vittsjö GIK,0.0,3.0
+26-08-2022,18,KIF Örebro DFF,Piteå IF,0.0,1.0
+28-08-2022,18,IF Brommapojkarna,AIK Solna,1.0,1.0
+,18,Umeå IK FF,Hammarby IF,0.0,3.0
+,18,Eskilstuna United,Djurgårdens IF,1.0,0.0
+,18,FC Rosengård,Linköpings FC,1.0,0.0
+,18,Kristianstads DFF,BK Häcken,1.0,2.0
+,18,Vittsjö GIK,IFK Kalmar,1.0,1.0
+06-08-2022,17,IFK Kalmar,Kristianstads DFF,0.0,2.0
+19-08-2022,17,BK Häcken,KIF Örebro DFF,6.0,0.0
+,17,Piteå IF,FC Rosengård,2.0,1.0
+21-08-2022,17,AIK Solna,Umeå IK FF,0.0,0.0
+,17,Hammarby IF,Djurgårdens IF,3.0,0.0
+,17,Linköpings FC,IF Brommapojkarna,4.0,0.0
+22-08-2022,17,Vittsjö GIK,Eskilstuna United,2.0,0.0
+12-08-2022,16,Kristianstads DFF,Vittsjö GIK,1.0,0.0
+14-08-2022,16,Umeå IK FF,IFK Kalmar,1.0,1.0
+,16,Eskilstuna United,Hammarby IF,0.0,1.0
+,16,KIF Örebro DFF,IF Brommapojkarna,4.0,0.0
+,16,Piteå IF,AIK Solna,1.0,0.0
+15-08-2022,16,Djurgårdens IF,Linköpings FC,1.0,2.0
+24-08-2022,16,FC Rosengård,BK Häcken,2.0,0.0
+17-06-2022,15,Hammarby IF,BK Häcken,1.0,2.0
+19-06-2022,15,AIK Solna,FC Rosengård,0.0,6.0
+,15,IF Brommapojkarna,Eskilstuna United,1.0,3.0
+,15,Kristianstads DFF,Piteå IF,1.0,0.0
+,15,Linköpings FC,Umeå IK FF,7.0,0.0
+,15,IFK Kalmar,Djurgårdens IF,0.0,1.0
+,15,Vittsjö GIK,KIF Örebro DFF,1.0,2.0
+12-06-2022,14,BK Häcken,Vittsjö GIK,2.0,3.0
+,14,FC Rosengård,Umeå IK FF,5.0,2.0
+,14,Hammarby IF,IFK Kalmar,4.0,0.0
+,14,IF Brommapojkarna,Kristianstads DFF,1.0,2.0
+,14,Linköpings FC,AIK Solna,2.0,1.0
+13-06-2022,14,Eskilstuna United,KIF Örebro DFF,2.0,0.0
+,14,Piteå IF,Djurgårdens IF,3.0,0.0
+08-06-2022,13,BK Häcken,Eskilstuna United,0.0,1.0
+,13,Djurgårdens IF,IF Brommapojkarna,2.0,1.0
+,13,IFK Kalmar,FC Rosengård,0.0,6.0
+,13,KIF Örebro DFF,Hammarby IF,0.0,1.0
+,13,Umeå IK FF,Linköpings FC,0.0,3.0
+,13,Vittsjö GIK,Kristianstads DFF,0.0,2.0
+09-06-2022,13,AIK Solna,Piteå IF,1.0,0.0
+01-06-2022,12,Djurgårdens IF,IFK Kalmar,4.0,0.0
+03-06-2022,12,Linköpings FC,FC Rosengård,3.0,4.0
+05-06-2022,12,Eskilstuna United,Vittsjö GIK,0.0,0.0
+,12,IF Brommapojkarna,BK Häcken,1.0,5.0
+,12,Kristianstads DFF,KIF Örebro DFF,3.0,0.0
+,12,Piteå IF,Umeå IK FF,3.0,1.0
+,12,Hammarby IF,AIK Solna,2.0,0.0
+27-05-2022,11,KIF Örebro DFF,Eskilstuna United,1.0,0.0
+29-05-2022,11,BK Häcken,Djurgårdens IF,0.0,0.0
+,11,AIK Solna,Linköpings FC,0.0,4.0
+,11,IFK Kalmar,Hammarby IF,1.0,5.0
+,11,Vittsjö GIK,IF Brommapojkarna,3.0,0.0
+30-05-2022,11,FC Rosengård,Piteå IF,2.0,1.0
+,11,Umeå IK FF,Kristianstads DFF,0.0,2.0
+20-05-2022,10,Eskilstuna United,FC Rosengård,0.0,3.0
+21-05-2022,10,IFK Kalmar,Umeå IK FF,3.0,2.0
+22-05-2022,10,IF Brommapojkarna,Linköpings FC,1.0,5.0
+,10,Kristianstads DFF,AIK Solna,5.0,1.0
+,10,KIF Örebro DFF,Vittsjö GIK,0.0,1.0
+,10,Piteå IF,BK Häcken,1.0,1.0
+23-05-2022,10,Djurgårdens IF,Hammarby IF,1.0,2.0
+15-05-2022,9,Vittsjö GIK,Piteå IF,2.0,1.0
+,9,Umeå IK FF,Eskilstuna United,1.0,2.0
+16-05-2022,9,AIK Solna,IF Brommapojkarna,0.0,2.0
+,9,BK Häcken,IFK Kalmar,3.0,1.0
+,9,FC Rosengård,KIF Örebro DFF,2.0,0.0
+,9,Hammarby IF,Kristianstads DFF,0.0,2.0
+,9,Linköpings FC,Djurgårdens IF,2.0,1.0
+11-05-2022,8,Djurgårdens IF,Umeå IK FF,3.0,0.0
+,8,IFK Kalmar,Vittsjö GIK,0.0,1.0
+12-05-2022,8,Eskilstuna United,AIK Solna,1.0,0.0
+,8,IF Brommapojkarna,Hammarby IF,0.0,2.0
+,8,Linköpings FC,Piteå IF,2.0,0.0
+,8,KIF Örebro DFF,BK Häcken,0.0,1.0
+13-05-2022,8,FC Rosengård,Kristianstads DFF,1.0,1.0
+06-05-2022,7,BK Häcken,Linköpings FC,2.0,0.0
+08-05-2022,7,Hammarby IF,Vittsjö GIK,2.0,2.0
+,7,Umeå IK FF,FC Rosengård,0.0,3.0
+,7,AIK Solna,Djurgårdens IF,2.0,4.0
+,7,Kristianstads DFF,IF Brommapojkarna,4.0,1.0
+,7,KIF Örebro DFF,IFK Kalmar,4.0,2.0
+,7,Piteå IF,Eskilstuna United,1.0,2.0
+29-04-2022,6,FC Rosengård,Hammarby IF,4.0,1.0
+01-05-2022,6,Umeå IK FF,AIK Solna,2.0,0.0
+,6,Djurgårdens IF,Kristianstads DFF,1.0,0.0
+,6,Eskilstuna United,IFK Kalmar,1.0,0.0
+,6,IF Brommapojkarna,Piteå IF,0.0,1.0
+,6,Vittsjö GIK,BK Häcken,0.0,0.0
+02-05-2022,6,Linköpings FC,KIF Örebro DFF,1.0,0.0
+24-04-2022,5,AIK Solna,Vittsjö GIK,0.0,3.0
+,5,Piteå IF,KIF Örebro DFF,4.0,1.0
+,5,Hammarby IF,Umeå IK FF,2.0,0.0
+25-04-2022,5,BK Häcken,FC Rosengård,2.0,2.0
+,5,Djurgårdens IF,Eskilstuna United,2.0,0.0
+,5,IFK Kalmar,IF Brommapojkarna,1.0,0.0
+,5,Kristianstads DFF,Linköpings FC,1.0,0.0
+20-04-2022,4,FC Rosengård,AIK Solna,2.0,1.0
+,4,Linköpings FC,Hammarby IF,3.0,1.0
+,4,KIF Örebro DFF,Umeå IK FF,2.0,0.0
+,4,Piteå IF,IFK Kalmar,1.0,0.0
+,4,Vittsjö GIK,Djurgårdens IF,1.0,0.0
+21-04-2022,4,Eskilstuna United,IF Brommapojkarna,3.0,0.0
+22-04-2022,4,BK Häcken,Kristianstads DFF,3.0,1.0
+15-04-2022,3,AIK Solna,BK Häcken,0.0,3.0
+,3,Djurgårdens IF,FC Rosengård,2.0,5.0
+,3,Umeå IK FF,Vittsjö GIK,4.0,0.0
+16-04-2022,3,IFK Kalmar,Linköpings FC,1.0,4.0
+17-04-2022,3,IF Brommapojkarna,KIF Örebro DFF,1.0,2.0
+,3,Hammarby IF,Piteå IF,1.0,0.0
+18-04-2022,3,Kristianstads DFF,Eskilstuna United,2.0,2.0
+01-04-2022,2,BK Häcken,Hammarby IF,4.0,1.0
+,2,IFK Kalmar,AIK Solna,3.0,1.0
+03-04-2022,2,Eskilstuna United,Linköpings FC,0.0,2.0
+,2,IF Brommapojkarna,Umeå IK FF,3.0,0.0
+,2,Piteå IF,Kristianstads DFF,2.0,2.0
+,2,KIF Örebro DFF,Djurgårdens IF,2.0,0.0
+,2,Vittsjö GIK,FC Rosengård,1.0,1.0
+26-03-2022,1,Hammarby IF,Eskilstuna United,0.0,3.0
+27-03-2022,1,AIK Solna,KIF Örebro DFF,2.0,0.0
+,1,Umeå IK FF,BK Häcken,1.0,1.0
+,1,Kristianstads DFF,IFK Kalmar,4.0,0.0
+,1,Linköpings FC,Vittsjö GIK,1.0,1.0
+,1,Djurgårdens IF,Piteå IF,1.0,4.0
+28-03-2022,1,FC Rosengård,IF Brommapojkarna,2.0,0.0
+06-11-2021,22,Djurgårdens IF,FC Rosengård,0.0,2.0
+,22,Eskilstuna United,BK Häcken,3.0,2.0
+,22,Linköpings FC,AIK Solna,2.0,0.0
+,22,Piteå IF,Kristianstads DFF,1.0,2.0
+,22,Växjö DFF,Hammarby IF,0.0,2.0
+,22,Vittsjö GIK,KIF Örebro DFF,8.0,2.0
+30-10-2021,21,AIK Solna,Vittsjö GIK,1.0,0.0
+,21,Hammarby IF,Linköpings FC,1.0,3.0
+31-10-2021,21,Kristianstads DFF,Växjö DFF,0.0,1.0
+,21,BK Häcken,Djurgårdens IF,4.0,0.0
+01-11-2021,21,FC Rosengård,Eskilstuna United,3.0,1.0
+,21,KIF Örebro DFF,Piteå IF,2.0,1.0
+14-10-2021,20,Linköpings FC,Växjö DFF,5.0,0.0
+16-10-2021,20,Vittsjö GIK,Hammarby IF,3.0,1.0
+,20,Djurgårdens IF,Kristianstads DFF,1.0,4.0
+17-10-2021,20,AIK Solna,BK Häcken,0.0,0.0
+,20,Piteå IF,FC Rosengård,2.0,3.0
+,20,Eskilstuna United,KIF Örebro DFF,1.0,2.0
+09-10-2021,19,FC Rosengård,Linköpings FC,2.0,1.0
+,19,BK Häcken,Vittsjö GIK,0.0,0.0
+,19,KIF Örebro DFF,Djurgårdens IF,1.0,0.0
+10-10-2021,19,Växjö DFF,Piteå IF,1.0,0.0
+,19,Kristianstads DFF,Eskilstuna United,2.0,0.0
+,19,Hammarby IF,AIK Solna,4.0,1.0
+02-10-2021,18,AIK Solna,Växjö DFF,1.0,0.0
+,18,Kristianstads DFF,KIF Örebro DFF,2.0,2.0
+,18,BK Häcken,FC Rosengård,2.0,0.0
+,18,Vittsjö GIK,Linköpings FC,3.0,0.0
+03-10-2021,18,Eskilstuna United,Djurgårdens IF,3.0,1.0
+,18,Hammarby IF,Piteå IF,1.0,1.0
+25-09-2021,17,Djurgårdens IF,Hammarby IF,2.0,1.0
+,17,Växjö DFF,BK Häcken,1.0,1.0
+26-09-2021,17,Piteå IF,Vittsjö GIK,1.0,1.0
+,17,FC Rosengård,Kristianstads DFF,1.0,1.0
+,17,Linköpings FC,Eskilstuna United,0.0,0.0
+,17,KIF Örebro DFF,AIK Solna,2.0,0.0
+11-09-2021,16,Djurgårdens IF,Vittsjö GIK,2.0,2.0
+12-09-2021,16,Hammarby IF,FC Rosengård,1.0,2.0
+,16,Kristianstads DFF,Linköpings FC,1.0,0.0
+,16,Eskilstuna United,Växjö DFF,2.0,1.0
+,16,AIK Solna,Piteå IF,0.0,1.0
+,16,BK Häcken,KIF Örebro DFF,2.0,0.0
+04-09-2021,15,Vittsjö GIK,Eskilstuna United,1.0,0.0
+,15,FC Rosengård,AIK Solna,3.0,0.0
+,15,Piteå IF,BK Häcken,0.0,1.0
+,15,Växjö DFF,KIF Örebro DFF,0.0,1.0
+05-09-2021,15,Kristianstads DFF,Hammarby IF,1.0,2.0
+,15,Linköpings FC,Djurgårdens IF,3.0,1.0
+14-08-2021,14,AIK Solna,Kristianstads DFF,1.0,1.0
+26-08-2021,14,Vittsjö GIK,FC Rosengård,0.0,4.0
+28-08-2021,14,Djurgårdens IF,Växjö DFF,1.0,0.0
+,14,BK Häcken,Hammarby IF,5.0,1.0
+29-08-2021,14,Eskilstuna United,Piteå IF,3.0,0.0
+30-08-2021,14,KIF Örebro DFF,Linköpings FC,2.0,1.0
+20-08-2021,13,Hammarby IF,Eskilstuna United,0.0,2.0
+,13,Växjö DFF,Vittsjö GIK,0.0,0.0
+21-08-2021,13,AIK Solna,Djurgårdens IF,1.0,0.0
+22-08-2021,13,Piteå IF,Linköpings FC,1.0,1.0
+,13,FC Rosengård,KIF Örebro DFF,6.0,0.0
+25-08-2021,13,Kristianstads DFF,BK Häcken,1.0,3.0
+07-07-2021,12,Linköpings FC,BK Häcken,0.0,3.0
+,12,Vittsjö GIK,Kristianstads DFF,0.0,0.0
+,12,Eskilstuna United,AIK Solna,1.0,0.0
+,12,Djurgårdens IF,Piteå IF,3.0,0.0
+08-07-2021,12,FC Rosengård,Växjö DFF,5.0,0.0
+,12,KIF Örebro DFF,Hammarby IF,2.0,3.0
+01-07-2021,11,Piteå IF,AIK Solna,4.0,0.0
+02-07-2021,11,BK Häcken,Kristianstads DFF,6.0,2.0
+,11,Växjö DFF,Eskilstuna United,0.0,2.0
+03-07-2021,11,Hammarby IF,Vittsjö GIK,0.0,1.0
+,11,KIF Örebro DFF,FC Rosengård,0.0,0.0
+04-07-2021,11,Djurgårdens IF,Linköpings FC,2.0,2.0
+24-06-2021,10,Hammarby IF,Växjö DFF,2.0,1.0
+27-06-2021,10,Kristianstads DFF,Piteå IF,6.0,1.0
+,10,FC Rosengård,BK Häcken,2.0,0.0
+,10,AIK Solna,Eskilstuna United,0.0,2.0
+28-06-2021,10,Vittsjö GIK,Djurgårdens IF,0.0,1.0
+,10,Linköpings FC,KIF Örebro DFF,4.0,1.0
+20-06-2021,9,Växjö DFF,Djurgårdens IF,0.0,0.0
+,9,BK Häcken,AIK Solna,10.0,0.0
+,9,Piteå IF,Hammarby IF,0.0,3.0
+,9,KIF Örebro DFF,Kristianstads DFF,0.0,2.0
+21-06-2021,9,Eskilstuna United,Linköpings FC,1.0,0.0
+,9,FC Rosengård,Vittsjö GIK,3.0,1.0
+04-06-2021,8,Kristianstads DFF,FC Rosengård,0.0,0.0
+,8,Linköpings FC,Hammarby IF,3.0,3.0
+05-06-2021,8,Vittsjö GIK,Växjö DFF,1.0,0.0
+,8,Djurgårdens IF,Eskilstuna United,1.0,0.0
+,8,AIK Solna,KIF Örebro DFF,2.0,0.0
+06-06-2021,8,BK Häcken,Piteå IF,0.0,0.0
+28-05-2021,7,Växjö DFF,Linköpings FC,0.0,0.0
+29-05-2021,7,AIK Solna,FC Rosengård,0.0,7.0
+,7,Hammarby IF,Kristianstads DFF,3.0,1.0
+30-05-2021,7,Eskilstuna United,Vittsjö GIK,1.0,1.0
+,7,Piteå IF,Djurgårdens IF,1.0,0.0
+,7,KIF Örebro DFF,BK Häcken,0.0,3.0
+22-05-2021,6,Hammarby IF,Djurgårdens IF,3.0,2.0
+,6,BK Häcken,Eskilstuna United,3.0,0.0
+,6,KIF Örebro DFF,Växjö DFF,4.0,1.0
+23-05-2021,6,Kristianstads DFF,AIK Solna,1.0,1.0
+,6,Linköpings FC,Vittsjö GIK,0.0,0.0
+,6,FC Rosengård,Piteå IF,1.0,0.0
+13-05-2021,5,Vittsjö GIK,AIK Solna,4.0,0.0
+14-05-2021,5,Växjö DFF,FC Rosengård,0.0,1.0
+16-05-2021,5,Piteå IF,KIF Örebro DFF,0.0,2.0
+17-05-2021,5,Djurgårdens IF,BK Häcken,1.0,4.0
+,5,Eskilstuna United,Hammarby IF,1.0,1.0
+18-05-2021,5,Linköpings FC,Kristianstads DFF,1.0,1.0
+07-05-2021,4,Kristianstads DFF,Vittsjö GIK,1.0,0.0
+08-05-2021,4,AIK Solna,Hammarby IF,2.0,2.0
+,4,BK Häcken,Linköpings FC,0.0,1.0
+09-05-2021,4,Piteå IF,Växjö DFF,1.0,0.0
+,4,FC Rosengård,Djurgårdens IF,3.0,0.0
+,4,KIF Örebro DFF,Eskilstuna United,1.0,1.0
+30-04-2021,3,Växjö DFF,Kristianstads DFF,0.0,1.0
+01-05-2021,3,Hammarby IF,KIF Örebro DFF,5.0,0.0
+02-05-2021,3,Djurgårdens IF,AIK Solna,1.0,2.0
+,3,Eskilstuna United,FC Rosengård,0.0,2.0
+,3,Vittsjö GIK,BK Häcken,1.0,1.0
+13-05-2021,3,Linköpings FC,Piteå IF,4.0,3.0
+23-04-2021,2,BK Häcken,Växjö DFF,2.0,0.0
+24-04-2021,2,FC Rosengård,Hammarby IF,3.0,1.0
+,2,Kristianstads DFF,Djurgårdens IF,2.0,1.0
+,2,KIF Örebro DFF,Vittsjö GIK,1.0,0.0
+,2,AIK Solna,Linköpings FC,1.0,2.0
+25-04-2021,2,Piteå IF,Eskilstuna United,0.0,2.0
+17-04-2021,1,Växjö DFF,AIK Solna,1.0,1.0
+,1,Djurgårdens IF,KIF Örebro DFF,1.0,0.0
+18-04-2021,1,Hammarby IF,BK Häcken,0.0,1.0
+,1,Vittsjö GIK,Piteå IF,2.0,1.0
+,1,Eskilstuna United,Kristianstads DFF,1.0,1.0
+,1,Linköpings FC,FC Rosengård,0.0,1.0
+15-11-2020,22,Kopparbergs/Göteborg FC,Vittsjö GIK,3.0,1.0
+,22,Eskilstuna United,Umeå IK FF,0.0,1.0
+,22,FC Rosengård,Växjö DFF,0.0,1.0
+,22,Djurgårdens IF,IK Uppsala,2.0,0.0
+,22,KIF Örebro DFF,Piteå IF,0.0,1.0
+,22,Kristianstads DFF,Linköpings FC,1.0,2.0
+07-11-2020,21,IK Uppsala,Kristianstads DFF,1.0,4.0
+,21,Linköpings FC,Kopparbergs/Göteborg FC,0.0,7.0
+,21,Växjö DFF,Eskilstuna United,2.0,0.0
+,21,Vittsjö GIK,KIF Örebro DFF,4.0,0.0
+08-11-2020,21,Piteå IF,FC Rosengård,0.0,3.0
+,21,Umeå IK FF,Djurgårdens IF,0.0,0.0
+31-10-2020,20,KIF Örebro DFF,Umeå IK FF,5.0,1.0
+01-11-2020,20,Eskilstuna United,Djurgårdens IF,3.0,2.0
+,20,Linköpings FC,Piteå IF,1.0,2.0
+,20,FC Rosengård,IK Uppsala,5.0,1.0
+,20,Kristianstads DFF,Vittsjö GIK,4.0,0.0
+,20,Växjö DFF,Kopparbergs/Göteborg FC,0.0,3.0
+17-10-2020,19,IK Uppsala,Växjö DFF,0.0,2.0
+,19,Djurgårdens IF,Linköpings FC,0.0,3.0
+,19,Vittsjö GIK,FC Rosengård,1.0,1.0
+,19,Kopparbergs/Göteborg FC,KIF Örebro DFF,1.0,1.0
+18-10-2020,19,Piteå IF,Eskilstuna United,1.0,0.0
+19-10-2020,19,Umeå IK FF,Kristianstads DFF,0.0,4.0
+09-10-2020,18,Vittsjö GIK,Umeå IK FF,3.0,2.0
+11-10-2020,18,Växjö DFF,Piteå IF,1.0,0.0
+,18,Kopparbergs/Göteborg FC,IK Uppsala,3.0,0.0
+,18,Eskilstuna United,Linköpings FC,0.0,1.0
+,18,FC Rosengård,Kristianstads DFF,1.0,2.0
+,18,KIF Örebro DFF,Djurgårdens IF,2.0,0.0
+03-10-2020,17,Linköpings FC,FC Rosengård,2.0,2.0
+,17,Umeå IK FF,Kopparbergs/Göteborg FC,0.0,2.0
+,17,Djurgårdens IF,Växjö DFF,2.0,1.0
+04-10-2020,17,Piteå IF,Vittsjö GIK,0.0,0.0
+,17,IK Uppsala,Eskilstuna United,2.0,4.0
+,17,Kristianstads DFF,KIF Örebro DFF,4.0,2.0
+26-09-2020,16,Växjö DFF,Kristianstads DFF,2.0,1.0
+27-09-2020,16,Kopparbergs/Göteborg FC,Piteå IF,3.0,0.0
+,16,FC Rosengård,Umeå IK FF,0.0,0.0
+,16,IK Uppsala,Linköpings FC,0.0,1.0
+,16,Vittsjö GIK,Djurgårdens IF,1.0,1.0
+28-09-2020,16,Eskilstuna United,KIF Örebro DFF,3.0,1.0
+11-09-2020,15,Umeå IK FF,Växjö DFF,1.0,3.0
+13-09-2020,15,Piteå IF,IK Uppsala,2.0,0.0
+,15,Linköpings FC,Vittsjö GIK,1.0,2.0
+,15,Djurgårdens IF,Kopparbergs/Göteborg FC,0.0,3.0
+,15,Kristianstads DFF,Eskilstuna United,1.0,0.0
+,15,KIF Örebro DFF,FC Rosengård,0.0,3.0
+04-09-2020,14,Växjö DFF,KIF Örebro DFF,0.0,0.0
+05-09-2020,14,Linköpings FC,Umeå IK FF,3.0,0.0
+,14,IK Uppsala,Vittsjö GIK,0.0,1.0
+,14,Kopparbergs/Göteborg FC,Eskilstuna United,3.0,0.0
+06-09-2020,14,Piteå IF,Kristianstads DFF,2.0,3.0
+,14,FC Rosengård,Djurgårdens IF,3.0,0.0
+29-08-2020,13,Umeå IK FF,IK Uppsala,1.0,0.0
+,13,Kristianstads DFF,Kopparbergs/Göteborg FC,1.0,0.0
+,13,KIF Örebro DFF,Linköpings FC,1.0,1.0
+30-08-2020,13,Djurgårdens IF,Piteå IF,1.0,0.0
+,13,Vittsjö GIK,Växjö DFF,3.0,1.0
+,13,Eskilstuna United,FC Rosengård,1.0,2.0
+22-08-2020,12,Piteå IF,Umeå IK FF,1.0,2.0
+23-08-2020,12,IK Uppsala,KIF Örebro DFF,1.0,2.0
+,12,Vittsjö GIK,Eskilstuna United,3.0,2.0
+,12,Kristianstads DFF,Djurgårdens IF,0.0,1.0
+,12,FC Rosengård,Kopparbergs/Göteborg FC,3.0,0.0
+,12,Växjö DFF,Linköpings FC,0.0,1.0
+16-08-2020,11,Linköpings FC,IK Uppsala,3.0,1.0
+,11,Växjö DFF,Vittsjö GIK,0.0,2.0
+,11,Eskilstuna United,Piteå IF,2.0,0.0
+,11,KIF Örebro DFF,Kristianstads DFF,1.0,2.0
+17-08-2020,11,Kopparbergs/Göteborg FC,Umeå IK FF,2.0,0.0
+,11,Djurgårdens IF,FC Rosengård,0.0,0.0
+12-08-2020,10,Umeå IK FF,Eskilstuna United,1.0,0.0
+,10,FC Rosengård,Linköpings FC,7.0,1.0
+,10,Piteå IF,Djurgårdens IF,1.0,1.0
+,10,KIF Örebro DFF,IK Uppsala,2.0,1.0
+,10,Vittsjö GIK,Kopparbergs/Göteborg FC,0.0,2.0
+,10,Kristianstads DFF,Växjö DFF,2.0,0.0
+07-08-2020,9,IK Uppsala,FC Rosengård,1.0,9.0
+08-08-2020,9,Umeå IK FF,Vittsjö GIK,3.0,0.0
+,9,Piteå IF,Kopparbergs/Göteborg FC,1.0,5.0
+,9,Eskilstuna United,Växjö DFF,3.0,0.0
+,9,Djurgårdens IF,KIF Örebro DFF,0.0,1.0
+,9,Linköpings FC,Kristianstads DFF,0.0,3.0
+02-08-2020,8,Kristianstads DFF,Umeå IK FF,1.0,1.0
+,8,FC Rosengård,Piteå IF,2.0,1.0
+,8,Växjö DFF,Djurgårdens IF,1.0,0.0
+,8,KIF Örebro DFF,Vittsjö GIK,1.0,2.0
+03-08-2020,8,Kopparbergs/Göteborg FC,Linköpings FC,2.0,0.0
+,8,Eskilstuna United,IK Uppsala,1.0,3.0
+29-07-2020,7,Kristianstads DFF,Piteå IF,3.0,1.0
+,7,Vittsjö GIK,IK Uppsala,4.0,2.0
+,7,Linköpings FC,KIF Örebro DFF,1.0,0.0
+,7,Djurgårdens IF,Eskilstuna United,2.0,1.0
+30-07-2020,7,Kopparbergs/Göteborg FC,FC Rosengård,1.0,1.0
+,7,Växjö DFF,Umeå IK FF,2.0,2.0
+24-07-2020,6,Umeå IK FF,Linköpings FC,3.0,2.0
+,6,FC Rosengård,KIF Örebro DFF,6.0,0.0
+25-07-2020,6,Piteå IF,Växjö DFF,0.0,1.0
+,6,IK Uppsala,Kopparbergs/Göteborg FC,0.0,2.0
+,6,Eskilstuna United,Vittsjö GIK,3.0,1.0
+,6,Djurgårdens IF,Kristianstads DFF,3.0,3.0
+19-07-2020,5,Umeå IK FF,FC Rosengård,0.0,3.0
+,5,Linköpings FC,Eskilstuna United,1.0,0.0
+,5,Vittsjö GIK,Piteå IF,0.0,1.0
+,5,Kristianstads DFF,IK Uppsala,2.0,1.0
+,5,KIF Örebro DFF,Växjö DFF,1.0,0.0
+20-07-2020,5,Kopparbergs/Göteborg FC,Djurgårdens IF,2.0,0.0
+15-07-2020,4,Piteå IF,Linköpings FC,2.0,2.0
+,4,KIF Örebro DFF,Kopparbergs/Göteborg FC,0.0,1.0
+,4,IK Uppsala,Umeå IK FF,3.0,0.0
+,4,Eskilstuna United,Kristianstads DFF,2.0,3.0
+,4,Växjö DFF,FC Rosengård,0.0,3.0
+,4,Djurgårdens IF,Vittsjö GIK,2.0,1.0
+08-07-2020,3,Umeå IK FF,KIF Örebro DFF,0.0,2.0
+10-07-2020,3,Kopparbergs/Göteborg FC,Växjö DFF,4.0,0.0
+,3,FC Rosengård,Eskilstuna United,1.0,2.0
+11-07-2020,3,IK Uppsala,Piteå IF,0.0,1.0
+,3,Linköpings FC,Djurgårdens IF,1.0,0.0
+,3,Vittsjö GIK,Kristianstads DFF,3.0,3.0
+04-07-2020,2,Eskilstuna United,Kopparbergs/Göteborg FC,1.0,1.0
+,2,Växjö DFF,IK Uppsala,1.0,1.0
+,2,Kristianstads DFF,FC Rosengård,0.0,1.0
+,2,Djurgårdens IF,Umeå IK FF,1.0,1.0
+05-07-2020,2,Vittsjö GIK,Linköpings FC,1.0,2.0
+,2,Piteå IF,KIF Örebro DFF,1.0,1.0
+27-06-2020,1,Umeå IK FF,Piteå IF,2.0,3.0
+,1,IK Uppsala,Djurgårdens IF,3.0,2.0
+,1,Linköpings FC,Växjö DFF,3.0,0.0
+,1,KIF Örebro DFF,Eskilstuna United,3.0,3.0
+,1,FC Rosengård,Vittsjö GIK,1.0,0.0
+28-06-2020,1,Kopparbergs/Göteborg FC,Kristianstads DFF,5.0,1.0
+26-10-2019,22,Växjö DFF,Eskilstuna United,1.0,1.0
+,22,Vittsjö GIK,Djurgårdens IF,2.0,0.0
+,22,Piteå IF,Kungsbacka DFF,3.0,0.0
+,22,Kristianstads DFF,FC Rosengård,0.0,1.0
+,22,KIF Örebro DFF,Linköpings FC,1.0,3.0
+,22,IF Limhamn Bunkeflo,Kopparbergs/Göteborg FC,0.0,2.0
+19-10-2019,21,Kungsbacka DFF,KIF Örebro DFF,1.0,5.0
+,21,Eskilstuna United,Kristianstads DFF,5.0,0.0
+20-10-2019,21,Djurgårdens IF,Piteå IF,3.0,3.0
+,21,Kopparbergs/Göteborg FC,Växjö DFF,2.0,1.0
+,21,FC Rosengård,Vittsjö GIK,1.0,1.0
+,21,Linköpings FC,IF Limhamn Bunkeflo,3.0,0.0
+12-10-2019,20,Piteå IF,Kopparbergs/Göteborg FC,1.0,2.0
+,20,Djurgårdens IF,Kungsbacka DFF,3.0,0.0
+13-10-2019,20,Växjö DFF,KIF Örebro DFF,2.0,1.0
+,20,Vittsjö GIK,Kristianstads DFF,2.0,0.0
+,20,FC Rosengård,Linköpings FC,3.0,3.0
+,20,Eskilstuna United,IF Limhamn Bunkeflo,1.0,0.0
+26-09-2019,19,Linköpings FC,Djurgårdens IF,4.0,1.0
+28-09-2019,19,Kungsbacka DFF,FC Rosengård,1.0,2.0
+,19,IF Limhamn Bunkeflo,Växjö DFF,1.0,1.0
+29-09-2019,19,Kopparbergs/Göteborg FC,Vittsjö GIK,2.0,1.0
+,19,Kristianstads DFF,Piteå IF,1.0,1.0
+,19,KIF Örebro DFF,Eskilstuna United,2.0,2.0
+21-09-2019,18,IF Limhamn Bunkeflo,Kristianstads DFF,2.0,2.0
+,18,Djurgårdens IF,Kopparbergs/Göteborg FC,1.0,3.0
+22-09-2019,18,FC Rosengård,KIF Örebro DFF,3.0,1.0
+,18,Piteå IF,Linköpings FC,1.0,0.0
+,18,Eskilstuna United,Vittsjö GIK,1.0,0.0
+23-09-2019,18,Växjö DFF,Kungsbacka DFF,5.0,5.0
+13-09-2019,17,Linköpings FC,Eskilstuna United,0.0,1.0
+14-09-2019,17,Kristianstads DFF,Kungsbacka DFF,5.0,0.0
+15-09-2019,17,Piteå IF,Växjö DFF,4.0,1.0
+,17,Vittsjö GIK,KIF Örebro DFF,1.0,0.0
+,17,Kopparbergs/Göteborg FC,FC Rosengård,0.0,2.0
+,17,Djurgårdens IF,IF Limhamn Bunkeflo,0.0,0.0
+07-09-2019,16,Eskilstuna United,Kopparbergs/Göteborg FC,2.0,1.0
+,16,KIF Örebro DFF,Kristianstads DFF,0.0,1.0
+,16,Kungsbacka DFF,Vittsjö GIK,0.0,1.0
+,16,IF Limhamn Bunkeflo,Piteå IF,1.0,1.0
+08-09-2019,16,FC Rosengård,Djurgårdens IF,3.0,1.0
+09-09-2019,16,Växjö DFF,Linköpings FC,1.0,0.0
+24-08-2019,15,Kopparbergs/Göteborg FC,Linköpings FC,1.0,1.0
+,15,Kungsbacka DFF,Eskilstuna United,0.0,4.0
+25-08-2019,15,Vittsjö GIK,Växjö DFF,2.0,0.0
+,15,Piteå IF,FC Rosengård,1.0,1.0
+,15,Kristianstads DFF,Djurgårdens IF,2.0,0.0
+,15,KIF Örebro DFF,IF Limhamn Bunkeflo,0.0,1.0
+18-08-2019,14,Kopparbergs/Göteborg FC,Kristianstads DFF,2.0,0.0
+,14,Eskilstuna United,Piteå IF,1.0,1.0
+,14,Linköpings FC,Vittsjö GIK,2.0,1.0
+20-08-2019,14,Växjö DFF,FC Rosengård,0.0,0.0
+,14,IF Limhamn Bunkeflo,Kungsbacka DFF,2.0,0.0
+21-08-2019,14,Djurgårdens IF,KIF Örebro DFF,1.0,4.0
+14-08-2019,13,Piteå IF,Vittsjö GIK,0.0,0.0
+,13,Kungsbacka DFF,Linköpings FC,2.0,1.0
+,13,Kristianstads DFF,Växjö DFF,3.0,1.0
+,13,KIF Örebro DFF,Kopparbergs/Göteborg FC,0.0,3.0
+,13,Eskilstuna United,Djurgårdens IF,4.0,2.0
+,13,FC Rosengård,IF Limhamn Bunkeflo,3.0,0.0
+09-08-2019,12,Växjö DFF,Djurgårdens IF,2.0,1.0
+10-08-2019,12,KIF Örebro DFF,Piteå IF,1.0,0.0
+,12,Vittsjö GIK,IF Limhamn Bunkeflo,4.0,0.0
+,12,Kopparbergs/Göteborg FC,Kungsbacka DFF,6.0,0.0
+,12,FC Rosengård,Eskilstuna United,2.0,1.0
+,12,Linköpings FC,Kristianstads DFF,0.0,0.0
+04-08-2019,11,Linköpings FC,Kopparbergs/Göteborg FC,1.0,0.0
+,11,Kristianstads DFF,KIF Örebro DFF,2.0,0.0
+,11,Piteå IF,Eskilstuna United,3.0,1.0
+,11,Kungsbacka DFF,Växjö DFF,0.0,3.0
+,11,IF Limhamn Bunkeflo,Vittsjö GIK,0.0,3.0
+05-08-2019,11,Djurgårdens IF,FC Rosengård,0.0,3.0
+31-07-2019,10,Växjö DFF,Kristianstads DFF,2.0,2.0
+,10,Vittsjö GIK,FC Rosengård,0.0,0.0
+,10,Kopparbergs/Göteborg FC,Piteå IF,1.0,1.0
+,10,KIF Örebro DFF,Djurgårdens IF,3.0,1.0
+,10,IF Limhamn Bunkeflo,Linköpings FC,0.0,4.0
+,10,Eskilstuna United,Kungsbacka DFF,3.0,0.0
+26-07-2019,9,Växjö DFF,IF Limhamn Bunkeflo,3.0,1.0
+,9,Kristianstads DFF,Vittsjö GIK,0.0,3.0
+27-07-2019,9,Kopparbergs/Göteborg FC,KIF Örebro DFF,0.0,0.0
+,9,FC Rosengård,Kungsbacka DFF,6.0,1.0
+28-07-2019,9,Linköpings FC,Piteå IF,0.0,0.0
+,9,Djurgårdens IF,Eskilstuna United,0.0,3.0
+20-07-2019,8,IF Limhamn Bunkeflo,Djurgårdens IF,0.0,1.0
+,8,Kungsbacka DFF,Kristianstads DFF,0.0,5.0
+21-07-2019,8,Vittsjö GIK,Kopparbergs/Göteborg FC,2.0,4.0
+,8,Piteå IF,KIF Örebro DFF,0.0,3.0
+,8,FC Rosengård,Växjö DFF,5.0,0.0
+22-07-2019,8,Eskilstuna United,Linköpings FC,2.0,0.0
+19-05-2019,7,Vittsjö GIK,Piteå IF,0.0,0.0
+,7,Kopparbergs/Göteborg FC,IF Limhamn Bunkeflo,3.0,0.0
+,7,Kristianstads DFF,Eskilstuna United,3.0,0.0
+,7,KIF Örebro DFF,Kungsbacka DFF,1.0,0.0
+20-05-2019,7,Linköpings FC,FC Rosengård,0.0,0.0
+,7,Djurgårdens IF,Växjö DFF,3.0,0.0
+15-05-2019,6,Växjö DFF,Kopparbergs/Göteborg FC,0.0,2.0
+,6,Kungsbacka DFF,IF Limhamn Bunkeflo,2.0,2.0
+,6,Kristianstads DFF,Linköpings FC,1.0,1.0
+,6,FC Rosengård,Piteå IF,2.0,0.0
+,6,Eskilstuna United,KIF Örebro DFF,0.0,0.0
+,6,Djurgårdens IF,Vittsjö GIK,1.0,3.0
+11-05-2019,5,Vittsjö GIK,Eskilstuna United,1.0,0.0
+,5,KIF Örebro DFF,Växjö DFF,1.0,0.0
+,5,Linköpings FC,Kungsbacka DFF,2.0,0.0
+,5,Kopparbergs/Göteborg FC,Djurgårdens IF,3.0,1.0
+,5,IF Limhamn Bunkeflo,FC Rosengård,3.0,2.0
+12-05-2019,5,Piteå IF,Kristianstads DFF,2.0,1.0
+02-05-2019,4,Växjö DFF,Vittsjö GIK,1.0,1.0
+05-05-2019,4,IF Limhamn Bunkeflo,Eskilstuna United,0.0,1.0
+,4,Kungsbacka DFF,Piteå IF,1.0,5.0
+,4,Djurgårdens IF,Kristianstads DFF,0.0,2.0
+,4,FC Rosengård,Kopparbergs/Göteborg FC,2.0,2.0
+06-05-2019,4,Linköpings FC,KIF Örebro DFF,4.0,1.0
+27-04-2019,3,KIF Örebro DFF,FC Rosengård,0.0,4.0
+,3,Kungsbacka DFF,Djurgårdens IF,1.0,2.0
+28-04-2019,3,Vittsjö GIK,Linköpings FC,2.0,0.0
+,3,Kristianstads DFF,Kopparbergs/Göteborg FC,2.0,2.0
+,3,Eskilstuna United,Växjö DFF,0.0,1.0
+23-05-2019,3,Piteå IF,IF Limhamn Bunkeflo,2.0,1.0
+21-04-2019,2,Kopparbergs/Göteborg FC,Eskilstuna United,1.0,1.0
+,2,FC Rosengård,Kristianstads DFF,5.0,1.0
+22-04-2019,2,Växjö DFF,Piteå IF,0.0,0.0
+,2,Vittsjö GIK,Kungsbacka DFF,3.0,0.0
+,2,IF Limhamn Bunkeflo,KIF Örebro DFF,1.0,3.0
+,2,Djurgårdens IF,Linköpings FC,2.0,3.0
+13-04-2019,1,Kungsbacka DFF,Kopparbergs/Göteborg FC,0.0,3.0
+14-04-2019,1,Eskilstuna United,FC Rosengård,0.0,1.0
+,1,Kristianstads DFF,IF Limhamn Bunkeflo,5.0,1.0
+,1,Piteå IF,Djurgårdens IF,1.0,0.0
+,1,KIF Örebro DFF,Vittsjö GIK,1.0,0.0
+17-04-2019,1,Linköpings FC,Växjö DFF,5.0,0.0
+27-10-2018,22,Piteå IF,Växjö DFF,6.0,1.0
+,22,Linköpings FC,Kristianstads DFF,0.0,0.0
+,22,Kopparbergs/Göteborg FC,FC Rosengård,4.0,2.0
+,22,IF Limhamn Bunkeflo,Djurgårdens IF,1.0,0.0
+,22,Hammarby IF,Vittsjö GIK,0.0,3.0
+,22,Eskilstuna United,IFK Kalmar,4.0,1.0
+20-10-2018,21,Växjö DFF,Hammarby IF,5.0,1.0
+,21,Kristianstads DFF,Kopparbergs/Göteborg FC,1.0,5.0
+,21,IFK Kalmar,IF Limhamn Bunkeflo,0.0,3.0
+21-10-2018,21,Vittsjö GIK,Eskilstuna United,4.0,0.0
+22-10-2018,21,FC Rosengård,Piteå IF,1.0,0.0
+23-10-2018,21,Djurgårdens IF,Linköpings FC,2.0,2.0
+13-10-2018,20,Linköpings FC,Eskilstuna United,0.0,1.0
+14-10-2018,20,IFK Kalmar,Piteå IF,1.0,2.0
+,20,Kristianstads DFF,IF Limhamn Bunkeflo,4.0,2.0
+,20,Djurgårdens IF,Vittsjö GIK,2.0,0.0
+,20,Växjö DFF,Kopparbergs/Göteborg FC,0.0,4.0
+,20,FC Rosengård,Hammarby IF,5.0,1.0
+29-09-2018,19,Hammarby IF,Kristianstads DFF,0.0,1.0
+,19,IF Limhamn Bunkeflo,Växjö DFF,2.0,1.0
+30-09-2018,19,Vittsjö GIK,FC Rosengård,1.0,2.0
+,19,Kopparbergs/Göteborg FC,IFK Kalmar,5.0,1.0
+,19,Piteå IF,Linköpings FC,4.0,2.0
+,19,Eskilstuna United,Djurgårdens IF,3.0,1.0
+22-09-2018,18,Växjö DFF,Eskilstuna United,2.0,0.0
+,18,IFK Kalmar,Linköpings FC,1.0,9.0
+,18,Hammarby IF,Kopparbergs/Göteborg FC,2.0,1.0
+23-09-2018,18,Vittsjö GIK,IF Limhamn Bunkeflo,0.0,1.0
+,18,FC Rosengård,Kristianstads DFF,3.0,0.0
+,18,Djurgårdens IF,Piteå IF,0.0,1.0
+15-09-2018,17,Kristianstads DFF,IFK Kalmar,4.0,0.0
+16-09-2018,17,Djurgårdens IF,Växjö DFF,2.0,0.0
+,17,IF Limhamn Bunkeflo,Hammarby IF,1.0,3.0
+,17,Piteå IF,Eskilstuna United,2.0,0.0
+,17,Linköpings FC,FC Rosengård,2.0,1.0
+,17,Kopparbergs/Göteborg FC,Vittsjö GIK,2.0,2.0
+08-09-2018,16,Kopparbergs/Göteborg FC,Linköpings FC,4.0,2.0
+,16,FC Rosengård,Djurgårdens IF,2.0,0.0
+,16,IFK Kalmar,Växjö DFF,2.0,3.0
+09-09-2018,16,Vittsjö GIK,Kristianstads DFF,1.0,2.0
+,16,Hammarby IF,Piteå IF,0.0,3.0
+,16,Eskilstuna United,IF Limhamn Bunkeflo,4.0,0.0
+23-08-2018,15,Eskilstuna United,FC Rosengård,1.0,1.0
+24-08-2018,15,Linköpings FC,Hammarby IF,2.0,1.0
+25-08-2018,15,IF Limhamn Bunkeflo,Kopparbergs/Göteborg FC,0.0,2.0
+,15,Djurgårdens IF,IFK Kalmar,2.0,0.0
+26-08-2018,15,Piteå IF,Kristianstads DFF,0.0,1.0
+,15,Växjö DFF,Vittsjö GIK,2.0,1.0
+18-08-2018,14,Kristianstads DFF,Växjö DFF,1.0,0.0
+,14,Hammarby IF,Eskilstuna United,0.0,2.0
+,14,FC Rosengård,IFK Kalmar,10.0,0.0
+19-08-2018,14,Vittsjö GIK,Piteå IF,2.0,1.0
+,14,Linköpings FC,IF Limhamn Bunkeflo,5.0,2.0
+,14,Kopparbergs/Göteborg FC,Djurgårdens IF,3.0,0.0
+11-08-2018,13,IFK Kalmar,Vittsjö GIK,0.0,3.0
+,13,Växjö DFF,Linköpings FC,1.0,0.0
+12-08-2018,13,Piteå IF,Kopparbergs/Göteborg FC,4.0,3.0
+,13,FC Rosengård,IF Limhamn Bunkeflo,3.0,0.0
+,13,Eskilstuna United,Kristianstads DFF,1.0,0.0
+12-09-2018,13,Djurgårdens IF,Hammarby IF,2.0,1.0
+05-08-2018,12,Hammarby IF,IFK Kalmar,2.0,0.0
+,12,Växjö DFF,FC Rosengård,0.0,1.0
+,12,Linköpings FC,Vittsjö GIK,1.0,1.0
+,12,Kristianstads DFF,Djurgårdens IF,2.0,2.0
+,12,Kopparbergs/Göteborg FC,Eskilstuna United,3.0,1.0
+,12,IF Limhamn Bunkeflo,Piteå IF,0.0,2.0
+05-07-2018,11,FC Rosengård,Växjö DFF,1.0,1.0
+07-07-2018,11,Vittsjö GIK,Djurgårdens IF,2.0,2.0
+,11,Kristianstads DFF,Hammarby IF,1.0,0.0
+,11,IFK Kalmar,Kopparbergs/Göteborg FC,2.0,3.0
+08-07-2018,11,Piteå IF,IF Limhamn Bunkeflo,2.0,1.0
+,11,Eskilstuna United,Linköpings FC,3.0,3.0
+28-06-2018,10,Piteå IF,Vittsjö GIK,1.0,4.0
+30-06-2018,10,Kopparbergs/Göteborg FC,Växjö DFF,3.0,2.0
+,10,Hammarby IF,FC Rosengård,2.0,1.0
+01-07-2018,10,Djurgårdens IF,Kristianstads DFF,1.0,1.0
+,10,IF Limhamn Bunkeflo,Eskilstuna United,0.0,1.0
+03-07-2018,10,Linköpings FC,IFK Kalmar,8.0,0.0
+21-06-2018,9,Eskilstuna United,Vittsjö GIK,1.0,1.0
+24-06-2018,9,Växjö DFF,IF Limhamn Bunkeflo,0.0,1.0
+,9,Kristianstads DFF,Piteå IF,2.0,1.0
+,9,IFK Kalmar,Hammarby IF,0.0,4.0
+25-06-2018,9,FC Rosengård,Linköpings FC,1.0,2.0
+26-06-2018,9,Djurgårdens IF,Kopparbergs/Göteborg FC,0.0,2.0
+16-06-2018,8,Växjö DFF,Kristianstads DFF,3.0,0.0
+,8,Piteå IF,FC Rosengård,0.0,1.0
+17-06-2018,8,Vittsjö GIK,Hammarby IF,0.0,1.0
+,8,IF Limhamn Bunkeflo,IFK Kalmar,2.0,0.0
+,8,Eskilstuna United,Kopparbergs/Göteborg FC,1.0,3.0
+18-06-2018,8,Linköpings FC,Djurgårdens IF,1.0,1.0
+27-05-2018,7,Hammarby IF,Djurgårdens IF,0.0,1.0
+31-05-2018,7,IF Limhamn Bunkeflo,FC Rosengård,0.0,2.0
+01-06-2018,7,Linköpings FC,Piteå IF,1.0,2.0
+02-06-2018,7,IFK Kalmar,Eskilstuna United,0.0,3.0
+03-06-2018,7,Vittsjö GIK,Växjö DFF,3.0,0.0
+,7,Kopparbergs/Göteborg FC,Kristianstads DFF,1.0,0.0
+24-05-2018,6,Hammarby IF,Linköpings FC,1.0,2.0
+,6,Djurgårdens IF,IF Limhamn Bunkeflo,1.0,1.0
+26-05-2018,6,Kristianstads DFF,Eskilstuna United,1.0,0.0
+27-05-2018,6,Kopparbergs/Göteborg FC,Piteå IF,0.0,1.0
+,6,Växjö DFF,IFK Kalmar,4.0,1.0
+,6,FC Rosengård,Vittsjö GIK,2.0,0.0
+19-05-2018,5,IFK Kalmar,Djurgårdens IF,2.0,3.0
+,5,IF Limhamn Bunkeflo,Linköpings FC,1.0,0.0
+20-05-2018,5,Kristianstads DFF,FC Rosengård,2.0,0.0
+,5,Vittsjö GIK,Kopparbergs/Göteborg FC,0.0,1.0
+,5,Piteå IF,Hammarby IF,3.0,2.0
+,5,Eskilstuna United,Växjö DFF,1.0,1.0
+05-05-2018,4,IFK Kalmar,Kristianstads DFF,1.0,2.0
+,4,IF Limhamn Bunkeflo,Vittsjö GIK,1.0,0.0
+,4,Djurgårdens IF,FC Rosengård,1.0,2.0
+06-05-2018,4,Växjö DFF,Piteå IF,0.0,1.0
+,4,Eskilstuna United,Hammarby IF,1.0,0.0
+07-05-2018,4,Linköpings FC,Kopparbergs/Göteborg FC,1.0,0.0
+26-04-2018,3,FC Rosengård,Eskilstuna United,9.0,0.0
+28-04-2018,3,Kristianstads DFF,Linköpings FC,1.0,1.0
+,3,Hammarby IF,Växjö DFF,1.0,2.0
+29-04-2018,3,Piteå IF,Djurgårdens IF,2.0,0.0
+,3,Kopparbergs/Göteborg FC,IF Limhamn Bunkeflo,3.0,1.0
+,3,Vittsjö GIK,IFK Kalmar,0.0,1.0
+21-04-2018,2,Växjö DFF,Djurgårdens IF,1.0,0.0
+,2,Kopparbergs/Göteborg FC,Hammarby IF,1.0,3.0
+,2,IFK Kalmar,FC Rosengård,0.0,4.0
+,2,IF Limhamn Bunkeflo,Kristianstads DFF,3.0,3.0
+22-04-2018,2,Vittsjö GIK,Linköpings FC,3.0,2.0
+,2,Eskilstuna United,Piteå IF,1.0,2.0
+14-04-2018,1,Kristianstads DFF,Vittsjö GIK,1.0,1.0
+,1,Hammarby IF,IF Limhamn Bunkeflo,4.0,2.0
+,1,Djurgårdens IF,Eskilstuna United,2.0,1.0
+15-04-2018,1,Piteå IF,IFK Kalmar,2.0,1.0
+,1,Linköpings FC,Växjö DFF,1.0,0.0
+16-04-2018,1,FC Rosengård,Kopparbergs/Göteborg FC,1.0,1.0
+12-11-2017,22,IF Limhamn Bunkeflo,Linköpings FC,0.0,1.0
+,22,Djurgårdens IF,Piteå IF,1.0,5.0
+,22,Eskilstuna United,Vittsjö GIK,2.0,1.0
+,22,Kristianstads DFF,Kvarnsvedens IK,5.0,2.0
+,22,KIF Örebro DFF,Kopparbergs/Göteborg FC,0.0,1.0
+,22,FC Rosengård,Hammarby IF,0.0,1.0
+04-11-2017,21,Kvarnsvedens IK,FC Rosengård,1.0,3.0
+,21,Linköpings FC,Eskilstuna United,0.0,6.0
+,21,Vittsjö GIK,KIF Örebro DFF,2.0,2.0
+05-11-2017,21,Piteå IF,IF Limhamn Bunkeflo,4.0,1.0
+,21,Kopparbergs/Göteborg FC,Djurgårdens IF,1.0,0.0
+,21,Hammarby IF,Kristianstads DFF,1.0,1.0
+28-10-2017,20,Vittsjö GIK,Hammarby IF,0.0,0.0
+29-10-2017,20,FC Rosengård,Piteå IF,0.0,0.0
+,20,Kvarnsvedens IK,Linköpings FC,0.0,0.0
+,20,Eskilstuna United,Kopparbergs/Göteborg FC,1.0,5.0
+,20,Kristianstads DFF,IF Limhamn Bunkeflo,2.0,0.0
+30-10-2017,20,KIF Örebro DFF,Djurgårdens IF,0.0,3.0
+14-10-2017,19,IF Limhamn Bunkeflo,Kvarnsvedens IK,1.0,0.0
+,19,Djurgårdens IF,Vittsjö GIK,1.0,1.0
+,19,Hammarby IF,KIF Örebro DFF,6.0,1.0
+15-10-2017,19,Kopparbergs/Göteborg FC,FC Rosengård,1.0,1.0
+,19,Linköpings FC,Kristianstads DFF,1.0,0.0
+,19,Piteå IF,Eskilstuna United,2.0,2.0
+07-10-2017,18,KIF Örebro DFF,IF Limhamn Bunkeflo,1.0,2.0
+,18,Vittsjö GIK,Kopparbergs/Göteborg FC,0.0,2.0
+08-10-2017,18,FC Rosengård,Djurgårdens IF,6.0,3.0
+,18,Eskilstuna United,Kristianstads DFF,2.0,1.0
+,18,Kvarnsvedens IK,Piteå IF,3.0,1.0
+,18,Linköpings FC,Hammarby IF,2.0,2.0
+30-09-2017,17,IF Limhamn Bunkeflo,Vittsjö GIK,0.0,2.0
+,17,Kristianstads DFF,FC Rosengård,2.0,1.0
+01-10-2017,17,Kopparbergs/Göteborg FC,Kvarnsvedens IK,2.0,2.0
+,17,Hammarby IF,Eskilstuna United,1.0,0.0
+,17,Piteå IF,KIF Örebro DFF,2.0,0.0
+,17,Djurgårdens IF,Linköpings FC,1.0,2.0
+23-09-2017,16,Kvarnsvedens IK,Eskilstuna United,2.0,2.0
+,16,Djurgårdens IF,IF Limhamn Bunkeflo,2.0,1.0
+24-09-2017,16,KIF Örebro DFF,FC Rosengård,2.0,2.0
+,16,Kopparbergs/Göteborg FC,Kristianstads DFF,1.0,2.0
+,16,Piteå IF,Hammarby IF,2.0,0.0
+,16,Linköpings FC,Vittsjö GIK,1.0,0.0
+09-09-2017,15,IF Limhamn Bunkeflo,Kopparbergs/Göteborg FC,2.0,1.0
+,15,Kristianstads DFF,KIF Örebro DFF,3.0,2.0
+,15,Hammarby IF,Kvarnsvedens IK,2.0,1.0
+10-09-2017,15,Vittsjö GIK,Piteå IF,0.0,0.0
+,15,FC Rosengård,Linköpings FC,2.0,2.0
+,15,Eskilstuna United,Djurgårdens IF,1.0,1.0
+30-08-2017,14,Djurgårdens IF,Hammarby IF,1.0,0.0
+31-08-2017,14,Kopparbergs/Göteborg FC,Linköpings FC,0.0,2.0
+02-09-2017,14,KIF Örebro DFF,Kvarnsvedens IK,3.0,3.0
+03-09-2017,14,Piteå IF,Kristianstads DFF,2.0,1.0
+,14,FC Rosengård,Vittsjö GIK,2.0,2.0
+,14,Eskilstuna United,IF Limhamn Bunkeflo,4.0,0.0
+23-08-2017,13,Hammarby IF,Kopparbergs/Göteborg FC,0.0,0.0
+,13,Kvarnsvedens IK,Djurgårdens IF,2.0,2.0
+,13,Linköpings FC,Piteå IF,2.0,3.0
+,13,KIF Örebro DFF,Eskilstuna United,0.0,1.0
+,13,Vittsjö GIK,Kristianstads DFF,1.0,1.0
+30-08-2017,13,IF Limhamn Bunkeflo,FC Rosengård,0.0,1.0
+17-08-2017,12,Piteå IF,Kopparbergs/Göteborg FC,0.0,1.0
+18-08-2017,12,Linköpings FC,KIF Örebro DFF,5.0,0.0
+,12,IF Limhamn Bunkeflo,Hammarby IF,1.0,1.0
+19-08-2017,12,Kristianstads DFF,Djurgårdens IF,1.0,2.0
+,12,FC Rosengård,Eskilstuna United,1.0,0.0
+,12,Vittsjö GIK,Kvarnsvedens IK,3.0,1.0
+28-06-2017,11,Djurgårdens IF,KIF Örebro DFF,1.0,2.0
+29-06-2017,11,Eskilstuna United,Linköpings FC,0.0,2.0
+,11,Kopparbergs/Göteborg FC,IF Limhamn Bunkeflo,2.0,5.0
+,11,Hammarby IF,Vittsjö GIK,2.0,0.0
+,11,Piteå IF,FC Rosengård,0.0,2.0
+30-06-2017,11,Kvarnsvedens IK,Kristianstads DFF,1.0,2.0
+22-06-2017,10,Djurgårdens IF,Kopparbergs/Göteborg FC,2.0,0.0
+25-06-2017,10,KIF Örebro DFF,Piteå IF,0.0,0.0
+,10,Vittsjö GIK,Linköpings FC,0.0,2.0
+,10,Kvarnsvedens IK,Hammarby IF,3.0,3.0
+,10,Kristianstads DFF,Eskilstuna United,1.0,1.0
+26-06-2017,10,FC Rosengård,IF Limhamn Bunkeflo,3.0,0.0
+17-06-2017,9,IF Limhamn Bunkeflo,KIF Örebro DFF,2.0,0.0
+18-06-2017,9,Kristianstads DFF,Kopparbergs/Göteborg FC,5.0,2.0
+,9,Vittsjö GIK,FC Rosengård,0.0,3.0
+,9,Eskilstuna United,Piteå IF,0.0,1.0
+,9,Linköpings FC,Kvarnsvedens IK,3.0,2.0
+,9,Hammarby IF,Djurgårdens IF,0.0,2.0
+31-05-2017,8,Djurgårdens IF,Eskilstuna United,1.0,0.0
+03-06-2017,8,Kvarnsvedens IK,IF Limhamn Bunkeflo,5.0,0.0
+04-06-2017,8,KIF Örebro DFF,Vittsjö GIK,0.0,0.0
+,8,Kopparbergs/Göteborg FC,Hammarby IF,3.0,3.0
+,8,Piteå IF,Linköpings FC,0.0,1.0
+,8,FC Rosengård,Kristianstads DFF,1.0,0.0
+24-05-2017,7,Eskilstuna United,Kvarnsvedens IK,4.0,1.0
+,7,Linköpings FC,Kopparbergs/Göteborg FC,5.0,1.0
+25-05-2017,7,Vittsjö GIK,Djurgårdens IF,4.0,1.0
+,7,Hammarby IF,IF Limhamn Bunkeflo,1.0,2.0
+,7,Kristianstads DFF,Piteå IF,1.0,0.0
+,7,FC Rosengård,KIF Örebro DFF,2.0,2.0
+20-05-2017,6,IF Limhamn Bunkeflo,Djurgårdens IF,2.0,1.0
+,6,Kvarnsvedens IK,KIF Örebro DFF,3.0,1.0
+,6,Kristianstads DFF,Hammarby IF,0.0,0.0
+,6,Linköpings FC,FC Rosengård,0.0,3.0
+,6,Kopparbergs/Göteborg FC,Eskilstuna United,0.0,1.0
+21-05-2017,6,Piteå IF,Vittsjö GIK,2.0,1.0
+13-05-2017,5,Kvarnsvedens IK,Vittsjö GIK,2.0,3.0
+,5,IF Limhamn Bunkeflo,Eskilstuna United,0.0,3.0
+14-05-2017,5,Hammarby IF,FC Rosengård,1.0,0.0
+,5,Kopparbergs/Göteborg FC,Piteå IF,2.0,2.0
+,5,Djurgårdens IF,Kristianstads DFF,2.0,1.0
+15-05-2017,5,KIF Örebro DFF,Linköpings FC,1.0,4.0
+06-05-2017,4,Kristianstads DFF,Linköpings FC,1.0,2.0
+,4,Vittsjö GIK,IF Limhamn Bunkeflo,2.0,3.0
+,4,Djurgårdens IF,Kvarnsvedens IK,1.0,2.0
+07-05-2017,4,FC Rosengård,Kopparbergs/Göteborg FC,5.0,0.0
+,4,Hammarby IF,Piteå IF,0.0,1.0
+08-05-2017,4,Eskilstuna United,KIF Örebro DFF,2.0,1.0
+28-04-2017,3,KIF Örebro DFF,Hammarby IF,2.0,2.0
+29-04-2017,3,IF Limhamn Bunkeflo,Kristianstads DFF,0.0,3.0
+30-04-2017,3,Piteå IF,Kvarnsvedens IK,3.0,0.0
+,3,Linköpings FC,Djurgårdens IF,2.0,1.0
+01-05-2017,3,Kopparbergs/Göteborg FC,Vittsjö GIK,2.0,0.0
+03-05-2017,3,Eskilstuna United,FC Rosengård,3.0,2.0
+19-04-2017,2,Djurgårdens IF,FC Rosengård,1.0,3.0
+22-04-2017,2,KIF Örebro DFF,Kristianstads DFF,1.0,0.0
+,2,Vittsjö GIK,Eskilstuna United,1.0,1.0
+,2,Hammarby IF,Linköpings FC,1.0,3.0
+23-04-2017,2,IF Limhamn Bunkeflo,Piteå IF,1.0,1.0
+25-04-2017,2,Kvarnsvedens IK,Kopparbergs/Göteborg FC,3.0,3.0
+16-04-2017,1,FC Rosengård,Kvarnsvedens IK,7.0,2.0
+,1,Kopparbergs/Göteborg FC,KIF Örebro DFF,1.0,0.0
+,1,Kristianstads DFF,Vittsjö GIK,0.0,1.0
+,1,Piteå IF,Djurgårdens IF,0.0,1.0
+,1,Linköpings FC,IF Limhamn Bunkeflo,3.0,0.0
+17-04-2017,1,Eskilstuna United,Hammarby IF,1.0,0.0
+05-11-2016,22,Djurgårdens IF,Kvarnsvedens IK,2.0,2.0
+,22,Kristianstads DFF,Umeå IK FF,1.0,1.0
+,22,KIF Örebro DFF,Vittsjö GIK,3.0,1.0
+,22,Kopparbergs/Göteborg FC,Piteå IF,2.0,0.0
+,22,FC Rosengård,Mallbackens IF,7.0,0.0
+,22,Linköpings FC,Eskilstuna United,5.0,0.0
+30-10-2016,21,Kvarnsvedens IK,Kristianstads DFF,2.0,2.0
+,21,Vittsjö GIK,Djurgårdens IF,4.0,1.0
+,21,Umeå IK FF,Kopparbergs/Göteborg FC,0.0,0.0
+,21,Piteå IF,FC Rosengård,1.0,1.0
+,21,Eskilstuna United,KIF Örebro DFF,3.0,0.0
+,21,Mallbackens IF,Linköpings FC,0.0,6.0
+15-10-2016,20,Djurgårdens IF,KIF Örebro DFF,1.0,2.0
+,20,Kopparbergs/Göteborg FC,Kvarnsvedens IK,2.0,1.0
+,20,Mallbackens IF,Umeå IK FF,1.0,0.0
+16-10-2016,20,Vittsjö GIK,Linköpings FC,0.0,2.0
+,20,Piteå IF,Kristianstads DFF,2.0,1.0
+,20,FC Rosengård,Eskilstuna United,1.0,2.0
+08-10-2016,19,Kvarnsvedens IK,Mallbackens IF,3.0,1.0
+,19,Kristianstads DFF,Vittsjö GIK,1.0,1.0
+,19,KIF Örebro DFF,Kopparbergs/Göteborg FC,1.0,3.0
+09-10-2016,19,Umeå IK FF,Djurgårdens IF,0.0,0.0
+,19,Linköpings FC,FC Rosengård,1.0,0.0
+,19,Eskilstuna United,Piteå IF,2.0,2.0
+30-09-2016,18,FC Rosengård,Umeå IK FF,5.0,1.0
+01-10-2016,18,Vittsjö GIK,Kvarnsvedens IK,2.0,2.0
+,18,Kopparbergs/Göteborg FC,Kristianstads DFF,3.0,1.0
+02-10-2016,18,Djurgårdens IF,Eskilstuna United,3.0,3.0
+,18,Piteå IF,Mallbackens IF,2.0,1.0
+,18,KIF Örebro DFF,Linköpings FC,2.0,2.0
+24-09-2016,17,Linköpings FC,Djurgårdens IF,3.0,1.0
+25-09-2016,17,Kvarnsvedens IK,Piteå IF,2.0,2.0
+,17,Umeå IK FF,KIF Örebro DFF,1.0,1.0
+,17,Mallbackens IF,Vittsjö GIK,1.0,2.0
+,17,Kristianstads DFF,FC Rosengård,0.0,2.0
+,17,Kopparbergs/Göteborg FC,Eskilstuna United,1.0,3.0
+11-09-2016,16,KIF Örebro DFF,Kvarnsvedens IK,1.0,2.0
+,16,Djurgårdens IF,Kopparbergs/Göteborg FC,2.0,1.0
+,16,Vittsjö GIK,FC Rosengård,0.0,0.0
+,16,Piteå IF,Umeå IK FF,1.0,0.0
+,16,Linköpings FC,Kristianstads DFF,2.0,0.0
+,16,Eskilstuna United,Mallbackens IF,0.0,0.0
+07-09-2016,15,Kristianstads DFF,KIF Örebro DFF,2.0,2.0
+,15,Kvarnsvedens IK,Eskilstuna United,1.0,1.0
+,15,Umeå IK FF,Linköpings FC,0.0,4.0
+,15,FC Rosengård,Kopparbergs/Göteborg FC,2.0,1.0
+,15,Piteå IF,Vittsjö GIK,2.0,1.0
+,15,Mallbackens IF,Djurgårdens IF,0.0,3.0
+01-09-2016,14,Djurgårdens IF,Piteå IF,1.0,1.0
+02-09-2016,14,Linköpings FC,Kvarnsvedens IK,8.0,0.0
+,14,KIF Örebro DFF,FC Rosengård,0.0,2.0
+03-09-2016,14,Kopparbergs/Göteborg FC,Mallbackens IF,4.0,0.0
+,14,Kristianstads DFF,Eskilstuna United,0.0,1.0
+04-09-2016,14,Vittsjö GIK,Umeå IK FF,5.0,0.0
+16-07-2016,13,FC Rosengård,Djurgårdens IF,2.0,2.0
+27-08-2016,13,Umeå IK FF,Kvarnsvedens IK,1.0,2.0
+,13,Mallbackens IF,Kristianstads DFF,0.0,1.0
+,13,Piteå IF,KIF Örebro DFF,2.0,1.0
+28-08-2016,13,Eskilstuna United,Vittsjö GIK,2.0,1.0
+28-09-2016,13,Kopparbergs/Göteborg FC,Linköpings FC,1.0,2.0
+09-07-2016,12,Kvarnsvedens IK,FC Rosengård,0.0,4.0
+,12,Kristianstads DFF,Djurgårdens IF,0.0,2.0
+10-07-2016,12,Vittsjö GIK,Kopparbergs/Göteborg FC,2.0,2.0
+,12,KIF Örebro DFF,Mallbackens IF,4.0,0.0
+,12,Linköpings FC,Piteå IF,3.0,2.0
+11-07-2016,12,Eskilstuna United,Umeå IK FF,2.0,0.0
+30-06-2016,11,Piteå IF,Eskilstuna United,2.0,1.0
+02-07-2016,11,Kopparbergs/Göteborg FC,Vittsjö GIK,2.0,2.0
+,11,FC Rosengård,Kvarnsvedens IK,6.0,1.0
+,11,Mallbackens IF,KIF Örebro DFF,3.0,3.0
+03-07-2016,11,Djurgårdens IF,Linköpings FC,0.0,1.0
+,11,Umeå IK FF,Kristianstads DFF,2.0,1.0
+23-06-2016,10,Kristianstads DFF,Mallbackens IF,1.0,0.0
+,10,Eskilstuna United,FC Rosengård,0.0,1.0
+26-06-2016,10,Vittsjö GIK,Piteå IF,0.0,1.0
+,10,Djurgårdens IF,Umeå IK FF,1.0,3.0
+,10,Kvarnsvedens IK,KIF Örebro DFF,0.0,1.0
+27-06-2016,10,Linköpings FC,Kopparbergs/Göteborg FC,1.0,0.0
+15-06-2016,9,Umeå IK FF,FC Rosengård,0.0,4.0
+,9,Linköpings FC,Vittsjö GIK,8.0,0.0
+,9,Mallbackens IF,Eskilstuna United,2.0,1.0
+,9,KIF Örebro DFF,Piteå IF,0.0,0.0
+18-06-2016,9,Kristianstads DFF,Kvarnsvedens IK,2.0,0.0
+,9,Kopparbergs/Göteborg FC,Djurgårdens IF,1.0,0.0
+11-06-2016,8,Kvarnsvedens IK,Umeå IK FF,3.0,1.0
+,8,Piteå IF,Linköpings FC,1.0,4.0
+,8,Vittsjö GIK,Mallbackens IF,1.0,1.0
+,8,FC Rosengård,KIF Örebro DFF,3.0,0.0
+12-06-2016,8,Djurgårdens IF,Kristianstads DFF,2.0,0.0
+,8,Eskilstuna United,Kopparbergs/Göteborg FC,0.0,0.0
+28-05-2016,7,Kvarnsvedens IK,Djurgårdens IF,2.0,2.0
+,7,Mallbackens IF,Kopparbergs/Göteborg FC,0.0,3.0
+29-05-2016,7,Umeå IK FF,Vittsjö GIK,0.0,2.0
+,7,Kristianstads DFF,Piteå IF,0.0,1.0
+,7,FC Rosengård,Linköpings FC,1.0,1.0
+,7,KIF Örebro DFF,Eskilstuna United,1.0,4.0
+19-05-2016,6,Linköpings FC,Umeå IK FF,3.0,0.0
+21-05-2016,6,Kopparbergs/Göteborg FC,FC Rosengård,1.0,2.0
+,6,Djurgårdens IF,Mallbackens IF,2.0,1.0
+22-05-2016,6,Vittsjö GIK,KIF Örebro DFF,0.0,0.0
+,6,Piteå IF,Kvarnsvedens IK,2.0,2.0
+23-05-2016,6,Eskilstuna United,Kristianstads DFF,1.0,0.0
+14-05-2016,5,Kvarnsvedens IK,Linköpings FC,1.0,2.0
+,5,Kristianstads DFF,Kopparbergs/Göteborg FC,1.0,1.0
+,5,FC Rosengård,Vittsjö GIK,4.0,1.0
+,5,KIF Örebro DFF,Djurgårdens IF,0.0,3.0
+15-05-2016,5,Mallbackens IF,Piteå IF,4.0,0.0
+,5,Umeå IK FF,Eskilstuna United,1.0,3.0
+08-05-2016,4,Kopparbergs/Göteborg FC,Umeå IK FF,5.0,2.0
+,4,Vittsjö GIK,Kristianstads DFF,1.0,1.0
+,4,Piteå IF,Djurgårdens IF,2.0,0.0
+,4,Mallbackens IF,FC Rosengård,0.0,6.0
+,4,Linköpings FC,KIF Örebro DFF,4.0,1.0
+,4,Eskilstuna United,Kvarnsvedens IK,2.0,0.0
+28-04-2016,3,Eskilstuna United,Linköpings FC,1.0,3.0
+30-04-2016,3,Kvarnsvedens IK,Kopparbergs/Göteborg FC,0.0,2.0
+01-05-2016,3,Djurgårdens IF,Vittsjö GIK,3.0,1.0
+,3,Umeå IK FF,Mallbackens IF,1.0,1.0
+,3,KIF Örebro DFF,Kristianstads DFF,3.0,1.0
+04-05-2016,3,FC Rosengård,Piteå IF,4.0,0.0
+20-04-2016,2,Djurgårdens IF,FC Rosengård,0.0,3.0
+23-04-2016,2,Kristianstads DFF,Linköpings FC,1.0,4.0
+,2,Kopparbergs/Göteborg FC,KIF Örebro DFF,0.0,0.0
+,2,Mallbackens IF,Kvarnsvedens IK,1.0,3.0
+24-04-2016,2,Vittsjö GIK,Eskilstuna United,1.0,0.0
+,2,Umeå IK FF,Piteå IF,1.0,1.0
+16-04-2016,1,FC Rosengård,Kristianstads DFF,2.0,1.0
+17-04-2016,1,Kvarnsvedens IK,Vittsjö GIK,1.0,1.0
+,1,KIF Örebro DFF,Umeå IK FF,1.0,1.0
+,1,Piteå IF,Kopparbergs/Göteborg FC,2.0,0.0
+,1,Linköpings FC,Mallbackens IF,4.0,2.0
+,1,Eskilstuna United,Djurgårdens IF,2.0,1.0
+18-10-2015,22,Hammarby IF,Piteå IF,0.0,0.0
+,22,Eskilstuna United,Kopparbergs/Göteborg FC,2.0,0.0
+,22,FC Rosengård,Linköpings FC,5.0,0.0
+,22,KIF Örebro DFF,Vittsjö GIK,4.0,0.0
+,22,Kristianstads DFF,AIK Solna,5.0,0.0
+,22,Umeå IK FF,Mallbackens IF,2.0,2.0
+10-10-2015,21,Mallbackens IF,Hammarby IF,2.0,3.0
+11-10-2015,21,Piteå IF,Kristianstads DFF,4.0,0.0
+,21,Vittsjö GIK,Umeå IK FF,3.0,0.0
+,21,Kopparbergs/Göteborg FC,KIF Örebro DFF,2.0,4.0
+,21,AIK Solna,FC Rosengård,0.0,5.0
+,21,Linköpings FC,Eskilstuna United,0.0,0.0
+01-10-2015,20,KIF Örebro DFF,Piteå IF,2.0,3.0
+02-10-2015,20,FC Rosengård,Umeå IK FF,2.0,0.0
+03-10-2015,20,Vittsjö GIK,Hammarby IF,1.0,1.0
+04-10-2015,20,Kopparbergs/Göteborg FC,AIK Solna,5.0,1.0
+,20,Kristianstads DFF,Linköpings FC,0.0,3.0
+,20,Eskilstuna United,Mallbackens IF,2.0,0.0
+26-09-2015,19,AIK Solna,KIF Örebro DFF,1.0,2.0
+27-09-2015,19,Hammarby IF,FC Rosengård,0.0,1.0
+,19,Umeå IK FF,Kristianstads DFF,4.0,3.0
+,19,Mallbackens IF,Vittsjö GIK,2.0,1.0
+,19,Piteå IF,Eskilstuna United,1.0,0.0
+28-09-2015,19,Linköpings FC,Kopparbergs/Göteborg FC,4.0,0.0
+10-09-2015,18,Kopparbergs/Göteborg FC,FC Rosengård,0.0,0.0
+11-09-2015,18,Hammarby IF,Eskilstuna United,0.0,2.0
+12-09-2015,18,Vittsjö GIK,Kristianstads DFF,1.0,1.0
+,18,AIK Solna,Linköpings FC,0.0,5.0
+,18,Mallbackens IF,Piteå IF,1.0,4.0
+13-09-2015,18,KIF Örebro DFF,Umeå IK FF,2.0,0.0
+05-09-2015,17,FC Rosengård,KIF Örebro DFF,2.0,1.0
+,17,Kristianstads DFF,Hammarby IF,1.0,0.0
+06-09-2015,17,Piteå IF,AIK Solna,4.0,1.0
+,17,Umeå IK FF,Kopparbergs/Göteborg FC,1.0,1.0
+,17,Eskilstuna United,Vittsjö GIK,2.0,0.0
+09-09-2015,17,Linköpings FC,Mallbackens IF,5.0,1.0
+30-08-2015,16,Piteå IF,FC Rosengård,2.0,2.0
+,16,Mallbackens IF,Kristianstads DFF,1.0,0.0
+31-08-2015,16,AIK Solna,Eskilstuna United,0.0,3.0
+01-09-2015,16,KIF Örebro DFF,Hammarby IF,3.0,1.0
+02-09-2015,16,Linköpings FC,Umeå IK FF,0.0,2.0
+03-09-2015,16,Kopparbergs/Göteborg FC,Vittsjö GIK,3.0,1.0
+26-08-2015,15,Kristianstads DFF,FC Rosengård,0.0,0.0
+,15,Hammarby IF,AIK Solna,1.0,1.0
+,15,Umeå IK FF,Piteå IF,2.0,2.0
+27-08-2015,15,Kopparbergs/Göteborg FC,Mallbackens IF,1.0,0.0
+,15,Eskilstuna United,KIF Örebro DFF,3.0,1.0
+28-08-2015,15,Vittsjö GIK,Linköpings FC,0.0,3.0
+22-08-2015,14,Hammarby IF,Kopparbergs/Göteborg FC,3.0,2.0
+,14,AIK Solna,Umeå IK FF,3.0,6.0
+,14,FC Rosengård,Mallbackens IF,2.0,1.0
+,14,KIF Örebro DFF,Linköpings FC,2.0,1.0
+23-08-2015,14,Vittsjö GIK,Piteå IF,0.0,3.0
+,14,Eskilstuna United,Kristianstads DFF,2.0,0.0
+14-08-2015,13,FC Rosengård,Vittsjö GIK,2.0,2.0
+16-08-2015,13,Piteå IF,Kopparbergs/Göteborg FC,4.0,0.0
+,13,Mallbackens IF,AIK Solna,1.0,0.0
+,13,Umeå IK FF,Eskilstuna United,1.0,2.0
+19-08-2015,13,Linköpings FC,Hammarby IF,3.0,0.0
+08-09-2015,13,Kristianstads DFF,KIF Örebro DFF,3.0,1.0
+05-08-2015,12,Eskilstuna United,FC Rosengård,1.0,2.0
+06-08-2015,12,Kopparbergs/Göteborg FC,Kristianstads DFF,3.0,0.0
+09-08-2015,12,AIK Solna,Vittsjö GIK,0.0,4.0
+12-08-2015,12,Linköpings FC,Piteå IF,5.0,0.0
+,12,Mallbackens IF,KIF Örebro DFF,1.0,0.0
+,12,Umeå IK FF,Hammarby IF,2.0,0.0
+30-07-2015,11,Kopparbergs/Göteborg FC,Linköpings FC,1.0,0.0
+31-07-2015,11,Vittsjö GIK,Eskilstuna United,1.0,1.0
+01-08-2015,11,Hammarby IF,Umeå IK FF,1.0,1.0
+,11,KIF Örebro DFF,Kristianstads DFF,4.0,2.0
+02-08-2015,11,Piteå IF,Mallbackens IF,2.0,1.0
+,11,FC Rosengård,AIK Solna,4.0,0.0
+25-07-2015,10,Kristianstads DFF,Vittsjö GIK,3.0,1.0
+26-07-2015,10,Mallbackens IF,Umeå IK FF,0.0,0.0
+,10,Piteå IF,Linköpings FC,2.0,0.0
+,10,FC Rosengård,Kopparbergs/Göteborg FC,2.0,2.0
+27-07-2015,10,Eskilstuna United,Hammarby IF,3.0,1.0
+28-07-2015,10,KIF Örebro DFF,AIK Solna,1.0,0.0
+08-07-2015,9,AIK Solna,Piteå IF,0.0,2.0
+18-07-2015,9,Vittsjö GIK,Mallbackens IF,2.0,1.0
+19-07-2015,9,Umeå IK FF,KIF Örebro DFF,0.0,2.0
+,9,Kopparbergs/Göteborg FC,Eskilstuna United,1.0,3.0
+20-07-2015,9,Hammarby IF,Kristianstads DFF,2.0,2.0
+22-07-2015,9,Linköpings FC,FC Rosengård,2.0,1.0
+09-07-2015,8,KIF Örebro DFF,Kopparbergs/Göteborg FC,1.0,1.0
+11-07-2015,8,Hammarby IF,Vittsjö GIK,2.0,2.0
+,8,Eskilstuna United,AIK Solna,5.0,1.0
+15-07-2015,8,Mallbackens IF,FC Rosengård,1.0,1.0
+,8,Umeå IK FF,Linköpings FC,1.0,2.0
+16-07-2015,8,Kristianstads DFF,Piteå IF,2.0,3.0
+20-05-2015,7,Mallbackens IF,Kopparbergs/Göteborg FC,0.0,1.0
+21-05-2015,7,AIK Solna,Hammarby IF,1.0,1.0
+,7,Piteå IF,Umeå IK FF,1.0,1.0
+,7,Linköpings FC,Vittsjö GIK,2.0,0.0
+,7,KIF Örebro DFF,Eskilstuna United,1.0,2.0
+,7,FC Rosengård,Kristianstads DFF,7.0,0.0
+15-05-2015,6,Kopparbergs/Göteborg FC,Umeå IK FF,1.0,3.0
+16-05-2015,6,Vittsjö GIK,AIK Solna,3.0,2.0
+,6,Kristianstads DFF,Mallbackens IF,2.0,1.0
+17-05-2015,6,Piteå IF,Hammarby IF,2.0,1.0
+,6,FC Rosengård,Eskilstuna United,2.0,1.0
+18-05-2015,6,Linköpings FC,KIF Örebro DFF,2.0,1.0
+07-05-2015,5,Hammarby IF,KIF Örebro DFF,0.0,0.0
+08-05-2015,5,Umeå IK FF,FC Rosengård,0.0,2.0
+09-05-2015,5,Vittsjö GIK,Kopparbergs/Göteborg FC,1.0,2.0
+,5,AIK Solna,Kristianstads DFF,0.0,5.0
+10-05-2015,5,Mallbackens IF,Linköpings FC,0.0,1.0
+,5,Eskilstuna United,Piteå IF,0.0,3.0
+01-05-2015,4,KIF Örebro DFF,Mallbackens IF,2.0,1.0
+02-05-2015,4,Kristianstads DFF,Eskilstuna United,0.0,2.0
+03-05-2015,4,Umeå IK FF,Vittsjö GIK,0.0,2.0
+,4,FC Rosengård,Piteå IF,5.0,2.0
+,4,Kopparbergs/Göteborg FC,Hammarby IF,3.0,0.0
+04-05-2015,4,Linköpings FC,AIK Solna,4.0,0.0
+23-04-2015,3,Eskilstuna United,Umeå IK FF,2.0,0.0
+24-04-2015,3,Kristianstads DFF,Kopparbergs/Göteborg FC,3.0,1.0
+25-04-2015,3,Vittsjö GIK,FC Rosengård,0.0,4.0
+,3,AIK Solna,Mallbackens IF,0.0,1.0
+26-04-2015,3,Piteå IF,KIF Örebro DFF,1.0,1.0
+29-04-2015,3,Hammarby IF,Linköpings FC,0.0,0.0
+15-04-2015,2,FC Rosengård,Hammarby IF,5.0,0.0
+,2,Linköpings FC,Kristianstads DFF,1.0,0.0
+16-04-2015,2,Umeå IK FF,AIK Solna,2.0,0.0
+17-04-2015,2,Kopparbergs/Göteborg FC,Piteå IF,0.0,0.0
+18-04-2015,2,Vittsjö GIK,KIF Örebro DFF,0.0,0.0
+,2,Mallbackens IF,Eskilstuna United,0.0,2.0
+11-04-2015,1,Hammarby IF,Mallbackens IF,3.0,1.0
+12-04-2015,1,Kristianstads DFF,Umeå IK FF,1.0,0.0
+,1,Piteå IF,Vittsjö GIK,0.0,1.0
+,1,AIK Solna,Kopparbergs/Göteborg FC,0.0,2.0
+,1,KIF Örebro DFF,FC Rosengård,1.0,4.0
+,1,Eskilstuna United,Linköpings FC,1.0,0.0
+19-10-2014,22,Tyresö FF,Kristianstads DFF,,
+,22,Umeå IK FF,Jitex BK,6.0,0.0
+,22,Linköpings FC,Piteå IF,3.0,1.0
+,22,FC Rosengård,AIK Solna,4.0,0.0
+,22,Kopparbergs/Göteborg FC,Vittsjö GIK,3.0,1.0
+,22,KIF Örebro DFF,Eskilstuna United,2.0,0.0
+11-10-2014,21,AIK Solna,Linköpings FC,1.0,1.0
+,21,Jitex BK,KIF Örebro DFF,1.0,2.0
+12-10-2014,21,Kristianstads DFF,Kopparbergs/Göteborg FC,3.0,2.0
+,21,Vittsjö GIK,FC Rosengård,1.0,4.0
+,21,Piteå IF,Umeå IK FF,1.0,1.0
+,21,Eskilstuna United,Tyresö FF,,
+01-10-2014,20,FC Rosengård,Tyresö FF,,
+04-10-2014,20,KIF Örebro DFF,Kopparbergs/Göteborg FC,0.0,1.0
+05-10-2014,20,Piteå IF,AIK Solna,1.0,2.0
+,20,Jitex BK,Vittsjö GIK,0.0,2.0
+,20,Umeå IK FF,Kristianstads DFF,1.0,0.0
+,20,Linköpings FC,Eskilstuna United,0.0,0.0
+25-09-2014,19,Kopparbergs/Göteborg FC,FC Rosengård,2.0,3.0
+27-09-2014,19,AIK Solna,KIF Örebro DFF,0.0,3.0
+,19,Tyresö FF,Linköpings FC,,
+28-09-2014,19,Vittsjö GIK,Piteå IF,1.0,0.0
+,19,Kristianstads DFF,Jitex BK,3.0,0.0
+,19,Eskilstuna United,Umeå IK FF,2.0,3.0
+21-09-2014,18,Vittsjö GIK,Umeå IK FF,1.0,0.0
+,18,Piteå IF,KIF Örebro DFF,1.0,0.0
+,18,AIK Solna,Jitex BK,1.0,0.0
+,18,Eskilstuna United,FC Rosengård,0.0,4.0
+,18,Tyresö FF,Kopparbergs/Göteborg FC,,
+22-09-2014,18,Kristianstads DFF,Linköpings FC,1.0,0.0
+04-09-2014,17,Kopparbergs/Göteborg FC,Eskilstuna United,3.0,2.0
+07-09-2014,17,Jitex BK,Piteå IF,0.0,1.0
+,17,FC Rosengård,Kristianstads DFF,2.0,1.0
+08-09-2014,17,Linköpings FC,Vittsjö GIK,4.0,1.0
+,17,KIF Örebro DFF,Tyresö FF,,
+09-09-2014,17,Umeå IK FF,AIK Solna,3.0,2.0
+31-08-2014,16,Kopparbergs/Göteborg FC,Umeå IK FF,5.0,0.0
+,16,Vittsjö GIK,KIF Örebro DFF,2.0,1.0
+,16,Kristianstads DFF,AIK Solna,1.0,0.0
+,16,Eskilstuna United,Piteå IF,3.0,2.0
+,16,Tyresö FF,Jitex BK,,
+03-09-2014,16,FC Rosengård,Linköpings FC,2.0,3.0
+24-08-2014,15,Piteå IF,Kristianstads DFF,2.0,3.0
+,15,AIK Solna,Vittsjö GIK,0.0,2.0
+26-08-2014,15,Jitex BK,Eskilstuna United,1.0,2.0
+,15,Tyresö FF,Umeå IK FF,,
+,15,KIF Örebro DFF,FC Rosengård,0.0,1.0
+27-08-2014,15,Linköpings FC,Kopparbergs/Göteborg FC,2.0,1.0
+13-08-2014,14,Umeå IK FF,KIF Örebro DFF,2.0,3.0
+16-08-2014,14,Piteå IF,FC Rosengård,2.0,4.0
+,14,Vittsjö GIK,Tyresö FF,,
+,14,Kristianstads DFF,Eskilstuna United,1.0,1.0
+,14,AIK Solna,Kopparbergs/Göteborg FC,0.0,3.0
+,14,Jitex BK,Linköpings FC,0.0,8.0
+07-08-2014,13,Kopparbergs/Göteborg FC,Piteå IF,1.0,0.0
+09-08-2014,13,Eskilstuna United,Vittsjö GIK,1.0,0.0
+10-08-2014,13,Tyresö FF,AIK Solna,,
+,13,Linköpings FC,Umeå IK FF,2.0,0.0
+,13,FC Rosengård,Jitex BK,3.0,0.0
+04-09-2014,13,KIF Örebro DFF,Kristianstads DFF,1.0,0.0
+03-07-2014,12,Jitex BK,Kopparbergs/Göteborg FC,0.0,4.0
+05-07-2014,12,Vittsjö GIK,Kristianstads DFF,0.0,1.0
+,12,AIK Solna,Eskilstuna United,2.0,2.0
+09-07-2014,12,KIF Örebro DFF,Linköpings FC,2.0,0.0
+29-07-2014,12,Piteå IF,Tyresö FF,,
+30-07-2014,12,Umeå IK FF,FC Rosengård,1.0,2.0
+29-06-2014,11,Tyresö FF,Vittsjö GIK,,
+,11,Eskilstuna United,Kristianstads DFF,0.0,0.0
+,11,KIF Örebro DFF,Umeå IK FF,1.0,0.0
+,11,Kopparbergs/Göteborg FC,AIK Solna,6.0,0.0
+,11,Linköpings FC,Jitex BK,6.0,0.0
+02-07-2014,11,FC Rosengård,Piteå IF,6.0,1.0
+23-06-2014,10,Umeå IK FF,Linköpings FC,1.0,3.0
+24-06-2014,10,Kristianstads DFF,KIF Örebro DFF,0.0,2.0
+,10,Vittsjö GIK,Eskilstuna United,1.0,1.0
+,10,Jitex BK,FC Rosengård,0.0,1.0
+25-06-2014,10,AIK Solna,Tyresö FF,,
+26-06-2014,10,Piteå IF,Kopparbergs/Göteborg FC,0.0,1.0
+05-06-2014,9,Kopparbergs/Göteborg FC,Jitex BK,8.0,0.0
+07-06-2014,9,Kristianstads DFF,Vittsjö GIK,0.0,0.0
+08-06-2014,9,Eskilstuna United,AIK Solna,3.0,0.0
+,9,FC Rosengård,Umeå IK FF,4.0,2.0
+,9,Tyresö FF,Piteå IF,,
+09-06-2014,9,Linköpings FC,KIF Örebro DFF,0.0,4.0
+01-06-2014,8,Piteå IF,Vittsjö GIK,1.0,0.0
+,8,FC Rosengård,Kopparbergs/Göteborg FC,5.0,0.0
+,8,Jitex BK,Kristianstads DFF,0.0,1.0
+,8,Umeå IK FF,Eskilstuna United,6.0,1.0
+,8,KIF Örebro DFF,AIK Solna,1.0,0.0
+04-06-2014,8,Linköpings FC,Tyresö FF,,
+24-05-2014,7,Vittsjö GIK,Jitex BK,2.0,1.0
+,7,Kopparbergs/Göteborg FC,KIF Örebro DFF,0.0,2.0
+25-05-2014,7,Kristianstads DFF,Umeå IK FF,1.0,0.0
+,7,AIK Solna,Piteå IF,2.0,1.0
+,7,Tyresö FF,FC Rosengård,,
+,7,Eskilstuna United,Linköpings FC,1.0,1.0
+14-05-2014,6,Kopparbergs/Göteborg FC,Tyresö FF,,
+18-05-2014,6,Umeå IK FF,Vittsjö GIK,6.0,1.0
+,6,Jitex BK,AIK Solna,2.0,3.0
+,6,KIF Örebro DFF,Piteå IF,3.0,2.0
+,6,FC Rosengård,Eskilstuna United,3.0,0.0
+21-05-2014,6,Linköpings FC,Kristianstads DFF,1.0,1.0
+11-05-2014,5,AIK Solna,Umeå IK FF,0.0,2.0
+,5,Vittsjö GIK,Linköpings FC,1.0,2.0
+,5,Piteå IF,Jitex BK,3.0,1.0
+,5,Kristianstads DFF,FC Rosengård,1.0,2.0
+,5,Tyresö FF,KIF Örebro DFF,,
+,5,Eskilstuna United,Kopparbergs/Göteborg FC,1.0,1.0
+30-04-2014,4,Jitex BK,Tyresö FF,,
+01-05-2014,4,AIK Solna,Kristianstads DFF,0.0,2.0
+,4,Piteå IF,Eskilstuna United,1.0,1.0
+,4,Umeå IK FF,Kopparbergs/Göteborg FC,0.0,0.0
+,4,Linköpings FC,FC Rosengård,2.0,0.0
+,4,KIF Örebro DFF,Vittsjö GIK,3.0,1.0
+23-04-2014,3,FC Rosengård,KIF Örebro DFF,1.0,0.0
+26-04-2014,3,Vittsjö GIK,AIK Solna,3.0,0.0
+27-04-2014,3,Kristianstads DFF,Piteå IF,0.0,1.0
+,3,Kopparbergs/Göteborg FC,Linköpings FC,1.0,1.0
+,3,Eskilstuna United,Jitex BK,2.0,0.0
+24-07-2014,3,Umeå IK FF,Tyresö FF,,
+16-04-2014,2,FC Rosengård,Vittsjö GIK,7.0,1.0
+18-04-2014,2,KIF Örebro DFF,Jitex BK,2.0,0.0
+22-04-2014,2,Umeå IK FF,Piteå IF,0.0,0.0
+,2,Linköpings FC,AIK Solna,4.0,0.0
+,2,Kopparbergs/Göteborg FC,Kristianstads DFF,3.0,1.0
+23-04-2014,2,Tyresö FF,Eskilstuna United,,
+13-04-2014,1,AIK Solna,FC Rosengård,0.0,4.0
+,1,Vittsjö GIK,Kopparbergs/Göteborg FC,0.0,5.0
+,1,Piteå IF,Linköpings FC,1.0,0.0
+,1,Jitex BK,Umeå IK FF,0.0,1.0
+,1,Kristianstads DFF,Tyresö FF,,
+14-04-2014,1,Eskilstuna United,KIF Örebro DFF,2.0,0.0
+20-10-2013,22,Vittsjö GIK,KIF Örebro DFF,3.0,0.0
+,22,Linköpings FC,Tyresö FF,4.0,1.0
+,22,Mallbackens IF,LdB FC Malmö,1.0,1.0
+,22,Umeå IK FF,Kristianstads DFF,3.0,1.0
+,22,Kopparbergs/Göteborg FC,Sunnanå SK,3.0,0.0
+,22,Jitex BK,Piteå IF,1.0,1.0
+12-10-2013,21,KIF Örebro DFF,Linköpings FC,1.0,5.0
+,21,Tyresö FF,Kopparbergs/Göteborg FC,4.0,1.0
+13-10-2013,21,Sunnanå SK,Jitex BK,0.0,0.0
+,21,Kristianstads DFF,Vittsjö GIK,1.0,1.0
+,21,Piteå IF,Mallbackens IF,1.0,0.0
+,21,LdB FC Malmö,Umeå IK FF,2.0,0.0
+05-10-2013,20,Piteå IF,Tyresö FF,1.0,1.0
+06-10-2013,20,Mallbackens IF,Sunnanå SK,1.0,1.0
+,20,Vittsjö GIK,Linköpings FC,1.0,2.0
+,20,Umeå IK FF,Kopparbergs/Göteborg FC,3.0,0.0
+,20,Jitex BK,Kristianstads DFF,1.0,0.0
+,20,LdB FC Malmö,KIF Örebro DFF,4.0,2.0
+28-09-2013,19,Sunnanå SK,Umeå IK FF,0.0,1.0
+,19,Kopparbergs/Göteborg FC,Vittsjö GIK,0.0,1.0
+29-09-2013,19,KIF Örebro DFF,Piteå IF,1.0,1.0
+,19,Kristianstads DFF,LdB FC Malmö,0.0,1.0
+,19,Tyresö FF,Mallbackens IF,5.0,0.0
+,19,Linköpings FC,Jitex BK,4.0,0.0
+15-09-2013,18,Vittsjö GIK,Sunnanå SK,5.0,0.0
+,18,Piteå IF,Kristianstads DFF,3.0,2.0
+,18,Mallbackens IF,KIF Örebro DFF,1.0,1.0
+,18,Jitex BK,LdB FC Malmö,0.0,2.0
+16-09-2013,18,Linköpings FC,Kopparbergs/Göteborg FC,3.0,0.0
+,18,Umeå IK FF,Tyresö FF,2.0,2.0
+07-09-2013,17,Kristianstads DFF,Mallbackens IF,3.0,0.0
+,17,Kopparbergs/Göteborg FC,Jitex BK,0.0,0.0
+08-09-2013,17,KIF Örebro DFF,Umeå IK FF,4.0,0.0
+,17,Sunnanå SK,Linköpings FC,1.0,4.0
+09-09-2013,17,LdB FC Malmö,Piteå IF,1.0,0.0
+10-09-2013,17,Tyresö FF,Vittsjö GIK,2.0,1.0
+31-08-2013,16,Kopparbergs/Göteborg FC,KIF Örebro DFF,4.0,1.0
+01-09-2013,16,Vittsjö GIK,LdB FC Malmö,0.0,2.0
+03-09-2013,16,Linköpings FC,Kristianstads DFF,3.0,1.0
+,16,Sunnanå SK,Tyresö FF,0.0,8.0
+04-09-2013,16,Jitex BK,Mallbackens IF,1.0,1.0
+,16,Umeå IK FF,Piteå IF,0.0,1.0
+31-07-2013,15,Mallbackens IF,Umeå IK FF,0.0,2.0
+24-08-2013,15,Tyresö FF,Jitex BK,5.0,0.0
+,15,KIF Örebro DFF,Sunnanå SK,6.0,1.0
+25-08-2013,15,Piteå IF,Vittsjö GIK,3.0,0.0
+27-08-2013,15,LdB FC Malmö,Linköpings FC,4.0,0.0
+11-09-2013,15,Kristianstads DFF,Kopparbergs/Göteborg FC,2.0,0.0
+14-08-2013,14,Umeå IK FF,Jitex BK,1.0,3.0
+18-08-2013,14,Linköpings FC,Piteå IF,3.0,1.0
+,14,Vittsjö GIK,Mallbackens IF,1.0,1.0
+,14,Kopparbergs/Göteborg FC,LdB FC Malmö,0.0,5.0
+21-08-2013,14,KIF Örebro DFF,Tyresö FF,1.0,1.0
+02-10-2013,14,Sunnanå SK,Kristianstads DFF,1.0,4.0
+10-08-2013,13,Tyresö FF,LdB FC Malmö,2.0,3.0
+11-08-2013,13,Umeå IK FF,Linköpings FC,2.0,0.0
+,13,Jitex BK,Vittsjö GIK,0.0,0.0
+,13,Mallbackens IF,Kopparbergs/Göteborg FC,0.0,1.0
+,13,Kristianstads DFF,KIF Örebro DFF,2.0,2.0
+12-08-2013,13,Piteå IF,Sunnanå SK,2.0,0.0
+04-08-2013,12,Jitex BK,KIF Örebro DFF,2.0,4.0
+,12,Umeå IK FF,Vittsjö GIK,2.0,2.0
+,12,Mallbackens IF,Linköpings FC,3.0,1.0
+,12,Kristianstads DFF,Tyresö FF,2.0,3.0
+,12,Kopparbergs/Göteborg FC,Piteå IF,1.0,0.0
+06-08-2013,12,LdB FC Malmö,Sunnanå SK,4.0,0.0
+12-06-2013,11,KIF Örebro DFF,Kristianstads DFF,3.0,1.0
+,11,Vittsjö GIK,Jitex BK,2.0,1.0
+,11,Umeå IK FF,Linköpings FC,0.0,1.0
+,11,Kopparbergs/Göteborg FC,Mallbackens IF,5.0,1.0
+,11,LdB FC Malmö,Tyresö FF,2.0,2.0
+24-06-2013,11,Sunnanå SK,Piteå IF,2.0,5.0
+09-06-2013,10,Sunnanå SK,LdB FC Malmö,0.0,3.0
+,10,Vittsjö GIK,Umeå IK FF,3.0,0.0
+,10,Piteå IF,Kopparbergs/Göteborg FC,0.0,2.0
+,10,KIF Örebro DFF,Jitex BK,0.0,1.0
+,10,Linköpings FC,Mallbackens IF,1.0,0.0
+,10,Tyresö FF,Kristianstads DFF,5.0,1.0
+29-05-2013,9,Tyresö FF,KIF Örebro DFF,3.0,0.0
+04-06-2013,9,LdB FC Malmö,Kopparbergs/Göteborg FC,3.0,1.0
+05-06-2013,9,Piteå IF,Linköpings FC,1.0,2.0
+06-06-2013,9,Mallbackens IF,Vittsjö GIK,1.0,3.0
+,9,Kristianstads DFF,Sunnanå SK,5.0,1.0
+,9,Jitex BK,Umeå IK FF,2.0,1.0
+25-05-2013,8,Sunnanå SK,KIF Örebro DFF,0.0,0.0
+,8,Jitex BK,Tyresö FF,0.0,7.0
+,8,Kopparbergs/Göteborg FC,Kristianstads DFF,4.0,3.0
+26-05-2013,8,Vittsjö GIK,Piteå IF,2.0,2.0
+,8,Umeå IK FF,Mallbackens IF,2.0,0.0
+28-05-2013,8,Linköpings FC,LdB FC Malmö,3.0,1.0
+18-05-2013,7,KIF Örebro DFF,Kopparbergs/Göteborg FC,0.0,2.0
+,7,Kristianstads DFF,Linköpings FC,1.0,2.0
+,7,Mallbackens IF,Jitex BK,1.0,0.0
+19-05-2013,7,LdB FC Malmö,Vittsjö GIK,4.0,0.0
+,7,Tyresö FF,Sunnanå SK,10.0,2.0
+21-05-2013,7,Piteå IF,Umeå IK FF,2.0,3.0
+12-05-2013,6,Piteå IF,KIF Örebro DFF,0.0,1.0
+,6,Vittsjö GIK,Kopparbergs/Göteborg FC,0.0,0.0
+,6,Mallbackens IF,Tyresö FF,1.0,1.0
+,6,LdB FC Malmö,Kristianstads DFF,5.0,0.0
+,6,Jitex BK,Linköpings FC,1.0,1.0
+14-05-2013,6,Umeå IK FF,Sunnanå SK,4.0,0.0
+08-05-2013,5,Tyresö FF,Piteå IF,2.0,1.0
+,5,Kopparbergs/Göteborg FC,Umeå IK FF,1.0,1.0
+,5,Linköpings FC,Vittsjö GIK,3.0,0.0
+09-05-2013,5,KIF Örebro DFF,LdB FC Malmö,0.0,0.0
+,5,Kristianstads DFF,Jitex BK,1.0,0.0
+,5,Sunnanå SK,Mallbackens IF,1.0,1.0
+04-05-2013,4,Vittsjö GIK,Kristianstads DFF,1.0,4.0
+,4,Jitex BK,Sunnanå SK,5.0,2.0
+,4,Kopparbergs/Göteborg FC,Tyresö FF,2.0,2.0
+05-05-2013,4,Mallbackens IF,Piteå IF,3.0,0.0
+,4,Umeå IK FF,LdB FC Malmö,1.0,2.0
+,4,Linköpings FC,KIF Örebro DFF,2.0,2.0
+27-04-2013,3,KIF Örebro DFF,Vittsjö GIK,3.0,1.0
+,3,LdB FC Malmö,Mallbackens IF,3.0,0.0
+,3,Tyresö FF,Linköpings FC,2.0,0.0
+28-04-2013,3,Kristianstads DFF,Umeå IK FF,1.0,2.0
+,3,Sunnanå SK,Kopparbergs/Göteborg FC,1.0,5.0
+,3,Piteå IF,Jitex BK,3.0,2.0
+20-04-2013,2,Umeå IK FF,KIF Örebro DFF,1.0,1.0
+,2,Mallbackens IF,Kristianstads DFF,1.0,2.0
+21-04-2013,2,Linköpings FC,Sunnanå SK,1.0,1.0
+,2,Vittsjö GIK,Tyresö FF,0.0,2.0
+23-04-2013,2,Piteå IF,LdB FC Malmö,2.0,2.0
+24-04-2013,2,Jitex BK,Kopparbergs/Göteborg FC,0.0,0.0
+13-04-2013,1,KIF Örebro DFF,Mallbackens IF,4.0,0.0
+14-04-2013,1,Sunnanå SK,Vittsjö GIK,1.0,5.0
+,1,Kristianstads DFF,Piteå IF,1.0,1.0
+16-04-2013,1,LdB FC Malmö,Jitex BK,1.0,0.0
+,1,Tyresö FF,Umeå IK FF,1.0,0.0
+17-04-2013,1,Kopparbergs/Göteborg FC,Linköpings FC,1.0,1.0
+03-11-2012,22,Jitex BK,Kristianstads DFF,3.0,1.0
+,22,LdB FC Malmö,Tyresö FF,0.0,1.0
+,22,Linköpings FC,Umeå IK FF,4.0,1.0
+,22,KIF Örebro DFF,AIK Solna,3.0,0.0
+,22,Vittsjö GIK,Kopparbergs/Göteborg FC,0.0,1.0
+,22,Djurgårdens IF,Piteå IF,4.0,3.0
+27-10-2012,21,Tyresö FF,Jitex BK,3.0,0.0
+,21,AIK Solna,Linköpings FC,1.0,3.0
+28-10-2012,21,Kristianstads DFF,Djurgårdens IF,4.0,3.0
+,21,Piteå IF,Vittsjö GIK,2.0,0.0
+,21,Kopparbergs/Göteborg FC,KIF Örebro DFF,2.0,1.0
+,21,Umeå IK FF,LdB FC Malmö,1.0,1.0
+14-10-2012,20,Kristianstads DFF,Tyresö FF,0.0,2.0
+,20,Jitex BK,Umeå IK FF,1.0,1.0
+,20,Djurgårdens IF,Vittsjö GIK,1.0,1.0
+,20,KIF Örebro DFF,Piteå IF,1.0,2.0
+,20,Linköpings FC,Kopparbergs/Göteborg FC,3.0,2.0
+15-10-2012,20,LdB FC Malmö,AIK Solna,5.0,0.0
+04-10-2012,19,Umeå IK FF,Kristianstads DFF,0.0,2.0
+06-10-2012,19,Djurgårdens IF,Tyresö FF,2.0,0.0
+,19,AIK Solna,Jitex BK,3.0,1.0
+07-10-2012,19,Vittsjö GIK,KIF Örebro DFF,0.0,1.0
+,19,Kopparbergs/Göteborg FC,LdB FC Malmö,0.0,1.0
+,19,Piteå IF,Linköpings FC,0.0,1.0
+29-09-2012,18,Tyresö FF,Umeå IK FF,6.0,0.0
+,18,Kristianstads DFF,AIK Solna,3.0,0.0
+,18,Djurgårdens IF,KIF Örebro DFF,3.0,1.0
+30-09-2012,18,LdB FC Malmö,Piteå IF,3.0,1.0
+,18,Jitex BK,Kopparbergs/Göteborg FC,1.0,3.0
+02-10-2012,18,Linköpings FC,Vittsjö GIK,4.0,3.0
+22-09-2012,17,Kopparbergs/Göteborg FC,Kristianstads DFF,3.0,0.0
+,17,KIF Örebro DFF,Linköpings FC,2.0,3.0
+23-09-2012,17,Piteå IF,Jitex BK,0.0,1.0
+,17,Vittsjö GIK,LdB FC Malmö,2.0,3.0
+,17,Umeå IK FF,Djurgårdens IF,2.0,0.0
+25-09-2012,17,AIK Solna,Tyresö FF,0.0,4.0
+08-09-2012,16,Vittsjö GIK,Umeå IK FF,2.0,3.0
+,16,LdB FC Malmö,Jitex BK,2.0,0.0
+09-09-2012,16,Piteå IF,AIK Solna,3.0,0.0
+,16,Djurgårdens IF,Kopparbergs/Göteborg FC,0.0,2.0
+10-09-2012,16,Linköpings FC,Kristianstads DFF,1.0,1.0
+11-09-2012,16,KIF Örebro DFF,Tyresö FF,0.0,5.0
+01-09-2012,15,AIK Solna,Vittsjö GIK,1.0,1.0
+,15,Jitex BK,Djurgårdens IF,3.0,0.0
+,15,Umeå IK FF,KIF Örebro DFF,0.0,1.0
+02-09-2012,15,Kristianstads DFF,LdB FC Malmö,0.0,3.0
+,15,Kopparbergs/Göteborg FC,Piteå IF,2.0,1.0
+,15,Tyresö FF,Linköpings FC,3.0,0.0
+23-08-2012,14,Vittsjö GIK,Kristianstads DFF,2.0,1.0
+25-08-2012,14,Kopparbergs/Göteborg FC,Umeå IK FF,5.0,0.0
+,14,AIK Solna,Djurgårdens IF,0.0,1.0
+,14,KIF Örebro DFF,Jitex BK,1.0,0.0
+26-08-2012,14,Piteå IF,Tyresö FF,1.0,5.0
+,14,Linköpings FC,LdB FC Malmö,3.0,5.0
+19-08-2012,13,Jitex BK,Linköpings FC,0.0,0.0
+,13,AIK Solna,Kopparbergs/Göteborg FC,1.0,0.0
+,13,LdB FC Malmö,Djurgårdens IF,4.0,0.0
+,13,Kristianstads DFF,KIF Örebro DFF,4.0,0.0
+20-08-2012,13,Tyresö FF,Vittsjö GIK,5.0,1.0
+21-08-2012,13,Umeå IK FF,Piteå IF,2.0,0.0
+03-07-2012,12,Tyresö FF,Kopparbergs/Göteborg FC,3.0,1.0
+04-07-2012,12,Kristianstads DFF,Piteå IF,3.0,2.0
+,12,Jitex BK,Vittsjö GIK,0.0,1.0
+,12,LdB FC Malmö,KIF Örebro DFF,2.0,1.0
+,12,Djurgårdens IF,Linköpings FC,1.0,4.0
+16-08-2012,12,Umeå IK FF,AIK Solna,3.0,1.0
+27-06-2012,11,Kopparbergs/Göteborg FC,AIK Solna,1.0,1.0
+28-06-2012,11,Piteå IF,Umeå IK FF,3.0,1.0
+30-06-2012,11,Vittsjö GIK,Tyresö FF,1.0,1.0
+,11,KIF Örebro DFF,Kristianstads DFF,1.0,4.0
+01-07-2012,11,Linköpings FC,Jitex BK,4.0,0.0
+15-08-2012,11,Djurgårdens IF,LdB FC Malmö,1.0,2.0
+24-06-2012,10,Umeå IK FF,Kopparbergs/Göteborg FC,0.0,3.0
+,10,Jitex BK,KIF Örebro DFF,0.0,1.0
+,10,AIK Solna,Djurgårdens IF,1.0,2.0
+,10,Tyresö FF,Piteå IF,5.0,1.0
+,10,Kristianstads DFF,Vittsjö GIK,3.0,1.0
+26-06-2012,10,LdB FC Malmö,Linköpings FC,2.0,1.0
+09-06-2012,9,Jitex BK,Vittsjö GIK,1.0,2.0
+10-06-2012,9,Piteå IF,Kristianstads DFF,2.0,0.0
+,9,Kopparbergs/Göteborg FC,Tyresö FF,0.0,1.0
+,9,AIK Solna,Umeå IK FF,2.0,2.0
+,9,KIF Örebro DFF,LdB FC Malmö,3.0,4.0
+,9,Linköpings FC,Djurgårdens IF,11.0,0.0
+02-06-2012,8,KIF Örebro DFF,Vittsjö GIK,3.0,4.0
+,8,Tyresö FF,Djurgårdens IF,2.0,0.0
+03-06-2012,8,Kristianstads DFF,Umeå IK FF,0.0,1.0
+,8,Linköpings FC,Piteå IF,4.0,1.0
+,8,LdB FC Malmö,Kopparbergs/Göteborg FC,2.0,1.0
+04-06-2012,8,Jitex BK,AIK Solna,2.0,0.0
+19-05-2012,7,Umeå IK FF,Jitex BK,1.0,1.0
+20-05-2012,7,Vittsjö GIK,Djurgårdens IF,4.0,1.0
+,7,Piteå IF,KIF Örebro DFF,3.0,0.0
+,7,AIK Solna,LdB FC Malmö,2.0,0.0
+,7,Tyresö FF,Kristianstads DFF,1.0,2.0
+22-05-2012,7,Kopparbergs/Göteborg FC,Linköpings FC,6.0,0.0
+10-05-2012,6,Linköpings FC,KIF Örebro DFF,1.0,1.0
+12-05-2012,6,Tyresö FF,AIK Solna,1.0,0.0
+,6,Kristianstads DFF,Kopparbergs/Göteborg FC,4.0,1.0
+,6,LdB FC Malmö,Vittsjö GIK,4.0,1.0
+13-05-2012,6,Djurgårdens IF,Umeå IK FF,1.0,0.0
+,6,Jitex BK,Piteå IF,2.0,2.0
+05-05-2012,5,KIF Örebro DFF,Djurgårdens IF,3.0,0.0
+,5,AIK Solna,Kristianstads DFF,2.0,3.0
+,5,Vittsjö GIK,Linköpings FC,3.0,0.0
+06-05-2012,5,Piteå IF,LdB FC Malmö,0.0,2.0
+07-05-2012,5,Umeå IK FF,Tyresö FF,1.0,5.0
+08-05-2012,5,Kopparbergs/Göteborg FC,Jitex BK,3.0,3.0
+28-04-2012,4,Djurgårdens IF,Kristianstads DFF,0.0,1.0
+,4,KIF Örebro DFF,Kopparbergs/Göteborg FC,0.0,6.0
+29-04-2012,4,Vittsjö GIK,Piteå IF,2.0,1.0
+,4,Jitex BK,Tyresö FF,1.0,3.0
+,4,Linköpings FC,AIK Solna,0.0,0.0
+01-05-2012,4,LdB FC Malmö,Umeå IK FF,7.0,1.0
+21-04-2012,3,AIK Solna,KIF Örebro DFF,0.0,2.0
+22-04-2012,3,Piteå IF,Djurgårdens IF,3.0,1.0
+,3,Kristianstads DFF,Jitex BK,1.0,3.0
+23-04-2012,3,Umeå IK FF,Linköpings FC,1.0,1.0
+24-04-2012,3,Tyresö FF,LdB FC Malmö,2.0,0.0
+25-04-2012,3,Kopparbergs/Göteborg FC,Vittsjö GIK,1.0,2.0
+14-04-2012,2,KIF Örebro DFF,Umeå IK FF,0.0,2.0
+15-04-2012,2,Djurgårdens IF,Jitex BK,0.0,2.0
+,2,Vittsjö GIK,AIK Solna,3.0,1.0
+,2,LdB FC Malmö,Kristianstads DFF,5.0,2.0
+17-04-2012,2,Linköpings FC,Tyresö FF,1.0,0.0
+18-04-2012,2,Piteå IF,Kopparbergs/Göteborg FC,1.0,3.0
+09-04-2012,1,AIK Solna,Piteå IF,0.0,3.0
+,1,Umeå IK FF,Vittsjö GIK,4.0,1.0
+,1,Tyresö FF,KIF Örebro DFF,7.0,0.0
+,1,Kristianstads DFF,Linköpings FC,1.0,1.0
+,1,Jitex BK,LdB FC Malmö,1.0,4.0
+10-04-2012,1,Kopparbergs/Göteborg FC,Djurgårdens IF,2.0,0.0
+15-10-2011,22,Umeå IK FF,Hammarby IF,4.0,0.0
+,22,Jitex BK,Djurgårdens IF,2.0,0.0
+,22,Piteå IF,Linköpings FC,0.0,3.0
+,22,Kristianstads DFF,Dalsjöfors GoIF,5.0,1.0
+,22,Tyresö FF,Kopparbergs/Göteborg FC,1.0,4.0
+,22,LdB FC Malmö,KIF Örebro DFF,6.0,0.0
+08-10-2011,21,Dalsjöfors GoIF,Piteå IF,2.0,1.0
+09-10-2011,21,Linköpings FC,Jitex BK,3.0,1.0
+,21,Djurgårdens IF,Umeå IK FF,0.0,5.0
+,21,KIF Örebro DFF,Tyresö FF,1.0,0.0
+10-10-2011,21,Kopparbergs/Göteborg FC,Kristianstads DFF,3.0,2.0
+11-10-2011,21,Hammarby IF,LdB FC Malmö,0.0,1.0
+01-10-2011,20,Piteå IF,Tyresö FF,0.0,2.0
+,20,Hammarby IF,Dalsjöfors GoIF,0.0,0.0
+02-10-2011,20,Umeå IK FF,Kopparbergs/Göteborg FC,1.0,2.0
+,20,Jitex BK,KIF Örebro DFF,0.0,4.0
+,20,Djurgårdens IF,Linköpings FC,1.0,2.0
+,20,LdB FC Malmö,Kristianstads DFF,2.0,1.0
+24-09-2011,19,Tyresö FF,Jitex BK,4.0,0.0
+,19,Kopparbergs/Göteborg FC,Hammarby IF,6.0,0.0
+,19,Dalsjöfors GoIF,Djurgårdens IF,0.0,0.0
+,19,KIF Örebro DFF,Umeå IK FF,1.0,2.0
+25-09-2011,19,Kristianstads DFF,Piteå IF,0.0,2.0
+,19,Linköpings FC,LdB FC Malmö,2.0,0.0
+10-09-2011,18,LdB FC Malmö,Tyresö FF,3.0,5.0
+11-09-2011,18,Umeå IK FF,Linköpings FC,1.0,1.0
+,18,Jitex BK,Dalsjöfors GoIF,3.0,2.0
+,18,Piteå IF,Kopparbergs/Göteborg FC,0.0,3.0
+,18,Kristianstads DFF,KIF Örebro DFF,4.0,2.0
+12-09-2011,18,Hammarby IF,Djurgårdens IF,1.0,2.0
+07-09-2011,17,KIF Örebro DFF,Piteå IF,0.0,0.0
+,17,Kopparbergs/Göteborg FC,Jitex BK,3.0,1.0
+,17,Dalsjöfors GoIF,Umeå IK FF,1.0,2.0
+,17,Linköpings FC,Hammarby IF,5.0,0.0
+,17,Djurgårdens IF,LdB FC Malmö,1.0,2.0
+,17,Tyresö FF,Kristianstads DFF,1.0,1.0
+03-09-2011,16,Hammarby IF,KIF Örebro DFF,0.0,3.0
+04-09-2011,16,Djurgårdens IF,Kopparbergs/Göteborg FC,1.0,0.0
+,16,Jitex BK,Kristianstads DFF,1.0,2.0
+,16,LdB FC Malmö,Piteå IF,2.0,0.0
+,16,Linköpings FC,Dalsjöfors GoIF,0.0,0.0
+,16,Umeå IK FF,Tyresö FF,0.0,2.0
+27-08-2011,15,Dalsjöfors GoIF,LdB FC Malmö,0.0,2.0
+28-08-2011,15,Piteå IF,Jitex BK,1.0,1.0
+,15,Kristianstads DFF,Umeå IK FF,2.0,1.0
+,15,KIF Örebro DFF,Djurgårdens IF,4.0,0.0
+,15,Tyresö FF,Hammarby IF,8.0,1.0
+30-08-2011,15,Kopparbergs/Göteborg FC,Linköpings FC,2.0,0.0
+17-08-2011,14,Linköpings FC,KIF Örebro DFF,0.0,2.0
+,14,Hammarby IF,Kristianstads DFF,1.0,0.0
+,14,Umeå IK FF,Piteå IF,2.0,2.0
+,14,LdB FC Malmö,Jitex BK,5.0,0.0
+18-08-2011,14,Djurgårdens IF,Tyresö FF,0.0,3.0
+20-08-2011,14,Dalsjöfors GoIF,Kopparbergs/Göteborg FC,0.0,1.0
+13-08-2011,13,Tyresö FF,Linköpings FC,1.0,1.0
+,13,KIF Örebro DFF,Dalsjöfors GoIF,1.0,1.0
+14-08-2011,13,Jitex BK,Umeå IK FF,1.0,3.0
+,13,Piteå IF,Hammarby IF,2.0,1.0
+,13,Kristianstads DFF,Djurgårdens IF,3.0,1.0
+,13,Kopparbergs/Göteborg FC,LdB FC Malmö,1.0,0.0
+06-08-2011,12,Kopparbergs/Göteborg FC,KIF Örebro DFF,3.0,1.0
+,12,Dalsjöfors GoIF,Tyresö FF,0.0,4.0
+,12,Hammarby IF,Jitex BK,1.0,3.0
+07-08-2011,12,Djurgårdens IF,Piteå IF,3.0,2.0
+08-08-2011,12,Linköpings FC,Kristianstads DFF,3.0,1.0
+09-08-2011,12,LdB FC Malmö,Umeå IK FF,1.0,1.0
+30-07-2011,11,Tyresö FF,Dalsjöfors GoIF,3.0,0.0
+31-07-2011,11,Jitex BK,Hammarby IF,0.0,0.0
+,11,Piteå IF,Djurgårdens IF,0.0,2.0
+,11,Kristianstads DFF,Linköpings FC,0.0,0.0
+,11,KIF Örebro DFF,Kopparbergs/Göteborg FC,3.0,1.0
+,11,Umeå IK FF,LdB FC Malmö,1.0,1.0
+23-07-2011,10,Dalsjöfors GoIF,KIF Örebro DFF,1.0,3.0
+,10,Hammarby IF,Piteå IF,0.0,2.0
+24-07-2011,10,Djurgårdens IF,Kristianstads DFF,2.0,0.0
+,10,Umeå IK FF,Jitex BK,2.0,0.0
+25-07-2011,10,LdB FC Malmö,Kopparbergs/Göteborg FC,1.0,1.0
+03-08-2011,10,Linköpings FC,Tyresö FF,1.0,4.0
+04-06-2011,9,Kopparbergs/Göteborg FC,Dalsjöfors GoIF,5.0,0.0
+,9,Kristianstads DFF,Hammarby IF,3.0,0.0
+05-06-2011,9,Jitex BK,LdB FC Malmö,1.0,3.0
+,9,Piteå IF,Umeå IK FF,1.0,3.0
+,9,KIF Örebro DFF,Linköpings FC,2.0,1.0
+,9,Tyresö FF,Djurgårdens IF,3.0,0.0
+27-05-2011,8,Djurgårdens IF,KIF Örebro DFF,1.0,3.0
+28-05-2011,8,Hammarby IF,Tyresö FF,0.0,0.0
+29-05-2011,8,Linköpings FC,Kopparbergs/Göteborg FC,0.0,0.0
+,8,Jitex BK,Piteå IF,3.0,0.0
+,8,Umeå IK FF,Kristianstads DFF,3.0,1.0
+,8,LdB FC Malmö,Dalsjöfors GoIF,5.0,0.0
+21-05-2011,7,Dalsjöfors GoIF,Linköpings FC,0.0,1.0
+,7,KIF Örebro DFF,Hammarby IF,2.0,1.0
+22-05-2011,7,Piteå IF,LdB FC Malmö,1.0,4.0
+,7,Kristianstads DFF,Jitex BK,1.0,1.0
+,7,Kopparbergs/Göteborg FC,Djurgårdens IF,3.0,0.0
+24-05-2011,7,Tyresö FF,Umeå IK FF,1.0,3.0
+10-05-2011,6,Hammarby IF,Linköpings FC,0.0,0.0
+11-05-2011,6,Umeå IK FF,Dalsjöfors GoIF,4.0,0.0
+,6,Jitex BK,Kopparbergs/Göteborg FC,0.0,1.0
+,6,Piteå IF,KIF Örebro DFF,1.0,1.0
+12-05-2011,6,Kristianstads DFF,Tyresö FF,1.0,0.0
+,6,LdB FC Malmö,Djurgårdens IF,4.0,0.0
+05-05-2011,5,Dalsjöfors GoIF,Jitex BK,0.0,9.0
+06-05-2011,5,Linköpings FC,Umeå IK FF,2.0,2.0
+07-05-2011,5,Djurgårdens IF,Hammarby IF,1.0,0.0
+,5,KIF Örebro DFF,Kristianstads DFF,1.0,1.0
+,5,Kopparbergs/Göteborg FC,Piteå IF,6.0,0.0
+08-05-2011,5,Tyresö FF,LdB FC Malmö,1.0,2.0
+29-04-2011,4,Djurgårdens IF,Dalsjöfors GoIF,4.0,1.0
+30-04-2011,4,Hammarby IF,Kopparbergs/Göteborg FC,0.0,5.0
+01-05-2011,4,Piteå IF,Kristianstads DFF,1.0,3.0
+,4,Umeå IK FF,KIF Örebro DFF,0.0,1.0
+,4,Jitex BK,Tyresö FF,1.0,2.0
+03-05-2011,4,LdB FC Malmö,Linköpings FC,3.0,1.0
+22-04-2011,3,Dalsjöfors GoIF,Hammarby IF,0.0,0.0
+23-04-2011,3,Tyresö FF,Piteå IF,2.0,0.0
+,3,KIF Örebro DFF,Jitex BK,2.0,2.0
+25-04-2011,3,Kristianstads DFF,LdB FC Malmö,0.0,1.0
+26-04-2011,3,Kopparbergs/Göteborg FC,Umeå IK FF,0.0,1.0
+,3,Linköpings FC,Djurgårdens IF,1.0,0.0
+16-04-2011,2,Tyresö FF,KIF Örebro DFF,2.0,1.0
+17-04-2011,2,Jitex BK,Linköpings FC,1.0,2.0
+,2,Piteå IF,Dalsjöfors GoIF,5.0,0.0
+,2,Umeå IK FF,Djurgårdens IF,2.0,1.0
+,2,Kristianstads DFF,Kopparbergs/Göteborg FC,1.0,0.0
+19-04-2011,2,LdB FC Malmö,Hammarby IF,3.0,1.0
+09-04-2011,1,Kopparbergs/Göteborg FC,Tyresö FF,0.0,0.0
+,1,Dalsjöfors GoIF,Kristianstads DFF,0.0,5.0
+10-04-2011,1,Djurgårdens IF,Jitex BK,2.0,1.0
+,1,Hammarby IF,Umeå IK FF,0.0,2.0
+,1,KIF Örebro DFF,LdB FC Malmö,1.0,1.0
+13-04-2011,1,Linköpings FC,Piteå IF,1.0,1.0
+16-10-2010,22,KIF Örebro DFF,Kopparbergs/Göteborg FC,2.0,2.0
+,22,Linköpings FC,Sunnanå SK,3.0,0.0
+,22,Hammarby IF,Kristianstads DFF,2.0,0.0
+,22,LdB FC Malmö,Umeå IK FF,5.0,0.0
+,22,Jitex BK,Tyresö FF,0.0,2.0
+,22,Djurgårdens IF,AIK Solna,2.0,0.0
+09-10-2010,21,AIK Solna,Jitex BK,2.0,1.0
+,21,Umeå IK FF,Hammarby IF,3.0,0.0
+,21,Sunnanå SK,KIF Örebro DFF,0.0,1.0
+,21,Kopparbergs/Göteborg FC,Djurgårdens IF,0.0,0.0
+,21,Tyresö FF,LdB FC Malmö,1.0,0.0
+10-10-2010,21,Kristianstads DFF,Linköpings FC,0.0,5.0
+26-09-2010,20,LdB FC Malmö,AIK Solna,3.0,0.0
+,20,Umeå IK FF,Tyresö FF,0.0,3.0
+,20,Jitex BK,Kopparbergs/Göteborg FC,0.0,4.0
+,20,Djurgårdens IF,Sunnanå SK,1.0,2.0
+27-09-2010,20,KIF Örebro DFF,Kristianstads DFF,3.0,0.0
+,20,Linköpings FC,Hammarby IF,1.0,2.0
+18-09-2010,19,Kopparbergs/Göteborg FC,LdB FC Malmö,1.0,1.0
+19-09-2010,19,Sunnanå SK,Jitex BK,0.0,4.0
+,19,Kristianstads DFF,Djurgårdens IF,1.0,1.0
+,19,AIK Solna,Umeå IK FF,2.0,2.0
+,19,Hammarby IF,Tyresö FF,1.0,2.0
+,19,Linköpings FC,KIF Örebro DFF,3.0,2.0
+04-09-2010,18,Umeå IK FF,Kopparbergs/Göteborg FC,1.0,2.0
+05-09-2010,18,LdB FC Malmö,Sunnanå SK,3.0,0.0
+,18,Kristianstads DFF,Jitex BK,3.0,4.0
+,18,Djurgårdens IF,Linköpings FC,0.0,0.0
+,18,Hammarby IF,KIF Örebro DFF,0.0,1.0
+,18,Tyresö FF,AIK Solna,5.0,2.0
+01-09-2010,17,Jitex BK,Linköpings FC,1.0,1.0
+,17,Sunnanå SK,Umeå IK FF,1.0,3.0
+,17,Kopparbergs/Göteborg FC,Tyresö FF,2.0,1.0
+,17,AIK Solna,Hammarby IF,2.0,4.0
+,17,KIF Örebro DFF,Djurgårdens IF,3.0,1.0
+,17,LdB FC Malmö,Kristianstads DFF,5.0,3.0
+28-08-2010,16,Hammarby IF,Djurgårdens IF,0.0,2.0
+,16,AIK Solna,Kopparbergs/Göteborg FC,0.0,4.0
+29-08-2010,16,Umeå IK FF,Kristianstads DFF,2.0,1.0
+,16,Tyresö FF,Sunnanå SK,6.0,1.0
+,16,Linköpings FC,LdB FC Malmö,1.0,2.0
+,16,Jitex BK,KIF Örebro DFF,1.0,1.0
+14-08-2010,15,Djurgårdens IF,Jitex BK,1.0,3.0
+,15,Kopparbergs/Göteborg FC,Hammarby IF,2.0,1.0
+,15,Sunnanå SK,AIK Solna,2.0,0.0
+15-08-2010,15,Kristianstads DFF,Tyresö FF,0.0,3.0
+16-08-2010,15,KIF Örebro DFF,LdB FC Malmö,1.0,3.0
+17-08-2010,15,Linköpings FC,Umeå IK FF,5.0,0.0
+03-07-2010,14,Tyresö FF,Linköpings FC,1.0,1.0
+,14,Kopparbergs/Göteborg FC,Sunnanå SK,5.0,0.0
+,14,AIK Solna,Kristianstads DFF,3.0,1.0
+04-07-2010,14,Umeå IK FF,KIF Örebro DFF,1.0,0.0
+,14,LdB FC Malmö,Djurgårdens IF,6.0,3.0
+,14,Jitex BK,Hammarby IF,3.0,1.0
+27-06-2010,13,Kristianstads DFF,Kopparbergs/Göteborg FC,1.0,1.0
+,13,Jitex BK,LdB FC Malmö,1.0,2.0
+,13,Hammarby IF,Sunnanå SK,2.0,0.0
+,13,Djurgårdens IF,Umeå IK FF,2.0,0.0
+28-06-2010,13,KIF Örebro DFF,Tyresö FF,1.0,2.0
+29-06-2010,13,Linköpings FC,AIK Solna,1.0,0.0
+12-06-2010,12,Kopparbergs/Göteborg FC,Linköpings FC,1.0,1.0
+,12,AIK Solna,KIF Örebro DFF,0.0,4.0
+13-06-2010,12,Umeå IK FF,Jitex BK,1.0,2.0
+,12,Sunnanå SK,Kristianstads DFF,1.0,1.0
+,12,LdB FC Malmö,Hammarby IF,4.0,0.0
+,12,Tyresö FF,Djurgårdens IF,1.0,2.0
+05-06-2010,11,Tyresö FF,Jitex BK,3.0,2.0
+,11,Kristianstads DFF,Hammarby IF,0.0,1.0
+,11,AIK Solna,Djurgårdens IF,0.0,0.0
+06-06-2010,11,Umeå IK FF,LdB FC Malmö,0.0,4.0
+,11,Sunnanå SK,Linköpings FC,0.0,4.0
+,11,Kopparbergs/Göteborg FC,KIF Örebro DFF,1.0,1.0
+02-06-2010,10,Djurgårdens IF,Kopparbergs/Göteborg FC,0.0,1.0
+,10,KIF Örebro DFF,Sunnanå SK,0.0,0.0
+,10,Linköpings FC,Kristianstads DFF,3.0,0.0
+,10,Hammarby IF,Umeå IK FF,0.0,1.0
+,10,LdB FC Malmö,Tyresö FF,4.0,1.0
+,10,Jitex BK,AIK Solna,1.0,0.0
+26-05-2010,9,Kopparbergs/Göteborg FC,Jitex BK,6.0,0.0
+29-05-2010,9,Hammarby IF,Linköpings FC,1.0,4.0
+,9,AIK Solna,LdB FC Malmö,1.0,3.0
+30-05-2010,9,Kristianstads DFF,KIF Örebro DFF,3.0,1.0
+,9,Sunnanå SK,Djurgårdens IF,2.0,1.0
+,9,Tyresö FF,Umeå IK FF,1.0,2.0
+22-05-2010,8,Tyresö FF,Hammarby IF,2.0,2.0
+23-05-2010,8,Jitex BK,Sunnanå SK,1.0,2.0
+,8,Umeå IK FF,AIK Solna,0.0,1.0
+,8,LdB FC Malmö,Kopparbergs/Göteborg FC,5.0,3.0
+,8,Djurgårdens IF,Kristianstads DFF,1.0,5.0
+,8,KIF Örebro DFF,Linköpings FC,0.0,0.0
+15-05-2010,7,Kopparbergs/Göteborg FC,Umeå IK FF,5.0,0.0
+16-05-2010,7,Sunnanå SK,LdB FC Malmö,1.0,2.0
+,7,Jitex BK,Kristianstads DFF,2.0,2.0
+,7,AIK Solna,Tyresö FF,0.0,2.0
+,7,KIF Örebro DFF,Hammarby IF,2.0,1.0
+19-05-2010,7,Linköpings FC,Djurgårdens IF,2.0,1.0
+09-05-2010,6,Umeå IK FF,Sunnanå SK,6.0,1.0
+,6,Kristianstads DFF,LdB FC Malmö,0.0,2.0
+,6,Djurgårdens IF,KIF Örebro DFF,4.0,2.0
+,6,Hammarby IF,AIK Solna,0.0,0.0
+,6,Linköpings FC,Jitex BK,0.0,1.0
+10-05-2010,6,Tyresö FF,Kopparbergs/Göteborg FC,0.0,4.0
+29-04-2010,5,LdB FC Malmö,Linköpings FC,0.0,0.0
+01-05-2010,5,Kopparbergs/Göteborg FC,AIK Solna,5.0,0.0
+,5,Sunnanå SK,Tyresö FF,1.0,1.0
+02-05-2010,5,Kristianstads DFF,Umeå IK FF,3.0,1.0
+,5,KIF Örebro DFF,Jitex BK,1.0,0.0
+,5,Djurgårdens IF,Hammarby IF,2.0,1.0
+24-04-2010,4,Tyresö FF,Kristianstads DFF,0.0,0.0
+,4,AIK Solna,Sunnanå SK,1.0,1.0
+25-04-2010,4,Umeå IK FF,Linköpings FC,1.0,1.0
+,4,LdB FC Malmö,KIF Örebro DFF,4.0,0.0
+,4,Jitex BK,Djurgårdens IF,1.0,0.0
+,4,Hammarby IF,Kopparbergs/Göteborg FC,1.0,2.0
+17-04-2010,3,Djurgårdens IF,LdB FC Malmö,0.0,1.0
+,3,Hammarby IF,Jitex BK,1.0,2.0
+18-04-2010,3,Kristianstads DFF,AIK Solna,3.0,1.0
+,3,Linköpings FC,Tyresö FF,0.0,2.0
+28-04-2010,3,Sunnanå SK,Kopparbergs/Göteborg FC,0.0,4.0
+12-05-2010,3,KIF Örebro DFF,Umeå IK FF,0.0,0.0
+10-04-2010,2,Sunnanå SK,Hammarby IF,1.0,1.0
+,2,Tyresö FF,KIF Örebro DFF,0.0,1.0
+11-04-2010,2,AIK Solna,Linköpings FC,0.0,2.0
+,2,LdB FC Malmö,Jitex BK,6.0,1.0
+14-04-2010,2,Kopparbergs/Göteborg FC,Kristianstads DFF,4.0,2.0
+,2,Umeå IK FF,Djurgårdens IF,1.0,0.0
+03-04-2010,1,Linköpings FC,Kopparbergs/Göteborg FC,1.0,0.0
+05-04-2010,1,Kristianstads DFF,Sunnanå SK,3.0,2.0
+,1,Jitex BK,Umeå IK FF,1.0,0.0
+,1,Djurgårdens IF,Tyresö FF,0.0,2.0
+,1,Hammarby IF,LdB FC Malmö,0.0,1.0
+,1,KIF Örebro DFF,AIK Solna,4.0,1.0
+07-11-2009,22,Hammarby IF,Djurgårdens IF,0.0,1.0
+,22,Stattena IF,Kristianstads DFF,2.0,5.0
+,22,Umeå IK FF,Piteå IF,5.0,1.0
+,22,KIF Örebro DFF,Linköpings FC,2.0,0.0
+,22,Sunnanå SK,LdB FC Malmö,0.0,1.0
+,22,Kopparbergs/Göteborg FC,AIK Solna,3.0,4.0
+31-10-2009,21,Kristianstads DFF,Hammarby IF,3.0,1.0
+,21,AIK Solna,Sunnanå SK,1.0,2.0
+,21,Linköpings FC,Umeå IK FF,4.0,0.0
+01-11-2009,21,LdB FC Malmö,KIF Örebro DFF,1.0,1.0
+,21,Djurgårdens IF,Kopparbergs/Göteborg FC,1.0,0.0
+,21,Piteå IF,Stattena IF,1.0,2.0
+17-10-2009,20,Kopparbergs/Göteborg FC,Kristianstads DFF,2.0,1.0
+18-10-2009,20,Stattena IF,Umeå IK FF,1.0,3.0
+,20,LdB FC Malmö,Linköpings FC,1.0,0.0
+,20,Sunnanå SK,Djurgårdens IF,0.0,5.0
+,20,Hammarby IF,Piteå IF,2.0,2.0
+19-10-2009,20,KIF Örebro DFF,AIK Solna,1.0,0.0
+10-10-2009,19,Djurgårdens IF,KIF Örebro DFF,2.0,0.0
+,19,AIK Solna,Linköpings FC,1.0,2.0
+,19,Stattena IF,Hammarby IF,1.0,2.0
+,19,Piteå IF,Kopparbergs/Göteborg FC,1.0,2.0
+,19,Umeå IK FF,LdB FC Malmö,1.0,0.0
+11-10-2009,19,Kristianstads DFF,Sunnanå SK,3.0,2.0
+03-10-2009,18,Kopparbergs/Göteborg FC,Stattena IF,2.0,0.0
+,18,Sunnanå SK,Piteå IF,2.0,1.0
+04-10-2009,18,Linköpings FC,Djurgårdens IF,2.0,0.0
+,18,LdB FC Malmö,AIK Solna,2.0,0.0
+,18,Hammarby IF,Umeå IK FF,4.0,1.0
+05-10-2009,18,KIF Örebro DFF,Kristianstads DFF,3.0,1.0
+26-09-2009,17,Kristianstads DFF,Linköpings FC,1.0,2.0
+,17,Hammarby IF,Kopparbergs/Göteborg FC,1.0,4.0
+27-09-2009,17,Stattena IF,Sunnanå SK,0.0,5.0
+,17,Umeå IK FF,AIK Solna,1.0,1.0
+,17,Piteå IF,KIF Örebro DFF,2.0,1.0
+29-09-2009,17,Djurgårdens IF,LdB FC Malmö,0.0,3.0
+25-07-2009,16,AIK Solna,Djurgårdens IF,2.0,4.0
+26-07-2009,16,Linköpings FC,Piteå IF,5.0,1.0
+,16,KIF Örebro DFF,Stattena IF,7.0,1.0
+,16,Sunnanå SK,Hammarby IF,1.0,0.0
+27-07-2009,16,LdB FC Malmö,Kristianstads DFF,6.0,0.0
+,16,Kopparbergs/Göteborg FC,Umeå IK FF,1.0,0.0
+08-07-2009,15,Kristianstads DFF,AIK Solna,3.0,2.0
+,15,Umeå IK FF,Djurgårdens IF,0.0,0.0
+,15,Piteå IF,LdB FC Malmö,0.0,2.0
+,15,Hammarby IF,KIF Örebro DFF,0.0,2.0
+,15,Stattena IF,Linköpings FC,1.0,3.0
+,15,Kopparbergs/Göteborg FC,Sunnanå SK,1.0,0.0
+03-07-2009,14,Djurgårdens IF,Kristianstads DFF,4.0,0.0
+04-07-2009,14,AIK Solna,Piteå IF,3.0,1.0
+,14,KIF Örebro DFF,Kopparbergs/Göteborg FC,0.0,0.0
+05-07-2009,14,LdB FC Malmö,Stattena IF,8.0,0.0
+,14,Linköpings FC,Hammarby IF,1.0,0.0
+,14,Sunnanå SK,Umeå IK FF,0.0,3.0
+25-06-2009,13,Piteå IF,Djurgårdens IF,0.0,2.0
+28-06-2009,13,Kopparbergs/Göteborg FC,Linköpings FC,0.0,1.0
+,13,Stattena IF,AIK Solna,0.0,4.0
+,13,Hammarby IF,LdB FC Malmö,0.0,1.0
+29-06-2009,13,Umeå IK FF,Kristianstads DFF,8.0,0.0
+,13,Sunnanå SK,KIF Örebro DFF,1.0,2.0
+17-06-2009,12,Linköpings FC,Sunnanå SK,0.0,0.0
+18-06-2009,12,Djurgårdens IF,Stattena IF,6.0,0.0
+,12,LdB FC Malmö,Kopparbergs/Göteborg FC,4.0,0.0
+21-06-2009,12,Kristianstads DFF,Piteå IF,2.0,0.0
+22-06-2009,12,AIK Solna,Hammarby IF,1.0,1.0
+,12,KIF Örebro DFF,Umeå IK FF,0.0,1.0
+13-06-2009,11,AIK Solna,Kopparbergs/Göteborg FC,0.0,1.0
+,11,Kristianstads DFF,Stattena IF,4.0,0.0
+14-06-2009,11,LdB FC Malmö,Sunnanå SK,0.0,4.0
+,11,Djurgårdens IF,Hammarby IF,5.0,2.0
+,11,Linköpings FC,KIF Örebro DFF,4.0,0.0
+15-06-2009,11,Piteå IF,Umeå IK FF,1.0,1.0
+06-06-2009,10,Kopparbergs/Göteborg FC,Djurgårdens IF,3.0,1.0
+,10,Hammarby IF,Kristianstads DFF,3.0,1.0
+07-06-2009,10,Umeå IK FF,Linköpings FC,2.0,1.0
+,10,KIF Örebro DFF,LdB FC Malmö,2.0,1.0
+,10,Sunnanå SK,AIK Solna,0.0,2.0
+,10,Stattena IF,Piteå IF,2.0,2.0
+30-05-2009,9,AIK Solna,KIF Örebro DFF,0.0,2.0
+,9,Kristianstads DFF,Kopparbergs/Göteborg FC,0.0,3.0
+31-05-2009,9,Umeå IK FF,Stattena IF,5.0,0.0
+,9,Djurgårdens IF,Sunnanå SK,2.0,0.0
+,9,Piteå IF,Hammarby IF,0.0,2.0
+01-06-2009,9,Linköpings FC,LdB FC Malmö,0.0,0.0
+24-05-2009,8,Kopparbergs/Göteborg FC,Piteå IF,7.0,0.0
+,8,Hammarby IF,Stattena IF,4.0,1.0
+,8,Sunnanå SK,Kristianstads DFF,2.0,1.0
+,8,KIF Örebro DFF,Djurgårdens IF,2.0,2.0
+26-05-2009,8,Linköpings FC,AIK Solna,5.0,0.0
+,8,LdB FC Malmö,Umeå IK FF,1.0,2.0
+16-05-2009,7,Piteå IF,Sunnanå SK,0.0,2.0
+,7,Stattena IF,Kopparbergs/Göteborg FC,0.0,8.0
+17-05-2009,7,Kristianstads DFF,KIF Örebro DFF,2.0,3.0
+,7,Umeå IK FF,Hammarby IF,4.0,2.0
+,7,Djurgårdens IF,Linköpings FC,0.0,1.0
+19-05-2009,7,AIK Solna,LdB FC Malmö,1.0,2.0
+09-05-2009,6,Kopparbergs/Göteborg FC,Hammarby IF,1.0,1.0
+10-05-2009,6,Sunnanå SK,Stattena IF,4.0,0.0
+,6,KIF Örebro DFF,Piteå IF,1.0,0.0
+11-05-2009,6,AIK Solna,Umeå IK FF,0.0,2.0
+,6,Linköpings FC,Kristianstads DFF,2.0,0.0
+12-05-2009,6,LdB FC Malmö,Djurgårdens IF,4.0,0.0
+01-05-2009,5,Djurgårdens IF,AIK Solna,2.0,3.0
+02-05-2009,5,Piteå IF,Linköpings FC,0.0,4.0
+,5,Stattena IF,KIF Örebro DFF,0.0,2.0
+,5,Umeå IK FF,Kopparbergs/Göteborg FC,5.0,1.0
+03-05-2009,5,Kristianstads DFF,LdB FC Malmö,2.0,7.0
+,5,Hammarby IF,Sunnanå SK,0.0,1.0
+18-04-2009,4,AIK Solna,Kristianstads DFF,2.0,1.0
+,4,Sunnanå SK,Kopparbergs/Göteborg FC,0.0,0.0
+,4,LdB FC Malmö,Piteå IF,7.0,0.0
+19-04-2009,4,Linköpings FC,Stattena IF,2.0,2.0
+,4,KIF Örebro DFF,Hammarby IF,2.0,1.0
+21-04-2009,4,Djurgårdens IF,Umeå IK FF,2.0,5.0
+13-04-2009,3,Kopparbergs/Göteborg FC,KIF Örebro DFF,4.0,0.0
+,3,Kristianstads DFF,Djurgårdens IF,2.0,3.0
+,3,Umeå IK FF,Sunnanå SK,1.0,2.0
+,3,Hammarby IF,Linköpings FC,0.0,3.0
+,3,Stattena IF,LdB FC Malmö,0.0,7.0
+,3,Piteå IF,AIK Solna,0.0,1.0
+04-04-2009,2,Djurgårdens IF,Piteå IF,4.0,0.0
+05-04-2009,2,Linköpings FC,Kopparbergs/Göteborg FC,0.0,1.0
+,2,LdB FC Malmö,Hammarby IF,2.0,1.0
+06-04-2009,2,AIK Solna,Stattena IF,1.0,1.0
+,2,KIF Örebro DFF,Sunnanå SK,1.0,0.0
+08-04-2009,2,Kristianstads DFF,Umeå IK FF,0.0,1.0
+25-03-2009,1,Umeå IK FF,KIF Örebro DFF,2.0,0.0
+28-03-2009,1,Kopparbergs/Göteborg FC,LdB FC Malmö,2.0,1.0
+01-04-2009,1,Stattena IF,Djurgårdens IF,0.0,7.0
+,1,Piteå IF,Kristianstads DFF,3.0,0.0
+,1,Hammarby IF,AIK Solna,2.0,0.0
+02-04-2009,1,Sunnanå SK,Linköpings FC,0.0,3.0

@@ -1,0 +1,65 @@
+club,fecha_activo_inicio,fecha_activo_fin,entrenador,pais,fecha_nacimiento
+Lyon,01-07-2021,30-06-2023,Sonia Bompastor,Francia,08-06-1980
+Lyon,01-07-2019,30-06-2021,Jean-Luc Vasseur,Francia,01-01-1969
+Lyon,01-07-2017,30-06-2019,Reynald Pedros,Francia,10-10-1971
+Lyon,01-07-2014,30-06-2017,Gérard Prêcheur,Francia,23-10-1959
+Lyon,01-07-2010,30-06-2014,Patrice Lair,Francia,16-06-1961
+Lyon,01-07-2001,30-06-2010,Farid Benstiti,Francia,16-01-1967
+Saint-Étienne,01-07-2017,30-06-2022,Jérôme Bonnet,Francia,13-07-1978
+Saint-Étienne,01-07-2011,30-06-2016,Didier Hervé,Francia,19-06-1961
+Saint-Étienne,01-07-2008,30-06-2017,Hervé Didier,Francia,19-06-1961
+Dijon FCO,01-07-2021,30-06-2022,Christophe Forest,Francia,18-03-1969
+Dijon FCO,01-07-2017,30-06-2021,Yannick Chandioux,Francia,01-09-1975
+Paris FC,01-07-2018,30-06-2022,Sandrine Soubeyrand,Francia,16-08-1973
+Paris FC,01-07-2017,30-06-2018,Pascal Gouzenes,Francia,
+Paris FC,01-07-2015,30-06-2017,Emmanuel Beauchet,Francia,09-04-1971
+Paris FC,01-07-2010,30-06-2013,Sandrine Mathivet,Francia,25-10-1968
+ASJ Soyaux,01-07-2021,30-06-2022,Dragan Cvetković,Serbia,19-09-1961
+ASJ Soyaux,01-11-2020,30-06-2021,Laurent Mortel,Francia,
+ASJ Soyaux,01-07-2017,31-10-2020,Sébastien Joseph,Francia,08-06-1979
+ASJ Soyaux,01-07-2012,30-06-2017,Juan Paredes,Francia,06-05-1960
+París Saint-Germain,01-07-2021,30-06-2022,Didier Olle-Nicolle,Francia,02-09-1961
+París Saint-Germain,01-07-2018,30-06-2021,Olivier Echouafni,Francia,13-09-1972
+París Saint-Germain,01-07-2016,30-06-2018,Patrice Lair,Francia,16-06-1961
+París Saint-Germain,01-07-2012,30-06-2016,Farid Benstiti,Francia,16-01-1967
+París Saint-Germain,01-07-2011,30-06-2012,Camillo Vaz,Francia,26-09-1975
+FC Fleury 91,01-07-2021,30-06-2022,Fabrice Abriel,Francia,06-07-1979
+FC Fleury 91,01-07-2020,30-06-2021,David Fanzel,Francia,09-11-1966
+FC Fleury 91,01-02-2019,30-06-2020,Eric Michel,Francia,
+FC Fleury 91,01-07-2017,30-06-2020,Nicolas Carric,Francia,
+Montpellier,01-07-2021,30-06-2022,Yannick Chandioux,Francia,01-09-1975
+Montpellier,22-04-2021,30-06-2021,John Utaka,Nigeria,08-01-1982
+Montpellier,01-07-2020,22-04-2021,Frédéric Mendy,Francia,29-11-1973
+Montpellier,01-07-2013,30-06-2020,Jean-Louis Saez,Francia,14-04-1967
+Montpellier,01-07-2007,30-06-2013,Sarah M'Barek,Francia,13-10-1977
+Girondins Bordeaux,05-08-2021,30-06-2023,Patrice Lair,Francia,16-06-1961
+Girondins Bordeaux,01-07-2019,30-06-2021,Pedro Losa,España,09-05-1976
+Girondins Bordeaux,01-02-2018,30-06-2019,Jean-Jacques Gresser,Francia,
+Girondins Bordeaux,01-07-2016,30-06-2019,Jérôme Dauba,Francia,13-07-1975
+GPSO 92 Issy,22-02-2021,30-06-2022,Camillo Vaz,Francia,26-09-1975
+GPSO 92 Issy,01-07-2020,21-02-2021,Yacine Guesmia,Francia,19-06-1987
+Stade Reims,01-07-2019,30-06-2022,Amandine Miquel,Francia,04-08-1984
+Guingamp,01-07-2018,30-06-2023,Frédéric Biancalani,Francia,21-07-1974
+Guingamp,01-07-2013,30-06-2018,Sarah M'Barek,Francia,13-10-1977
+Le Havre AC,01-07-2020,30-06-2021,Thierry Uvenard,Francia,29-03-1964
+Olympique Marseille,01-07-2011,30-06-2020,Christophe Parra,Francia,09-06-1971
+FC Metz-Algrange,01-01-2019,30-06-2020,Angélique Roujas,Francia,15-09-1974
+FC Metz-Algrange,01-07-2018,30-06-2020,Manuel Peixoto,Francia,18-12-1956
+FC Metz-Algrange,01-07-2015,30-06-2017,David Fanzel,Francia,09-11-1966
+Lille OSC,01-01-2019,30-06-2019,Rachel Saïdi,Francia,08-06-1988
+Lille OSC,01-07-2018,30-06-2019,Dominique Carlier,Francia,18-04-1959
+Lille OSC,01-07-2017,30-06-2018,Jérémie Descamps,Francia,
+Rodez Aveyron,01-07-2018,30-06-2019,Sabrina Viguier,Francia,04-01-1981
+Rodez Aveyron,01-07-2017,30-06-2018,Gregory Mleko,Francia,05-02-1978
+Rodez Aveyron,01-07-2014,30-06-2017,Sébastien Joseph,Francia,08-06-1979
+ASPTT Albi,01-07-2017,30-06-2018,Patrice Garrigues,Francia,16-08-1973
+ASPTT Albi,01-07-2017,30-06-2018,Théodore Genoux,Francia,01-12-1992
+ASPTT Albi,01-07-2015,30-06-2017,Adolphe Ogouyon,Benin,20-02-1956
+Juvisy FCF,01-07-2018,30-06-2022,Sandrine Soubeyrand,Francia,16-08-1973
+Juvisy FCF,01-07-2017,30-06-2018,Pascal Gouzenes,Francia,
+Juvisy FCF,01-07-2015,30-06-2017,Emmanuel Beauchet,Francia,09-04-1971
+Juvisy FCF,01-07-2010,30-06-2013,Sandrine Mathivet,Francia,25-10-1968
+VGA Saint-Maur,01-07-1987,30-06-1989,Elisabeth Loisel,Francia,01-08-1963
+Issy FF,22-02-2021,30-06-2022,Camillo Vaz,Francia,26-09-1975
+Issy FF,01-07-2020,21-02-2021,Yacine Guesmia,Francia,19-06-1987
+Le Mans FC,01-07-2017,30-06-2022,Damien Bollini,Francia,14-01-1985

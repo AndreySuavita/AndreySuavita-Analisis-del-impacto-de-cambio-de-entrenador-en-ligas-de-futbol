@@ -1,0 +1,78 @@
+club,fecha_activo_inicio,fecha_activo_fin,entrenador,pais,fecha_nacimiento
+AIK Solna,01-01-2021,31-12-2023,Maiju Ruotsalainen,Finlandia,25-11-1983
+AIK Solna,01-01-2012,31-12-2014,Mattias Eriksson,Suecia,20-09-1977
+Djurgårdens IF,24-08-2021,31-12-2022,Magnus Pålsson,Suecia,
+Djurgårdens IF,23-08-2019,23-08-2021,Pierre Fondin,Suecia,02-08-1991
+Djurgårdens IF,01-01-2017,31-12-2017,Joel Riddez,Suecia,21-05-1980
+Djurgårdens IF,01-01-2008,31-12-2009,Anders Johansson,Suecia,01-01-1967
+Eskilstuna United,01-01-2022,31-12-2022,Fredrik Bernhardsson,Suecia,
+Eskilstuna United,15-05-2018,31-12-2021,Magnus Karlsson,Suecia,06-11-1967
+Eskilstuna United,01-01-2012,31-12-2017,Viktor Eriksson,Suecia,29-04-1985
+IF Brommapojkarna,01-01-2020,31-12-2022,Marcelo Fernández,Suecia,14-09-1982
+Kristianstads DFF,01-01-2011,31-12-2022,Elísabet Gunnarsdóttir,Islandia,02-10-1976
+KIF Örebro DFF,01-01-2021,31-12-2022,Rickard Johansson,Suecia,16-05-1985
+KIF Örebro DFF,01-11-2017,31-12-2020,Stefan Ärnsved,Suecia,10-12-1977
+KIF Örebro DFF,01-01-2011,31-12-2015,Rickard Nilsson,Suecia,18-12-1969
+KIF Örebro DFF,01-01-2005,31-12-2006,Pia Sundhage,Suecia,13-02-1960
+Vittsjö GIK,01-01-2014,31-12-2014,Simon Sjöfors,Suecia,08-07-1973
+Vittsjö GIK,01-01-2011,31-12-2022,Thomas Mårtensson,Suecia,04-09-1967
+Linköpings FC,01-01-2021,31-12-2023,Andrée Jeglertz,Suecia,14-02-1973
+Linköpings FC,01-07-2018,31-12-2020,Olof Unogård,Suecia,21-08-1988
+Linköpings FC,01-01-2018,04-05-2018,Marcus Walfridson,Suecia,00-00-1982
+Linköpings FC,01-01-2017,31-12-2017,Kim Björkegren,Suecia,
+Linköpings FC,01-01-2012,31-12-2015,Martin Sjögren,Suecia,27-04-1977
+Linköpings FC,01-01-2011,31-12-2011,Jörgen Petersson,Suecia,12-10-1964
+Umeå IK FF,01-01-2021,31-12-2022,Samuel Fagerholm,Finlandia,10-10-1992
+Umeå IK FF,01-01-2017,31-12-2020,Robert Bergström,Suecia,10-06-1982
+Umeå IK FF,01-01-2014,31-12-2014,Jonas Wikström,Suecia,
+Umeå IK FF,01-01-2004,31-12-2008,Andrée Jeglertz,Suecia,14-02-1973
+Umeå IK FF,01-01-2000,31-12-2003,Richard Holmlund,Suecia,26-10-1963
+Hammarby IF,01-01-2020,31-12-2022,Pablo Piñones-Arce,Suecia,27-08-1981
+Hammarby IF,01-01-1992,31-12-1994,Pia Sundhage,Suecia,13-02-1960
+Piteå IF,02-06-2018,31-12-2023,Stellan Carlsson,Suecia,11-07-1970
+Piteå IF,01-01-2011,12-01-2018,Stellan Carlsson,Suecia,11-07-1970
+IFK Kalmar,01-01-2021,31-12-2022,Frank Berntzen,Suecia,
+IFK Kalmar,01-01-2014,20-08-2018,Jonas Valfridsson,Suecia,11-01-1978
+BK Häcken,24-10-2021,31-12-2023,Robert Vilahamn,Suecia,02-01-1983
+BK Häcken,01-01-2020,31-12-2021,Mats Gren,Suecia,20-12-1963
+BK Häcken,01-07-2019,09-12-2019,Marcus Lantz,Suecia,23-10-1975
+BK Häcken,01-01-2014,31-12-2017,Stefan Rehn,Suecia,22-09-1966
+BK Häcken,01-01-2011,31-12-2013,Torbjörn Nilsson,Suecia,09-07-1954
+FC Rosengård,28-06-2021,31-12-2022,Renée Slegers,Países Bajos,05-02-1989
+FC Rosengård,01-01-2018,27-06-2021,Jonas Eidevall,Suecia,28-01-1983
+FC Rosengård,29-09-2017,31-12-2017,Malin Levenstad,Suecia,13-09-1988
+FC Rosengård,01-07-2015,28-09-2017,Jack Majgaard,Dinamarca,25-03-1973
+FC Rosengård,01-07-2014,30-06-2015,Markus Tilly,Suecia,21-04-1976
+FC Rosengård,01-01-2013,30-06-2014,Jonas Eidevall,Suecia,28-01-1983
+FC Rosengård,01-01-2012,31-12-2012,Peter Moberg,Suecia,09-04-1975
+FC Rosengård,01-01-2011,31-12-2011,Martin Sjögren,Suecia,27-04-1977
+FC Rosengård,01-01-1999,31-12-2002,Lena Videkull,Suecia,09-12-1962
+Växjö DFF,01-01-2022,31-12-2022,Olof Unogård,Suecia,21-08-1988
+Växjö DFF,15-06-2019,31-12-2021,Maria Nilsson,Suecia,05-02-1984
+Växjö DFF,31-10-2018,30-06-2019,Pierre Fondin,Suecia,02-08-1991
+Kopparbergs/Göteborg FC,24-10-2021,31-12-2023,Robert Vilahamn,Suecia,02-01-1983
+Kopparbergs/Göteborg FC,01-01-2020,31-12-2021,Mats Gren,Suecia,20-12-1963
+Kopparbergs/Göteborg FC,01-07-2019,09-12-2019,Marcus Lantz,Suecia,23-10-1975
+Kopparbergs/Göteborg FC,01-01-2014,31-12-2017,Stefan Rehn,Suecia,22-09-1966
+Kopparbergs/Göteborg FC,01-01-2011,31-12-2013,Torbjörn Nilsson,Suecia,09-07-1954
+IK Uppsala,01-01-2019,31-12-2021,Jonas Valfridsson,Suecia,11-01-1978
+Mallbackens IF,01-01-2021,31-12-2021,Jonas Rehnberg,Suecia,13-11-1971
+Mallbackens IF,01-08-2017,31-12-2017,Jonas Rehnberg,Suecia,13-11-1971
+Tyresö FF,01-01-2012,30-06-2014,Tony Gustavsson,Suecia,14-08-1973
+Tyresö FF,01-01-1996,31-12-1998,Anna Signeul,Suecia,20-05-1961
+Jitex BK,01-01-2021,31-12-2021,Kajsa Tornfalk,Suecia,
+Jitex BK,01-01-2020,31-12-2020,Anders Magnusson,Suecia,03-08-1967
+Jitex BK,01-01-2016,31-12-2017,Tiina Jukarainen,Suecia,31-03-1992
+Jitex BK,23-05-2014,31-12-2014,Jerry Carlsson,Suecia,
+Jitex BK,01-01-2014,22-05-2014,Anders Holmvén,Suecia,
+Jitex BK,01-01-2012,31-12-2013,Stefan Rehn,Suecia,22-09-1966
+LdB FC Malmö,28-06-2021,31-12-2022,Renée Slegers,Países Bajos,05-02-1989
+LdB FC Malmö,01-01-2018,27-06-2021,Jonas Eidevall,Suecia,28-01-1983
+LdB FC Malmö,29-09-2017,31-12-2017,Malin Levenstad,Suecia,13-09-1988
+LdB FC Malmö,01-07-2015,28-09-2017,Jack Majgaard,Dinamarca,25-03-1973
+LdB FC Malmö,01-07-2014,30-06-2015,Markus Tilly,Suecia,21-04-1976
+LdB FC Malmö,01-01-2013,30-06-2014,Jonas Eidevall,Suecia,28-01-1983
+LdB FC Malmö,01-01-2012,31-12-2012,Peter Moberg,Suecia,09-04-1975
+LdB FC Malmö,01-01-2011,31-12-2011,Martin Sjögren,Suecia,27-04-1977
+LdB FC Malmö,01-01-1999,31-12-2002,Lena Videkull,Suecia,09-12-1962
+Stattena IF,01-01-2009,28-09-2009,Marianne Miettinen,Finlandia,13-06-1975

@@ -1,0 +1,67 @@
+club,fecha_activo_inicio,fecha_activo_fin,entrenador,pais,fecha_nacimiento
+PSV Eindhoven,02-12-2020,30-06-2025,Rick de Rooij,Países Bajos,07-09-1979
+PSV Eindhoven,01-07-2018,25-11-2020,Sander Luiten,Países Bajos,13-12-1974
+PSV Eindhoven,01-07-2013,30-06-2018,Nebojša Vučković,Países Bajos,25-07-1975
+PSV Eindhoven,01-07-2012,21-12-2012,Hesterine de Reus,Países Bajos,06-12-1961
+FC Twente,01-07-2022,30-06-2023,Joran Pot,Países Bajos,20-01-1989
+FC Twente,01-07-2021,30-06-2022,Robert de Pauw,Países Bajos,24-07-1981
+FC Twente,01-07-2016,30-06-2021,Tommy Stroot,Alemania,24-12-1988
+FC Twente,01-01-2012,30-06-2016,Arjan Veurink,Países Bajos,23-09-1986
+FC Twente,01-07-2011,31-12-2011,John van Miert,Países Bajos,16-10-1961
+FC Twente,01-07-2008,30-06-2011,Mary Kok-Willemsen,Países Bajos,07-01-1978
+SBV Excelsior,01-07-2018,30-06-2022,Richard Mank,Países Bajos,04-02-1980
+SBV Excelsior,01-07-2017,30-06-2018,Sander Luiten,Países Bajos,13-12-1974
+ADO Den Haag,01-07-2019,30-06-2023,Sjaak Polak,Países Bajos,18-02-1976
+ADO Den Haag,01-07-2016,30-06-2019,Arend Regeer,Países Bajos,04-09-1974
+ADO Den Haag,01-07-2014,30-06-2016,Marcel Valk,Países Bajos,18-04-1967
+ADO Den Haag,01-07-2008,30-06-2014,Sarina Wiegman,Países Bajos,26-10-1969
+Feyenoord,01-07-2021,30-06-2024,Danny Mulder,Países Bajos,13-01-1974
+vv Alkmaar,03-08-2021,30-06-2023,Mark de Vries,Surinam,24-08-1975
+vv Alkmaar,01-07-2019,02-08-2021,Corina Dekker,Países Bajos,28-06-1983
+vv Alkmaar,01-07-2018,30-06-2019,Judith Kuipers,Países Bajos,
+vv Alkmaar,01-07-2013,30-06-2018,Gideon Dijks,Países Bajos,
+vv Alkmaar,01-07-2011,30-06-2013,Hans de Winter,Países Bajos,14-01-1972
+PEC Zwolle,14-07-2022,30-06-2024,Olivier Amelink,Países Bajos,
+PEC Zwolle,01-07-2019,30-06-2022,Joran Pot,Países Bajos,20-01-1989
+PEC Zwolle,01-07-2017,30-06-2019,Wim van der Wal,Países Bajos,08-10-1966
+PEC Zwolle,12-01-2017,30-06-2017,Joran Pot,Países Bajos,20-01-1989
+PEC Zwolle,01-07-2016,11-01-2017,Carin Meesters-Bakhuis,Países Bajos,
+PEC Zwolle,01-03-2013,30-06-2016,Sebastiaan Borgardijn,Países Bajos,
+PEC Zwolle,01-07-2010,30-06-2012,Bert Zuurman,Países Bajos,16-03-1973
+AFC Ajax,01-07-2022,30-06-2024,Suzanne Bakker,Países Bajos,09-07-1986
+AFC Ajax,01-07-2019,30-06-2022,Danny Schenkel,Países Bajos,01-04-1978
+AFC Ajax,01-07-2017,30-06-2019,Benno Nihom,Países Bajos,10-11-1986
+AFC Ajax,01-07-2012,30-06-2017,Ed Engelkes,Países Bajos,21-01-1964
+sc Heerenveen,01-07-2022,30-06-2023,Hans Schrijver,Países Bajos,21-08-1959
+sc Heerenveen,30-08-2017,30-06-2022,Roeland ten Berge,Países Bajos,19-03-1977
+sc Heerenveen,01-07-2016,30-06-2017,Jan Schulting,Países Bajos,13-01-1956
+sc Heerenveen,01-07-2015,30-06-2016,Fred de Boer,Países Bajos,15-06-1964
+sc Heerenveen,01-04-2012,30-06-2012,Maarten de Jong,Países Bajos,26-03-1962
+sc Heerenveen,01-07-2011,31-03-2012,Peter Meindertsma,Países Bajos,
+sc Heerenveen,01-07-2009,30-06-2011,Rick Mulder,Países Bajos,
+sc Heerenveen,01-07-2007,30-06-2009,Harry Sinkgraven,Países Bajos,21-01-1966
+Excelsior Barendrecht,01-07-2018,30-06-2022,Richard Mank,Países Bajos,04-02-1980
+Excelsior Barendrecht,01-07-2017,30-06-2018,Sander Luiten,Países Bajos,13-12-1974
+Achilles'29,26-02-2018,30-06-2019,Marck Cieraad,Países Bajos,29-04-1990
+Achilles'29,01-07-2017,20-02-2018,Robert de Pauw,Países Bajos,24-07-1981
+Achilles'29,01-07-2016,30-06-2017,Judith Thijssen,Países Bajos,
+SC Telstar VVNH,03-08-2021,30-06-2023,Mark de Vries,Surinam,24-08-1975
+SC Telstar VVNH,01-07-2019,02-08-2021,Corina Dekker,Países Bajos,28-06-1983
+SC Telstar VVNH,01-07-2018,30-06-2019,Judith Kuipers,Países Bajos,
+SC Telstar VVNH,01-07-2013,30-06-2018,Gideon Dijks,Países Bajos,
+SC Telstar VVNH,01-07-2011,30-06-2013,Hans de Winter,Países Bajos,14-01-1972
+FC Utrecht,01-07-2009,30-06-2012,Marc Verkuijl,Países Bajos,19-11-1963
+FC Utrecht,01-07-2007,30-06-2009,Maria van Kortenhof,Países Bajos,07-12-1959
+FC Zwolle,14-07-2022,30-06-2024,Olivier Amelink,Países Bajos,
+FC Zwolle,01-07-2019,30-06-2022,Joran Pot,Países Bajos,20-01-1989
+FC Zwolle,01-07-2017,30-06-2019,Wim van der Wal,Países Bajos,08-10-1966
+FC Zwolle,12-01-2017,30-06-2017,Joran Pot,Países Bajos,20-01-1989
+FC Zwolle,01-07-2016,11-01-2017,Carin Meesters-Bakhuis,Países Bajos,
+FC Zwolle,01-03-2013,30-06-2016,Sebastiaan Borgardijn,Países Bajos,
+FC Zwolle,01-07-2010,30-06-2012,Bert Zuurman,Países Bajos,16-03-1973
+VVV-Venlo,01-07-2010,30-06-2012,Rick de Rooij,Países Bajos,07-09-1979
+AZ Alkmaar,01-07-2008,30-06-2011,Ed Engelkes,Países Bajos,21-01-1964
+Willem II,01-07-2010,30-06-2012,Frans de Kat,Países Bajos,16-03-1965
+Willem II,01-07-2009,30-06-2010,Mark Schenning,Países Bajos,18-10-1970
+Willem II,01-07-2008,30-06-2009,Edwin Petersen,Países Bajos,16-05-1969
+Roda JC Kerkrade,01-07-2008,30-06-2009,René Eijer,Países Bajos,01-01-1963

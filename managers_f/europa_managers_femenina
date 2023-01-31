@@ -1,0 +1,771 @@
+club,fecha_activo_inicio,fecha_activo_fin,entrenador,pais,fecha_nacimiento,liga
+Hoffenheim,01-07-2020,30-06-2025,Gabor Gallai,Alemania,21-08-1979,bundesliga_femenina
+Hoffenheim,01-07-2008,30-06-2020,Jürgen Ehrmann,Alemania,23-02-1961,bundesliga_femenina
+Wolfsburgo,01-07-2021,30-06-2025,Tommy Stroot,Alemania,24-12-1988,bundesliga_femenina
+Wolfsburgo,01-07-2017,30-06-2021,Stephan Lerch,Alemania,10-08-1984,bundesliga_femenina
+Wolfsburgo,01-07-2008,30-06-2017,Ralf Kellermann,Alemania,24-09-1968,bundesliga_femenina
+Wolfsburgo,01-07-2003,30-06-2008,Bernd Huneke,Alemania,14-03-1966,bundesliga_femenina
+SGS Essen,01-07-2019,30-06-2025,Markus Högner,Alemania,26-04-1967,bundesliga_femenina
+SGS Essen,01-07-2016,30-06-2019,Daniel Kraus,Alemania,11-05-1984,bundesliga_femenina
+SGS Essen,01-07-2010,30-06-2016,Markus Högner,Alemania,26-04-1967,bundesliga_femenina
+SGS Essen,01-07-2004,30-06-2010,Ralf Agolli,Alemania,23-04-1961,bundesliga_femenina
+Eintracht Frankfurt,29-09-2017,30-06-2026,Niko Arnautis,Alemania,01-04-1980,bundesliga_femenina
+Eintracht Frankfurt,02-12-2015,28-09-2017,Matt Ross,Australia,04-01-1978,bundesliga_femenina
+Eintracht Frankfurt,01-07-2013,01-12-2015,Colin Bell,Inglaterra,05-08-1961,bundesliga_femenina
+Eintracht Frankfurt,18-04-2013,30-06-2013,Sascha Glass,Alemania,12-10-1972,bundesliga_femenina
+Eintracht Frankfurt,12-09-2012,17-04-2013,Philipp Dahm,Alemania,31-05-1979,bundesliga_femenina
+Eintracht Frankfurt,15-10-2009,11-09-2012,Sven Kahlert,Alemania,14-10-1970,bundesliga_femenina
+Eintracht Frankfurt,01-07-2008,14-10-2009,Günter Wegmann,Alemania,15-02-1954,bundesliga_femenina
+Eintracht Frankfurt,01-07-2004,30-06-2008,Hans-Jürgen Tritschoks,Alemania,09-11-1955,bundesliga_femenina
+Eintracht Frankfurt,01-07-1998,30-06-2004,Monika Staab,Alemania,09-01-1959,bundesliga_femenina
+FC Carl Zeiss Jena,01-07-2022,30-06-2023,Steffen Beck,Alemania,19-10-1963,bundesliga_femenina
+FC Carl Zeiss Jena,01-07-2020,30-06-2022,Anne Pochert,Alemania,04-02-1986,bundesliga_femenina
+FC Carl Zeiss Jena,01-07-2019,30-06-2020,Chris Heck,Alemania,11-02-1974,bundesliga_femenina
+FC Carl Zeiss Jena,01-07-2018,30-06-2019,Steffen Beck,Alemania,19-10-1963,bundesliga_femenina
+FC Carl Zeiss Jena,21-11-2016,30-06-2018,Katja Greulich,Alemania,25-03-1985,bundesliga_femenina
+FC Carl Zeiss Jena,04-11-2016,20-11-2016,Steffen Beck,Alemania,19-10-1963,bundesliga_femenina
+FC Carl Zeiss Jena,01-07-2016,04-11-2016,Christian Franz-Pohlmann,Alemania,15-08-1980,bundesliga_femenina
+FC Carl Zeiss Jena,30-01-2012,30-06-2016,Daniel Kraus,Alemania,11-05-1984,bundesliga_femenina
+FC Carl Zeiss Jena,01-07-2011,29-01-2012,Martina Voss-Tecklenburg,Alemania,22-12-1967,bundesliga_femenina
+FC Carl Zeiss Jena,29-12-2010,30-06-2011,Konrad Weise,Alemania,17-08-1951,bundesliga_femenina
+FC Carl Zeiss Jena,04-11-2010,28-12-2010,Daniel Kraus,Alemania,11-05-1984,bundesliga_femenina
+FC Carl Zeiss Jena,01-07-2010,03-11-2010,Thorsten Zaunmüller,Alemania,11-05-1970,bundesliga_femenina
+FC Carl Zeiss Jena,01-07-2003,30-06-2010,Heidi Vater,Alemania,07-07-1966,bundesliga_femenina
+Bayern Múnich,01-07-2022,30-06-2023,Alexander Straus,Noruega,20-10-1975,bundesliga_femenina
+Bayern Múnich,01-07-2019,30-06-2022,Jens Scheuer,Alemania,12-10-1978,bundesliga_femenina
+Bayern Múnich,01-07-2010,30-06-2019,Thomas Wörle,Alemania,11-02-1982,bundesliga_femenina
+Bayern Múnich,01-07-2008,30-06-2010,Günther Wörle,Alemania,01-10-1949,bundesliga_femenina
+Bayern Múnich,01-01-2004,30-06-2008,Sissy Raith,Alemania,11-06-1960,bundesliga_femenina
+Bayern Múnich,01-07-2000,31-12-2003,Peter König,Alemania,09-05-1947,bundesliga_femenina
+Bayern Múnich,01-07-1987,30-06-1990,Cornelia Doll,Alemania,30-06-1958,bundesliga_femenina
+Turbine Potsdam,14-11-2022,30-06-2023,Sven Weigang,Alemania,14-11-1964,bundesliga_femenina
+Turbine Potsdam,31-10-2022,13-11-2022,Dirk Heinrichs,Alemania,20-05-1968,bundesliga_femenina
+Turbine Potsdam,17-06-2022,30-10-2022,Sebastian Middeke,Alemania,02-02-1984,bundesliga_femenina
+Turbine Potsdam,01-07-2020,30-06-2022,Sofian Chahed,Túnez,18-04-1983,bundesliga_femenina
+Turbine Potsdam,01-07-2016,30-06-2020,Matthias Rudolph,Alemania,06-09-1982,bundesliga_femenina
+Turbine Potsdam,16-12-1997,30-06-2016,Bernd Schröder,Alemania,22-07-1942,bundesliga_femenina
+Turbine Potsdam,01-07-1997,15-12-1997,Eckhard Düwiger,Alemania,01-02-1947,bundesliga_femenina
+Turbine Potsdam,01-07-1995,30-06-1997,Lothar Müller,Alemania,,bundesliga_femenina
+Turbine Potsdam,21-11-1994,30-06-1995,Sabine Seidel,Alemania,08-09-1956,bundesliga_femenina
+Turbine Potsdam,01-07-1993,20-11-1994,Frank Lange,Alemania,15-11-1951,bundesliga_femenina
+Turbine Potsdam,01-07-1992,30-06-1993,Peter Raupach,Alemania,,bundesliga_femenina
+Turbine Potsdam,01-07-1971,30-06-1992,Bernd Schröder,Alemania,22-07-1942,bundesliga_femenina
+SC Sand,11-11-2021,30-06-2023,Alexander Fischinger,Alemania,10-04-1964,bundesliga_femenina
+SC Sand,10-07-2021,09-11-2021,Matthias Frieböse,Alemania,,bundesliga_femenina
+SC Sand,21-04-2021,30-06-2021,Alexander Fischinger,Alemania,10-04-1964,bundesliga_femenina
+SC Sand,24-08-2020,20-04-2021,Nora Häuptle,Suiza,09-09-1983,bundesliga_femenina
+SC Sand,01-01-2020,30-06-2020,Sven Thoß,Alemania,28-07-1966,bundesliga_femenina
+SC Sand,01-07-2017,31-12-2019,Sascha Glass,Alemania,12-10-1972,bundesliga_femenina
+SC Sand,01-03-2017,30-06-2017,Richard Dura,Polonia,,bundesliga_femenina
+SC Sand,13-02-2017,28-02-2017,Claudia von Lanken,Alemania,03-06-1977,bundesliga_femenina
+SC Sand,12-07-2016,12-02-2017,Colin Bell,Inglaterra,05-08-1961,bundesliga_femenina
+SC Sand,06-08-2015,30-06-2016,Alexander Fischinger,Alemania,10-04-1964,bundesliga_femenina
+SC Sand,10-12-2014,05-08-2015,Sven Kahlert,Alemania,14-10-1970,bundesliga_femenina
+SC Sand,01-07-2014,09-12-2014,Niko Koutroubis,Grecia,23-08-1969,bundesliga_femenina
+SC Sand,05-08-2013,30-06-2014,Dieter Wendling,Alemania,30-12-1954,bundesliga_femenina
+SC Sand,01-07-2008,30-06-2013,Oliver Dewes,Alemania,02-02-1971,bundesliga_femenina
+SC Sand,01-07-2007,31-12-2007,Dieter Wendling,Alemania,30-12-1954,bundesliga_femenina
+Werder Bremen,02-04-2021,30-06-2023,Thomas Horsch,Alemania,30-10-1968,bundesliga_femenina
+Werder Bremen,01-07-2019,01-04-2021,Alexander Kluge,Alemania,15-10-1986,bundesliga_femenina
+Werder Bremen,01-07-2017,30-06-2019,Carmen Roth,Alemania,02-01-1979,bundesliga_femenina
+Werder Bremen,01-07-2015,30-06-2017,Steffen Rau,Alemania,30-03-1970,bundesliga_femenina
+Werder Bremen,01-07-2013,30-06-2015,Chadia Freyhat,Alemania,04-10-1982,bundesliga_femenina
+Werder Bremen,01-07-2011,08-05-2012,Dirk Hofmann,Alemania,06-06-1969,bundesliga_femenina
+Werder Bremen,01-07-2010,30-06-2011,Holger Stemmann,Alemania,17-10-1971,bundesliga_femenina
+Werder Bremen,01-07-2007,30-06-2013,Birte Brüggemann,Alemania,02-02-1971,bundesliga_femenina
+Werder Bremen,01-07-2007,04-12-2007,Frank Schwalenberg,Alemania,,bundesliga_femenina
+SC Freiburg,01-07-2022,30-06-2023,Theresa Merk,Alemania,25-10-1989,bundesliga_femenina
+SC Freiburg,01-07-2019,30-06-2022,Daniel Kraus,Alemania,11-05-1984,bundesliga_femenina
+SC Freiburg,01-07-2015,30-06-2019,Jens Scheuer,Alemania,12-10-1978,bundesliga_femenina
+SC Freiburg,01-07-2013,30-06-2015,Dietmar Sehrig,Alemania,07-10-1961,bundesliga_femenina
+SC Freiburg,01-07-2010,30-06-2013,Milorad Pilipović,Serbia,03-06-1958,bundesliga_femenina
+SC Freiburg,18-11-2009,30-06-2010,Edgar Beck,Alemania,15-05-1962,bundesliga_femenina
+SC Freiburg,22-09-2008,19-11-2009,Günter Rommel,Alemania,18-06-1956,bundesliga_femenina
+SC Freiburg,06-09-2008,21-09-2008,Michael Bellert,Alemania,07-02-1948,bundesliga_femenina
+SC Freiburg,01-01-2008,05-09-2008,Alexander Fischinger,Alemania,10-04-1964,bundesliga_femenina
+SC Freiburg,01-11-2007,31-12-2007,Thomas Schweizer,Alemania,13-09-1967,bundesliga_femenina
+SC Freiburg,13-10-2007,31-10-2007,Elke Walther,Alemania,01-04-1967,bundesliga_femenina
+SC Freiburg,01-07-2005,12-10-2007,Dietmar Sehrig,Alemania,07-10-1961,bundesliga_femenina
+SC Freiburg,01-07-2003,30-06-2005,Thomas Reger,Alemania,08-02-1962,bundesliga_femenina
+SC Freiburg,01-07-2001,30-06-2003,Michael Bellert,Alemania,07-02-1948,bundesliga_femenina
+Bayer Leverkusen,01-07-2022,30-06-2024,Robert de Pauw,Países Bajos,24-07-1981,bundesliga_femenina
+Bayer Leverkusen,01-07-2019,30-06-2022,Achim Feifel,Alemania,03-08-1964,bundesliga_femenina
+Bayer Leverkusen,05-04-2017,30-06-2019,Verena Hagedorn,Alemania,02-07-1982,bundesliga_femenina
+Bayer Leverkusen,08-03-2017,04-04-2017,Malte Dresen,Alemania,14-01-1989,bundesliga_femenina
+Bayer Leverkusen,01-07-2012,08-03-2017,Thomas Obliers,Alemania,21-10-1967,bundesliga_femenina
+Bayer Leverkusen,01-07-2008,30-06-2012,Doreen Meier,Alemania,09-11-1968,bundesliga_femenina
+Colonia,01-01-2020,30-06-2025,Sascha Glass,Alemania,12-10-1972,bundesliga_femenina
+Colonia,01-09-2016,31-12-2019,Willi Breuer,Alemania,30-11-1954,bundesliga_femenina
+Colonia,01-12-2015,31-08-2016,Marcus Kühn,Alemania,20-11-1971,bundesliga_femenina
+Colonia,13-11-2015,30-11-2015,Nico Reese,Alemania,,bundesliga_femenina
+Colonia,01-07-2012,12-11-2015,Willi Breuer,Alemania,30-11-1954,bundesliga_femenina
+Colonia,01-07-2010,30-06-2012,Marcus Kühn,Alemania,20-11-1971,bundesliga_femenina
+Colonia,01-07-2009,30-06-2010,Klaus Schmischke,Alemania,,bundesliga_femenina
+MSV Duisburg,13-03-2022,30-06-2023,Nico Schneck,Alemania,06-10-1987,bundesliga_femenina
+MSV Duisburg,01-07-2021,12-03-2022,Henrik Lehm,Dinamarca,23-08-1960,bundesliga_femenina
+MSV Duisburg,26-02-2018,30-06-2021,Thomas Gerstner,Alemania,06-11-1966,bundesliga_femenina
+MSV Duisburg,14-02-2018,25-02-2018,Robert Augustin,Alemania,14-02-1992,bundesliga_femenina
+MSV Duisburg,01-07-2017,14-02-2018,Christian Franz-Pohlmann,Alemania,15-08-1980,bundesliga_femenina
+MSV Duisburg,01-07-2014,30-06-2017,Inka Grings,Alemania,31-10-1978,bundesliga_femenina
+MSV Duisburg,01-03-2013,30-06-2014,Sven Kahlert,Alemania,14-10-1970,bundesliga_femenina
+MSV Duisburg,29-10-2012,28-02-2013,Petra Hauser,Alemania,15-01-1971,bundesliga_femenina
+MSV Duisburg,18-02-2011,28-10-2012,Marco Ketelaer,Alemania,18-07-1969,bundesliga_femenina
+MSV Duisburg,12-02-2008,17-02-2011,Martina Voss-Tecklenburg,Alemania,22-12-1967,bundesliga_femenina
+MSV Duisburg,17-11-2006,10-02-2008,Thomas Obliers,Alemania,21-10-1967,bundesliga_femenina
+MSV Duisburg,01-07-2005,16-11-2006,Dietmar Herhaus,Alemania,,bundesliga_femenina
+MSV Duisburg,01-07-1999,30-06-2005,Jürgen Krust,Alemania,15-08-1943,bundesliga_femenina
+SV Meppen,15-07-2022,30-06-2023,Carin Bakhuis,Países Bajos,04-01-1990,bundesliga_femenina
+SV Meppen,01-07-2019,30-06-2022,Theodoros Dedes,Grecia,17-02-1990,bundesliga_femenina
+SV Meppen,01-07-2016,30-06-2019,Roger Müller,Alemania,,bundesliga_femenina
+SV Meppen,01-07-2013,30-06-2016,Tommy Stroot,Alemania,24-12-1988,bundesliga_femenina
+SV Meppen,01-07-2011,30-06-2013,Maria Reisinger,Alemania,13-06-1971,bundesliga_femenina
+1. FFC Frankfurt,29-09-2017,30-06-2026,Niko Arnautis,Alemania,01-04-1980,bundesliga_femenina
+1. FFC Frankfurt,02-12-2015,28-09-2017,Matt Ross,Australia,04-01-1978,bundesliga_femenina
+1. FFC Frankfurt,01-07-2013,01-12-2015,Colin Bell,Inglaterra,05-08-1961,bundesliga_femenina
+1. FFC Frankfurt,18-04-2013,30-06-2013,Sascha Glass,Alemania,12-10-1972,bundesliga_femenina
+1. FFC Frankfurt,12-09-2012,17-04-2013,Philipp Dahm,Alemania,31-05-1979,bundesliga_femenina
+1. FFC Frankfurt,15-10-2009,11-09-2012,Sven Kahlert,Alemania,14-10-1970,bundesliga_femenina
+1. FFC Frankfurt,01-07-2008,14-10-2009,Günter Wegmann,Alemania,15-02-1954,bundesliga_femenina
+1. FFC Frankfurt,01-07-2004,30-06-2008,Hans-Jürgen Tritschoks,Alemania,09-11-1955,bundesliga_femenina
+1. FFC Frankfurt,01-07-1998,30-06-2004,Monika Staab,Alemania,09-01-1959,bundesliga_femenina
+FF USV Jena,01-07-2022,30-06-2023,Steffen Beck,Alemania,19-10-1963,bundesliga_femenina
+FF USV Jena,01-07-2020,30-06-2022,Anne Pochert,Alemania,04-02-1986,bundesliga_femenina
+FF USV Jena,01-07-2019,30-06-2020,Chris Heck,Alemania,11-02-1974,bundesliga_femenina
+FF USV Jena,01-07-2018,30-06-2019,Steffen Beck,Alemania,19-10-1963,bundesliga_femenina
+FF USV Jena,21-11-2016,30-06-2018,Katja Greulich,Alemania,25-03-1985,bundesliga_femenina
+FF USV Jena,04-11-2016,20-11-2016,Steffen Beck,Alemania,19-10-1963,bundesliga_femenina
+FF USV Jena,01-07-2016,04-11-2016,Christian Franz-Pohlmann,Alemania,15-08-1980,bundesliga_femenina
+FF USV Jena,30-01-2012,30-06-2016,Daniel Kraus,Alemania,11-05-1984,bundesliga_femenina
+FF USV Jena,01-07-2011,29-01-2012,Martina Voss-Tecklenburg,Alemania,22-12-1967,bundesliga_femenina
+FF USV Jena,29-12-2010,30-06-2011,Konrad Weise,Alemania,17-08-1951,bundesliga_femenina
+FF USV Jena,04-11-2010,28-12-2010,Daniel Kraus,Alemania,11-05-1984,bundesliga_femenina
+FF USV Jena,01-07-2010,03-11-2010,Thorsten Zaunmüller,Alemania,11-05-1970,bundesliga_femenina
+FF USV Jena,01-07-2003,30-06-2010,Heidi Vater,Alemania,07-07-1966,bundesliga_femenina
+Bor. Mönchengladbach,12-07-2021,30-06-2022,Christoph Schaefer,Alemania,,bundesliga_femenina
+Bor. Mönchengladbach,04-05-2021,30-06-2021,Romeo Schäfer,Alemania,05-02-1986,bundesliga_femenina
+Bor. Mönchengladbach,01-07-2020,03-05-2021,Peter Hansen,Alemania,16-04-1962,bundesliga_femenina
+Bor. Mönchengladbach,01-07-2016,30-06-2020,René Krienen,Alemania,26-08-1982,bundesliga_femenina
+Bor. Mönchengladbach,01-07-2014,30-06-2018,Mike Schmalenberg,Alemania,25-03-1986,bundesliga_femenina
+Bor. Mönchengladbach,01-07-2013,30-06-2014,Kyle Berger,Estados Unidos,04-07-1975,bundesliga_femenina
+Bor. Mönchengladbach,14-04-2012,30-06-2013,Eike Herding,Alemania,05-11-1984,bundesliga_femenina
+Bor. Mönchengladbach,01-07-2009,12-04-2012,Friedel Baumann,Alemania,07-12-1962,bundesliga_femenina
+Herforder SV,01-07-2018,30-06-2019,Maximilian Grove,Alemania,15-02-1991,bundesliga_femenina
+Herforder SV,27-03-2017,30-06-2018,Ralf Lietz,Alemania,11-08-1966,bundesliga_femenina
+Herforder SV,01-04-2016,26-03-2017,Daniel Hollensteiner,Alemania,09-06-1982,bundesliga_femenina
+Herforder SV,15-10-2010,31-03-2016,Jürgen Prüfer,Alemania,17-04-1967,bundesliga_femenina
+Herforder SV,01-07-2008,14-10-2010,Tanja Schulte,Alemania,05-04-1975,bundesliga_femenina
+Herforder SV,01-07-2003,30-06-2008,Björn Kenter,Alemania,01-02-1973,bundesliga_femenina
+VfL Sindelfingen,01-07-2018,30-06-2019,Muhidin Avdusinovic,Alemania,,bundesliga_femenina
+VfL Sindelfingen,08-02-2018,30-06-2018,Nadine Rolser,Alemania,13-04-1990,bundesliga_femenina
+VfL Sindelfingen,01-07-2017,07-02-2018,Alexander Schick,Alemania,,bundesliga_femenina
+VfL Sindelfingen,31-12-2013,30-06-2017,Saban Uzun,Alemania,14-05-1987,bundesliga_femenina
+VfL Sindelfingen,01-07-2008,30-12-2013,Niko Koutroubis,Grecia,23-08-1969,bundesliga_femenina
+VfL Sindelfingen,01-01-2008,30-06-2008,Dietmar Sehrig,Alemania,07-10-1961,bundesliga_femenina
+VfL Sindelfingen,01-07-2005,31-12-2007,Günter Rommel,Alemania,18-06-1956,bundesliga_femenina
+BV Cloppenburg,01-01-2020,30-06-2020,Tanja Schulte,Alemania,05-04-1975,bundesliga_femenina
+BV Cloppenburg,01-07-2019,31-12-2019,Sven Thoß,Alemania,28-07-1966,bundesliga_femenina
+BV Cloppenburg,23-12-2018,30-06-2019,Tanja Schulte,Alemania,05-04-1975,bundesliga_femenina
+BV Cloppenburg,01-07-2018,22-12-2018,Imke Wübbenhorst,Alemania,10-12-1988,bundesliga_femenina
+BV Cloppenburg,22-10-2010,30-06-2018,Tanja Schulte,Alemania,05-04-1975,bundesliga_femenina
+BV Cloppenburg,01-07-2010,17-10-2010,Matthias Rieck-Göken,Alemania,,bundesliga_femenina
+FCR 2001 Duisburg,13-03-2022,30-06-2023,Nico Schneck,Alemania,06-10-1987,bundesliga_femenina
+FCR 2001 Duisburg,01-07-2021,12-03-2022,Henrik Lehm,Dinamarca,23-08-1960,bundesliga_femenina
+FCR 2001 Duisburg,26-02-2018,30-06-2021,Thomas Gerstner,Alemania,06-11-1966,bundesliga_femenina
+FCR 2001 Duisburg,14-02-2018,25-02-2018,Robert Augustin,Alemania,14-02-1992,bundesliga_femenina
+FCR 2001 Duisburg,01-07-2017,14-02-2018,Christian Franz-Pohlmann,Alemania,15-08-1980,bundesliga_femenina
+FCR 2001 Duisburg,01-07-2014,30-06-2017,Inka Grings,Alemania,31-10-1978,bundesliga_femenina
+FCR 2001 Duisburg,01-03-2013,30-06-2014,Sven Kahlert,Alemania,14-10-1970,bundesliga_femenina
+FCR 2001 Duisburg,29-10-2012,28-02-2013,Petra Hauser,Alemania,15-01-1971,bundesliga_femenina
+FCR 2001 Duisburg,18-02-2011,28-10-2012,Marco Ketelaer,Alemania,18-07-1969,bundesliga_femenina
+FCR 2001 Duisburg,12-02-2008,17-02-2011,Martina Voss-Tecklenburg,Alemania,22-12-1967,bundesliga_femenina
+FCR 2001 Duisburg,17-11-2006,10-02-2008,Thomas Obliers,Alemania,21-10-1967,bundesliga_femenina
+FCR 2001 Duisburg,01-07-2005,16-11-2006,Dietmar Herhaus,Alemania,,bundesliga_femenina
+FCR 2001 Duisburg,01-07-1999,30-06-2005,Jürgen Krust,Alemania,15-08-1943,bundesliga_femenina
+SC 07 Bad Neuenahr,01-01-2020,30-06-2023,Anne-Kathrine Kremer,Alemania,30-12-1987,bundesliga_femenina
+SC 07 Bad Neuenahr,01-07-2019,07-11-2019,Jörg Rohleder,Alemania,,bundesliga_femenina
+SC 07 Bad Neuenahr,20-03-2014,30-05-2015,Thomas Remark,Alemania,05-10-1959,bundesliga_femenina
+SC 07 Bad Neuenahr,03-09-2013,30-06-2014,Carsten Beschorner,Alemania,26-10-1968,bundesliga_femenina
+SC 07 Bad Neuenahr,01-07-2011,30-06-2013,Colin Bell,Inglaterra,05-08-1961,bundesliga_femenina
+SC 07 Bad Neuenahr,22-03-2011,30-06-2011,Mirco Borniger,Alemania,14-12-1984,bundesliga_femenina
+SC 07 Bad Neuenahr,01-07-2009,21-03-2011,Thomas Obliers,Alemania,21-10-1967,bundesliga_femenina
+SC 07 Bad Neuenahr,06-04-2009,30-06-2009,Georg Engel,Alemania,17-03-1951,bundesliga_femenina
+SC 07 Bad Neuenahr,24-01-2008,30-06-2008,Sandra Minnert,Alemania,07-04-1973,bundesliga_femenina
+SC 07 Bad Neuenahr,01-07-2005,23-01-2008,Dietmar Schacht,Alemania,28-09-1962,bundesliga_femenina
+SC 07 Bad Neuenahr,01-01-2002,30-06-2005,Doreen Meier,Alemania,09-11-1968,bundesliga_femenina
+SC 07 Bad Neuenahr,01-01-2001,31-12-2001,Werner Bongartz,Alemania,31-03-1963,bundesliga_femenina
+SC 07 Bad Neuenahr,01-07-2000,30-06-2001,Iraklis Metaxas,Alemania,10-07-1967,bundesliga_femenina
+FSV Gütersloh 2009,01-07-2022,30-06-2023,Britta Hainke,Alemania,10-03-1968,bundesliga_femenina
+FSV Gütersloh 2009,01-01-2019,30-06-2022,Steffen Enge,Alemania,08-12-1965,bundesliga_femenina
+FSV Gütersloh 2009,01-07-2018,31-12-2018,Mark Oliver Stricker,Alemania,11-04-1972,bundesliga_femenina
+FSV Gütersloh 2009,18-03-2018,30-06-2018,Markus Graskamp,Alemania,22-09-1970,bundesliga_femenina
+FSV Gütersloh 2009,01-07-2016,18-03-2018,Britta Hainke,Alemania,10-03-1968,bundesliga_femenina
+FSV Gütersloh 2009,01-07-2015,30-06-2016,Christian Franz-Pohlmann,Alemania,15-08-1980,bundesliga_femenina
+FSV Gütersloh 2009,01-07-2013,30-06-2015,Ralf Lietz,Alemania,11-08-1966,bundesliga_femenina
+FSV Gütersloh 2009,01-07-2010,30-06-2013,Markus Graskamp,Alemania,22-09-1970,bundesliga_femenina
+FSV Gütersloh 2009,28-01-2010,30-06-2010,Christina Krüger,Alemania,29-11-1984,bundesliga_femenina
+FSV Gütersloh 2009,01-07-2009,27-01-2010,Heiko Bonan,Alemania,10-02-1966,bundesliga_femenina
+FSV Gütersloh 2009,01-07-2000,30-06-2002,Mark Oliver Stricker,Alemania,11-04-1972,bundesliga_femenina
+Hamburgo,01-07-2021,30-06-2023,Lewe Timm,Alemania,,bundesliga_femenina
+Hamburgo,01-07-2018,30-06-2020,Manuel Alpers,Alemania,10-08-1977,bundesliga_femenina
+Hamburgo,01-07-2015,30-06-2018,Christian Kroll,Alemania,07-06-1986,bundesliga_femenina
+Hamburgo,29-01-2015,30-06-2015,Kay-Ole Schönemann,Alemania,03-10-1985,bundesliga_femenina
+Hamburgo,01-07-2013,28-01-2015,Ralf Schehr,Alemania,28-10-1953,bundesliga_femenina
+Hamburgo,01-07-2012,30-06-2013,Holger Prischmann,Alemania,00-00-1960,bundesliga_femenina
+Hamburgo,01-07-2005,30-06-2012,Achim Feifel,Alemania,03-08-1964,bundesliga_femenina
+Hamburgo,01-07-2001,30-06-2005,Andrew Pfennig,Alemania,01-01-1962,bundesliga_femenina
+1. FC Lok Leipzig,16-07-2012,30-06-2013,Hendrik Rudolph,Alemania,10-09-1960,bundesliga_femenina
+1. FC Lok Leipzig,25-05-2012,03-07-2012,Christof Reimann,Alemania,30-12-1983,bundesliga_femenina
+1. FC Lok Leipzig,18-04-2012,24-05-2012,Frank Tresp,Alemania,,bundesliga_femenina
+1. FC Lok Leipzig,05-10-2011,17-04-2012,Jürgen Brauße,Alemania,27-11-1954,bundesliga_femenina
+1. FC Lok Leipzig,01-07-2011,04-10-2011,Claudia von Lanken,Alemania,03-06-1977,bundesliga_femenina
+1. FC Lok Leipzig,01-07-2010,30-06-2011,Jürgen Brauße,Alemania,27-11-1954,bundesliga_femenina
+1. FC Lok Leipzig,07-02-2010,30-06-2010,Michael Meyer,Alemania,05-03-1951,bundesliga_femenina
+1. FC Lok Leipzig,01-07-2008,06-02-2010,Sven Thoß,Alemania,28-07-1966,bundesliga_femenina
+SG Essen-Schönebeck,01-07-2019,30-06-2025,Markus Högner,Alemania,26-04-1967,bundesliga_femenina
+SG Essen-Schönebeck,01-07-2016,30-06-2019,Daniel Kraus,Alemania,11-05-1984,bundesliga_femenina
+SG Essen-Schönebeck,01-07-2010,30-06-2016,Markus Högner,Alemania,26-04-1967,bundesliga_femenina
+SG Essen-Schönebeck,01-07-2004,30-06-2010,Ralf Agolli,Alemania,23-04-1961,bundesliga_femenina
+1. FC Saarbrücken,01-07-2016,30-06-2023,Taifour Diane,Guinea  ,01-11-1972,bundesliga_femenina
+1. FC Saarbrücken,01-07-2011,30-06-2016,Winfried Klein,Alemania,19-06-1956,bundesliga_femenina
+1. FC Saarbrücken,05-02-2011,30-06-2011,Tobias Jungfleisch,Alemania,,bundesliga_femenina
+1. FC Saarbrücken,01-07-2009,04-02-2011,Stephan Fröhlich,Alemania,22-05-1970,bundesliga_femenina
+1. FC Saarbrücken,01-07-2008,30-06-2009,Winfried Klein,Alemania,19-06-1956,bundesliga_femenina
+1. FC Saarbrücken,01-07-2004,30-06-2008,Guido Mey,Alemania,18-09-1944,bundesliga_femenina
+1. FC Saarbrücken,01-07-2003,30-06-2004,Georgios Tselios,Alemania,21-04-1968,bundesliga_femenina
+1. FC Saarbrücken,01-07-2001,30-06-2002,Klaus Scherer,Alemania,01-07-1958,bundesliga_femenina
+1. FC Saarbrücken,01-07-2000,30-06-2001,Uwe Grub,Alemania,25-01-1961,bundesliga_femenina
+1. FC Saarbrücken,01-07-1995,30-06-2000,Margret Kratz,Alemania,11-01-1962,bundesliga_femenina
+TeBe Berlin,24-02-2012,30-06-2012,Stephan Marx,Alemania,,bundesliga_femenina
+TeBe Berlin,01-07-2011,23-02-2012,Dirk Fleischer,Alemania,03-12-1968,bundesliga_femenina
+TeBe Berlin,09-08-2010,30-06-2011,Jürgen Druschky,Alemania,,bundesliga_femenina
+TeBe Berlin,01-07-2010,08-08-2010,Oliver Ronneberger,Alemania,,bundesliga_femenina
+TeBe Berlin,01-07-2007,30-06-2010,Thomas Grunenberg,Alemania,02-11-1955,bundesliga_femenina
+TeBe Berlin,01-07-2005,30-06-2008,Sven Thoß,Alemania,28-07-1966,bundesliga_femenina
+TeBe Berlin,01-07-2002,30-06-2003,Gabriela Wahnschaffe,Alemania,11-11-1961,bundesliga_femenina
+TSV Crailsheim,01-07-2020,30-06-2022,Tanja Hofmann,Alemania,11-10-1987,bundesliga_femenina
+TSV Crailsheim,01-07-2019,30-06-2020,Martin Grund,Alemania,28-02-1990,bundesliga_femenina
+TSV Crailsheim,01-07-2017,30-06-2018,Wulf Saur,Alemania,21-12-1964,bundesliga_femenina
+TSV Crailsheim,01-07-2016,30-06-2017,Benjamin Röseke,Alemania,,bundesliga_femenina
+TSV Crailsheim,01-07-2014,30-06-2016,Petar Kosturkov,Bulgaria,17-09-1969,bundesliga_femenina
+TSV Crailsheim,01-07-2009,30-06-2014,Christian Isert,Alemania,05-01-1968,bundesliga_femenina
+TSV Crailsheim,01-07-2008,30-06-2009,Hubert Müller,Alemania,22-08-1952,bundesliga_femenina
+TSV Crailsheim,07-01-2008,30-06-2008,Andreas Haferkamp,Alemania,19-12-1965,bundesliga_femenina
+TSV Crailsheim,01-07-2006,18-12-2007,Günther Wörle,Alemania,01-10-1949,bundesliga_femenina
+TSV Crailsheim,01-07-2004,30-06-2005,Wulf Sauer,Alemania,,bundesliga_femenina
+SG Wattenscheid 09,01-07-2009,30-06-2010,Jörg Amthor,Alemania,23-10-1962,bundesliga_femenina
+SG Wattenscheid 09,01-07-2008,30-06-2009,Jürgen Krust,Alemania,15-08-1943,bundesliga_femenina
+SG Wattenscheid 09,01-07-2008,30-06-2009,Thomas Obliers,Alemania,21-10-1967,bundesliga_femenina
+SG Wattenscheid 09,07-03-2008,30-06-2008,André Birker,Alemania,,bundesliga_femenina
+SG Wattenscheid 09,01-01-2005,03-03-2008,Tanja Schulte,Alemania,05-04-1975,bundesliga_femenina
+Heike Rheine,01-07-2011,30-06-2012,Uwe Kitroschat,Alemania,,bundesliga_femenina
+Heike Rheine,01-07-2000,30-06-2007,Nicole Werner,Alemania,16-08-1972,bundesliga_femenina
+Brauweiler Pulheim,07-10-2006,30-06-2007,Manuel Gonzalez,Alemania,,bundesliga_femenina
+Brauweiler Pulheim,01-07-2004,15-09-2006,Willi Küpper,Alemania,05-12-1951,bundesliga_femenina
+Brauweiler Pulheim,08-05-2004,30-06-2004,Anja Koser,Alemania,09-05-1970,bundesliga_femenina
+Brauweiler Pulheim,15-11-2003,26-04-2004,Peter Angenendt,Alemania,,bundesliga_femenina
+Brauweiler Pulheim,01-07-2002,03-11-2003,Friedhelm Fröhlich,Alemania,26-04-1952,bundesliga_femenina
+Brauweiler Pulheim,01-07-1999,30-06-2002,Hans-Jürgen Tritschoks,Alemania,09-11-1955,bundesliga_femenina
+FSV Frankfurt,01-07-2005,30-06-2006,Frank Schwalenberg,Alemania,,bundesliga_femenina
+FSV Frankfurt,01-01-2004,30-06-2005,Bernd Witzenrath,Alemania,06-05-1947,bundesliga_femenina
+FSV Frankfurt,01-07-2003,08-12-2003,Lars Isecke,Alemania,26-09-1971,bundesliga_femenina
+FSV Frankfurt,01-07-2002,30-06-2003,Nicole Brandebusemeyer,Alemania,09-10-1974,bundesliga_femenina
+FSV Frankfurt,01-07-2000,30-06-2002,Anouschka Bernhard,Alemania,05-10-1970,bundesliga_femenina
+FSV Frankfurt,01-07-1998,28-02-1999,Anouschka Bernhard,Alemania,05-10-1970,bundesliga_femenina
+TuS Niederkirchen,01-07-2022,30-06-2023,Andreas Hack,Alemania,23-11-1982,bundesliga_femenina
+TuS Niederkirchen,01-07-2021,30-06-2022,Rolf Freymüller,Alemania,,bundesliga_femenina
+TuS Niederkirchen,01-07-2015,30-06-2021,Niko Koutroubis,Grecia,23-08-1969,bundesliga_femenina
+TuS Niederkirchen,10-12-2014,30-06-2015,Markus Bähr,Alemania,10-09-1974,bundesliga_femenina
+TuS Niederkirchen,06-11-2012,09-12-2014,Goran Barisic,Alemania,,bundesliga_femenina
+TuS Niederkirchen,29-03-2012,01-11-2012,Andreas Hack,Alemania,23-11-1982,bundesliga_femenina
+TuS Niederkirchen,01-07-2009,28-03-2012,Torben Meyer,Alemania,19-04-1968,bundesliga_femenina
+TuS Niederkirchen,01-07-2002,30-06-2003,Heinz Wilhelmi,Alemania,19-08-1954,bundesliga_femenina
+TuS Niederkirchen,01-10-1999,30-06-2000,Paul Hoffmann,Alemania,,bundesliga_femenina
+WSV Wolfsburg-Wendschott,01-07-2002,30-06-2003,Can Vanli,Turquía,04-11-1962,bundesliga_femenina
+WSV Wolfsburg-Wendschott,01-07-1999,30-06-2002,Petra Damm,Alemania,20-03-1961,bundesliga_femenina
+FCR Duisburg 55,13-03-2022,30-06-2023,Nico Schneck,Alemania,06-10-1987,bundesliga_femenina
+FCR Duisburg 55,01-07-2021,12-03-2022,Henrik Lehm,Dinamarca,23-08-1960,bundesliga_femenina
+FCR Duisburg 55,26-02-2018,30-06-2021,Thomas Gerstner,Alemania,06-11-1966,bundesliga_femenina
+FCR Duisburg 55,14-02-2018,25-02-2018,Robert Augustin,Alemania,14-02-1992,bundesliga_femenina
+FCR Duisburg 55,01-07-2017,14-02-2018,Christian Franz-Pohlmann,Alemania,15-08-1980,bundesliga_femenina
+FCR Duisburg 55,01-07-2014,30-06-2017,Inka Grings,Alemania,31-10-1978,bundesliga_femenina
+FCR Duisburg 55,01-03-2013,30-06-2014,Sven Kahlert,Alemania,14-10-1970,bundesliga_femenina
+FCR Duisburg 55,29-10-2012,28-02-2013,Petra Hauser,Alemania,15-01-1971,bundesliga_femenina
+FCR Duisburg 55,18-02-2011,28-10-2012,Marco Ketelaer,Alemania,18-07-1969,bundesliga_femenina
+FCR Duisburg 55,12-02-2008,17-02-2011,Martina Voss-Tecklenburg,Alemania,22-12-1967,bundesliga_femenina
+FCR Duisburg 55,17-11-2006,10-02-2008,Thomas Obliers,Alemania,21-10-1967,bundesliga_femenina
+FCR Duisburg 55,01-07-2005,16-11-2006,Dietmar Herhaus,Alemania,,bundesliga_femenina
+FCR Duisburg 55,01-07-1999,30-06-2005,Jürgen Krust,Alemania,15-08-1943,bundesliga_femenina
+FFC Flaesheim-Hillen,01-07-2000,30-06-2001,Hermann Erlhoff,Alemania,22-12-1944,bundesliga_femenina
+Sportfreunde Siegen,01-07-2021,30-06-2022,Paul Müller,Alemania,00-00-1977,bundesliga_femenina
+Sportfreunde Siegen,01-07-2019,30-06-2021,Andreas Edelmann,Alemania,07-04-1966,bundesliga_femenina
+Sportfreunde Siegen,01-07-2011,30-06-2014,Reiner Jakobs,Alemania,10-02-1955,bundesliga_femenina
+Sportfreunde Siegen,01-07-1999,30-06-2001,Claudia Klein,Alemania,24-09-1971,bundesliga_femenina
+1. FC Nürnberg,01-07-2022,30-06-2023,Alex Theiss,Alemania,,bundesliga_femenina
+1. FC Nürnberg,01-07-2021,30-06-2022,Matthias Meyer,Alemania,17-02-1975,bundesliga_femenina
+1. FC Nürnberg,01-07-2017,30-06-2021,Osman Cankaya,Alemania,07-05-1989,bundesliga_femenina
+1. FC Nürnberg,01-07-2015,30-06-2017,Norbert Frey,Alemania,17-06-1961,bundesliga_femenina
+1. FC Nürnberg,01-07-2014,30-06-2015,Dragan Misetic,Croacia,13-12-1971,bundesliga_femenina
+1. FC Nürnberg,04-11-2013,31-12-2013,Norbert Frey,Alemania,17-06-1961,bundesliga_femenina
+1. FC Nürnberg,01-07-2013,03-11-2013,Peter Wießmeier,Alemania,22-08-1965,bundesliga_femenina
+1. FC Nürnberg,01-11-1999,30-06-2000,Ioan Pal,Alemania,11-05-1946,bundesliga_femenina
+1. FC Nürnberg,01-07-1999,30-06-2000,Klaus Müller,Alemania,,bundesliga_femenina
+Grün-Weiß Brauweiler,07-10-2006,30-06-2007,Manuel Gonzalez,Alemania,,bundesliga_femenina
+Grün-Weiß Brauweiler,01-07-2004,15-09-2006,Willi Küpper,Alemania,05-12-1951,bundesliga_femenina
+Grün-Weiß Brauweiler,08-05-2004,30-06-2004,Anja Koser,Alemania,09-05-1970,bundesliga_femenina
+Grün-Weiß Brauweiler,15-11-2003,26-04-2004,Peter Angenendt,Alemania,,bundesliga_femenina
+Grün-Weiß Brauweiler,01-07-2002,03-11-2003,Friedhelm Fröhlich,Alemania,26-04-1952,bundesliga_femenina
+Grün-Weiß Brauweiler,01-07-1999,30-06-2002,Hans-Jürgen Tritschoks,Alemania,09-11-1955,bundesliga_femenina
+SSV Turbine Potsdam,14-11-2022,30-06-2023,Sven Weigang,Alemania,14-11-1964,bundesliga_femenina
+SSV Turbine Potsdam,31-10-2022,13-11-2022,Dirk Heinrichs,Alemania,20-05-1968,bundesliga_femenina
+SSV Turbine Potsdam,17-06-2022,30-10-2022,Sebastian Middeke,Alemania,02-02-1984,bundesliga_femenina
+SSV Turbine Potsdam,01-07-2020,30-06-2022,Sofian Chahed,Túnez,18-04-1983,bundesliga_femenina
+SSV Turbine Potsdam,01-07-2016,30-06-2020,Matthias Rudolph,Alemania,06-09-1982,bundesliga_femenina
+SSV Turbine Potsdam,16-12-1997,30-06-2016,Bernd Schröder,Alemania,22-07-1942,bundesliga_femenina
+SSV Turbine Potsdam,01-07-1997,15-12-1997,Eckhard Düwiger,Alemania,01-02-1947,bundesliga_femenina
+SSV Turbine Potsdam,01-07-1995,30-06-1997,Lothar Müller,Alemania,,bundesliga_femenina
+SSV Turbine Potsdam,21-11-1994,30-06-1995,Sabine Seidel,Alemania,08-09-1956,bundesliga_femenina
+SSV Turbine Potsdam,01-07-1993,20-11-1994,Frank Lange,Alemania,15-11-1951,bundesliga_femenina
+SSV Turbine Potsdam,01-07-1992,30-06-1993,Peter Raupach,Alemania,,bundesliga_femenina
+SSV Turbine Potsdam,01-07-1971,30-06-1992,Bernd Schröder,Alemania,22-07-1942,bundesliga_femenina
+SG Praunheim,01-07-1983,30-06-1998,Monika Staab,Alemania,09-01-1959,bundesliga_femenina
+SC Klinge-Seckach,01-07-2009,30-06-2011,Horst Haselmann,Alemania,,bundesliga_femenina
+SC Klinge-Seckach,01-07-1989,30-06-1997,Ulrike Ballweg,Alemania,17-09-1965,bundesliga_femenina
+AIK Solna,01-01-2021,31-12-2023,Maiju Ruotsalainen,Finlandia,25-11-1983,damallsvenskan_suiza_femenina
+AIK Solna,01-01-2012,31-12-2014,Mattias Eriksson,Suecia,20-09-1977,damallsvenskan_suiza_femenina
+Djurgårdens IF,24-08-2021,31-12-2022,Magnus Pålsson,Suecia,,damallsvenskan_suiza_femenina
+Djurgårdens IF,23-08-2019,23-08-2021,Pierre Fondin,Suecia,02-08-1991,damallsvenskan_suiza_femenina
+Djurgårdens IF,01-01-2017,31-12-2017,Joel Riddez,Suecia,21-05-1980,damallsvenskan_suiza_femenina
+Djurgårdens IF,01-01-2008,31-12-2009,Anders Johansson,Suecia,01-01-1967,damallsvenskan_suiza_femenina
+Eskilstuna United,01-01-2022,31-12-2022,Fredrik Bernhardsson,Suecia,,damallsvenskan_suiza_femenina
+Eskilstuna United,15-05-2018,31-12-2021,Magnus Karlsson,Suecia,06-11-1967,damallsvenskan_suiza_femenina
+Eskilstuna United,01-01-2012,31-12-2017,Viktor Eriksson,Suecia,29-04-1985,damallsvenskan_suiza_femenina
+IF Brommapojkarna,01-01-2020,31-12-2022,Marcelo Fernández,Suecia,14-09-1982,damallsvenskan_suiza_femenina
+Kristianstads DFF,01-01-2011,31-12-2022,Elísabet Gunnarsdóttir,Islandia,02-10-1976,damallsvenskan_suiza_femenina
+KIF Örebro DFF,01-01-2021,31-12-2022,Rickard Johansson,Suecia,16-05-1985,damallsvenskan_suiza_femenina
+KIF Örebro DFF,01-11-2017,31-12-2020,Stefan Ärnsved,Suecia,10-12-1977,damallsvenskan_suiza_femenina
+KIF Örebro DFF,01-01-2011,31-12-2015,Rickard Nilsson,Suecia,18-12-1969,damallsvenskan_suiza_femenina
+KIF Örebro DFF,01-01-2005,31-12-2006,Pia Sundhage,Suecia,13-02-1960,damallsvenskan_suiza_femenina
+Vittsjö GIK,01-01-2014,31-12-2014,Simon Sjöfors,Suecia,08-07-1973,damallsvenskan_suiza_femenina
+Vittsjö GIK,01-01-2011,31-12-2022,Thomas Mårtensson,Suecia,04-09-1967,damallsvenskan_suiza_femenina
+Linköpings FC,01-01-2021,31-12-2023,Andrée Jeglertz,Suecia,14-02-1973,damallsvenskan_suiza_femenina
+Linköpings FC,01-07-2018,31-12-2020,Olof Unogård,Suecia,21-08-1988,damallsvenskan_suiza_femenina
+Linköpings FC,01-01-2018,04-05-2018,Marcus Walfridson,Suecia,00-00-1982,damallsvenskan_suiza_femenina
+Linköpings FC,01-01-2017,31-12-2017,Kim Björkegren,Suecia,,damallsvenskan_suiza_femenina
+Linköpings FC,01-01-2012,31-12-2015,Martin Sjögren,Suecia,27-04-1977,damallsvenskan_suiza_femenina
+Linköpings FC,01-01-2011,31-12-2011,Jörgen Petersson,Suecia,12-10-1964,damallsvenskan_suiza_femenina
+Umeå IK FF,01-01-2021,31-12-2022,Samuel Fagerholm,Finlandia,10-10-1992,damallsvenskan_suiza_femenina
+Umeå IK FF,01-01-2017,31-12-2020,Robert Bergström,Suecia,10-06-1982,damallsvenskan_suiza_femenina
+Umeå IK FF,01-01-2014,31-12-2014,Jonas Wikström,Suecia,,damallsvenskan_suiza_femenina
+Umeå IK FF,01-01-2004,31-12-2008,Andrée Jeglertz,Suecia,14-02-1973,damallsvenskan_suiza_femenina
+Umeå IK FF,01-01-2000,31-12-2003,Richard Holmlund,Suecia,26-10-1963,damallsvenskan_suiza_femenina
+Hammarby IF,01-01-2020,31-12-2022,Pablo Piñones-Arce,Suecia,27-08-1981,damallsvenskan_suiza_femenina
+Hammarby IF,01-01-1992,31-12-1994,Pia Sundhage,Suecia,13-02-1960,damallsvenskan_suiza_femenina
+Piteå IF,02-06-2018,31-12-2023,Stellan Carlsson,Suecia,11-07-1970,damallsvenskan_suiza_femenina
+Piteå IF,01-01-2011,12-01-2018,Stellan Carlsson,Suecia,11-07-1970,damallsvenskan_suiza_femenina
+IFK Kalmar,01-01-2021,31-12-2022,Frank Berntzen,Suecia,,damallsvenskan_suiza_femenina
+IFK Kalmar,01-01-2014,20-08-2018,Jonas Valfridsson,Suecia,11-01-1978,damallsvenskan_suiza_femenina
+BK Häcken,24-10-2021,31-12-2023,Robert Vilahamn,Suecia,02-01-1983,damallsvenskan_suiza_femenina
+BK Häcken,01-01-2020,31-12-2021,Mats Gren,Suecia,20-12-1963,damallsvenskan_suiza_femenina
+BK Häcken,01-07-2019,09-12-2019,Marcus Lantz,Suecia,23-10-1975,damallsvenskan_suiza_femenina
+BK Häcken,01-01-2014,31-12-2017,Stefan Rehn,Suecia,22-09-1966,damallsvenskan_suiza_femenina
+BK Häcken,01-01-2011,31-12-2013,Torbjörn Nilsson,Suecia,09-07-1954,damallsvenskan_suiza_femenina
+FC Rosengård,28-06-2021,31-12-2022,Renée Slegers,Países Bajos,05-02-1989,damallsvenskan_suiza_femenina
+FC Rosengård,01-01-2018,27-06-2021,Jonas Eidevall,Suecia,28-01-1983,damallsvenskan_suiza_femenina
+FC Rosengård,29-09-2017,31-12-2017,Malin Levenstad,Suecia,13-09-1988,damallsvenskan_suiza_femenina
+FC Rosengård,01-07-2015,28-09-2017,Jack Majgaard,Dinamarca,25-03-1973,damallsvenskan_suiza_femenina
+FC Rosengård,01-07-2014,30-06-2015,Markus Tilly,Suecia,21-04-1976,damallsvenskan_suiza_femenina
+FC Rosengård,01-01-2013,30-06-2014,Jonas Eidevall,Suecia,28-01-1983,damallsvenskan_suiza_femenina
+FC Rosengård,01-01-2012,31-12-2012,Peter Moberg,Suecia,09-04-1975,damallsvenskan_suiza_femenina
+FC Rosengård,01-01-2011,31-12-2011,Martin Sjögren,Suecia,27-04-1977,damallsvenskan_suiza_femenina
+FC Rosengård,01-01-1999,31-12-2002,Lena Videkull,Suecia,09-12-1962,damallsvenskan_suiza_femenina
+Växjö DFF,01-01-2022,31-12-2022,Olof Unogård,Suecia,21-08-1988,damallsvenskan_suiza_femenina
+Växjö DFF,15-06-2019,31-12-2021,Maria Nilsson,Suecia,05-02-1984,damallsvenskan_suiza_femenina
+Växjö DFF,31-10-2018,30-06-2019,Pierre Fondin,Suecia,02-08-1991,damallsvenskan_suiza_femenina
+Kopparbergs/Göteborg FC,24-10-2021,31-12-2023,Robert Vilahamn,Suecia,02-01-1983,damallsvenskan_suiza_femenina
+Kopparbergs/Göteborg FC,01-01-2020,31-12-2021,Mats Gren,Suecia,20-12-1963,damallsvenskan_suiza_femenina
+Kopparbergs/Göteborg FC,01-07-2019,09-12-2019,Marcus Lantz,Suecia,23-10-1975,damallsvenskan_suiza_femenina
+Kopparbergs/Göteborg FC,01-01-2014,31-12-2017,Stefan Rehn,Suecia,22-09-1966,damallsvenskan_suiza_femenina
+Kopparbergs/Göteborg FC,01-01-2011,31-12-2013,Torbjörn Nilsson,Suecia,09-07-1954,damallsvenskan_suiza_femenina
+IK Uppsala,01-01-2019,31-12-2021,Jonas Valfridsson,Suecia,11-01-1978,damallsvenskan_suiza_femenina
+Mallbackens IF,01-01-2021,31-12-2021,Jonas Rehnberg,Suecia,13-11-1971,damallsvenskan_suiza_femenina
+Mallbackens IF,01-08-2017,31-12-2017,Jonas Rehnberg,Suecia,13-11-1971,damallsvenskan_suiza_femenina
+Tyresö FF,01-01-2012,30-06-2014,Tony Gustavsson,Suecia,14-08-1973,damallsvenskan_suiza_femenina
+Tyresö FF,01-01-1996,31-12-1998,Anna Signeul,Suecia,20-05-1961,damallsvenskan_suiza_femenina
+Jitex BK,01-01-2021,31-12-2021,Kajsa Tornfalk,Suecia,,damallsvenskan_suiza_femenina
+Jitex BK,01-01-2020,31-12-2020,Anders Magnusson,Suecia,03-08-1967,damallsvenskan_suiza_femenina
+Jitex BK,01-01-2016,31-12-2017,Tiina Jukarainen,Suecia,31-03-1992,damallsvenskan_suiza_femenina
+Jitex BK,23-05-2014,31-12-2014,Jerry Carlsson,Suecia,,damallsvenskan_suiza_femenina
+Jitex BK,01-01-2014,22-05-2014,Anders Holmvén,Suecia,,damallsvenskan_suiza_femenina
+Jitex BK,01-01-2012,31-12-2013,Stefan Rehn,Suecia,22-09-1966,damallsvenskan_suiza_femenina
+LdB FC Malmö,28-06-2021,31-12-2022,Renée Slegers,Países Bajos,05-02-1989,damallsvenskan_suiza_femenina
+LdB FC Malmö,01-01-2018,27-06-2021,Jonas Eidevall,Suecia,28-01-1983,damallsvenskan_suiza_femenina
+LdB FC Malmö,29-09-2017,31-12-2017,Malin Levenstad,Suecia,13-09-1988,damallsvenskan_suiza_femenina
+LdB FC Malmö,01-07-2015,28-09-2017,Jack Majgaard,Dinamarca,25-03-1973,damallsvenskan_suiza_femenina
+LdB FC Malmö,01-07-2014,30-06-2015,Markus Tilly,Suecia,21-04-1976,damallsvenskan_suiza_femenina
+LdB FC Malmö,01-01-2013,30-06-2014,Jonas Eidevall,Suecia,28-01-1983,damallsvenskan_suiza_femenina
+LdB FC Malmö,01-01-2012,31-12-2012,Peter Moberg,Suecia,09-04-1975,damallsvenskan_suiza_femenina
+LdB FC Malmö,01-01-2011,31-12-2011,Martin Sjögren,Suecia,27-04-1977,damallsvenskan_suiza_femenina
+LdB FC Malmö,01-01-1999,31-12-2002,Lena Videkull,Suecia,09-12-1962,damallsvenskan_suiza_femenina
+Stattena IF,01-01-2009,28-09-2009,Marianne Miettinen,Finlandia,13-06-1975,damallsvenskan_suiza_femenina
+PSV Eindhoven,02-12-2020,30-06-2025,Rick de Rooij,Países Bajos,07-09-1979,eredivisie_paises_bajos_femenina
+PSV Eindhoven,01-07-2018,25-11-2020,Sander Luiten,Países Bajos,13-12-1974,eredivisie_paises_bajos_femenina
+PSV Eindhoven,01-07-2013,30-06-2018,Nebojša Vučković,Países Bajos,25-07-1975,eredivisie_paises_bajos_femenina
+PSV Eindhoven,01-07-2012,21-12-2012,Hesterine de Reus,Países Bajos,06-12-1961,eredivisie_paises_bajos_femenina
+FC Twente,01-07-2022,30-06-2023,Joran Pot,Países Bajos,20-01-1989,eredivisie_paises_bajos_femenina
+FC Twente,01-07-2021,30-06-2022,Robert de Pauw,Países Bajos,24-07-1981,eredivisie_paises_bajos_femenina
+FC Twente,01-07-2016,30-06-2021,Tommy Stroot,Alemania,24-12-1988,eredivisie_paises_bajos_femenina
+FC Twente,01-01-2012,30-06-2016,Arjan Veurink,Países Bajos,23-09-1986,eredivisie_paises_bajos_femenina
+FC Twente,01-07-2011,31-12-2011,John van Miert,Países Bajos,16-10-1961,eredivisie_paises_bajos_femenina
+FC Twente,01-07-2008,30-06-2011,Mary Kok-Willemsen,Países Bajos,07-01-1978,eredivisie_paises_bajos_femenina
+SBV Excelsior,01-07-2018,30-06-2022,Richard Mank,Países Bajos,04-02-1980,eredivisie_paises_bajos_femenina
+SBV Excelsior,01-07-2017,30-06-2018,Sander Luiten,Países Bajos,13-12-1974,eredivisie_paises_bajos_femenina
+ADO Den Haag,01-07-2019,30-06-2023,Sjaak Polak,Países Bajos,18-02-1976,eredivisie_paises_bajos_femenina
+ADO Den Haag,01-07-2016,30-06-2019,Arend Regeer,Países Bajos,04-09-1974,eredivisie_paises_bajos_femenina
+ADO Den Haag,01-07-2014,30-06-2016,Marcel Valk,Países Bajos,18-04-1967,eredivisie_paises_bajos_femenina
+ADO Den Haag,01-07-2008,30-06-2014,Sarina Wiegman,Países Bajos,26-10-1969,eredivisie_paises_bajos_femenina
+Feyenoord,01-07-2021,30-06-2024,Danny Mulder,Países Bajos,13-01-1974,eredivisie_paises_bajos_femenina
+vv Alkmaar,03-08-2021,30-06-2023,Mark de Vries,Surinam,24-08-1975,eredivisie_paises_bajos_femenina
+vv Alkmaar,01-07-2019,02-08-2021,Corina Dekker,Países Bajos,28-06-1983,eredivisie_paises_bajos_femenina
+vv Alkmaar,01-07-2018,30-06-2019,Judith Kuipers,Países Bajos,,eredivisie_paises_bajos_femenina
+vv Alkmaar,01-07-2013,30-06-2018,Gideon Dijks,Países Bajos,,eredivisie_paises_bajos_femenina
+vv Alkmaar,01-07-2011,30-06-2013,Hans de Winter,Países Bajos,14-01-1972,eredivisie_paises_bajos_femenina
+PEC Zwolle,14-07-2022,30-06-2024,Olivier Amelink,Países Bajos,,eredivisie_paises_bajos_femenina
+PEC Zwolle,01-07-2019,30-06-2022,Joran Pot,Países Bajos,20-01-1989,eredivisie_paises_bajos_femenina
+PEC Zwolle,01-07-2017,30-06-2019,Wim van der Wal,Países Bajos,08-10-1966,eredivisie_paises_bajos_femenina
+PEC Zwolle,12-01-2017,30-06-2017,Joran Pot,Países Bajos,20-01-1989,eredivisie_paises_bajos_femenina
+PEC Zwolle,01-07-2016,11-01-2017,Carin Meesters-Bakhuis,Países Bajos,,eredivisie_paises_bajos_femenina
+PEC Zwolle,01-03-2013,30-06-2016,Sebastiaan Borgardijn,Países Bajos,,eredivisie_paises_bajos_femenina
+PEC Zwolle,01-07-2010,30-06-2012,Bert Zuurman,Países Bajos,16-03-1973,eredivisie_paises_bajos_femenina
+AFC Ajax,01-07-2022,30-06-2024,Suzanne Bakker,Países Bajos,09-07-1986,eredivisie_paises_bajos_femenina
+AFC Ajax,01-07-2019,30-06-2022,Danny Schenkel,Países Bajos,01-04-1978,eredivisie_paises_bajos_femenina
+AFC Ajax,01-07-2017,30-06-2019,Benno Nihom,Países Bajos,10-11-1986,eredivisie_paises_bajos_femenina
+AFC Ajax,01-07-2012,30-06-2017,Ed Engelkes,Países Bajos,21-01-1964,eredivisie_paises_bajos_femenina
+sc Heerenveen,01-07-2022,30-06-2023,Hans Schrijver,Países Bajos,21-08-1959,eredivisie_paises_bajos_femenina
+sc Heerenveen,30-08-2017,30-06-2022,Roeland ten Berge,Países Bajos,19-03-1977,eredivisie_paises_bajos_femenina
+sc Heerenveen,01-07-2016,30-06-2017,Jan Schulting,Países Bajos,13-01-1956,eredivisie_paises_bajos_femenina
+sc Heerenveen,01-07-2015,30-06-2016,Fred de Boer,Países Bajos,15-06-1964,eredivisie_paises_bajos_femenina
+sc Heerenveen,01-04-2012,30-06-2012,Maarten de Jong,Países Bajos,26-03-1962,eredivisie_paises_bajos_femenina
+sc Heerenveen,01-07-2011,31-03-2012,Peter Meindertsma,Países Bajos,,eredivisie_paises_bajos_femenina
+sc Heerenveen,01-07-2009,30-06-2011,Rick Mulder,Países Bajos,,eredivisie_paises_bajos_femenina
+sc Heerenveen,01-07-2007,30-06-2009,Harry Sinkgraven,Países Bajos,21-01-1966,eredivisie_paises_bajos_femenina
+Excelsior Barendrecht,01-07-2018,30-06-2022,Richard Mank,Países Bajos,04-02-1980,eredivisie_paises_bajos_femenina
+Excelsior Barendrecht,01-07-2017,30-06-2018,Sander Luiten,Países Bajos,13-12-1974,eredivisie_paises_bajos_femenina
+Achilles'29,26-02-2018,30-06-2019,Marck Cieraad,Países Bajos,29-04-1990,eredivisie_paises_bajos_femenina
+Achilles'29,01-07-2017,20-02-2018,Robert de Pauw,Países Bajos,24-07-1981,eredivisie_paises_bajos_femenina
+Achilles'29,01-07-2016,30-06-2017,Judith Thijssen,Países Bajos,,eredivisie_paises_bajos_femenina
+SC Telstar VVNH,03-08-2021,30-06-2023,Mark de Vries,Surinam,24-08-1975,eredivisie_paises_bajos_femenina
+SC Telstar VVNH,01-07-2019,02-08-2021,Corina Dekker,Países Bajos,28-06-1983,eredivisie_paises_bajos_femenina
+SC Telstar VVNH,01-07-2018,30-06-2019,Judith Kuipers,Países Bajos,,eredivisie_paises_bajos_femenina
+SC Telstar VVNH,01-07-2013,30-06-2018,Gideon Dijks,Países Bajos,,eredivisie_paises_bajos_femenina
+SC Telstar VVNH,01-07-2011,30-06-2013,Hans de Winter,Países Bajos,14-01-1972,eredivisie_paises_bajos_femenina
+FC Utrecht,01-07-2009,30-06-2012,Marc Verkuijl,Países Bajos,19-11-1963,eredivisie_paises_bajos_femenina
+FC Utrecht,01-07-2007,30-06-2009,Maria van Kortenhof,Países Bajos,07-12-1959,eredivisie_paises_bajos_femenina
+FC Zwolle,14-07-2022,30-06-2024,Olivier Amelink,Países Bajos,,eredivisie_paises_bajos_femenina
+FC Zwolle,01-07-2019,30-06-2022,Joran Pot,Países Bajos,20-01-1989,eredivisie_paises_bajos_femenina
+FC Zwolle,01-07-2017,30-06-2019,Wim van der Wal,Países Bajos,08-10-1966,eredivisie_paises_bajos_femenina
+FC Zwolle,12-01-2017,30-06-2017,Joran Pot,Países Bajos,20-01-1989,eredivisie_paises_bajos_femenina
+FC Zwolle,01-07-2016,11-01-2017,Carin Meesters-Bakhuis,Países Bajos,,eredivisie_paises_bajos_femenina
+FC Zwolle,01-03-2013,30-06-2016,Sebastiaan Borgardijn,Países Bajos,,eredivisie_paises_bajos_femenina
+FC Zwolle,01-07-2010,30-06-2012,Bert Zuurman,Países Bajos,16-03-1973,eredivisie_paises_bajos_femenina
+VVV-Venlo,01-07-2010,30-06-2012,Rick de Rooij,Países Bajos,07-09-1979,eredivisie_paises_bajos_femenina
+AZ Alkmaar,01-07-2008,30-06-2011,Ed Engelkes,Países Bajos,21-01-1964,eredivisie_paises_bajos_femenina
+Willem II,01-07-2010,30-06-2012,Frans de Kat,Países Bajos,16-03-1965,eredivisie_paises_bajos_femenina
+Willem II,01-07-2009,30-06-2010,Mark Schenning,Países Bajos,18-10-1970,eredivisie_paises_bajos_femenina
+Willem II,01-07-2008,30-06-2009,Edwin Petersen,Países Bajos,16-05-1969,eredivisie_paises_bajos_femenina
+Roda JC Kerkrade,01-07-2008,30-06-2009,René Eijer,Países Bajos,01-01-1963,eredivisie_paises_bajos_femenina
+Barcelona,02-07-2021,30-06-2022,Jonatan Giráldez,España,27-11-1991,laliga_femenina
+Barcelona,08-01-2019,30-06-2021,Lluís Cortés,España,08-10-1986,laliga_femenina
+Barcelona,01-07-2017,30-06-2019,Fran Sánchez,España,27-10-1977,laliga_femenina
+Barcelona,01-07-2007,30-06-2017,Xavi Llorens,España,05-06-1958,laliga_femenina
+Atlético,01-07-2021,30-06-2022,Óscar Fernández,España,02-06-1987,laliga_femenina
+Atlético,12-01-2021,30-06-2021,Sánchez Vera,España,01-02-1983,laliga_femenina
+Atlético,21-01-2020,11-01-2021,Dani,España,08-07-1972,laliga_femenina
+Atlético,09-10-2019,30-06-2020,Pablo López,España,04-09-1974,laliga_femenina
+Atlético,01-07-2018,08-10-2019,Sánchez Vera,España,01-02-1983,laliga_femenina
+Atlético,14-01-2016,30-06-2018,Ángel Villacampa,España,14-02-1976,laliga_femenina
+Atlético,01-07-2015,13-01-2016,Miguel Ángel Sopuerta,España,19-12-1986,laliga_femenina
+SD Eibar,14-07-2021,30-06-2022,Ana Junyent,España,25-07-1974,laliga_femenina
+SD Eibar,01-07-2020,30-06-2021,Iker Dorronsoro,España,,laliga_femenina
+Levante,01-07-2021,30-06-2022,Ángel Villacampa,España,14-02-1976,laliga_femenina
+Levante,01-07-2019,30-06-2021,María Pry,España,28-09-1984,laliga_femenina
+Sporting de Huelva,01-07-2017,30-06-2022,Antonio Toledo,España,09-12-1957,laliga_femenina
+CD Alavés,01-07-2021,30-06-2022,Mikel Crespo,España,29-10-1991,laliga_femenina
+Real Sociedad,01-07-2020,30-06-2022,Natalia Arroyo,España,14-04-1986,laliga_femenina
+Real Sociedad,01-11-2017,30-06-2020,Gonzalo Arconada,España,23-07-1961,laliga_femenina
+Madrid CFF,01-07-2021,30-06-2022,Victor Fernández,España,01-01-1983,laliga_femenina
+Madrid CFF,01-07-2019,30-06-2021,Óscar Fernández,España,02-06-1987,laliga_femenina
+Real Betis,15-01-2021,30-06-2022,Amorós,España,03-06-1984,laliga_femenina
+Real Betis,01-01-2021,14-01-2021,Rafa Ríos,España,31-01-1976,laliga_femenina
+Real Betis,01-12-2019,29-12-2020,Pier,España,15-10-1971,laliga_femenina
+Sevilla,01-12-2018,30-06-2022,Cristian Toro,Argentina,08-06-1980,laliga_femenina
+Villarreal CF,01-07-2018,30-06-2022,Sara Monforte,España,14-10-1980,laliga_femenina
+Valencia,01-07-2021,30-06-2022,Andrea Esteban,España,29-02-1996,laliga_femenina
+Valencia,01-07-2020,30-06-2021,José Bargues,España,,laliga_femenina
+Valencia,02-02-2020,11-02-2020,Carolina Miranda,España,08-04-1982,laliga_femenina
+Athletic,08-01-2021,30-06-2022,Iraia Iturregui,España,24-04-1985,laliga_femenina
+Athletic,01-05-2019,07-01-2021,Ángel Villacampa,España,14-02-1976,laliga_femenina
+Athletic,01-07-2015,30-06-2017,Joseba,España,17-03-1964,laliga_femenina
+Rayo,24-08-2021,30-06-2022,Miguel Quejigo García,España,04-01-1988,laliga_femenina
+Rayo,01-08-2019,30-06-2021,Carlos Santiso,España,,laliga_femenina
+Rayo,01-07-2011,30-06-2012,José Ramón Hernández,España,04-02-1975,laliga_femenina
+Real Madrid,01-07-2018,30-06-2022,David Aznar,España,09-03-1980,laliga_femenina
+Real Madrid,01-07-2016,30-06-2018,Marta Tejedor,Inglaterra,23-12-1968,laliga_femenina
+UDG Tenerife Sur,01-01-2020,30-06-2022,Francis Díaz,España,27-07-1971,laliga_femenina
+EDF Logroño,15-12-2020,30-06-2021,Javier Moncayo,España,,laliga_femenina
+EDF Logroño,01-07-2019,14-12-2020,Gerardo,España,07-12-1974,laliga_femenina
+Espanyol,01-07-2020,30-06-2022,Rubén Casado,España,25-09-1985,laliga_femenina
+Espanyol,01-12-2019,30-06-2020,Ferrón,España,19-08-1978,laliga_femenina
+Santa Teresa CD,01-07-2020,30-06-2021,Antúnez,España,,laliga_femenina
+Deportivo de La Coruña,01-07-2018,30-06-2021,Manu Sánchez,España,,laliga_femenina
+CD Tacón,01-07-2018,30-06-2022,David Aznar,España,09-03-1980,laliga_femenina
+CD Tacón,01-07-2016,30-06-2018,Marta Tejedor,Inglaterra,23-12-1968,laliga_femenina
+Lyon,01-07-2021,30-06-2023,Sonia Bompastor,Francia,08-06-1980,ligue_1_femenina
+Lyon,01-07-2019,30-06-2021,Jean-Luc Vasseur,Francia,01-01-1969,ligue_1_femenina
+Lyon,01-07-2017,30-06-2019,Reynald Pedros,Francia,10-10-1971,ligue_1_femenina
+Lyon,01-07-2014,30-06-2017,Gérard Prêcheur,Francia,23-10-1959,ligue_1_femenina
+Lyon,01-07-2010,30-06-2014,Patrice Lair,Francia,16-06-1961,ligue_1_femenina
+Lyon,01-07-2001,30-06-2010,Farid Benstiti,Francia,16-01-1967,ligue_1_femenina
+Saint-Étienne,01-07-2017,30-06-2022,Jérôme Bonnet,Francia,13-07-1978,ligue_1_femenina
+Saint-Étienne,01-07-2011,30-06-2016,Didier Hervé,Francia,19-06-1961,ligue_1_femenina
+Saint-Étienne,01-07-2008,30-06-2017,Hervé Didier,Francia,19-06-1961,ligue_1_femenina
+Dijon FCO,01-07-2021,30-06-2022,Christophe Forest,Francia,18-03-1969,ligue_1_femenina
+Dijon FCO,01-07-2017,30-06-2021,Yannick Chandioux,Francia,01-09-1975,ligue_1_femenina
+Paris FC,01-07-2018,30-06-2022,Sandrine Soubeyrand,Francia,16-08-1973,ligue_1_femenina
+Paris FC,01-07-2017,30-06-2018,Pascal Gouzenes,Francia,,ligue_1_femenina
+Paris FC,01-07-2015,30-06-2017,Emmanuel Beauchet,Francia,09-04-1971,ligue_1_femenina
+Paris FC,01-07-2010,30-06-2013,Sandrine Mathivet,Francia,25-10-1968,ligue_1_femenina
+ASJ Soyaux,01-07-2021,30-06-2022,Dragan Cvetković,Serbia,19-09-1961,ligue_1_femenina
+ASJ Soyaux,01-11-2020,30-06-2021,Laurent Mortel,Francia,,ligue_1_femenina
+ASJ Soyaux,01-07-2017,31-10-2020,Sébastien Joseph,Francia,08-06-1979,ligue_1_femenina
+ASJ Soyaux,01-07-2012,30-06-2017,Juan Paredes,Francia,06-05-1960,ligue_1_femenina
+París Saint-Germain,01-07-2021,30-06-2022,Didier Olle-Nicolle,Francia,02-09-1961,ligue_1_femenina
+París Saint-Germain,01-07-2018,30-06-2021,Olivier Echouafni,Francia,13-09-1972,ligue_1_femenina
+París Saint-Germain,01-07-2016,30-06-2018,Patrice Lair,Francia,16-06-1961,ligue_1_femenina
+París Saint-Germain,01-07-2012,30-06-2016,Farid Benstiti,Francia,16-01-1967,ligue_1_femenina
+París Saint-Germain,01-07-2011,30-06-2012,Camillo Vaz,Francia,26-09-1975,ligue_1_femenina
+FC Fleury 91,01-07-2021,30-06-2022,Fabrice Abriel,Francia,06-07-1979,ligue_1_femenina
+FC Fleury 91,01-07-2020,30-06-2021,David Fanzel,Francia,09-11-1966,ligue_1_femenina
+FC Fleury 91,01-02-2019,30-06-2020,Eric Michel,Francia,,ligue_1_femenina
+FC Fleury 91,01-07-2017,30-06-2020,Nicolas Carric,Francia,,ligue_1_femenina
+Montpellier,01-07-2021,30-06-2022,Yannick Chandioux,Francia,01-09-1975,ligue_1_femenina
+Montpellier,22-04-2021,30-06-2021,John Utaka,Nigeria,08-01-1982,ligue_1_femenina
+Montpellier,01-07-2020,22-04-2021,Frédéric Mendy,Francia,29-11-1973,ligue_1_femenina
+Montpellier,01-07-2013,30-06-2020,Jean-Louis Saez,Francia,14-04-1967,ligue_1_femenina
+Montpellier,01-07-2007,30-06-2013,Sarah M'Barek,Francia,13-10-1977,ligue_1_femenina
+Girondins Bordeaux,05-08-2021,30-06-2023,Patrice Lair,Francia,16-06-1961,ligue_1_femenina
+Girondins Bordeaux,01-07-2019,30-06-2021,Pedro Losa,España,09-05-1976,ligue_1_femenina
+Girondins Bordeaux,01-02-2018,30-06-2019,Jean-Jacques Gresser,Francia,,ligue_1_femenina
+Girondins Bordeaux,01-07-2016,30-06-2019,Jérôme Dauba,Francia,13-07-1975,ligue_1_femenina
+GPSO 92 Issy,22-02-2021,30-06-2022,Camillo Vaz,Francia,26-09-1975,ligue_1_femenina
+GPSO 92 Issy,01-07-2020,21-02-2021,Yacine Guesmia,Francia,19-06-1987,ligue_1_femenina
+Stade Reims,01-07-2019,30-06-2022,Amandine Miquel,Francia,04-08-1984,ligue_1_femenina
+Guingamp,01-07-2018,30-06-2023,Frédéric Biancalani,Francia,21-07-1974,ligue_1_femenina
+Guingamp,01-07-2013,30-06-2018,Sarah M'Barek,Francia,13-10-1977,ligue_1_femenina
+Le Havre AC,01-07-2020,30-06-2021,Thierry Uvenard,Francia,29-03-1964,ligue_1_femenina
+Olympique Marseille,01-07-2011,30-06-2020,Christophe Parra,Francia,09-06-1971,ligue_1_femenina
+FC Metz-Algrange,01-01-2019,30-06-2020,Angélique Roujas,Francia,15-09-1974,ligue_1_femenina
+FC Metz-Algrange,01-07-2018,30-06-2020,Manuel Peixoto,Francia,18-12-1956,ligue_1_femenina
+FC Metz-Algrange,01-07-2015,30-06-2017,David Fanzel,Francia,09-11-1966,ligue_1_femenina
+Lille OSC,01-01-2019,30-06-2019,Rachel Saïdi,Francia,08-06-1988,ligue_1_femenina
+Lille OSC,01-07-2018,30-06-2019,Dominique Carlier,Francia,18-04-1959,ligue_1_femenina
+Lille OSC,01-07-2017,30-06-2018,Jérémie Descamps,Francia,,ligue_1_femenina
+Rodez Aveyron,01-07-2018,30-06-2019,Sabrina Viguier,Francia,04-01-1981,ligue_1_femenina
+Rodez Aveyron,01-07-2017,30-06-2018,Gregory Mleko,Francia,05-02-1978,ligue_1_femenina
+Rodez Aveyron,01-07-2014,30-06-2017,Sébastien Joseph,Francia,08-06-1979,ligue_1_femenina
+ASPTT Albi,01-07-2017,30-06-2018,Patrice Garrigues,Francia,16-08-1973,ligue_1_femenina
+ASPTT Albi,01-07-2017,30-06-2018,Théodore Genoux,Francia,01-12-1992,ligue_1_femenina
+ASPTT Albi,01-07-2015,30-06-2017,Adolphe Ogouyon,Benin,20-02-1956,ligue_1_femenina
+Juvisy FCF,01-07-2018,30-06-2022,Sandrine Soubeyrand,Francia,16-08-1973,ligue_1_femenina
+Juvisy FCF,01-07-2017,30-06-2018,Pascal Gouzenes,Francia,,ligue_1_femenina
+Juvisy FCF,01-07-2015,30-06-2017,Emmanuel Beauchet,Francia,09-04-1971,ligue_1_femenina
+Juvisy FCF,01-07-2010,30-06-2013,Sandrine Mathivet,Francia,25-10-1968,ligue_1_femenina
+VGA Saint-Maur,01-07-1987,30-06-1989,Elisabeth Loisel,Francia,01-08-1963,ligue_1_femenina
+Issy FF,22-02-2021,30-06-2022,Camillo Vaz,Francia,26-09-1975,ligue_1_femenina
+Issy FF,01-07-2020,21-02-2021,Yacine Guesmia,Francia,19-06-1987,ligue_1_femenina
+Le Mans FC,01-07-2017,30-06-2022,Damien Bollini,Francia,14-01-1985,ligue_1_femenina
+CF Pachuca,01-07-2022,31-12-2022,Juan Cacho,México,03-05-1982,mex_primera_division_femenina
+CF Pachuca,01-12-2020,31-12-2020,Toña Is,España,13-06-1966,mex_primera_division_femenina
+CF Pachuca,01-01-2017,30-06-2020,Eva Espejo,México,06-01-1986,mex_primera_division_femenina
+Deportivo Toluca,01-07-2022,31-12-2022,Gabriel Velasco,México,01-02-1986,mex_primera_division_femenina
+Deportivo Toluca,01-01-2020,30-06-2020,Agustín Contreras,México,19-07-1988,mex_primera_division_femenina
+Deportivo Toluca,01-07-2017,31-12-2019,Juan Mendoza,México,15-11-1971,mex_primera_division_femenina
+Club Tijuana,01-07-2022,31-12-2022,Juan Romo,México,29-06-1979,mex_primera_division_femenina
+Club Tijuana,01-07-2019,30-06-2020,Carla Rossi,México,11-05-1985,mex_primera_division_femenina
+Club Tijuana,01-01-2019,30-06-2019,Gerardo Romo,México,25-08-1982,mex_primera_division_femenina
+Club Tijuana,01-01-2017,31-12-2018,Andrea Rodebaugh,México,08-10-1966,mex_primera_division_femenina
+FC Juárez,01-07-2022,31-12-2022,Milagros Martinez,España,23-04-1985,mex_primera_division_femenina
+FC Juárez,01-07-2019,30-06-2020,Ángel Aponte,México,28-02-1988,mex_primera_division_femenina
+FC Juárez,01-07-2019,31-12-2019,Aaron Balderas,México,18-12-1979,mex_primera_division_femenina
+UANL Tigres,01-07-2022,31-12-2022,Carmelina Moscato,Canadá,02-05-1984,mex_primera_division_femenina
+UANL Tigres,01-07-2019,30-06-2020,Roberto Medina,México,18-04-1968,mex_primera_division_femenina
+UANL Tigres,01-07-2018,30-06-2019,Ramón Villa Zevallos,México,06-10-1970,mex_primera_division_femenina
+CF Monterrey,01-07-2022,31-12-2022,Eva Espejo,México,06-01-1986,mex_primera_division_femenina
+CF Monterrey,01-07-2017,30-06-2020,Héctor Becerra,México,10-05-1965,mex_primera_division_femenina
+Pumas UNAM,19-10-2022,31-12-2022,César Cotero,México,23-06-1971,mex_primera_division_femenina
+Pumas UNAM,01-07-2022,18-10-2022,Karina Báez,México,07-11-1984,mex_primera_division_femenina
+Pumas UNAM,01-07-2017,30-06-2020,Ileana Dávila,México,24-01-1975,mex_primera_division_femenina
+Atlas Guadalajara,01-07-2022,31-12-2022,Fabiola Vargas,México,23-03-1975,mex_primera_division_femenina
+Atlas Guadalajara,01-07-2018,30-06-2020,Fernando Samayoa,México,15-10-1989,mex_primera_division_femenina
+Atlas Guadalajara,01-07-2017,30-06-2018,Ramón Villa Zevallos,México,06-10-1970,mex_primera_division_femenina
+Mazatlán FC,30-08-2022,31-12-2022,José Madrigal,México,29-08-1984,mex_primera_division_femenina
+Mazatlán FC,01-07-2022,29-08-2022,Juan Mendoza,México,15-11-1971,mex_primera_division_femenina
+Gallos Blancos,01-07-2022,31-12-2022,Carla Rossi,México,11-05-1985,mex_primera_division_femenina
+Gallos Blancos,01-07-2019,30-06-2020,Félix Martínez,México,28-01-1981,mex_primera_division_femenina
+Gallos Blancos,01-07-2018,30-06-2019,Alberto Arellano,México,02-02-1967,mex_primera_division_femenina
+Puebla FC,01-07-2022,31-12-2022,Pablo Luna,México,15-04-1958,mex_primera_division_femenina
+Puebla FC,01-01-2019,30-06-2020,Jorge Gómez,México,02-05-1981,mex_primera_division_femenina
+Puebla FC,01-07-2018,31-12-2018,Rogelio Martínez,México,31-05-1963,mex_primera_division_femenina
+Club León,01-07-2022,31-12-2022,Adrián Martínez,México,07-01-1970,mex_primera_division_femenina
+Club León,01-07-2018,30-06-2020,Everaldo Begines,México,12-07-1971,mex_primera_division_femenina
+Deportivo Guadalajara,01-07-2022,31-12-2022,Juan Alfaro,México,02-03-1979,mex_primera_division_femenina
+Deportivo Guadalajara,01-07-2019,30-06-2020,Ramón Villa Zevallos,México,06-10-1970,mex_primera_division_femenina
+Deportivo Guadalajara,01-01-2019,30-06-2019,Luis Manuel Díaz,México,17-05-1965,mex_primera_division_femenina
+Deportivo Guadalajara,01-01-2017,31-12-2018,Fernando Camacho,México,11-01-1983,mex_primera_division_femenina
+Club Necaxa,01-07-2022,31-12-2022,Gerardo Castillo,México,19-11-1986,mex_primera_division_femenina
+Club Necaxa,01-07-2018,30-06-2020,Fabiola Vargas,México,23-03-1975,mex_primera_division_femenina
+Santos Laguna,01-07-2022,31-12-2022,Jorge Campos,México,24-04-1979,mex_primera_division_femenina
+Santos Laguna,01-01-2020,30-06-2020,Martín Pérez,México,02-01-1964,mex_primera_division_femenina
+Santos Laguna,01-01-2018,31-12-2019,Jorge Macías,México,05-07-1984,mex_primera_division_femenina
+Atlético San Luis,01-07-2022,31-12-2022,Fernando Samayoa,México,15-10-1989,mex_primera_division_femenina
+Atlético San Luis,01-07-2020,31-12-2020,Rigoberto Esparza,México,16-11-1983,mex_primera_division_femenina
+Atlético San Luis,01-01-2020,30-06-2020,Luis Martínez,México,10-08-1990,mex_primera_division_femenina
+Atlético San Luis,01-07-2019,31-12-2019,Martín Casas,México,02-05-1965,mex_primera_division_femenina
+Cruz Azul,01-07-2022,31-12-2022,Carlos Pérez,México,12-07-1968,mex_primera_division_femenina
+Cruz Azul,01-07-2019,30-06-2020,Rogelio Martínez,México,31-05-1963,mex_primera_division_femenina
+Cruz Azul,01-01-2017,30-06-2019,Hugo Santana,México,05-09-1967,mex_primera_division_femenina
+CF América,01-07-2022,31-12-2022,Ángel Villacampa,España,14-02-1976,mex_primera_division_femenina
+CF América,01-07-2017,30-06-2020,Leonardo Cuéllar,México,14-01-1952,mex_primera_division_femenina
+Monarcas Morelia,01-07-2018,30-06-2020,Filadelfo Rangel,México,27-08-1970,mex_primera_division_femenina
+NJ/NY Gotham FC,01-10-2022,30-06-2023,Hue Menzies,Jamaica,,national_women_soccer_league_femenina
+NJ/NY Gotham FC,31-08-2021,01-09-2022,Scott Parkinson,Inglaterra,,national_women_soccer_league_femenina
+NJ/NY Gotham FC,01-01-2020,29-08-2021,Freya Coombe,Estados Unidos,,national_women_soccer_league_femenina
+NJ/NY Gotham FC,15-11-2017,31-12-2018,Denise Reddy,Estados Unidos,14-09-1970,national_women_soccer_league_femenina
+NJ/NY Gotham FC,07-10-2010,14-10-2015,Jim Gabarra,Estados Unidos,22-09-1959,national_women_soccer_league_femenina
+NJ/NY Gotham FC,29-09-2009,19-07-2010,Pauliina Miettinen,Finlandia,20-05-1972,national_women_soccer_league_femenina
+NJ/NY Gotham FC,30-07-2009,28-09-2009,Christie Pearce,Estados Unidos,24-06-1975,national_women_soccer_league_femenina
+NJ/NY Gotham FC,01-01-2008,31-12-2008,Denise Reddy,Estados Unidos,14-09-1970,national_women_soccer_league_femenina
+Washington Spirit,15-09-2022,30-06-2023,Albertin Montoya,Estados Unidos,19-02-1975,national_women_soccer_league_femenina
+Washington Spirit,10-08-2021,01-09-2022,Kris Ward,Estados Unidos,,national_women_soccer_league_femenina
+Washington Spirit,01-01-2019,30-06-2021,Richie Burke,Inglaterra,00-00-1962,national_women_soccer_league_femenina
+Washington Spirit,15-10-2015,31-12-2018,Jim Gabarra,Estados Unidos,22-09-1959,national_women_soccer_league_femenina
+Washington Spirit,01-07-2013,30-09-2015,Mark Parsons,Inglaterra,08-08-1986,national_women_soccer_league_femenina
+Washington Spirit,06-04-2012,30-06-2013,Mike Jorden,Estados Unidos,,national_women_soccer_league_femenina
+Racing Louisville,09-12-2021,31-12-2022,Kim Björkegren,Suecia,,national_women_soccer_league_femenina
+Racing Louisville,01-09-2021,31-12-2021,Mario Sánchez,Estados Unidos,,national_women_soccer_league_femenina
+Racing Louisville,01-01-2021,31-08-2021,Christy Holly,Irlanda del Norte,,national_women_soccer_league_femenina
+OL Reign,02-07-2021,31-12-2023,Laura Harvey,Inglaterra,15-05-1980,national_women_soccer_league_femenina
+OL Reign,01-01-2020,02-07-2021,Farid Benstiti,Francia,16-01-1967,national_women_soccer_league_femenina
+OL Reign,07-11-2017,31-12-2018,Vlatko Andonovski,Macedonia del Norte,14-09-1976,national_women_soccer_league_femenina
+OL Reign,01-01-2013,07-11-2017,Laura Harvey,Inglaterra,15-05-1980,national_women_soccer_league_femenina
+Chicago Red Stars,01-01-2022,31-12-2022,Chris Petrucelli,Estados Unidos,09-05-1962,national_women_soccer_league_femenina
+Chicago Red Stars,01-01-2011,31-12-2021,Rory Dames,Estados Unidos,00-00-1973,national_women_soccer_league_femenina
+Chicago Red Stars,01-01-2009,31-12-2009,Emma Hayes,Inglaterra,18-10-1976,national_women_soccer_league_femenina
+Orlando Pride,01-07-2022,31-12-2023,Seb Hines,Inglaterra,29-05-1988,national_women_soccer_league_femenina
+Orlando Pride,07-12-2021,30-06-2022,Amanda Cromwell,Estados Unidos,15-06-1970,national_women_soccer_league_femenina
+Orlando Pride,02-07-2021,31-12-2021,Becky Burleigh,Estados Unidos,13-10-1967,national_women_soccer_league_femenina
+Orlando Pride,01-07-2019,28-07-2021,Marc Skinner,Inglaterra,23-03-1983,national_women_soccer_league_femenina
+Orlando Pride,01-01-2016,31-12-2018,Tom Sermanni,Escocia,01-07-1954,national_women_soccer_league_femenina
+NC Courage,01-12-2021,31-12-2022,Sean Nahas,Estados Unidos,,national_women_soccer_league_femenina
+NC Courage,01-01-2017,30-09-2021,Paul Riley,Inglaterra,23-09-1963,national_women_soccer_league_femenina
+NC Courage,01-01-2009,31-12-2015,Aaran Lines,Nueva Zelanda,21-12-1976,national_women_soccer_league_femenina
+Houston Dash,01-07-2022,31-12-2022,Amorós,España,03-06-1984,national_women_soccer_league_femenina
+Houston Dash,01-01-2021,15-04-2022,James Clarkson,Inglaterra,,national_women_soccer_league_femenina
+Houston Dash,27-11-2017,31-12-2018,Vera Pauw,Países Bajos,18-01-1963,national_women_soccer_league_femenina
+Houston Dash,01-01-2014,29-05-2017,Randy Waldrum,Estados Unidos,30-09-1961,national_women_soccer_league_femenina
+San Diego Wave FC,01-01-2022,31-12-2022,Casey Stoney,Inglaterra,13-05-1982,national_women_soccer_league_femenina
+Kansas City Current,11-01-2022,31-12-2022,Matt Potter,Inglaterra,23-01-1970,national_women_soccer_league_femenina
+Kansas City Current,07-12-2020,31-12-2021,Huw Williams,Gales,,national_women_soccer_league_femenina
+Portland Thorns,29-11-2021,31-12-2022,Rhian Wilkinson,Canadá,12-05-1982,national_women_soccer_league_femenina
+Portland Thorns,01-01-2018,31-12-2021,Mark Parsons,Inglaterra,08-08-1986,national_women_soccer_league_femenina
+Portland Thorns,01-01-2014,31-12-2015,Paul Riley,Inglaterra,23-09-1963,national_women_soccer_league_femenina
+Portland Thorns,01-01-2012,31-12-2013,Cindy Parlow,Estados Unidos,08-05-1978,national_women_soccer_league_femenina
+Angel City FC,30-08-2021,31-12-2022,Freya Coombe,Estados Unidos,,national_women_soccer_league_femenina
+Kansas City NWSL,11-01-2022,31-12-2022,Matt Potter,Inglaterra,23-01-1970,national_women_soccer_league_femenina
+Kansas City NWSL,07-12-2020,31-12-2021,Huw Williams,Gales,,national_women_soccer_league_femenina
+Sky Blue FC,01-10-2022,30-06-2023,Hue Menzies,Jamaica,,national_women_soccer_league_femenina
+Sky Blue FC,31-08-2021,01-09-2022,Scott Parkinson,Inglaterra,,national_women_soccer_league_femenina
+Sky Blue FC,01-01-2020,29-08-2021,Freya Coombe,Estados Unidos,,national_women_soccer_league_femenina
+Sky Blue FC,15-11-2017,31-12-2018,Denise Reddy,Estados Unidos,14-09-1970,national_women_soccer_league_femenina
+Sky Blue FC,07-10-2010,14-10-2015,Jim Gabarra,Estados Unidos,22-09-1959,national_women_soccer_league_femenina
+Sky Blue FC,29-09-2009,19-07-2010,Pauliina Miettinen,Finlandia,20-05-1972,national_women_soccer_league_femenina
+Sky Blue FC,30-07-2009,28-09-2009,Christie Pearce,Estados Unidos,24-06-1975,national_women_soccer_league_femenina
+Sky Blue FC,01-01-2008,31-12-2008,Denise Reddy,Estados Unidos,14-09-1970,national_women_soccer_league_femenina
+Utah Royals FC,01-12-2017,31-12-2018,Laura Harvey,Inglaterra,15-05-1980,national_women_soccer_league_femenina
+Reign FC,02-07-2021,31-12-2023,Laura Harvey,Inglaterra,15-05-1980,national_women_soccer_league_femenina
+Reign FC,01-01-2020,02-07-2021,Farid Benstiti,Francia,16-01-1967,national_women_soccer_league_femenina
+Reign FC,07-11-2017,31-12-2018,Vlatko Andonovski,Macedonia del Norte,14-09-1976,national_women_soccer_league_femenina
+Reign FC,01-01-2013,07-11-2017,Laura Harvey,Inglaterra,15-05-1980,national_women_soccer_league_femenina
+Seattle Reign,02-07-2021,31-12-2023,Laura Harvey,Inglaterra,15-05-1980,national_women_soccer_league_femenina
+Seattle Reign,01-01-2020,02-07-2021,Farid Benstiti,Francia,16-01-1967,national_women_soccer_league_femenina
+Seattle Reign,07-11-2017,31-12-2018,Vlatko Andonovski,Macedonia del Norte,14-09-1976,national_women_soccer_league_femenina
+Seattle Reign,01-01-2013,07-11-2017,Laura Harvey,Inglaterra,15-05-1980,national_women_soccer_league_femenina
+Boston Breakers,01-01-2016,31-12-2017,Matt Beard,Inglaterra,09-01-1978,national_women_soccer_league_femenina
+Boston Breakers,03-09-2013,31-12-2015,Tom Durkin,Estados Unidos,,national_women_soccer_league_femenina
+Boston Breakers,02-08-2013,02-09-2013,Cat Whitehill,Estados Unidos,10-02-1982,national_women_soccer_league_femenina
+Boston Breakers,01-01-2012,01-08-2013,Lisa Cole,Estados Unidos,,national_women_soccer_league_femenina
+Boston Breakers,01-01-2009,31-12-2011,Tony DiCicco,Estados Unidos,05-08-1948,national_women_soccer_league_femenina
+Boston Breakers,01-01-2003,31-12-2003,Pia Sundhage,Suecia,13-02-1960,national_women_soccer_league_femenina
+Boston Breakers,01-01-2001,31-12-2001,Jay Hoffman,Estados Unidos,15-01-1951,national_women_soccer_league_femenina
+FC Kansas City,05-12-2012,06-01-2017,Vlatko Andonovski,Macedonia del Norte,14-09-1976,national_women_soccer_league_femenina
+Western New York Flash,01-12-2021,31-12-2022,Sean Nahas,Estados Unidos,,national_women_soccer_league_femenina
+Western New York Flash,01-01-2017,30-09-2021,Paul Riley,Inglaterra,23-09-1963,national_women_soccer_league_femenina
+Western New York Flash,01-01-2009,31-12-2015,Aaran Lines,Nueva Zelanda,21-12-1976,national_women_soccer_league_femenina
+Manchester United WFC,29-07-2021,30-06-2023,Marc Skinner,Inglaterra,23-03-1983,premier_league_femenina
+Manchester United WFC,01-07-2018,30-06-2021,Casey Stoney,Inglaterra,13-05-1982,premier_league_femenina
+Aston Villa,01-07-2021,30-06-2022,Carla Ward,Inglaterra,21-12-1982,premier_league_femenina
+Aston Villa,01-07-2020,30-06-2021,Gemma Davies,Inglaterra,,premier_league_femenina
+Everton,01-07-2022,30-06-2024,Brian Sørensen,Dinamarca,15-06-1980,premier_league_femenina
+Everton,01-11-2021,30-06-2022,Jean-Luc Vasseur,Francia,01-01-1969,premier_league_femenina
+Everton,01-07-2018,16-10-2021,Willie Kirk,Escocia,07-06-1978,premier_league_femenina
+Tottenham Hotspur WFC,19-11-2020,30-06-2023,Rehanne Skinner,Inglaterra,13-11-1979,premier_league_femenina
+Tottenham Hotspur WFC,01-01-2009,19-11-2020,Karen Hills,Inglaterra,05-05-1975,premier_league_femenina
+Arsenal,28-06-2021,30-06-2024,Jonas Eidevall,Suecia,28-01-1983,premier_league_femenina
+Arsenal,07-11-2017,30-06-2021,Joe Montemurro,Australia,13-09-1969,premier_league_femenina
+Arsenal,29-08-2014,06-11-2017,Pedro Losa,España,09-05-1976,premier_league_femenina
+Arsenal,01-01-2013,01-06-2014,Shelley Kerr,Escocia,15-10-1969,premier_league_femenina
+Arsenal,01-07-2008,31-12-2012,Laura Harvey,Inglaterra,15-05-1980,premier_league_femenina
+Arsenal,01-07-1987,30-06-2009,Vic Akers,Inglaterra,24-08-1946,premier_league_femenina
+Brighton & Hove Albion WFC,01-07-2017,30-06-2022,Hope Powell,Inglaterra,08-12-1966,premier_league_femenina
+West Ham United WFC,23-12-2020,30-06-2023,Oliver Harder,Nueva Zelanda,31-01-1986,premier_league_femenina
+West Ham United WFC,19-11-2020,22-12-2020,Billy Stewart,Inglaterra,01-01-1965,premier_league_femenina
+West Ham United WFC,01-07-2018,18-11-2020,Matt Beard,Inglaterra,09-01-1978,premier_league_femenina
+Chelsea,01-07-2012,30-06-2022,Emma Hayes,Inglaterra,18-10-1976,premier_league_femenina
+Chelsea,01-07-2009,30-06-2012,Matt Beard,Inglaterra,09-01-1978,premier_league_femenina
+Chelsea,01-01-2004,31-12-2010,Mark Parsons,Inglaterra,08-08-1986,premier_league_femenina
+Birmingham City WFC,01-07-2021,30-06-2022,Scott Booth,Escocia,16-12-1971,premier_league_femenina
+Birmingham City WFC,01-08-2020,30-06-2021,Carla Ward,Inglaterra,21-12-1982,premier_league_femenina
+Birmingham City WFC,21-01-2019,30-06-2020,Marta Tejedor,Inglaterra,23-12-1968,premier_league_femenina
+Birmingham City WFC,01-12-2016,30-06-2019,Marc Skinner,Inglaterra,23-03-1983,premier_league_femenina
+Birmingham City WFC,01-01-2012,31-12-2016,David Parker,Inglaterra,27-04-1984,premier_league_femenina
+Birmingham City WFC,01-07-2006,30-06-2008,Laura Harvey,Inglaterra,15-05-1980,premier_league_femenina
+Reading WFC,01-07-2015,30-06-2022,Kelly Chambers,Inglaterra,11-01-1986,premier_league_femenina
+Leicester City WFC,01-07-2018,30-06-2022,Jonathan Morgan,Inglaterra,,premier_league_femenina
+Manchester City WFC,28-05-2020,30-06-2023,Gareth Taylor,Gales,25-02-1973,premier_league_femenina
+Manchester City WFC,01-01-2014,30-06-2020,Nick Cushing,Inglaterra,09-11-1984,premier_league_femenina
+Bristol City WFC,15-01-2021,30-06-2021,Matt Beard,Inglaterra,09-01-1978,premier_league_femenina
+Bristol City WFC,01-07-2018,14-01-2021,Tanya Oxtoby,Australia,15-06-1982,premier_league_femenina
+Bristol City WFC,24-02-2014,30-09-2015,David Edmondson,Inglaterra,16-12-1971,premier_league_femenina
+Bristol City WFC,01-01-2011,31-12-2011,Mark Sampson,Gales,18-10-1982,premier_league_femenina
+Liverpool,01-07-2021,30-06-2022,Matt Beard,Inglaterra,09-01-1978,premier_league_femenina
+Liverpool,01-10-2018,11-01-2021,Victoria Jepson,Inglaterra,23-02-1988,premier_league_femenina
+Liverpool,01-07-2018,30-09-2018,Chris Kirkland,Inglaterra,02-05-1981,premier_league_femenina
+Liverpool,01-01-2016,31-12-2017,Scott Rogers,Inglaterra,01-01-1986,premier_league_femenina
+Liverpool,01-07-2012,31-12-2015,Matt Beard,Inglaterra,09-01-1978,premier_league_femenina
+Yeovil Town LFC,01-07-2018,30-06-2019,Lee Burch,Inglaterra,,premier_league_femenina
+SK Brann,02-08-2022,31-12-2022,Oliver Harder,Nueva Zelanda,31-01-1986,toppserien_noruega_femenina
+Stabæk FK,01-01-2012,31-12-2014,Øyvind Eide,Noruega,30-11-1981,toppserien_noruega_femenina
+Stabæk FK,01-01-2011,31-12-2011,Roger Finjord,Noruega,08-10-1972,toppserien_noruega_femenina
+Rosenborg BK,01-01-2021,31-12-2022,Steinar Lein,Noruega,26-07-1971,toppserien_noruega_femenina
+Vålerenga IF,01-01-2020,31-12-2021,Jack Majgaard,Dinamarca,25-03-1973,toppserien_noruega_femenina
+Avaldsnes IL,01-01-2018,31-12-2018,Lena Tyriberget,Noruega,26-07-1973,toppserien_noruega_femenina
+Avaldsnes IL,01-01-2016,11-07-2016,Colin Bell,Inglaterra,05-08-1961,toppserien_noruega_femenina
+Avaldsnes IL,01-01-2016,31-12-2017,Kent Michael Bøe,Noruega,,toppserien_noruega_femenina
+Kolbotn IL,01-01-2004,31-12-2004,Pia Sundhage,Suecia,13-02-1960,toppserien_noruega_femenina
+Lillestrøm SK,01-01-2017,31-12-2021,Hege Riise,Noruega,18-07-1969,toppserien_noruega_femenina
+Lillestrøm SK,01-01-2010,31-12-2016,Monica Knudsen,Noruega,25-03-1975,toppserien_noruega_femenina
+Røa IL,01-01-2012,31-12-2012,Geir Nordby,Noruega,,toppserien_noruega_femenina
+Røa IL,01-01-1994,31-12-2004,Ole-Bjørn Edner,Noruega,09-02-1951,toppserien_noruega_femenina
+IL Sandviken,02-08-2022,31-12-2022,Oliver Harder,Nueva Zelanda,31-01-1986,toppserien_noruega_femenina
+SK Trondheims-Ørn,01-01-2021,31-12-2022,Steinar Lein,Noruega,26-07-1971,toppserien_noruega_femenina
+Team Strømmen,01-01-2017,31-12-2021,Hege Riise,Noruega,18-07-1969,toppserien_noruega_femenina
+Team Strømmen,01-01-2010,31-12-2016,Monica Knudsen,Noruega,25-03-1975,toppserien_noruega_femenina

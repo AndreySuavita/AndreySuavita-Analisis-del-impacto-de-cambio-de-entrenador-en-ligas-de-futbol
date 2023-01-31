@@ -1,0 +1,639 @@
+fecha,jornada,local,visitante,goles_local,goles_visitante
+28-05-2023,22,Brighton & Hove Albion WFC,Leicester City WFC,,
+,22,Arsenal,Aston Villa,,
+,22,Liverpool,Manchester United WFC,,
+,22,Reading WFC,Chelsea,,
+,22,Manchester City WFC,Everton,,
+,22,West Ham United WFC,Tottenham Hotspur WFC,,
+21-05-2023,21,Aston Villa,Liverpool,,
+,21,Chelsea,Arsenal,,
+,21,Everton,Brighton & Hove Albion WFC,,
+,21,Leicester City WFC,West Ham United WFC,,
+,21,Manchester United WFC,Manchester City WFC,,
+,21,Tottenham Hotspur WFC,Reading WFC,,
+07-05-2023,20,Brighton & Hove Albion WFC,West Ham United WFC,,
+,20,Arsenal,Leicester City WFC,,
+,20,Chelsea,Everton,,
+,20,Liverpool,Manchester City WFC,,
+,20,Reading WFC,Aston Villa,,
+,20,Manchester United WFC,Tottenham Hotspur WFC,,
+30-04-2023,19,Aston Villa,Manchester United WFC,,
+,19,Everton,Arsenal,,
+,19,Leicester City WFC,Liverpool,,
+,19,Manchester City WFC,Reading WFC,,
+,19,Tottenham Hotspur WFC,Brighton & Hove Albion WFC,,
+,19,West Ham United WFC,Chelsea,,
+23-04-2023,18,Chelsea,Leicester City WFC,,
+,18,Liverpool,Brighton & Hove Albion WFC,,
+,18,Reading WFC,Everton,,
+,18,Manchester United WFC,Arsenal,,
+,18,Manchester City WFC,West Ham United WFC,,
+,18,Tottenham Hotspur WFC,Aston Villa,,
+02-04-2023,17,Aston Villa,Chelsea,,
+,17,Brighton & Hove Albion WFC,Manchester United WFC,,
+,17,Arsenal,Manchester City WFC,,
+,17,Everton,Tottenham Hotspur WFC,,
+,17,Leicester City WFC,Reading WFC,,
+,17,West Ham United WFC,Liverpool,,
+26-03-2023,16,Aston Villa,Leicester City WFC,,
+,16,Everton,Liverpool,,
+,16,Reading WFC,Brighton & Hove Albion WFC,,
+,16,Manchester City WFC,Chelsea,,
+,16,Manchester United WFC,West Ham United WFC,,
+,16,Tottenham Hotspur WFC,Arsenal,,
+12-03-2023,15,Brighton & Hove Albion WFC,Manchester City WFC,,
+,15,Arsenal,Reading WFC,,
+,15,Chelsea,Manchester United WFC,,
+,15,Liverpool,Tottenham Hotspur WFC,,
+,15,Leicester City WFC,Everton,,
+,15,West Ham United WFC,Aston Villa,,
+05-03-2023,14,Arsenal,Liverpool,,
+,14,Chelsea,Brighton & Hove Albion WFC,,
+,14,Everton,Aston Villa,,
+,14,Reading WFC,West Ham United WFC,,
+,14,Manchester United WFC,Leicester City WFC,,
+,14,Manchester City WFC,Tottenham Hotspur WFC,,
+05-02-2023,13,Aston Villa,Brighton & Hove Albion WFC,,
+,13,Liverpool,Reading WFC,,
+,13,Leicester City WFC,Manchester City WFC,,
+,13,Manchester United WFC,Everton,,
+,13,Tottenham Hotspur WFC,Chelsea,,
+,13,West Ham United WFC,Arsenal,,
+22-01-2023,12,Brighton & Hove Albion WFC,Arsenal,,
+,12,Chelsea,Liverpool,,
+,12,Everton,West Ham United WFC,,
+,12,Reading WFC,Manchester United WFC,,
+,12,Manchester City WFC,Aston Villa,,
+,12,Tottenham Hotspur WFC,Leicester City WFC,,
+15-01-2023,11,Aston Villa,Tottenham Hotspur WFC,,
+,11,Arsenal,Chelsea,,
+,11,Everton,Reading WFC,,
+,11,Leicester City WFC,Brighton & Hove Albion WFC,,
+,11,Manchester United WFC,Liverpool,,
+,11,West Ham United WFC,Manchester City WFC,,
+11-12-2022,10,Aston Villa,Arsenal,,
+,10,Brighton & Hove Albion WFC,Everton,,
+,10,Chelsea,Reading WFC,,
+,10,Liverpool,Leicester City WFC,,
+,10,Manchester City WFC,Manchester United WFC,,
+,10,Tottenham Hotspur WFC,West Ham United WFC,,
+04-12-2022,9,Arsenal,Everton,,
+,9,Liverpool,West Ham United WFC,,
+,9,Reading WFC,Tottenham Hotspur WFC,,
+,9,Leicester City WFC,Chelsea,,
+,9,Manchester United WFC,Aston Villa,,
+,9,Manchester City WFC,Brighton & Hove Albion WFC,,
+20-11-2022,8,Aston Villa,Reading WFC,,
+,8,Brighton & Hove Albion WFC,Liverpool,,
+,8,Arsenal,Manchester United WFC,,
+,8,Chelsea,Tottenham Hotspur WFC,,
+,8,Everton,Manchester City WFC,,
+,8,West Ham United WFC,Leicester City WFC,,
+06-11-2022,7,Liverpool,Aston Villa,,
+,7,Reading WFC,Manchester City WFC,,
+,7,Leicester City WFC,Arsenal,,
+,7,Manchester United WFC,Chelsea,,
+,7,Tottenham Hotspur WFC,Everton,,
+,7,West Ham United WFC,Brighton & Hove Albion WFC,,
+30-10-2022,6,Brighton & Hove Albion WFC,Tottenham Hotspur WFC,,
+,6,Arsenal,West Ham United WFC,,
+,6,Chelsea,Aston Villa,,
+,6,Everton,Manchester United WFC,,
+,6,Reading WFC,Leicester City WFC,,
+,6,Manchester City WFC,Liverpool,,
+23-10-2022,5,Aston Villa,Everton,,
+,5,Brighton & Hove Albion WFC,Chelsea,,
+,5,Liverpool,Arsenal,,
+,5,Leicester City WFC,Manchester United WFC,,
+,5,Tottenham Hotspur WFC,Manchester City WFC,,
+,5,West Ham United WFC,Reading WFC,,
+16-10-2022,4,Aston Villa,West Ham United WFC,,
+,4,Everton,Chelsea,,
+,4,Reading WFC,Arsenal,,
+,4,Manchester United WFC,Brighton & Hove Albion WFC,,
+,4,Manchester City WFC,Leicester City WFC,,
+,4,Tottenham Hotspur WFC,Liverpool,,
+25-09-2022,3,Brighton & Hove Albion WFC,Reading WFC,,
+,3,Arsenal,Tottenham Hotspur WFC,,
+,3,Chelsea,Manchester City WFC,,
+,3,Liverpool,Everton,,
+,3,Leicester City WFC,Aston Villa,,
+,3,West Ham United WFC,Manchester United WFC,,
+18-09-2022,2,Aston Villa,Manchester City WFC,,
+,2,Arsenal,Brighton & Hove Albion WFC,,
+,2,Liverpool,Chelsea,,
+,2,Leicester City WFC,Tottenham Hotspur WFC,,
+,2,Manchester United WFC,Reading WFC,,
+,2,West Ham United WFC,Everton,,
+10-09-2022,1,Tottenham Hotspur WFC,Manchester United WFC,,
+11-09-2022,1,Chelsea,West Ham United WFC,,
+,1,Everton,Leicester City WFC,,
+,1,Brighton & Hove Albion WFC,Aston Villa,,
+,1,Reading WFC,Liverpool,,
+,1,Manchester City WFC,Arsenal,,
+08-05-2022,22,Aston Villa,Birmingham City WFC,0.0,1.0
+,22,Brighton & Hove Albion WFC,Everton,1.0,1.0
+,22,Chelsea,Manchester United WFC,4.0,2.0
+,22,Reading WFC,Manchester City WFC,0.0,4.0
+,22,Tottenham Hotspur WFC,Leicester City WFC,1.0,0.0
+,22,West Ham United WFC,Arsenal,0.0,2.0
+30-04-2022,21,Manchester City WFC,Brighton & Hove Albion WFC,7.0,2.0
+01-05-2022,21,Manchester United WFC,West Ham United WFC,3.0,0.0
+,21,Leicester City WFC,Reading WFC,0.0,0.0
+,21,Arsenal,Aston Villa,7.0,0.0
+,21,Birmingham City WFC,Chelsea,0.0,1.0
+,21,Everton,Tottenham Hotspur WFC,2.0,2.0
+23-04-2022,20,Brighton & Hove Albion WFC,Birmingham City WFC,1.0,3.0
+24-04-2022,20,Reading WFC,West Ham United WFC,1.0,2.0
+,20,Manchester City WFC,Leicester City WFC,4.0,0.0
+,20,Tottenham Hotspur WFC,Chelsea,1.0,3.0
+,20,Aston Villa,Manchester United WFC,0.0,0.0
+,20,Everton,Arsenal,0.0,3.0
+01-04-2022,19,Birmingham City WFC,Everton,0.0,0.0
+02-04-2022,19,West Ham United WFC,Manchester City WFC,0.0,2.0
+03-04-2022,19,Manchester United WFC,Brighton & Hove Albion WFC,1.0,0.0
+,19,Leicester City WFC,Arsenal,0.0,5.0
+,19,Tottenham Hotspur WFC,Aston Villa,0.0,1.0
+,19,Chelsea,Reading WFC,5.0,0.0
+26-03-2022,18,Aston Villa,Reading WFC,1.0,1.0
+27-03-2022,18,Manchester United WFC,Everton,3.0,1.0
+,18,Leicester City WFC,Chelsea,0.0,9.0
+,18,West Ham United WFC,Brighton & Hove Albion WFC,0.0,2.0
+04-05-2022,18,Manchester City WFC,Birmingham City WFC,6.0,0.0
+,18,Arsenal,Tottenham Hotspur WFC,3.0,0.0
+12-03-2022,17,Reading WFC,Manchester United WFC,1.0,3.0
+,17,Everton,Leicester City WFC,3.0,2.0
+13-03-2022,17,Tottenham Hotspur WFC,Manchester City WFC,0.0,1.0
+,17,Chelsea,Aston Villa,1.0,0.0
+,17,Birmingham City WFC,West Ham United WFC,0.0,1.0
+,17,Brighton & Hove Albion WFC,Arsenal,0.0,3.0
+05-03-2022,16,Aston Villa,Brighton & Hove Albion WFC,0.0,1.0
+,16,Manchester United WFC,Leicester City WFC,4.0,0.0
+06-03-2022,16,Arsenal,Birmingham City WFC,4.0,2.0
+,16,Reading WFC,Tottenham Hotspur WFC,0.0,0.0
+10-03-2022,16,West Ham United WFC,Chelsea,1.0,4.0
+23-03-2022,16,Manchester City WFC,Everton,4.0,0.0
+11-02-2022,15,Chelsea,Arsenal,0.0,0.0
+13-02-2022,15,Manchester City WFC,Manchester United WFC,1.0,0.0
+,15,Everton,Aston Villa,0.0,2.0
+,15,Birmingham City WFC,Tottenham Hotspur WFC,0.0,2.0
+,15,Brighton & Hove Albion WFC,Reading WFC,4.0,1.0
+,15,Leicester City WFC,West Ham United WFC,3.0,0.0
+05-02-2022,14,Arsenal,Manchester United WFC,1.0,1.0
+06-02-2022,14,Chelsea,Manchester City WFC,1.0,0.0
+,14,Everton,Reading WFC,1.0,2.0
+,14,Birmingham City WFC,Leicester City WFC,1.0,2.0
+,14,Tottenham Hotspur WFC,Brighton & Hove Albion WFC,4.0,0.0
+,14,Aston Villa,West Ham United WFC,1.0,2.0
+23-01-2022,13,Manchester United WFC,Tottenham Hotspur WFC,3.0,0.0
+,13,Brighton & Hove Albion WFC,Chelsea,0.0,0.0
+,13,Reading WFC,Birmingham City WFC,3.0,2.0
+,13,Leicester City WFC,Aston Villa,1.0,2.0
+,13,West Ham United WFC,Everton,3.0,0.0
+,13,Manchester City WFC,Arsenal,1.0,1.0
+15-01-2022,12,Manchester United WFC,Birmingham City WFC,5.0,0.0
+,12,Aston Villa,Manchester City WFC,0.0,3.0
+16-01-2022,12,Leicester City WFC,Brighton & Hove Albion WFC,1.0,0.0
+,12,Tottenham Hotspur WFC,West Ham United WFC,1.0,1.0
+02-03-2022,12,Arsenal,Reading WFC,4.0,0.0
+16-03-2022,12,Everton,Chelsea,0.0,3.0
+09-01-2022,11,Brighton & Hove Albion WFC,Manchester City WFC,0.0,6.0
+,11,Birmingham City WFC,Arsenal,2.0,0.0
+,11,Reading WFC,Leicester City WFC,1.0,0.0
+02-03-2022,11,Aston Villa,Everton,0.0,1.0
+16-03-2022,11,West Ham United WFC,Manchester United WFC,1.0,1.0
+28-04-2022,11,Chelsea,Tottenham Hotspur WFC,2.0,1.0
+19-12-2021,10,Manchester United WFC,Aston Villa,5.0,0.0
+,10,Leicester City WFC,Birmingham City WFC,2.0,0.0
+,10,Tottenham Hotspur WFC,Everton,1.0,0.0
+26-01-2022,10,Chelsea,West Ham United WFC,2.0,0.0
+27-01-2022,10,Arsenal,Brighton & Hove Albion WFC,2.0,1.0
+16-03-2022,10,Manchester City WFC,Reading WFC,2.0,0.0
+11-12-2021,9,Reading WFC,Chelsea,1.0,0.0
+12-12-2021,9,Brighton & Hove Albion WFC,Manchester United WFC,0.0,2.0
+,9,Everton,West Ham United WFC,1.0,1.0
+,9,Birmingham City WFC,Manchester City WFC,2.0,3.0
+,9,Aston Villa,Tottenham Hotspur WFC,1.0,2.0
+,9,Arsenal,Leicester City WFC,4.0,0.0
+20-11-2021,8,Manchester City WFC,Aston Villa,5.0,0.0
+21-11-2021,8,Manchester United WFC,Arsenal,0.0,2.0
+,8,Chelsea,Birmingham City WFC,5.0,0.0
+,8,Reading WFC,Brighton & Hove Albion WFC,2.0,0.0
+,8,Leicester City WFC,Everton,0.0,1.0
+,8,West Ham United WFC,Tottenham Hotspur WFC,1.0,0.0
+13-11-2021,7,Tottenham Hotspur WFC,Arsenal,1.0,1.0
+14-11-2021,7,Everton,Manchester United WFC,1.0,1.0
+,7,Birmingham City WFC,Aston Villa,0.0,1.0
+,7,Brighton & Hove Albion WFC,Leicester City WFC,1.0,0.0
+,7,Manchester City WFC,Chelsea,0.0,4.0
+,7,West Ham United WFC,Reading WFC,2.0,2.0
+06-11-2021,6,Aston Villa,Chelsea,0.0,1.0
+,6,Everton,Brighton & Hove Albion WFC,0.0,1.0
+07-11-2021,6,Tottenham Hotspur WFC,Manchester United WFC,1.0,1.0
+,6,Birmingham City WFC,Reading WFC,0.0,3.0
+,6,Leicester City WFC,Manchester City WFC,1.0,4.0
+,6,Arsenal,West Ham United WFC,4.0,0.0
+09-10-2021,5,Manchester United WFC,Manchester City WFC,2.0,2.0
+10-10-2021,5,Chelsea,Leicester City WFC,2.0,0.0
+,5,Brighton & Hove Albion WFC,Tottenham Hotspur WFC,2.0,1.0
+,5,Reading WFC,Aston Villa,3.0,0.0
+,5,Arsenal,Everton,3.0,0.0
+,5,West Ham United WFC,Birmingham City WFC,1.0,1.0
+02-10-2021,4,Chelsea,Brighton & Hove Albion WFC,3.0,1.0
+,4,Aston Villa,Arsenal,0.0,4.0
+03-10-2021,4,Reading WFC,Everton,0.0,3.0
+,4,Leicester City WFC,Tottenham Hotspur WFC,0.0,2.0
+,4,Manchester City WFC,West Ham United WFC,0.0,2.0
+,4,Birmingham City WFC,Manchester United WFC,0.0,2.0
+25-09-2021,3,Everton,Birmingham City WFC,3.0,1.0
+26-09-2021,3,Manchester United WFC,Chelsea,1.0,6.0
+,3,Brighton & Hove Albion WFC,Aston Villa,0.0,1.0
+,3,Tottenham Hotspur WFC,Reading WFC,1.0,0.0
+,3,West Ham United WFC,Leicester City WFC,4.0,0.0
+,3,Arsenal,Manchester City WFC,5.0,0.0
+11-09-2021,2,West Ham United WFC,Aston Villa,1.0,1.0
+12-09-2021,2,Chelsea,Everton,4.0,0.0
+,2,Birmingham City WFC,Brighton & Hove Albion WFC,0.0,5.0
+,2,Reading WFC,Arsenal,0.0,4.0
+,2,Leicester City WFC,Manchester United WFC,1.0,3.0
+,2,Manchester City WFC,Tottenham Hotspur WFC,1.0,2.0
+03-09-2021,1,Manchester United WFC,Reading WFC,2.0,0.0
+04-09-2021,1,Aston Villa,Leicester City WFC,2.0,1.0
+,1,Everton,Manchester City WFC,0.0,4.0
+,1,Tottenham Hotspur WFC,Birmingham City WFC,1.0,0.0
+05-09-2021,1,Arsenal,Chelsea,3.0,2.0
+,1,Brighton & Hove Albion WFC,West Ham United WFC,2.0,0.0
+09-05-2021,22,Birmingham City WFC,Tottenham Hotspur WFC,0.0,1.0
+,22,Chelsea,Reading WFC,5.0,0.0
+,22,West Ham United WFC,Manchester City WFC,0.0,1.0
+,22,Manchester United WFC,Everton,2.0,0.0
+,22,Brighton & Hove Albion WFC,Bristol City WFC,3.0,1.0
+,22,Arsenal,Aston Villa,0.0,0.0
+02-05-2021,21,Aston Villa,West Ham United WFC,0.0,0.0
+,21,Everton,Arsenal,1.0,2.0
+,21,Bristol City WFC,Manchester United WFC,0.0,1.0
+,21,Reading WFC,Brighton & Hove Albion WFC,3.0,2.0
+,21,Manchester City WFC,Birmingham City WFC,4.0,0.0
+05-05-2021,21,Tottenham Hotspur WFC,Chelsea,0.0,2.0
+21-04-2021,20,Manchester City WFC,Chelsea,2.0,2.0
+24-04-2021,20,Aston Villa,Bristol City WFC,2.0,2.0
+25-04-2021,20,Manchester United WFC,Tottenham Hotspur WFC,4.0,1.0
+,20,Birmingham City WFC,Reading WFC,1.0,1.0
+,20,Arsenal,Brighton & Hove Albion WFC,2.0,0.0
+,20,West Ham United WFC,Everton,0.0,0.0
+03-04-2021,19,Reading WFC,West Ham United WFC,0.0,5.0
+04-04-2021,19,Chelsea,Birmingham City WFC,6.0,0.0
+,19,Everton,Aston Villa,3.0,1.0
+,19,Tottenham Hotspur WFC,Manchester City WFC,0.0,3.0
+,19,Bristol City WFC,Arsenal,0.0,4.0
+,19,Brighton & Hove Albion WFC,Manchester United WFC,1.0,0.0
+27-03-2021,18,Manchester United WFC,West Ham United WFC,2.0,0.0
+,18,Tottenham Hotspur WFC,Arsenal,0.0,3.0
+,18,Manchester City WFC,Reading WFC,1.0,0.0
+28-03-2021,18,Brighton & Hove Albion WFC,Everton,0.0,5.0
+,18,Chelsea,Aston Villa,2.0,0.0
+,18,Birmingham City WFC,Bristol City WFC,1.0,1.0
+14-03-2021,17,Reading WFC,Tottenham Hotspur WFC,0.0,0.0
+17-03-2021,17,Everton,Chelsea,0.0,3.0
+,17,Bristol City WFC,Manchester City WFC,0.0,3.0
+,17,Aston Villa,Brighton & Hove Albion WFC,0.0,2.0
+,17,West Ham United WFC,Birmingham City WFC,2.0,2.0
+19-03-2021,17,Arsenal,Manchester United WFC,2.0,0.0
+07-03-2021,16,Manchester United WFC,Aston Villa,3.0,0.0
+,16,Brighton & Hove Albion WFC,Tottenham Hotspur WFC,2.0,0.0
+,16,Manchester City WFC,Everton,1.0,0.0
+,16,Birmingham City WFC,Arsenal,0.0,4.0
+,16,West Ham United WFC,Chelsea,0.0,2.0
+08-03-2021,16,Bristol City WFC,Reading WFC,3.0,2.0
+10-02-2021,15,Brighton & Hove Albion WFC,West Ham United WFC,1.0,0.0
+,15,Chelsea,Arsenal,3.0,0.0
+12-02-2021,15,Manchester City WFC,Manchester United WFC,3.0,0.0
+14-02-2021,15,Reading WFC,Everton,1.0,1.0
+21-03-2021,15,Tottenham Hotspur WFC,Bristol City WFC,1.0,1.0
+28-04-2021,15,Birmingham City WFC,Aston Villa,1.0,1.0
+06-02-2021,14,Aston Villa,Tottenham Hotspur WFC,1.0,0.0
+07-02-2021,14,Manchester United WFC,Reading WFC,0.0,2.0
+,14,Chelsea,Brighton & Hove Albion WFC,1.0,2.0
+,14,Everton,Birmingham City WFC,1.0,1.0
+,14,Arsenal,Manchester City WFC,1.0,2.0
+,14,West Ham United WFC,Bristol City WFC,1.0,1.0
+23-01-2021,13,Aston Villa,Reading WFC,2.0,2.0
+24-01-2021,13,Manchester United WFC,Birmingham City WFC,2.0,0.0
+,13,Brighton & Hove Albion WFC,Manchester City WFC,1.0,7.0
+14-02-2021,13,Bristol City WFC,Chelsea,0.0,5.0
+28-02-2021,13,Tottenham Hotspur WFC,Everton,2.0,3.0
+28-04-2021,13,Arsenal,West Ham United WFC,2.0,0.0
+17-01-2021,12,Manchester City WFC,Aston Villa,7.0,0.0
+,12,Everton,Bristol City WFC,4.0,0.0
+,12,Reading WFC,Arsenal,1.0,1.0
+,12,Birmingham City WFC,Brighton & Hove Albion WFC,0.0,0.0
+,12,Chelsea,Manchester United WFC,2.0,1.0
+,12,West Ham United WFC,Tottenham Hotspur WFC,0.0,1.0
+10-01-2021,11,Tottenham Hotspur WFC,Birmingham City WFC,3.0,0.0
+,11,Reading WFC,Chelsea,0.0,5.0
+30-01-2021,11,Bristol City WFC,Brighton & Hove Albion WFC,3.0,0.0
+31-01-2021,11,Manchester City WFC,West Ham United WFC,4.0,0.0
+,11,Everton,Manchester United WFC,0.0,2.0
+28-02-2021,11,Aston Villa,Arsenal,0.0,4.0
+20-12-2020,10,Manchester United WFC,Bristol City WFC,6.0,1.0
+,10,Arsenal,Everton,4.0,0.0
+,10,Brighton & Hove Albion WFC,Reading WFC,1.0,3.0
+31-01-2021,10,Chelsea,Tottenham Hotspur WFC,4.0,0.0
+28-02-2021,10,Birmingham City WFC,Manchester City WFC,0.0,4.0
+20-04-2021,10,West Ham United WFC,Aston Villa,0.0,0.0
+13-12-2020,9,Reading WFC,Manchester United WFC,1.0,2.0
+,9,Tottenham Hotspur WFC,Aston Villa,3.0,1.0
+,9,Bristol City WFC,West Ham United WFC,0.0,4.0
+,9,Brighton & Hove Albion WFC,Chelsea,0.0,1.0
+,9,Manchester City WFC,Arsenal,2.0,1.0
+11-03-2021,9,Birmingham City WFC,Everton,0.0,4.0
+05-12-2020,8,Aston Villa,Manchester United WFC,0.0,2.0
+06-12-2020,8,Chelsea,West Ham United WFC,3.0,2.0
+,8,Tottenham Hotspur WFC,Brighton & Hove Albion WFC,3.0,1.0
+,8,Reading WFC,Bristol City WFC,1.0,1.0
+,8,Arsenal,Birmingham City WFC,3.0,0.0
+,8,Everton,Manchester City WFC,0.0,3.0
+14-11-2020,7,Manchester United WFC,Manchester City WFC,2.0,2.0
+,7,Aston Villa,Birmingham City WFC,0.0,1.0
+,7,Everton,Reading WFC,1.0,1.0
+,7,Bristol City WFC,Tottenham Hotspur WFC,2.0,2.0
+15-11-2020,7,West Ham United WFC,Brighton & Hove Albion WFC,0.0,1.0
+,7,Arsenal,Chelsea,1.0,1.0
+07-11-2020,6,Tottenham Hotspur WFC,Reading WFC,1.0,1.0
+,6,Manchester City WFC,Bristol City WFC,8.0,1.0
+08-11-2020,6,Chelsea,Everton,4.0,0.0
+,6,Brighton & Hove Albion WFC,Aston Villa,0.0,2.0
+,6,Birmingham City WFC,West Ham United WFC,1.0,2.0
+,6,Manchester United WFC,Arsenal,1.0,0.0
+18-10-2020,5,West Ham United WFC,Manchester United WFC,2.0,4.0
+,5,Everton,Brighton & Hove Albion WFC,2.0,2.0
+,5,Bristol City WFC,Birmingham City WFC,0.0,4.0
+,5,Reading WFC,Manchester City WFC,1.0,1.0
+,5,Arsenal,Tottenham Hotspur WFC,6.0,1.0
+27-01-2021,5,Aston Villa,Chelsea,0.0,4.0
+10-10-2020,4,Tottenham Hotspur WFC,Manchester United WFC,0.0,1.0
+11-10-2020,4,Brighton & Hove Albion WFC,Arsenal,0.0,5.0
+,4,Everton,West Ham United WFC,3.0,1.0
+,4,Reading WFC,Birmingham City WFC,0.0,1.0
+,4,Chelsea,Manchester City WFC,3.0,1.0
+09-12-2020,4,Bristol City WFC,Aston Villa,0.0,4.0
+03-10-2020,3,Aston Villa,Everton,0.0,6.0
+04-10-2020,3,Manchester United WFC,Brighton & Hove Albion WFC,3.0,0.0
+,3,Manchester City WFC,Tottenham Hotspur WFC,4.0,1.0
+,3,Arsenal,Bristol City WFC,3.0,1.0
+,3,Birmingham City WFC,Chelsea,0.0,1.0
+,3,West Ham United WFC,Reading WFC,0.0,1.0
+12-09-2020,2,West Ham United WFC,Arsenal,1.0,9.0
+13-09-2020,2,Chelsea,Bristol City WFC,9.0,0.0
+,2,Everton,Tottenham Hotspur WFC,1.0,0.0
+,2,Birmingham City WFC,Manchester United WFC,2.0,5.0
+,2,Reading WFC,Aston Villa,3.0,1.0
+,2,Manchester City WFC,Brighton & Hove Albion WFC,0.0,0.0
+05-09-2020,1,Aston Villa,Manchester City WFC,0.0,2.0
+06-09-2020,1,Arsenal,Reading WFC,6.0,1.0
+,1,Brighton & Hove Albion WFC,Birmingham City WFC,2.0,0.0
+,1,Bristol City WFC,Everton,0.0,4.0
+,1,Tottenham Hotspur WFC,West Ham United WFC,1.0,1.0
+,1,Manchester United WFC,Chelsea,1.0,1.0
+16-05-2020,22,Arsenal,Everton,,
+,22,Brighton & Hove Albion WFC,Manchester City WFC,,
+,22,Chelsea,Liverpool,,
+,22,Manchester United WFC,Birmingham City WFC,,
+,22,Tottenham Hotspur WFC,Reading WFC,,
+,22,West Ham United WFC,Bristol City WFC,,
+26-04-2020,21,Liverpool,Brighton & Hove Albion WFC,,
+,21,Everton,West Ham United WFC,,
+,21,Birmingham City WFC,Arsenal,,
+,21,Manchester City WFC,Tottenham Hotspur WFC,,
+,21,Reading WFC,Chelsea,,
+,21,Bristol City WFC,Manchester United WFC,,
+05-04-2020,20,Arsenal,Manchester United WFC,,
+,20,Birmingham City WFC,West Ham United WFC,,
+,20,Chelsea,Brighton & Hove Albion WFC,,
+,20,Liverpool,Tottenham Hotspur WFC,,
+,20,Manchester City WFC,Reading WFC,,
+,20,Bristol City WFC,Everton,,
+28-03-2020,19,Manchester United WFC,Manchester City WFC,,
+29-03-2020,19,Everton,Birmingham City WFC,,
+,19,Brighton & Hove Albion WFC,Bristol City WFC,,
+,19,Reading WFC,Liverpool,,
+,19,Tottenham Hotspur WFC,Chelsea,,
+,19,West Ham United WFC,Arsenal,,
+22-03-2020,18,Manchester United WFC,West Ham United WFC,,
+,18,Chelsea,Everton,,
+,18,Liverpool,Manchester City WFC,,
+,18,Reading WFC,Brighton & Hove Albion WFC,,
+,18,Tottenham Hotspur WFC,Birmingham City WFC,,
+,18,Bristol City WFC,Arsenal,,
+23-02-2020,17,Arsenal,Reading WFC,,
+,17,Everton,Manchester United WFC,2.0,3.0
+,17,Birmingham City WFC,Bristol City WFC,0.0,1.0
+,17,Brighton & Hove Albion WFC,Tottenham Hotspur WFC,0.0,1.0
+,17,Manchester City WFC,Chelsea,3.0,3.0
+,17,West Ham United WFC,Liverpool,4.0,2.0
+12-02-2020,16,Chelsea,Birmingham City WFC,2.0,0.0
+,16,Manchester City WFC,Bristol City WFC,1.0,0.0
+,16,Reading WFC,West Ham United WFC,2.0,0.0
+,16,Tottenham Hotspur WFC,Everton,2.0,2.0
+,16,Brighton & Hove Albion WFC,Manchester United WFC,1.0,1.0
+13-02-2020,16,Liverpool,Arsenal,2.0,3.0
+09-02-2020,15,Birmingham City WFC,Brighton & Hove Albion WFC,,
+,15,Bristol City WFC,Reading WFC,,
+25-03-2020,15,Everton,Liverpool,,
+22-04-2020,15,West Ham United WFC,Manchester City WFC,,
+12-05-2020,15,Manchester United WFC,Chelsea,,
+13-05-2020,15,Arsenal,Tottenham Hotspur WFC,,
+02-02-2020,14,Liverpool,Birmingham City WFC,,
+,14,Brighton & Hove Albion WFC,Everton,1.0,0.0
+,14,Chelsea,West Ham United WFC,8.0,0.0
+,14,Manchester City WFC,Arsenal,2.0,1.0
+,14,Reading WFC,Manchester United WFC,1.0,1.0
+19-04-2020,14,Tottenham Hotspur WFC,Bristol City WFC,,
+19-01-2020,13,Manchester United WFC,Tottenham Hotspur WFC,3.0,0.0
+,13,Birmingham City WFC,Manchester City WFC,0.0,2.0
+,13,Arsenal,Chelsea,1.0,4.0
+,13,Everton,Reading WFC,3.0,1.0
+,13,Bristol City WFC,Liverpool,0.0,1.0
+,13,West Ham United WFC,Brighton & Hove Albion WFC,2.0,1.0
+11-01-2020,12,Manchester City WFC,Everton,3.0,1.0
+12-01-2020,12,Liverpool,Manchester United WFC,,
+,12,Brighton & Hove Albion WFC,Arsenal,0.0,4.0
+,12,Chelsea,Bristol City WFC,6.0,1.0
+,12,Reading WFC,Birmingham City WFC,1.0,0.0
+,12,Tottenham Hotspur WFC,West Ham United WFC,2.0,1.0
+05-01-2020,11,Manchester United WFC,Bristol City WFC,0.0,1.0
+,11,Chelsea,Reading WFC,3.0,1.0
+,11,Arsenal,Birmingham City WFC,2.0,0.0
+,11,Brighton & Hove Albion WFC,Liverpool,1.0,0.0
+,11,Tottenham Hotspur WFC,Manchester City WFC,1.0,4.0
+01-04-2020,11,West Ham United WFC,Everton,,
+15-12-2019,10,Everton,Arsenal,1.0,3.0
+,10,Manchester City WFC,Brighton & Hove Albion WFC,5.0,0.0
+,10,Liverpool,Chelsea,1.0,1.0
+,10,Reading WFC,Tottenham Hotspur WFC,3.0,1.0
+25-03-2020,10,Birmingham City WFC,Manchester United WFC,,
+03-05-2020,10,Bristol City WFC,West Ham United WFC,,
+08-12-2019,9,Manchester United WFC,Everton,3.0,1.0
+,9,Chelsea,Manchester City WFC,2.0,1.0
+,9,Liverpool,West Ham United WFC,1.0,1.0
+,9,Tottenham Hotspur WFC,Brighton & Hove Albion WFC,1.0,0.0
+,9,Reading WFC,Arsenal,0.0,3.0
+,9,Bristol City WFC,Birmingham City WFC,0.0,2.0
+29-11-2019,8,Brighton & Hove Albion WFC,Reading WFC,2.0,2.0
+01-12-2019,8,Arsenal,Bristol City WFC,11.0,1.0
+,8,Manchester City WFC,Liverpool,1.0,0.0
+,8,West Ham United WFC,Manchester United WFC,3.0,2.0
+04-12-2019,8,Birmingham City WFC,Tottenham Hotspur WFC,1.0,1.0
+03-05-2020,8,Everton,Chelsea,,
+24-11-2019,7,Manchester United WFC,Brighton & Hove Albion WFC,4.0,0.0
+,7,Everton,Tottenham Hotspur WFC,3.0,1.0
+,7,Bristol City WFC,Manchester City WFC,0.0,5.0
+,7,Arsenal,Liverpool,1.0,0.0
+,7,Birmingham City WFC,Chelsea,0.0,6.0
+,7,West Ham United WFC,Reading WFC,2.0,3.0
+17-11-2019,6,Manchester City WFC,West Ham United WFC,5.0,0.0
+,6,Brighton & Hove Albion WFC,Birmingham City WFC,3.0,0.0
+,6,Chelsea,Manchester United WFC,1.0,0.0
+,6,Reading WFC,Bristol City WFC,3.0,3.0
+,6,Liverpool,Everton,0.0,1.0
+,6,Tottenham Hotspur WFC,Arsenal,0.0,2.0
+27-10-2019,5,Manchester United WFC,Reading WFC,2.0,0.0
+,5,Everton,Brighton & Hove Albion WFC,2.0,0.0
+,5,Birmingham City WFC,Liverpool,2.0,0.0
+,5,Arsenal,Manchester City WFC,1.0,0.0
+,5,Bristol City WFC,Tottenham Hotspur WFC,1.0,2.0
+,5,West Ham United WFC,Chelsea,1.0,3.0
+12-10-2019,4,Manchester City WFC,Birmingham City WFC,3.0,0.0
+13-10-2019,4,Liverpool,Bristol City WFC,1.0,1.0
+,4,Tottenham Hotspur WFC,Manchester United WFC,0.0,3.0
+,4,Brighton & Hove Albion WFC,West Ham United WFC,1.0,3.0
+,4,Reading WFC,Everton,3.0,2.0
+,4,Chelsea,Arsenal,2.0,1.0
+28-09-2019,3,Manchester United WFC,Liverpool,2.0,0.0
+29-09-2019,3,Everton,Manchester City WFC,0.0,1.0
+,3,Arsenal,Brighton & Hove Albion WFC,4.0,0.0
+,3,West Ham United WFC,Tottenham Hotspur WFC,0.0,2.0
+,3,Bristol City WFC,Chelsea,0.0,4.0
+06-05-2020,3,Birmingham City WFC,Reading WFC,,
+15-09-2019,2,Everton,Bristol City WFC,2.0,0.0
+,2,Reading WFC,Manchester City WFC,0.0,2.0
+,2,Brighton & Hove Albion WFC,Chelsea,1.0,1.0
+,2,Tottenham Hotspur WFC,Liverpool,1.0,0.0
+,2,West Ham United WFC,Birmingham City WFC,1.0,0.0
+16-09-2019,2,Manchester United WFC,Arsenal,0.0,1.0
+07-09-2019,1,Manchester City WFC,Manchester United WFC,1.0,0.0
+,1,Bristol City WFC,Brighton & Hove Albion WFC,0.0,0.0
+08-09-2019,1,Chelsea,Tottenham Hotspur WFC,1.0,0.0
+,1,Birmingham City WFC,Everton,0.0,1.0
+,1,Liverpool,Reading WFC,0.0,1.0
+,1,Arsenal,West Ham United WFC,2.0,1.0
+11-05-2019,22,Arsenal,Manchester City WFC,1.0,0.0
+,22,Liverpool,Everton,3.0,1.0
+,22,Reading WFC,Chelsea,2.0,3.0
+,22,West Ham United WFC,Brighton & Hove Albion WFC,0.0,4.0
+,22,Yeovil Town LFC,Birmingham City WFC,0.0,2.0
+28-04-2019,21,Brighton & Hove Albion WFC,Arsenal,0.0,4.0
+,21,Birmingham City WFC,Liverpool,2.0,0.0
+,21,Everton,Reading WFC,3.0,2.0
+,21,Manchester City WFC,Yeovil Town LFC,2.0,1.0
+,21,Bristol City WFC,West Ham United WFC,1.0,2.0
+20-04-2019,20,Reading WFC,Brighton & Hove Albion WFC,1.0,0.0
+21-04-2019,20,Arsenal,Everton,2.0,1.0
+,20,Liverpool,Bristol City WFC,5.0,2.0
+,20,West Ham United WFC,Birmingham City WFC,1.0,2.0
+07-05-2019,20,Yeovil Town LFC,Chelsea,0.0,8.0
+31-03-2019,19,Birmingham City WFC,Arsenal,0.0,1.0
+,19,Chelsea,West Ham United WFC,1.0,1.0
+,19,Everton,Yeovil Town LFC,0.0,1.0
+,19,Manchester City WFC,Liverpool,2.0,1.0
+,19,Bristol City WFC,Reading WFC,0.0,1.0
+13-03-2019,18,Liverpool,Chelsea,0.0,4.0
+,18,Reading WFC,Manchester City WFC,3.0,4.0
+,18,West Ham United WFC,Everton,0.0,1.0
+,18,Yeovil Town LFC,Brighton & Hove Albion WFC,1.0,1.0
+14-03-2019,18,Arsenal,Bristol City WFC,4.0,0.0
+20-02-2019,17,Manchester City WFC,Everton,3.0,1.0
+,17,Chelsea,Bristol City WFC,6.0,0.0
+,17,Reading WFC,West Ham United WFC,1.0,2.0
+,17,Arsenal,Yeovil Town LFC,3.0,0.0
+,17,Brighton & Hove Albion WFC,Birmingham City WFC,2.0,1.0
+10-02-2019,16,Manchester City WFC,Chelsea,2.0,2.0
+,16,Bristol City WFC,Brighton & Hove Albion WFC,0.0,0.0
+24-03-2019,16,Liverpool,Arsenal,1.0,5.0
+17-04-2019,16,Everton,Birmingham City WFC,1.0,3.0
+,16,Yeovil Town LFC,Reading WFC,0.0,5.0
+27-01-2019,15,Reading WFC,Arsenal,0.0,3.0
+,15,Chelsea,Birmingham City WFC,2.0,3.0
+,15,Manchester City WFC,Brighton & Hove Albion WFC,3.0,0.0
+,15,Bristol City WFC,Yeovil Town LFC,2.0,1.0
+28-01-2019,15,Liverpool,West Ham United WFC,1.0,0.0
+13-01-2019,14,Arsenal,Chelsea,1.0,2.0
+,14,Brighton & Hove Albion WFC,Everton,0.0,0.0
+,14,Birmingham City WFC,Bristol City WFC,0.0,1.0
+,14,Yeovil Town LFC,Liverpool,1.0,2.0
+,14,West Ham United WFC,Manchester City WFC,1.0,3.0
+06-01-2019,13,West Ham United WFC,Arsenal,2.0,4.0
+,13,Liverpool,Brighton & Hove Albion WFC,0.0,2.0
+,13,Chelsea,Everton,3.0,0.0
+,13,Birmingham City WFC,Reading WFC,2.0,1.0
+,13,Bristol City WFC,Manchester City WFC,1.0,1.0
+09-12-2018,12,Manchester City WFC,Birmingham City WFC,1.0,0.0
+,12,Reading WFC,Liverpool,2.0,2.0
+,12,Everton,Bristol City WFC,0.0,2.0
+,12,Brighton & Hove Albion WFC,Chelsea,0.0,4.0
+,12,Yeovil Town LFC,West Ham United WFC,0.0,5.0
+02-12-2018,11,Everton,Liverpool,2.0,1.0
+,11,Manchester City WFC,Arsenal,2.0,0.0
+,11,Chelsea,Reading WFC,1.0,0.0
+,11,Brighton & Hove Albion WFC,West Ham United WFC,0.0,1.0
+,11,Birmingham City WFC,Yeovil Town LFC,2.0,1.0
+25-11-2018,10,Arsenal,Brighton & Hove Albion WFC,4.0,1.0
+,10,Reading WFC,Everton,2.0,1.0
+,10,Liverpool,Birmingham City WFC,0.0,2.0
+,10,Yeovil Town LFC,Manchester City WFC,0.0,4.0
+,10,West Ham United WFC,Bristol City WFC,2.0,0.0
+17-11-2018,9,Bristol City WFC,Liverpool,2.0,1.0
+18-11-2018,9,Everton,Arsenal,0.0,4.0
+,9,Chelsea,Yeovil Town LFC,5.0,0.0
+,9,Brighton & Hove Albion WFC,Reading WFC,1.0,4.0
+,9,Birmingham City WFC,West Ham United WFC,3.0,0.0
+04-11-2018,8,Arsenal,Birmingham City WFC,3.0,1.0
+,8,Reading WFC,Bristol City WFC,3.0,0.0
+,8,Liverpool,Manchester City WFC,0.0,3.0
+,8,Yeovil Town LFC,Everton,1.0,0.0
+,8,West Ham United WFC,Chelsea,0.0,2.0
+26-10-2018,7,Manchester City WFC,Reading WFC,1.0,1.0
+28-10-2018,7,Chelsea,Liverpool,1.0,0.0
+,7,Everton,West Ham United WFC,1.0,2.0
+,7,Brighton & Hove Albion WFC,Yeovil Town LFC,2.0,1.0
+,7,Bristol City WFC,Arsenal,0.0,4.0
+21-10-2018,6,Birmingham City WFC,Chelsea,0.0,0.0
+,6,Brighton & Hove Albion WFC,Manchester City WFC,0.0,6.0
+,6,Arsenal,Reading WFC,6.0,0.0
+,6,Yeovil Town LFC,Bristol City WFC,1.0,2.0
+,6,West Ham United WFC,Liverpool,0.0,1.0
+14-10-2018,5,Manchester City WFC,West Ham United WFC,7.0,1.0
+,5,Liverpool,Yeovil Town LFC,2.0,1.0
+,5,Everton,Brighton & Hove Albion WFC,3.0,3.0
+,5,Chelsea,Arsenal,0.0,5.0
+,5,Bristol City WFC,Birmingham City WFC,0.0,1.0
+30-09-2018,4,Birmingham City WFC,Manchester City WFC,2.0,3.0
+,4,Liverpool,Reading WFC,0.0,1.0
+,4,Chelsea,Brighton & Hove Albion WFC,2.0,0.0
+,4,West Ham United WFC,Yeovil Town LFC,2.0,1.0
+24-03-2019,4,Bristol City WFC,Everton,1.0,0.0
+23-09-2018,3,Brighton & Hove Albion WFC,Liverpool,0.0,1.0
+,3,Reading WFC,Birmingham City WFC,0.0,1.0
+,3,Manchester City WFC,Bristol City WFC,2.0,2.0
+,3,Everton,Chelsea,0.0,0.0
+,3,Arsenal,West Ham United WFC,4.0,3.0
+19-09-2018,2,Bristol City WFC,Chelsea,0.0,0.0
+,2,Birmingham City WFC,Brighton & Hove Albion WFC,1.0,0.0
+,2,Yeovil Town LFC,Arsenal,0.0,7.0
+,2,West Ham United WFC,Reading WFC,0.0,0.0
+20-09-2018,2,Everton,Manchester City WFC,0.0,4.0
+09-09-2018,1,Arsenal,Liverpool,5.0,0.0
+,1,Reading WFC,Yeovil Town LFC,4.0,0.0
+,1,Chelsea,Manchester City WFC,0.0,0.0
+,1,Brighton & Hove Albion WFC,Bristol City WFC,0.0,1.0
+,1,Birmingham City WFC,Everton,1.0,0.0

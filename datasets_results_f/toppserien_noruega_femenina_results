@@ -1,0 +1,1735 @@
+fecha,jornada,local,visitante,goles_local,goles_visitante
+30-10-2022,6,SK Brann,Vålerenga IF,1,1
+,6,Stabæk FK,Rosenborg BK,1,2
+23-10-2022,5,Rosenborg BK,SK Brann,1,2
+,5,Vålerenga IF,Stabæk FK,6,0
+15-10-2022,4,Rosenborg BK,Vålerenga IF,0,1
+16-10-2022,4,SK Brann,Stabæk FK,3,0
+02-10-2022,3,Stabæk FK,SK Brann,0,1
+,3,Vålerenga IF,Rosenborg BK,2,0
+17-09-2022,2,SK Brann,Rosenborg BK,1,1
+18-09-2022,2,Stabæk FK,Vålerenga IF,0,5
+10-09-2022,1,Rosenborg BK,Stabæk FK,3,1
+11-09-2022,1,Vålerenga IF,SK Brann,1,2
+28-08-2022,18,Avaldsnes IL,Røa IL,1,1
+,18,SK Brann,Lillestrøm SK,3,3
+,18,Kolbotn IL,Vålerenga IF,3,1
+,18,Lyn Oslo,Rosenborg BK,2,1
+,18,Stabæk FK,Arna-Bjørnar,2,1
+04-05-2022,17,Rosenborg BK,Stabæk FK,1,0
+03-08-2022,17,Arna-Bjørnar,SK Brann,0,6
+20-08-2022,17,Vålerenga IF,Lyn Oslo,2,0
+21-08-2022,17,Lillestrøm SK,Avaldsnes IL,1,2
+,17,Røa IL,Kolbotn IL,1,4
+13-08-2022,16,SK Brann,Stabæk FK,1,1
+14-08-2022,16,Avaldsnes IL,Vålerenga IF,0,3
+,16,Kolbotn IL,Rosenborg BK,0,2
+,16,Lyn Oslo,Arna-Bjørnar,1,1
+,16,Røa IL,Lillestrøm SK,0,3
+06-08-2022,15,Stabæk FK,Kolbotn IL,0,1
+,15,Rosenborg BK,Røa IL,5,0
+,15,Vålerenga IF,Lillestrøm SK,1,1
+07-08-2022,15,Arna-Bjørnar,Avaldsnes IL,2,1
+,15,SK Brann,Lyn Oslo,4,0
+12-06-2022,14,Avaldsnes IL,Kolbotn IL,0,3
+,14,Lillestrøm SK,Arna-Bjørnar,2,0
+,14,Lyn Oslo,Stabæk FK,1,2
+,14,Røa IL,Vålerenga IF,0,4
+,14,Rosenborg BK,SK Brann,1,0
+05-06-2022,13,Arna-Bjørnar,Rosenborg BK,2,4
+,13,Kolbotn IL,Lillestrøm SK,2,1
+,13,Lyn Oslo,Røa IL,3,1
+,13,Stabæk FK,Avaldsnes IL,2,0
+,13,SK Brann,Vålerenga IF,1,0
+28-05-2022,12,Vålerenga IF,Rosenborg BK,1,1
+29-05-2022,12,Avaldsnes IL,SK Brann,1,2
+,12,Kolbotn IL,Lyn Oslo,0,1
+,12,Lillestrøm SK,Stabæk FK,2,0
+,12,Røa IL,Arna-Bjørnar,2,2
+25-05-2022,11,Arna-Bjørnar,Kolbotn IL,0,5
+,11,SK Brann,Røa IL,2,0
+,11,Lyn Oslo,Avaldsnes IL,3,2
+,11,Rosenborg BK,Lillestrøm SK,1,0
+,11,Stabæk FK,Vålerenga IF,1,4
+22-05-2022,10,Avaldsnes IL,Rosenborg BK,1,3
+,10,Røa IL,Stabæk FK,0,3
+,10,Vålerenga IF,Arna-Bjørnar,9,1
+,10,Kolbotn IL,SK Brann,1,2
+,10,Lillestrøm SK,Lyn Oslo,0,0
+15-05-2022,9,SK Brann,Avaldsnes IL,10,0
+18-06-2022,9,Arna-Bjørnar,Røa IL,2,1
+,9,Lyn Oslo,Kolbotn IL,1,1
+,9,Stabæk FK,Lillestrøm SK,3,1
+,9,Rosenborg BK,Vålerenga IF,2,0
+08-05-2022,8,Avaldsnes IL,Stabæk FK,0,1
+,8,Kolbotn IL,Arna-Bjørnar,2,0
+,8,Røa IL,Lyn Oslo,0,2
+,8,Vålerenga IF,SK Brann,1,1
+,8,Lillestrøm SK,Rosenborg BK,0,0
+30-04-2022,7,Stabæk FK,Røa IL,1,0
+01-05-2022,7,Arna-Bjørnar,Lillestrøm SK,1,0
+,7,Rosenborg BK,Lyn Oslo,0,1
+,7,Vålerenga IF,Avaldsnes IL,6,0
+,7,SK Brann,Kolbotn IL,2,1
+27-04-2022,6,Kolbotn IL,Avaldsnes IL,0,3
+,6,Arna-Bjørnar,Stabæk FK,1,2
+,6,Lyn Oslo,SK Brann,0,2
+,6,Røa IL,Rosenborg BK,0,3
+,6,Lillestrøm SK,Vålerenga IF,0,3
+23-04-2022,5,Vålerenga IF,Kolbotn IL,2,0
+24-04-2022,5,Lillestrøm SK,Røa IL,1,1
+,5,Rosenborg BK,Arna-Bjørnar,4,1
+,5,Stabæk FK,SK Brann,1,2
+,5,Avaldsnes IL,Lyn Oslo,2,2
+18-04-2022,4,Arna-Bjørnar,Vålerenga IF,0,3
+,4,Kolbotn IL,Stabæk FK,1,1
+,4,Lyn Oslo,Lillestrøm SK,1,3
+,4,Røa IL,Avaldsnes IL,0,2
+,4,SK Brann,Rosenborg BK,2,1
+03-04-2022,3,Avaldsnes IL,Arna-Bjørnar,0,3
+,3,Lillestrøm SK,SK Brann,0,1
+,3,Stabæk FK,Lyn Oslo,1,1
+,3,Vålerenga IF,Røa IL,3,0
+,3,Rosenborg BK,Kolbotn IL,2,0
+27-03-2022,2,Avaldsnes IL,Lillestrøm SK,0,2
+,2,SK Brann,Arna-Bjørnar,7,0
+,2,Kolbotn IL,Røa IL,1,0
+,2,Stabæk FK,Rosenborg BK,2,3
+,2,Lyn Oslo,Vålerenga IF,1,3
+20-03-2022,1,Arna-Bjørnar,Lyn Oslo,1,2
+,1,Lillestrøm SK,Kolbotn IL,3,2
+,1,Røa IL,SK Brann,2,5
+,1,Rosenborg BK,Avaldsnes IL,6,0
+21-03-2022,1,Vålerenga IF,Stabæk FK,2,0
+13-11-2021,18,Arna-Bjørnar,Kolbotn IL,2,2
+,18,Klepp IL,Vålerenga IF,1,3
+,18,Lillestrøm SK,IL Sandviken,0,2
+,18,Rosenborg BK,Lyn Oslo,3,2
+,18,Stabæk FK,Avaldsnes IL,2,1
+07-11-2021,17,Avaldsnes IL,Arna-Bjørnar,1,3
+,17,Kolbotn IL,Rosenborg BK,1,2
+,17,Lyn Oslo,Lillestrøm SK,1,2
+,17,IL Sandviken,Klepp IL,8,0
+,17,Vålerenga IF,Stabæk FK,0,1
+16-10-2021,16,Klepp IL,Rosenborg BK,0,3
+,16,Kolbotn IL,Lyn Oslo,1,0
+,16,Stabæk FK,Lillestrøm SK,1,3
+17-10-2021,16,Avaldsnes IL,IL Sandviken,0,1
+,16,Arna-Bjørnar,Vålerenga IF,0,8
+09-10-2021,15,IL Sandviken,Stabæk FK,3,0
+,15,Rosenborg BK,Arna-Bjørnar,7,1
+,15,Klepp IL,Kolbotn IL,1,2
+,15,Lillestrøm SK,Avaldsnes IL,4,3
+,15,Lyn Oslo,Vålerenga IF,0,1
+25-09-2021,14,Arna-Bjørnar,Klepp IL,3,1
+,14,Avaldsnes IL,Rosenborg BK,0,1
+,14,Kolbotn IL,IL Sandviken,1,3
+,14,Stabæk FK,Lyn Oslo,2,1
+26-09-2021,14,Vålerenga IF,Lillestrøm SK,2,1
+04-09-2021,13,Lillestrøm SK,Kolbotn IL,5,2
+,13,Lyn Oslo,Avaldsnes IL,3,1
+,13,Rosenborg BK,Vålerenga IF,2,1
+,13,IL Sandviken,Arna-Bjørnar,4,0
+02-10-2021,13,Stabæk FK,Klepp IL,1,0
+28-08-2021,12,Klepp IL,Lyn Oslo,1,1
+,12,Vålerenga IF,IL Sandviken,0,1
+29-08-2021,12,Arna-Bjørnar,Stabæk FK,1,0
+,12,Kolbotn IL,Avaldsnes IL,2,2
+13-10-2021,12,Rosenborg BK,Lillestrøm SK,2,1
+14-08-2021,11,Lyn Oslo,Arna-Bjørnar,1,1
+,11,Avaldsnes IL,Vålerenga IF,1,1
+,11,Lillestrøm SK,Klepp IL,2,0
+,11,IL Sandviken,Rosenborg BK,2,0
+15-08-2021,11,Stabæk FK,Kolbotn IL,0,1
+07-08-2021,10,Arna-Bjørnar,Lillestrøm SK,3,4
+,10,Lyn Oslo,IL Sandviken,1,2
+,10,Stabæk FK,Rosenborg BK,2,5
+,10,Vålerenga IF,Kolbotn IL,3,0
+,10,Klepp IL,Avaldsnes IL,0,4
+14-07-2021,9,Lillestrøm SK,Vålerenga IF,1,1
+15-07-2021,9,Avaldsnes IL,Stabæk FK,1,1
+17-07-2021,9,Arna-Bjørnar,Lyn Oslo,3,1
+,9,Kolbotn IL,Klepp IL,3,0
+,9,Rosenborg BK,IL Sandviken,0,2
+10-07-2021,8,Stabæk FK,Arna-Bjørnar,0,3
+,8,Avaldsnes IL,Klepp IL,3,0
+,8,Kolbotn IL,Lillestrøm SK,1,2
+,8,IL Sandviken,Vålerenga IF,3,0
+,8,Lyn Oslo,Rosenborg BK,1,2
+03-07-2021,7,Arna-Bjørnar,Avaldsnes IL,3,0
+,7,Lillestrøm SK,Stabæk FK,4,0
+,7,Lyn Oslo,Kolbotn IL,0,1
+04-07-2021,7,Klepp IL,IL Sandviken,1,3
+,7,Vålerenga IF,Rosenborg BK,1,2
+30-06-2021,6,Kolbotn IL,Arna-Bjørnar,1,0
+,6,IL Sandviken,Lillestrøm SK,4,1
+,6,Avaldsnes IL,Lyn Oslo,0,1
+,6,Stabæk FK,Vålerenga IF,0,5
+,6,Rosenborg BK,Klepp IL,2,1
+25-06-2021,5,Arna-Bjørnar,IL Sandviken,1,1
+26-06-2021,5,Avaldsnes IL,Kolbotn IL,3,1
+,5,Lillestrøm SK,Rosenborg BK,0,3
+,5,Lyn Oslo,Stabæk FK,2,2
+,5,Vålerenga IF,Klepp IL,7,0
+19-06-2021,4,Kolbotn IL,Stabæk FK,1,2
+22-06-2021,4,Klepp IL,Lillestrøm SK,1,5
+,4,Rosenborg BK,Avaldsnes IL,1,0
+,4,IL Sandviken,Lyn Oslo,5,0
+,4,Vålerenga IF,Arna-Bjørnar,2,0
+05-06-2021,3,Arna-Bjørnar,Rosenborg BK,0,2
+,3,Avaldsnes IL,Lillestrøm SK,2,3
+,3,Kolbotn IL,Vålerenga IF,1,2
+,3,Lyn Oslo,Klepp IL,2,0
+,3,Stabæk FK,IL Sandviken,1,2
+29-05-2021,2,IL Sandviken,Avaldsnes IL,3,0
+,2,Vålerenga IF,Lyn Oslo,4,0
+,2,Rosenborg BK,Kolbotn IL,3,0
+,2,Lillestrøm SK,Arna-Bjørnar,5,2
+30-05-2021,2,Klepp IL,Stabæk FK,1,0
+22-05-2021,1,Klepp IL,Arna-Bjørnar,4,1
+,1,IL Sandviken,Kolbotn IL,1,0
+,1,Rosenborg BK,Stabæk FK,2,0
+,1,Vålerenga IF,Avaldsnes IL,5,3
+02-06-2021,1,Lillestrøm SK,Lyn Oslo,3,2
+15-11-2020,18,Røa IL,Kolbotn IL,2,0
+06-12-2020,18,IL Sandviken,Avaldsnes IL,4,0
+,18,Klepp IL,Rosenborg BK,1,2
+,18,Lillestrøm SK,Lyn Oslo,0,1
+,18,Vålerenga IF,Arna-Bjørnar,4,0
+07-11-2020,17,Lyn Oslo,Vålerenga IF,3,2
+,17,Rosenborg BK,IL Sandviken,1,1
+,17,Avaldsnes IL,Klepp IL,3,0
+,17,Kolbotn IL,Lillestrøm SK,1,1
+,17,Arna-Bjørnar,Røa IL,0,0
+31-10-2020,16,Røa IL,Lyn Oslo,1,3
+,16,Klepp IL,Arna-Bjørnar,2,1
+,16,IL Sandviken,Kolbotn IL,1,0
+01-11-2020,16,Rosenborg BK,Avaldsnes IL,3,1
+,16,Vålerenga IF,Lillestrøm SK,4,2
+16-10-2020,15,Lillestrøm SK,Avaldsnes IL,1,3
+17-10-2020,15,IL Sandviken,Røa IL,2,2
+18-10-2020,15,Kolbotn IL,Klepp IL,2,2
+,15,Lyn Oslo,Arna-Bjørnar,4,0
+,15,Vålerenga IF,Rosenborg BK,1,1
+12-08-2020,14,Røa IL,Vålerenga IF,1,2
+03-10-2020,14,Arna-Bjørnar,Lillestrøm SK,1,0
+,14,Klepp IL,IL Sandviken,3,2
+,14,Avaldsnes IL,Kolbotn IL,2,1
+04-10-2020,14,Rosenborg BK,Lyn Oslo,3,0
+26-09-2020,13,Lillestrøm SK,Røa IL,2,0
+,13,Kolbotn IL,Rosenborg BK,2,2
+27-09-2020,13,Lyn Oslo,Avaldsnes IL,1,1
+,13,Vålerenga IF,Klepp IL,7,0
+,13,IL Sandviken,Arna-Bjørnar,2,0
+12-09-2020,12,Arna-Bjørnar,Kolbotn IL,2,1
+,12,Rosenborg BK,Røa IL,2,0
+,12,Avaldsnes IL,Vålerenga IF,0,0
+,12,Lyn Oslo,IL Sandviken,2,0
+,12,Klepp IL,Lillestrøm SK,2,3
+05-09-2020,11,Arna-Bjørnar,Avaldsnes IL,0,2
+,11,Røa IL,Klepp IL,1,0
+,11,Lillestrøm SK,Rosenborg BK,0,1
+,11,Vålerenga IF,IL Sandviken,2,0
+06-09-2020,11,Kolbotn IL,Lyn Oslo,1,0
+29-08-2020,10,Avaldsnes IL,Røa IL,4,0
+30-08-2020,10,Rosenborg BK,Arna-Bjørnar,1,1
+,10,Kolbotn IL,Vålerenga IF,0,0
+,10,Lyn Oslo,Klepp IL,1,3
+,10,IL Sandviken,Lillestrøm SK,0,1
+26-08-2020,9,Røa IL,Rosenborg BK,2,3
+,9,Arna-Bjørnar,IL Sandviken,0,1
+,9,Lillestrøm SK,Kolbotn IL,3,1
+,9,Vålerenga IF,Lyn Oslo,2,0
+,9,Klepp IL,Avaldsnes IL,1,2
+22-08-2020,8,Kolbotn IL,Arna-Bjørnar,2,3
+,8,Lyn Oslo,Røa IL,1,1
+,8,Avaldsnes IL,Rosenborg BK,1,1
+,8,Lillestrøm SK,Vålerenga IF,1,3
+,8,IL Sandviken,Klepp IL,2,1
+15-08-2020,7,Arna-Bjørnar,Lyn Oslo,2,1
+,7,Klepp IL,Røa IL,0,1
+,7,Avaldsnes IL,Lillestrøm SK,1,0
+16-08-2020,7,Kolbotn IL,IL Sandviken,1,3
+,7,Rosenborg BK,Vålerenga IF,0,0
+07-08-2020,6,Røa IL,Avaldsnes IL,0,1
+,6,Vålerenga IF,Kolbotn IL,1,1
+08-08-2020,6,Klepp IL,Lyn Oslo,1,0
+,6,IL Sandviken,Rosenborg BK,1,3
+09-08-2020,6,Lillestrøm SK,Arna-Bjørnar,2,1
+01-08-2020,5,Arna-Bjørnar,Vålerenga IF,0,3
+,5,Lyn Oslo,Lillestrøm SK,2,3
+,5,Kolbotn IL,Røa IL,2,1
+02-08-2020,5,Rosenborg BK,Klepp IL,1,1
+,5,Avaldsnes IL,IL Sandviken,1,3
+24-07-2020,4,Vålerenga IF,Avaldsnes IL,2,1
+25-07-2020,4,Røa IL,IL Sandviken,2,3
+,4,Lyn Oslo,Kolbotn IL,1,0
+,4,Arna-Bjørnar,Rosenborg BK,1,2
+26-07-2020,4,Lillestrøm SK,Klepp IL,3,0
+17-07-2020,3,Røa IL,Lillestrøm SK,1,5
+18-07-2020,3,Klepp IL,Vålerenga IF,1,2
+,3,IL Sandviken,Lyn Oslo,1,1
+,3,Avaldsnes IL,Arna-Bjørnar,1,0
+19-07-2020,3,Rosenborg BK,Kolbotn IL,3,1
+10-07-2020,2,Kolbotn IL,Avaldsnes IL,2,2
+,2,Vålerenga IF,Røa IL,2,0
+11-07-2020,2,Arna-Bjørnar,Klepp IL,0,1
+,2,Lyn Oslo,Rosenborg BK,1,4
+12-07-2020,2,Lillestrøm SK,IL Sandviken,1,0
+03-07-2020,1,Rosenborg BK,Lillestrøm SK,1,1
+04-07-2020,1,Røa IL,Arna-Bjørnar,0,1
+,1,Avaldsnes IL,Lyn Oslo,5,2
+,1,IL Sandviken,Vålerenga IF,3,2
+05-07-2020,1,Klepp IL,Kolbotn IL,0,0
+16-11-2019,22,Arna-Bjørnar,Vålerenga IF,0,2
+,22,Avaldsnes IL,SK Trondheims-Ørn,0,1
+,22,FL Fart,Klepp IL,1,6
+,22,Kolbotn IL,Lyn Oslo,0,0
+,22,Røa IL,IL Sandviken,2,2
+,22,Stabæk FK,Lillestrøm SK,2,2
+02-11-2019,21,Klepp IL,Arna-Bjørnar,4,0
+,21,Lillestrøm SK,FL Fart,1,2
+,21,Lyn Oslo,Røa IL,1,1
+,21,IL Sandviken,Kolbotn IL,2,2
+,21,SK Trondheims-Ørn,Stabæk FK,3,1
+,21,Vålerenga IF,Avaldsnes IL,1,1
+19-10-2019,20,Avaldsnes IL,IL Sandviken,3,2
+,20,FL Fart,Vålerenga IF,0,1
+,20,Røa IL,Klepp IL,1,4
+,20,Stabæk FK,Lyn Oslo,1,0
+20-10-2019,20,Arna-Bjørnar,SK Trondheims-Ørn,0,0
+,20,Kolbotn IL,Lillestrøm SK,2,2
+12-10-2019,19,SK Trondheims-Ørn,Kolbotn IL,4,0
+,19,Klepp IL,Stabæk FK,5,0
+,19,Lillestrøm SK,Avaldsnes IL,2,1
+,19,IL Sandviken,FL Fart,2,0
+,19,Vålerenga IF,Røa IL,1,1
+13-10-2019,19,Lyn Oslo,Arna-Bjørnar,4,5
+28-09-2019,18,Avaldsnes IL,Lyn Oslo,3,1
+,18,Stabæk FK,Vålerenga IF,1,3
+29-09-2019,18,Klepp IL,SK Trondheims-Ørn,2,3
+,18,Røa IL,Lillestrøm SK,0,1
+,18,IL Sandviken,Arna-Bjørnar,2,0
+15-10-2019,18,Kolbotn IL,FL Fart,4,0
+21-09-2019,17,Arna-Bjørnar,Avaldsnes IL,0,2
+,17,FL Fart,Røa IL,1,1
+,17,Kolbotn IL,Stabæk FK,3,2
+,17,Lyn Oslo,Klepp IL,2,1
+,17,Vålerenga IF,SK Trondheims-Ørn,3,1
+,17,Lillestrøm SK,IL Sandviken,2,0
+14-09-2019,16,Røa IL,Arna-Bjørnar,6,1
+,16,IL Sandviken,Vålerenga IF,3,4
+,16,Avaldsnes IL,Kolbotn IL,2,1
+,16,Stabæk FK,FL Fart,3,0
+,16,SK Trondheims-Ørn,Lyn Oslo,1,1
+15-09-2019,16,Klepp IL,Lillestrøm SK,1,1
+07-09-2019,15,Lillestrøm SK,SK Trondheims-Ørn,2,0
+,15,Arna-Bjørnar,Stabæk FK,2,2
+,15,FL Fart,Avaldsnes IL,0,3
+,15,Vålerenga IF,Klepp IL,4,0
+,15,Lyn Oslo,IL Sandviken,1,1
+09-09-2019,15,Kolbotn IL,Røa IL,4,4
+24-08-2019,14,Klepp IL,Kolbotn IL,3,0
+,14,Avaldsnes IL,Røa IL,1,0
+,14,SK Trondheims-Ørn,FL Fart,3,0
+,14,Stabæk FK,IL Sandviken,0,2
+25-08-2019,14,Lyn Oslo,Vålerenga IF,1,2
+,14,Arna-Bjørnar,Lillestrøm SK,1,3
+17-08-2019,13,Kolbotn IL,Arna-Bjørnar,0,2
+,13,Lillestrøm SK,Vålerenga IF,2,0
+,13,Avaldsnes IL,Klepp IL,1,3
+,13,FL Fart,Lyn Oslo,2,2
+,13,Røa IL,Stabæk FK,2,1
+18-08-2019,13,IL Sandviken,SK Trondheims-Ørn,1,0
+17-04-2019,12,Lyn Oslo,Lillestrøm SK,0,2
+10-08-2019,12,Arna-Bjørnar,FL Fart,3,1
+,12,Stabæk FK,Avaldsnes IL,0,0
+,12,Vålerenga IF,Kolbotn IL,1,0
+,12,SK Trondheims-Ørn,Røa IL,0,1
+11-08-2019,12,Klepp IL,IL Sandviken,2,3
+03-08-2019,11,Avaldsnes IL,Arna-Bjørnar,2,1
+,11,FL Fart,Stabæk FK,1,0
+,11,Kolbotn IL,SK Trondheims-Ørn,1,2
+,11,Lillestrøm SK,Klepp IL,0,1
+04-08-2019,11,Røa IL,Vålerenga IF,2,6
+,11,IL Sandviken,Lyn Oslo,2,1
+27-07-2019,10,Vålerenga IF,IL Sandviken,1,1
+18-09-2019,10,Lyn Oslo,Avaldsnes IL,2,3
+,10,SK Trondheims-Ørn,Lillestrøm SK,0,3
+,10,Stabæk FK,Kolbotn IL,2,0
+25-09-2019,10,Arna-Bjørnar,Røa IL,2,2
+,10,Klepp IL,FL Fart,4,0
+18-05-2019,9,FL Fart,SK Trondheims-Ørn,0,2
+,9,Stabæk FK,Arna-Bjørnar,0,1
+,9,Vålerenga IF,Lyn Oslo,0,1
+19-05-2019,9,Kolbotn IL,Klepp IL,0,0
+,9,IL Sandviken,Lillestrøm SK,1,3
+,9,Røa IL,Avaldsnes IL,2,2
+11-05-2019,8,Lillestrøm SK,Lyn Oslo,6,0
+,8,Avaldsnes IL,Stabæk FK,4,0
+,8,Klepp IL,Vålerenga IF,5,0
+,8,Røa IL,FL Fart,5,0
+,8,SK Trondheims-Ørn,IL Sandviken,0,1
+12-05-2019,8,Arna-Bjørnar,Kolbotn IL,1,3
+04-05-2019,7,Kolbotn IL,Avaldsnes IL,3,1
+,7,Stabæk FK,Røa IL,0,2
+05-05-2019,7,FL Fart,Arna-Bjørnar,1,3
+,7,Lyn Oslo,SK Trondheims-Ørn,0,3
+,7,IL Sandviken,Klepp IL,2,1
+,7,Vålerenga IF,Lillestrøm SK,1,2
+01-05-2019,6,Avaldsnes IL,FL Fart,3,3
+,6,SK Trondheims-Ørn,Vålerenga IF,0,1
+,6,Arna-Bjørnar,IL Sandviken,1,2
+,6,Lillestrøm SK,Stabæk FK,4,0
+,6,Røa IL,Kolbotn IL,1,2
+,6,Klepp IL,Lyn Oslo,1,0
+27-04-2019,5,Lyn Oslo,Stabæk FK,2,0
+,5,FL Fart,Kolbotn IL,2,3
+,5,Lillestrøm SK,Røa IL,1,1
+,5,IL Sandviken,Avaldsnes IL,6,4
+28-04-2019,5,SK Trondheims-Ørn,Klepp IL,0,1
+,5,Vålerenga IF,Arna-Bjørnar,1,0
+22-04-2019,4,Avaldsnes IL,Vålerenga IF,2,2
+,4,Arna-Bjørnar,Klepp IL,1,0
+,4,FL Fart,Lillestrøm SK,0,4
+,4,Kolbotn IL,IL Sandviken,3,2
+,4,Røa IL,Lyn Oslo,2,3
+,4,Stabæk FK,SK Trondheims-Ørn,1,1
+13-04-2019,3,Klepp IL,Røa IL,1,0
+,3,Lyn Oslo,Kolbotn IL,0,0
+,3,Lillestrøm SK,Arna-Bjørnar,3,1
+,3,IL Sandviken,Stabæk FK,3,0
+,3,Vålerenga IF,FL Fart,4,0
+14-04-2019,3,SK Trondheims-Ørn,Avaldsnes IL,1,1
+30-03-2019,2,Arna-Bjørnar,Lyn Oslo,1,1
+,2,Avaldsnes IL,Lillestrøm SK,1,1
+,2,FL Fart,IL Sandviken,0,3
+,2,Kolbotn IL,Vålerenga IF,1,2
+,2,Røa IL,SK Trondheims-Ørn,2,1
+,2,Stabæk FK,Klepp IL,0,2
+23-03-2019,1,Lillestrøm SK,Kolbotn IL,4,3
+,1,IL Sandviken,Røa IL,0,2
+,1,Klepp IL,Avaldsnes IL,1,0
+,1,Lyn Oslo,FL Fart,0,0
+24-03-2019,1,SK Trondheims-Ørn,Arna-Bjørnar,0,0
+,1,Vålerenga IF,Stabæk FK,1,0
+04-11-2018,22,Arna-Bjørnar,Klepp IL,0,0
+,22,Avaldsnes IL,Stabæk FK,2,0
+,22,Kolbotn IL,Vålerenga IF,3,1
+,22,Lillestrøm SK,Røa IL,6,2
+,22,Lyn Oslo,IL Sandviken,2,4
+,22,SK Trondheims-Ørn,IK Grand,0,0
+27-10-2018,21,IK Grand,Lyn Oslo,1,0
+,21,Klepp IL,Avaldsnes IL,2,1
+,21,Røa IL,SK Trondheims-Ørn,2,1
+,21,IL Sandviken,Lillestrøm SK,0,0
+,21,Stabæk FK,Kolbotn IL,1,2
+,21,Vålerenga IF,Arna-Bjørnar,1,1
+20-10-2018,20,Arna-Bjørnar,Røa IL,2,0
+,20,Avaldsnes IL,IL Sandviken,0,0
+,20,Lyn Oslo,Stabæk FK,2,3
+,20,SK Trondheims-Ørn,Vålerenga IF,1,3
+21-10-2018,20,Lillestrøm SK,Klepp IL,2,3
+,20,Kolbotn IL,IK Grand,3,2
+21-09-2018,19,Stabæk FK,Lillestrøm SK,0,2
+22-09-2018,19,Lyn Oslo,Kolbotn IL,0,1
+,19,IL Sandviken,Arna-Bjørnar,1,1
+23-09-2018,19,IK Grand,Røa IL,1,3
+26-09-2018,19,Klepp IL,SK Trondheims-Ørn,1,0
+13-10-2018,19,Vålerenga IF,Avaldsnes IL,2,1
+15-09-2018,18,Arna-Bjørnar,Stabæk FK,6,2
+,18,Røa IL,Vålerenga IF,2,1
+16-09-2018,18,Avaldsnes IL,Kolbotn IL,0,0
+,18,IK Grand,Klepp IL,3,5
+,18,SK Trondheims-Ørn,IL Sandviken,3,3
+,18,Lillestrøm SK,Lyn Oslo,2,1
+08-09-2018,17,Avaldsnes IL,Lillestrøm SK,1,4
+,17,Kolbotn IL,Arna-Bjørnar,1,4
+,17,Stabæk FK,SK Trondheims-Ørn,2,0
+,17,Lyn Oslo,Røa IL,3,4
+09-09-2018,17,IL Sandviken,IK Grand,4,1
+,17,Vålerenga IF,Klepp IL,1,1
+25-08-2018,16,Arna-Bjørnar,Lyn Oslo,2,1
+,16,Røa IL,Stabæk FK,2,0
+,16,SK Trondheims-Ørn,Avaldsnes IL,1,1
+26-08-2018,16,Lillestrøm SK,Kolbotn IL,5,1
+,16,IK Grand,Vålerenga IF,1,2
+,16,Klepp IL,IL Sandviken,1,1
+18-08-2018,15,Kolbotn IL,SK Trondheims-Ørn,3,3
+,15,Lillestrøm SK,Arna-Bjørnar,2,0
+,15,Lyn Oslo,Klepp IL,0,1
+,15,IL Sandviken,Røa IL,5,3
+,15,Stabæk FK,Vålerenga IF,0,1
+19-08-2018,15,Avaldsnes IL,IK Grand,3,3
+04-07-2018,14,Arna-Bjørnar,Avaldsnes IL,4,1
+11-08-2018,14,Vålerenga IF,IL Sandviken,1,0
+,14,Klepp IL,Stabæk FK,2,0
+,14,Røa IL,Kolbotn IL,1,2
+,14,SK Trondheims-Ørn,Lyn Oslo,1,1
+12-08-2018,14,IK Grand,Lillestrøm SK,0,3
+03-08-2018,13,Lyn Oslo,Avaldsnes IL,2,2
+04-08-2018,13,Kolbotn IL,IL Sandviken,1,1
+,13,Røa IL,Klepp IL,0,1
+,13,Lillestrøm SK,Vålerenga IF,2,0
+,13,Stabæk FK,IK Grand,2,0
+05-08-2018,13,Arna-Bjørnar,SK Trondheims-Ørn,6,1
+30-06-2018,12,Klepp IL,Kolbotn IL,2,1
+,12,IL Sandviken,Stabæk FK,1,3
+,12,SK Trondheims-Ørn,Lillestrøm SK,2,3
+,12,IK Grand,Arna-Bjørnar,0,4
+01-07-2018,12,Avaldsnes IL,Røa IL,2,2
+,12,Vålerenga IF,Lyn Oslo,6,1
+23-06-2018,11,Kolbotn IL,Avaldsnes IL,2,0
+,11,Røa IL,IL Sandviken,3,2
+,11,Stabæk FK,Klepp IL,0,1
+,11,Arna-Bjørnar,Vålerenga IF,3,2
+,11,Lyn Oslo,SK Trondheims-Ørn,2,3
+24-06-2018,11,Lillestrøm SK,IK Grand,2,0
+16-06-2018,10,IL Sandviken,Lyn Oslo,6,0
+,10,SK Trondheims-Ørn,Kolbotn IL,2,2
+,10,Avaldsnes IL,Arna-Bjørnar,1,0
+,10,IK Grand,Stabæk FK,0,3
+,10,Klepp IL,Lillestrøm SK,0,2
+,10,Vålerenga IF,Røa IL,2,1
+26-05-2018,9,Røa IL,Arna-Bjørnar,2,2
+,9,Kolbotn IL,Klepp IL,3,1
+,9,Stabæk FK,IL Sandviken,0,1
+27-05-2018,9,Lyn Oslo,IK Grand,2,1
+,9,Vålerenga IF,SK Trondheims-Ørn,0,1
+,9,Lillestrøm SK,Avaldsnes IL,4,0
+19-05-2018,8,IL Sandviken,Vålerenga IF,3,0
+,8,Arna-Bjørnar,Lillestrøm SK,0,1
+,8,Avaldsnes IL,SK Trondheims-Ørn,2,0
+,8,Klepp IL,Røa IL,2,1
+,8,Stabæk FK,Lyn Oslo,5,0
+20-05-2018,8,IK Grand,Kolbotn IL,1,2
+12-05-2018,7,Røa IL,Avaldsnes IL,2,0
+,7,IL Sandviken,Klepp IL,1,0
+,7,Lyn Oslo,Lillestrøm SK,3,4
+,7,Kolbotn IL,Stabæk FK,1,1
+13-05-2018,7,SK Trondheims-Ørn,Arna-Bjørnar,2,6
+,7,Vålerenga IF,IK Grand,3,2
+05-05-2018,6,Avaldsnes IL,Lyn Oslo,3,0
+,6,Klepp IL,Vålerenga IF,3,0
+,6,Lillestrøm SK,SK Trondheims-Ørn,5,0
+,6,Arna-Bjørnar,Kolbotn IL,1,1
+06-05-2018,6,IK Grand,IL Sandviken,1,3
+,6,Stabæk FK,Røa IL,1,3
+28-04-2018,5,Lyn Oslo,Arna-Bjørnar,2,1
+,5,IL Sandviken,Avaldsnes IL,1,0
+,5,Vålerenga IF,Stabæk FK,5,0
+29-04-2018,5,Kolbotn IL,Lillestrøm SK,0,5
+,5,SK Trondheims-Ørn,Klepp IL,0,1
+,5,Røa IL,IK Grand,4,1
+21-04-2018,4,SK Trondheims-Ørn,Røa IL,1,0
+,4,Arna-Bjørnar,IL Sandviken,1,2
+,4,Lillestrøm SK,Stabæk FK,1,0
+22-04-2018,4,Klepp IL,IK Grand,6,0
+,4,Avaldsnes IL,Vålerenga IF,0,3
+15-08-2018,4,Kolbotn IL,Lyn Oslo,1,0
+14-04-2018,3,Klepp IL,Lyn Oslo,3,2
+,3,Røa IL,Lillestrøm SK,2,5
+,3,Stabæk FK,Arna-Bjørnar,2,2
+15-04-2018,3,IL Sandviken,SK Trondheims-Ørn,3,1
+,3,IK Grand,Avaldsnes IL,0,1
+,3,Vålerenga IF,Kolbotn IL,2,3
+28-03-2018,2,Arna-Bjørnar,IK Grand,5,0
+29-03-2018,2,Lillestrøm SK,IL Sandviken,6,0
+31-03-2018,2,SK Trondheims-Ørn,Stabæk FK,1,0
+02-05-2018,2,Lyn Oslo,Vålerenga IF,1,1
+04-06-2018,2,Avaldsnes IL,Klepp IL,1,2
+27-06-2018,2,Kolbotn IL,Røa IL,0,2
+24-03-2018,1,IL Sandviken,Kolbotn IL,0,1
+,1,IK Grand,SK Trondheims-Ørn,2,1
+,1,Klepp IL,Arna-Bjørnar,1,2
+,1,Røa IL,Lyn Oslo,1,2
+,1,Vålerenga IF,Lillestrøm SK,0,5
+01-05-2018,1,Stabæk FK,Avaldsnes IL,4,2
+04-11-2017,22,Klepp IL,Arna-Bjørnar,0,0
+,22,IL Sandviken,Røa IL,0,2
+,22,Avaldsnes IL,Medkila IL,5,0
+,22,Kolbotn IL,IK Grand,2,0
+,22,Vålerenga IF,Lillestrøm SK,2,5
+,22,Stabæk FK,SK Trondheims-Ørn,5,2
+28-10-2017,21,Lillestrøm SK,Stabæk FK,3,2
+,21,Medkila IL,Kolbotn IL,1,3
+,21,Røa IL,Klepp IL,0,1
+,21,SK Trondheims-Ørn,Avaldsnes IL,1,3
+,21,IK Grand,Vålerenga IF,2,3
+,21,Arna-Bjørnar,IL Sandviken,2,0
+14-10-2017,20,Klepp IL,Medkila IL,2,0
+,20,Vålerenga IF,SK Trondheims-Ørn,2,2
+,20,Arna-Bjørnar,Røa IL,0,2
+15-10-2017,20,IL Sandviken,IK Grand,6,2
+,20,Kolbotn IL,Lillestrøm SK,1,3
+,20,Stabæk FK,Avaldsnes IL,2,1
+06-09-2017,19,Avaldsnes IL,Kolbotn IL,4,1
+,19,Lillestrøm SK,Arna-Bjørnar,2,0
+07-10-2017,19,Stabæk FK,Vålerenga IF,0,1
+08-10-2017,19,IK Grand,Klepp IL,1,4
+,19,Medkila IL,Røa IL,1,0
+,19,SK Trondheims-Ørn,IL Sandviken,0,0
+23-09-2017,18,Vålerenga IF,Avaldsnes IL,0,1
+,18,Kolbotn IL,SK Trondheims-Ørn,0,1
+,18,Klepp IL,Lillestrøm SK,0,2
+24-09-2017,18,Røa IL,IK Grand,4,2
+03-10-2017,18,IL Sandviken,Stabæk FK,1,2
+04-10-2017,18,Arna-Bjørnar,Medkila IL,6,0
+09-09-2017,17,Lillestrøm SK,Røa IL,6,1
+,17,IK Grand,Medkila IL,4,0
+,17,Vålerenga IF,Kolbotn IL,2,0
+,17,Stabæk FK,Arna-Bjørnar,3,3
+10-09-2017,17,Avaldsnes IL,IL Sandviken,6,0
+,17,SK Trondheims-Ørn,Klepp IL,3,1
+02-09-2017,16,Medkila IL,Lillestrøm SK,0,6
+,16,Røa IL,SK Trondheims-Ørn,4,1
+,16,Kolbotn IL,Stabæk FK,0,2
+03-09-2017,16,IL Sandviken,Vålerenga IF,2,0
+,16,Arna-Bjørnar,IK Grand,5,2
+27-09-2017,16,Klepp IL,Avaldsnes IL,1,0
+30-04-2017,15,Avaldsnes IL,Røa IL,0,0
+26-08-2017,15,IK Grand,Lillestrøm SK,0,6
+,15,Kolbotn IL,IL Sandviken,1,1
+,15,Stabæk FK,Klepp IL,0,1
+27-08-2017,15,Vålerenga IF,Medkila IL,3,1
+,15,SK Trondheims-Ørn,Arna-Bjørnar,1,1
+17-08-2017,14,Lillestrøm SK,Avaldsnes IL,1,0
+19-08-2017,14,Røa IL,Kolbotn IL,2,0
+,14,Arna-Bjørnar,Vålerenga IF,2,3
+,14,Klepp IL,IL Sandviken,0,0
+20-08-2017,14,Medkila IL,SK Trondheims-Ørn,0,2
+,14,IK Grand,Stabæk FK,1,2
+11-08-2017,13,Avaldsnes IL,IK Grand,5,0
+,13,SK Trondheims-Ørn,Lillestrøm SK,4,1
+12-08-2017,13,Kolbotn IL,Arna-Bjørnar,0,1
+,13,Vålerenga IF,Klepp IL,1,0
+,13,Stabæk FK,Røa IL,2,0
+13-08-2017,13,IL Sandviken,Medkila IL,1,1
+01-07-2017,12,Lillestrøm SK,IL Sandviken,2,0
+,12,Klepp IL,Kolbotn IL,4,1
+,12,Røa IL,Vålerenga IF,4,3
+02-07-2017,12,Medkila IL,Stabæk FK,0,1
+,12,Arna-Bjørnar,Avaldsnes IL,0,3
+,12,IK Grand,SK Trondheims-Ørn,1,6
+27-06-2017,11,Stabæk FK,Lillestrøm SK,0,1
+28-06-2017,11,SK Trondheims-Ørn,Røa IL,0,0
+,11,IL Sandviken,Avaldsnes IL,0,1
+,11,Kolbotn IL,Medkila IL,2,0
+,11,Vålerenga IF,IK Grand,2,0
+,11,Arna-Bjørnar,Klepp IL,3,1
+24-06-2017,10,Røa IL,IL Sandviken,4,0
+,10,Klepp IL,Stabæk FK,2,2
+,10,Lillestrøm SK,Vålerenga IF,2,1
+,10,IK Grand,Kolbotn IL,1,1
+25-06-2017,10,Medkila IL,Arna-Bjørnar,0,1
+,10,Avaldsnes IL,SK Trondheims-Ørn,1,0
+28-04-2017,9,Stabæk FK,IK Grand,5,1
+29-04-2017,9,Vålerenga IF,Arna-Bjørnar,2,2
+17-06-2017,9,IL Sandviken,Klepp IL,0,1
+,9,Kolbotn IL,Røa IL,0,3
+18-06-2017,9,SK Trondheims-Ørn,Medkila IL,3,0
+,9,Avaldsnes IL,Lillestrøm SK,0,1
+03-06-2017,8,Klepp IL,SK Trondheims-Ørn,1,0
+,8,Lillestrøm SK,Kolbotn IL,0,0
+,8,Arna-Bjørnar,Stabæk FK,1,1
+04-06-2017,8,Røa IL,Avaldsnes IL,3,3
+,8,Medkila IL,Vålerenga IF,1,6
+,8,IK Grand,IL Sandviken,1,5
+27-05-2017,7,SK Trondheims-Ørn,IK Grand,3,1
+,7,IL Sandviken,Lillestrøm SK,1,2
+,7,Avaldsnes IL,Arna-Bjørnar,2,2
+,7,Kolbotn IL,Klepp IL,0,2
+28-05-2017,7,Røa IL,Medkila IL,4,0
+27-09-2017,7,Vålerenga IF,Stabæk FK,1,1
+20-05-2017,6,Klepp IL,Vålerenga IF,2,0
+,6,Lillestrøm SK,SK Trondheims-Ørn,3,0
+,6,Stabæk FK,IL Sandviken,1,0
+21-05-2017,6,IK Grand,Røa IL,1,2
+22-05-2017,6,Medkila IL,Avaldsnes IL,0,2
+23-05-2017,6,Arna-Bjørnar,Kolbotn IL,3,0
+16-05-2017,5,SK Trondheims-Ørn,Stabæk FK,0,4
+,5,Medkila IL,IK Grand,1,3
+,5,Røa IL,Lillestrøm SK,2,3
+,5,Avaldsnes IL,Klepp IL,2,0
+,5,Kolbotn IL,Vålerenga IF,0,2
+23-08-2017,5,IL Sandviken,Arna-Bjørnar,2,0
+12-05-2017,4,IK Grand,Avaldsnes IL,2,3
+,4,Stabæk FK,Kolbotn IL,2,0
+13-05-2017,4,Klepp IL,Røa IL,1,1
+,4,Vålerenga IF,IL Sandviken,1,0
+,4,Arna-Bjørnar,SK Trondheims-Ørn,2,0
+,4,Lillestrøm SK,Medkila IL,3,1
+06-05-2017,3,IL Sandviken,Kolbotn IL,1,2
+,3,SK Trondheims-Ørn,Vålerenga IF,2,2
+,3,Røa IL,Arna-Bjørnar,1,2
+07-05-2017,3,Medkila IL,Klepp IL,0,5
+,3,Avaldsnes IL,Stabæk FK,2,1
+,3,Lillestrøm SK,IK Grand,9,1
+22-04-2017,2,Vålerenga IF,Røa IL,0,2
+,2,Arna-Bjørnar,Lillestrøm SK,1,1
+,2,Kolbotn IL,Avaldsnes IL,1,5
+23-04-2017,2,IL Sandviken,SK Trondheims-Ørn,2,2
+,2,Stabæk FK,Medkila IL,6,1
+,2,Klepp IL,IK Grand,4,2
+17-04-2017,1,Medkila IL,IL Sandviken,1,1
+,1,Avaldsnes IL,Vålerenga IF,2,1
+,1,Lillestrøm SK,Klepp IL,6,1
+,1,Røa IL,Stabæk FK,1,2
+,1,SK Trondheims-Ørn,Kolbotn IL,3,2
+,1,IK Grand,Arna-Bjørnar,2,2
+05-11-2016,22,Avaldsnes IL,Stabæk FK,1,1
+,22,Lillestrøm SK,IL Sandviken,4,0
+,22,SK Trondheims-Ørn,Kolbotn IL,1,1
+,22,Urædd FK,Vålerenga IF,0,3
+,22,Medkila IL,Klepp IL,4,1
+,22,Arna-Bjørnar,Røa IL,0,0
+30-10-2016,21,Klepp IL,Arna-Bjørnar,1,3
+,21,Kolbotn IL,Urædd FK,3,1
+,21,IL Sandviken,Avaldsnes IL,0,1
+,21,Røa IL,SK Trondheims-Ørn,2,2
+,21,Vålerenga IF,Medkila IL,6,1
+,21,Stabæk FK,Lillestrøm SK,2,2
+15-10-2016,20,Urædd FK,Klepp IL,1,1
+,20,Stabæk FK,IL Sandviken,2,1
+16-10-2016,20,Avaldsnes IL,Kolbotn IL,1,0
+,20,Medkila IL,Røa IL,1,1
+,20,Lillestrøm SK,Vålerenga IF,3,0
+,20,Arna-Bjørnar,SK Trondheims-Ørn,4,5
+27-08-2016,19,Røa IL,Lillestrøm SK,0,6
+08-10-2016,19,Vålerenga IF,Avaldsnes IL,1,3
+,19,Kolbotn IL,IL Sandviken,0,1
+,19,SK Trondheims-Ørn,Urædd FK,4,2
+09-10-2016,19,Arna-Bjørnar,Medkila IL,0,0
+,19,Klepp IL,Stabæk FK,1,4
+01-10-2016,18,Avaldsnes IL,Klepp IL,3,0
+,18,Lillestrøm SK,Arna-Bjørnar,8,2
+,18,IL Sandviken,Vålerenga IF,2,2
+,18,Urædd FK,Røa IL,0,2
+02-10-2016,18,Medkila IL,SK Trondheims-Ørn,1,2
+,18,Stabæk FK,Kolbotn IL,0,0
+24-09-2016,17,Røa IL,Avaldsnes IL,1,3
+,17,Vålerenga IF,Kolbotn IL,0,1
+,17,Medkila IL,Urædd FK,1,1
+,17,Arna-Bjørnar,Stabæk FK,0,0
+,17,SK Trondheims-Ørn,Lillestrøm SK,1,2
+25-09-2016,17,Klepp IL,IL Sandviken,0,1
+03-09-2016,16,IL Sandviken,Røa IL,0,0
+,16,Kolbotn IL,Klepp IL,7,0
+,16,Stabæk FK,Vålerenga IF,5,0
+04-09-2016,16,Lillestrøm SK,Medkila IL,4,0
+,16,Avaldsnes IL,SK Trondheims-Ørn,3,0
+,16,Urædd FK,Arna-Bjørnar,2,0
+20-08-2016,15,SK Trondheims-Ørn,IL Sandviken,2,2
+,15,Røa IL,Stabæk FK,2,1
+,15,Vålerenga IF,Klepp IL,3,3
+,15,Urædd FK,Lillestrøm SK,0,5
+21-08-2016,15,Medkila IL,Kolbotn IL,1,1
+10-09-2016,15,Arna-Bjørnar,Avaldsnes IL,0,1
+09-07-2016,14,IL Sandviken,Urædd FK,5,0
+,14,Klepp IL,SK Trondheims-Ørn,6,1
+,14,Kolbotn IL,Røa IL,0,2
+10-07-2016,14,Stabæk FK,Medkila IL,2,0
+,14,Avaldsnes IL,Lillestrøm SK,1,4
+,14,Vålerenga IF,Arna-Bjørnar,3,0
+02-07-2016,13,Lillestrøm SK,Kolbotn IL,5,0
+,13,Røa IL,Klepp IL,2,1
+,13,Urædd FK,Stabæk FK,2,2
+,13,Arna-Bjørnar,IL Sandviken,1,0
+03-07-2016,13,Medkila IL,Avaldsnes IL,1,2
+,13,SK Trondheims-Ørn,Vålerenga IF,7,0
+25-06-2016,12,Avaldsnes IL,Urædd FK,6,0
+,12,Stabæk FK,SK Trondheims-Ørn,1,0
+,12,Klepp IL,Lillestrøm SK,0,2
+,12,Vålerenga IF,Røa IL,0,4
+26-06-2016,12,IL Sandviken,Medkila IL,3,0
+,12,Kolbotn IL,Arna-Bjørnar,2,0
+18-06-2016,11,Stabæk FK,Avaldsnes IL,0,1
+,11,Lillestrøm SK,SK Trondheims-Ørn,7,0
+,11,Røa IL,IL Sandviken,3,1
+,11,Urædd FK,Kolbotn IL,0,3
+,11,Arna-Bjørnar,Klepp IL,1,0
+19-06-2016,11,Medkila IL,Vålerenga IF,0,1
+11-06-2016,10,Avaldsnes IL,Arna-Bjørnar,3,0
+,10,Kolbotn IL,Stabæk FK,1,0
+,10,Vålerenga IF,Urædd FK,1,0
+,10,SK Trondheims-Ørn,Røa IL,0,1
+12-06-2016,10,Klepp IL,Medkila IL,4,1
+,10,IL Sandviken,Lillestrøm SK,0,1
+28-05-2016,9,Arna-Bjørnar,Vålerenga IF,3,0
+,9,Røa IL,Kolbotn IL,1,2
+,9,Lillestrøm SK,Avaldsnes IL,0,0
+29-05-2016,9,SK Trondheims-Ørn,Klepp IL,1,0
+,9,Medkila IL,Stabæk FK,1,2
+,9,Urædd FK,IL Sandviken,0,4
+20-04-2016,8,Vålerenga IF,Lillestrøm SK,0,4
+20-05-2016,8,Stabæk FK,Arna-Bjørnar,1,0
+21-05-2016,8,Avaldsnes IL,Røa IL,4,3
+,8,Klepp IL,Urædd FK,6,1
+22-05-2016,8,Kolbotn IL,Medkila IL,2,0
+,8,IL Sandviken,SK Trondheims-Ørn,1,1
+13-05-2016,7,Medkila IL,Arna-Bjørnar,1,3
+,7,Lillestrøm SK,Klepp IL,7,1
+14-05-2016,7,SK Trondheims-Ørn,Stabæk FK,1,1
+16-05-2016,7,Røa IL,Vålerenga IF,1,1
+,7,Urædd FK,Avaldsnes IL,0,4
+,7,IL Sandviken,Kolbotn IL,1,0
+07-05-2016,6,Klepp IL,Røa IL,2,0
+,6,Vålerenga IF,IL Sandviken,1,1
+,6,Stabæk FK,Urædd FK,5,0
+,6,Kolbotn IL,SK Trondheims-Ørn,1,0
+08-05-2016,6,Avaldsnes IL,Medkila IL,3,1
+17-08-2016,6,Arna-Bjørnar,Lillestrøm SK,0,3
+30-04-2016,5,SK Trondheims-Ørn,Avaldsnes IL,0,2
+,5,Røa IL,Arna-Bjørnar,4,0
+,5,IL Sandviken,Klepp IL,1,2
+,5,Lillestrøm SK,Stabæk FK,2,0
+01-05-2016,5,Urædd FK,Medkila IL,1,2
+11-05-2016,5,Kolbotn IL,Vålerenga IF,0,1
+23-04-2016,4,Vålerenga IF,SK Trondheims-Ørn,1,1
+,4,Avaldsnes IL,IL Sandviken,5,2
+,4,Klepp IL,Kolbotn IL,0,2
+,4,Stabæk FK,Røa IL,2,1
+24-04-2016,4,Arna-Bjørnar,Urædd FK,1,0
+,4,Medkila IL,Lillestrøm SK,2,5
+16-04-2016,3,Kolbotn IL,Avaldsnes IL,3,0
+,3,Lillestrøm SK,Urædd FK,11,0
+,3,Klepp IL,Vålerenga IF,3,1
+,3,IL Sandviken,Stabæk FK,1,2
+17-04-2016,3,Røa IL,Medkila IL,3,3
+,3,SK Trondheims-Ørn,Arna-Bjørnar,1,2
+02-04-2016,2,Urædd FK,SK Trondheims-Ørn,1,2
+,2,Arna-Bjørnar,Kolbotn IL,1,2
+,2,Medkila IL,IL Sandviken,0,1
+,2,Stabæk FK,Klepp IL,1,0
+,2,Lillestrøm SK,Røa IL,2,0
+03-04-2016,2,Avaldsnes IL,Vålerenga IF,1,0
+28-03-2016,1,SK Trondheims-Ørn,Medkila IL,2,0
+,1,Kolbotn IL,Lillestrøm SK,1,1
+,1,IL Sandviken,Arna-Bjørnar,1,1
+,1,Røa IL,Urædd FK,1,0
+,1,Vålerenga IF,Stabæk FK,0,5
+,1,Klepp IL,Avaldsnes IL,0,2
+07-11-2015,22,Klepp IL,Røa IL,2,2
+,22,Lillestrøm SK,Kolbotn IL,0,4
+,22,Medkila IL,SK Trondheims-Ørn,2,1
+,22,IL Sandviken,Arna-Bjørnar,2,2
+,22,Avaldsnes IL,Vålerenga IF,7,0
+,22,Stabæk FK,Amazon Grimstad,4,1
+31-10-2015,21,Røa IL,Avaldsnes IL,0,2
+,21,Vålerenga IF,IL Sandviken,1,2
+,21,Arna-Bjørnar,Medkila IL,3,2
+,21,SK Trondheims-Ørn,Lillestrøm SK,0,5
+,21,Kolbotn IL,Stabæk FK,0,1
+,21,Amazon Grimstad,Klepp IL,0,0
+17-10-2015,20,IL Sandviken,Røa IL,0,0
+,20,Medkila IL,Vålerenga IF,3,2
+,20,Avaldsnes IL,Klepp IL,3,1
+,20,Kolbotn IL,Amazon Grimstad,3,0
+18-10-2015,20,Stabæk FK,SK Trondheims-Ørn,2,0
+,20,Lillestrøm SK,Arna-Bjørnar,4,1
+09-09-2015,19,Vålerenga IF,Lillestrøm SK,1,4
+10-10-2015,19,SK Trondheims-Ørn,Kolbotn IL,1,2
+,19,Amazon Grimstad,Avaldsnes IL,0,5
+11-10-2015,19,Røa IL,Medkila IL,1,1
+,19,Arna-Bjørnar,Stabæk FK,1,0
+,19,Klepp IL,IL Sandviken,1,2
+03-10-2015,18,IL Sandviken,Avaldsnes IL,0,2
+,18,Kolbotn IL,Arna-Bjørnar,1,2
+,18,SK Trondheims-Ørn,Amazon Grimstad,1,0
+,18,Lillestrøm SK,Røa IL,1,1
+,18,Stabæk FK,Vålerenga IF,1,0
+04-10-2015,18,Medkila IL,Klepp IL,5,1
+26-09-2015,17,Avaldsnes IL,Medkila IL,2,1
+,17,Vålerenga IF,Kolbotn IL,0,4
+,17,Amazon Grimstad,IL Sandviken,2,1
+,17,Røa IL,Stabæk FK,2,2
+,17,Klepp IL,Lillestrøm SK,2,5
+27-09-2015,17,Arna-Bjørnar,SK Trondheims-Ørn,2,1
+05-09-2015,16,Lillestrøm SK,Avaldsnes IL,1,0
+,16,Medkila IL,IL Sandviken,1,0
+06-09-2015,16,Stabæk FK,Klepp IL,1,1
+,16,Kolbotn IL,Røa IL,1,2
+,16,Arna-Bjørnar,Amazon Grimstad,1,1
+,16,SK Trondheims-Ørn,Vålerenga IF,0,2
+29-08-2015,15,IL Sandviken,Lillestrøm SK,0,2
+,15,Avaldsnes IL,Stabæk FK,2,0
+,15,Røa IL,SK Trondheims-Ørn,1,0
+,15,Vålerenga IF,Arna-Bjørnar,4,0
+,15,Amazon Grimstad,Medkila IL,2,0
+30-08-2015,15,Klepp IL,Kolbotn IL,2,2
+22-08-2015,14,Arna-Bjørnar,Røa IL,1,3
+,14,SK Trondheims-Ørn,Klepp IL,3,1
+,14,Kolbotn IL,Avaldsnes IL,1,4
+,14,Stabæk FK,IL Sandviken,0,0
+,14,Lillestrøm SK,Medkila IL,5,1
+,14,Vålerenga IF,Amazon Grimstad,1,0
+15-08-2015,13,IL Sandviken,Kolbotn IL,3,0
+,13,Røa IL,Vålerenga IF,2,0
+,13,Klepp IL,Arna-Bjørnar,3,1
+,13,Avaldsnes IL,SK Trondheims-Ørn,2,2
+,13,Medkila IL,Stabæk FK,0,3
+,13,Lillestrøm SK,Amazon Grimstad,7,2
+08-08-2015,12,Vålerenga IF,Klepp IL,1,3
+,12,Arna-Bjørnar,Avaldsnes IL,0,5
+,12,SK Trondheims-Ørn,IL Sandviken,1,3
+,12,Kolbotn IL,Medkila IL,10,0
+,12,Stabæk FK,Lillestrøm SK,0,0
+,12,Amazon Grimstad,Røa IL,2,1
+01-08-2015,11,Røa IL,Klepp IL,4,1
+,11,Kolbotn IL,Lillestrøm SK,1,3
+,11,SK Trondheims-Ørn,Medkila IL,2,1
+,11,Arna-Bjørnar,IL Sandviken,5,0
+,11,Vålerenga IF,Avaldsnes IL,0,1
+,11,Amazon Grimstad,Stabæk FK,2,3
+24-07-2015,10,Medkila IL,Arna-Bjørnar,2,3
+25-07-2015,10,Lillestrøm SK,SK Trondheims-Ørn,3,2
+,10,IL Sandviken,Vålerenga IF,0,0
+,10,Klepp IL,Amazon Grimstad,2,0
+26-07-2015,10,Avaldsnes IL,Røa IL,1,0
+11-08-2015,10,Stabæk FK,Kolbotn IL,1,0
+18-07-2015,9,Amazon Grimstad,Kolbotn IL,1,2
+19-07-2015,9,Røa IL,IL Sandviken,2,1
+,9,Arna-Bjørnar,Lillestrøm SK,0,1
+,9,Vålerenga IF,Medkila IL,2,0
+19-08-2015,9,Klepp IL,Avaldsnes IL,1,1
+30-09-2015,9,SK Trondheims-Ørn,Stabæk FK,0,1
+15-05-2015,8,Medkila IL,Røa IL,1,2
+16-05-2015,8,Lillestrøm SK,Vålerenga IF,4,0
+,8,Stabæk FK,Arna-Bjørnar,1,1
+,8,Avaldsnes IL,Amazon Grimstad,6,0
+,8,IL Sandviken,Klepp IL,3,0
+,8,Kolbotn IL,SK Trondheims-Ørn,3,1
+12-05-2015,7,Avaldsnes IL,IL Sandviken,3,1
+,7,Røa IL,Lillestrøm SK,1,0
+,7,Klepp IL,Medkila IL,3,1
+,7,Vålerenga IF,Stabæk FK,1,0
+13-05-2015,7,Amazon Grimstad,SK Trondheims-Ørn,0,1
+,7,Arna-Bjørnar,Kolbotn IL,1,1
+09-05-2015,6,IL Sandviken,Amazon Grimstad,1,1
+,6,Lillestrøm SK,Klepp IL,7,0
+,6,Medkila IL,Avaldsnes IL,1,7
+,6,Kolbotn IL,Vålerenga IF,0,0
+,6,Stabæk FK,Røa IL,2,2
+10-05-2015,6,SK Trondheims-Ørn,Arna-Bjørnar,2,1
+30-04-2015,5,Røa IL,Kolbotn IL,1,1
+01-05-2015,5,IL Sandviken,Medkila IL,1,3
+,5,Amazon Grimstad,Arna-Bjørnar,1,3
+02-05-2015,5,Klepp IL,Stabæk FK,2,1
+,5,Vålerenga IF,SK Trondheims-Ørn,1,1
+,5,Avaldsnes IL,Lillestrøm SK,0,1
+25-04-2015,4,Kolbotn IL,Klepp IL,1,1
+,4,Lillestrøm SK,IL Sandviken,1,0
+,4,Medkila IL,Amazon Grimstad,2,2
+,4,Stabæk FK,Avaldsnes IL,0,0
+,4,SK Trondheims-Ørn,Røa IL,3,1
+26-04-2015,4,Arna-Bjørnar,Vålerenga IF,3,4
+19-04-2015,3,Røa IL,Arna-Bjørnar,0,0
+,3,Avaldsnes IL,Kolbotn IL,3,0
+,3,IL Sandviken,Stabæk FK,1,3
+,3,Amazon Grimstad,Vålerenga IF,3,1
+,3,Klepp IL,SK Trondheims-Ørn,2,0
+,3,Medkila IL,Lillestrøm SK,0,1
+14-04-2015,2,Vålerenga IF,Røa IL,0,1
+15-04-2015,2,Amazon Grimstad,Lillestrøm SK,0,2
+,2,Kolbotn IL,IL Sandviken,4,0
+,2,SK Trondheims-Ørn,Avaldsnes IL,3,1
+,2,Arna-Bjørnar,Klepp IL,2,4
+,2,Stabæk FK,Medkila IL,6,0
+28-03-2015,1,Røa IL,Amazon Grimstad,3,2
+29-03-2015,1,Avaldsnes IL,Arna-Bjørnar,3,2
+,1,IL Sandviken,SK Trondheims-Ørn,2,2
+,1,Klepp IL,Vålerenga IF,3,1
+,1,Medkila IL,Kolbotn IL,1,4
+,1,Lillestrøm SK,Stabæk FK,1,0
+01-11-2014,22,Avaldsnes IL,Kolbotn IL,5,0
+,22,Lillestrøm SK,Stabæk FK,3,0
+,22,Arna-Bjørnar,Røa IL,1,0
+,22,Klepp IL,Vålerenga IF,3,4
+,22,SK Trondheims-Ørn,Medkila IL,1,0
+,22,Amazon Grimstad,IK Grand,3,1
+19-10-2014,21,Medkila IL,Amazon Grimstad,1,3
+,21,Røa IL,Klepp IL,1,1
+,21,Stabæk FK,Avaldsnes IL,1,0
+,21,IK Grand,Arna-Bjørnar,1,2
+,21,Vålerenga IF,SK Trondheims-Ørn,1,1
+,21,Kolbotn IL,Lillestrøm SK,0,2
+11-10-2014,20,Kolbotn IL,Stabæk FK,1,5
+,20,Lillestrøm SK,Vålerenga IF,2,1
+12-10-2014,20,Klepp IL,Medkila IL,4,1
+,20,Avaldsnes IL,Røa IL,5,0
+,20,Amazon Grimstad,Arna-Bjørnar,0,3
+,20,SK Trondheims-Ørn,IK Grand,3,1
+04-10-2014,19,Arna-Bjørnar,Klepp IL,2,0
+,19,Røa IL,Stabæk FK,0,2
+05-10-2014,19,Amazon Grimstad,SK Trondheims-Ørn,2,2
+,19,Medkila IL,Kolbotn IL,1,2
+,19,IK Grand,Lillestrøm SK,0,3
+,19,Vålerenga IF,Avaldsnes IL,2,5
+20-09-2014,18,SK Trondheims-Ørn,Arna-Bjørnar,2,3
+21-09-2014,18,Avaldsnes IL,Medkila IL,3,0
+,18,Klepp IL,IK Grand,2,0
+,18,Lillestrøm SK,Amazon Grimstad,5,0
+,18,Stabæk FK,Vålerenga IF,2,2
+,18,Kolbotn IL,Røa IL,2,1
+06-09-2014,17,Medkila IL,Stabæk FK,1,3
+,17,Arna-Bjørnar,Lillestrøm SK,1,2
+07-09-2014,17,Vålerenga IF,Røa IL,1,0
+,17,IK Grand,Avaldsnes IL,0,1
+,17,SK Trondheims-Ørn,Klepp IL,2,1
+08-09-2014,17,Amazon Grimstad,Kolbotn IL,0,3
+30-08-2014,16,Avaldsnes IL,Arna-Bjørnar,2,1
+,16,Lillestrøm SK,SK Trondheims-Ørn,1,1
+,16,Klepp IL,Amazon Grimstad,1,1
+,16,Kolbotn IL,Vålerenga IF,3,0
+,16,Stabæk FK,IK Grand,5,2
+31-08-2014,16,Røa IL,Medkila IL,0,0
+27-08-2014,15,Vålerenga IF,Medkila IL,2,0
+,15,IK Grand,Kolbotn IL,1,0
+,15,SK Trondheims-Ørn,Røa IL,0,0
+,15,Amazon Grimstad,Avaldsnes IL,1,0
+,15,Klepp IL,Lillestrøm SK,0,1
+,15,Arna-Bjørnar,Stabæk FK,0,1
+24-08-2014,14,Stabæk FK,Klepp IL,3,0
+,14,Vålerenga IF,Amazon Grimstad,1,0
+,14,Kolbotn IL,SK Trondheims-Ørn,1,0
+,14,Medkila IL,Arna-Bjørnar,1,7
+,14,Røa IL,IK Grand,1,1
+,14,Avaldsnes IL,Lillestrøm SK,0,2
+16-08-2014,13,Lillestrøm SK,Røa IL,1,4
+,13,Arna-Bjørnar,Vålerenga IF,5,0
+,13,IK Grand,Medkila IL,1,1
+,13,SK Trondheims-Ørn,Avaldsnes IL,2,1
+,13,Amazon Grimstad,Stabæk FK,1,2
+17-08-2014,13,Klepp IL,Kolbotn IL,2,3
+09-08-2014,12,Kolbotn IL,Arna-Bjørnar,1,0
+,12,Avaldsnes IL,Klepp IL,4,1
+,12,Medkila IL,Lillestrøm SK,0,5
+,12,Røa IL,Amazon Grimstad,5,1
+,12,Stabæk FK,SK Trondheims-Ørn,3,0
+10-08-2014,12,Vålerenga IF,IK Grand,1,1
+05-07-2014,11,Lillestrøm SK,Arna-Bjørnar,1,0
+,11,Klepp IL,Røa IL,3,2
+,11,SK Trondheims-Ørn,Vålerenga IF,2,3
+,11,Amazon Grimstad,Medkila IL,1,4
+,11,Kolbotn IL,Avaldsnes IL,3,1
+06-07-2014,11,IK Grand,Stabæk FK,0,7
+28-06-2014,10,Avaldsnes IL,Amazon Grimstad,7,0
+,10,Røa IL,Kolbotn IL,2,0
+,10,Stabæk FK,Lillestrøm SK,1,1
+29-06-2014,10,Arna-Bjørnar,IK Grand,6,1
+,10,Vålerenga IF,Klepp IL,2,1
+,10,Medkila IL,SK Trondheims-Ørn,3,2
+22-06-2014,9,Arna-Bjørnar,Medkila IL,8,0
+,9,Lillestrøm SK,Avaldsnes IL,3,0
+,9,Klepp IL,Stabæk FK,3,2
+,9,SK Trondheims-Ørn,Kolbotn IL,1,3
+,9,Amazon Grimstad,Vålerenga IF,1,2
+,9,IK Grand,Røa IL,0,4
+07-06-2014,8,Stabæk FK,Arna-Bjørnar,3,2
+09-06-2014,8,Medkila IL,Klepp IL,1,0
+,8,Avaldsnes IL,IK Grand,10,0
+,8,Røa IL,SK Trondheims-Ørn,1,2
+,8,Kolbotn IL,Amazon Grimstad,5,0
+,8,Vålerenga IF,Lillestrøm SK,0,2
+31-05-2014,7,Stabæk FK,Røa IL,2,0
+,7,Arna-Bjørnar,Kolbotn IL,2,0
+,7,Klepp IL,Avaldsnes IL,0,2
+,7,SK Trondheims-Ørn,Amazon Grimstad,1,0
+01-06-2014,7,IK Grand,Vålerenga IF,0,2
+,7,Lillestrøm SK,Medkila IL,6,0
+21-05-2014,6,Vålerenga IF,Stabæk FK,1,4
+24-05-2014,6,Røa IL,Arna-Bjørnar,2,1
+,6,Medkila IL,IK Grand,2,2
+,6,Amazon Grimstad,Lillestrøm SK,1,3
+,6,Kolbotn IL,Klepp IL,6,0
+25-05-2014,6,Avaldsnes IL,SK Trondheims-Ørn,3,3
+16-05-2014,5,Klepp IL,SK Trondheims-Ørn,1,0
+,5,IK Grand,Amazon Grimstad,1,2
+,5,Røa IL,Vålerenga IF,5,0
+18-05-2014,5,Lillestrøm SK,Kolbotn IL,3,0
+,5,Arna-Bjørnar,Avaldsnes IL,5,0
+,5,Stabæk FK,Medkila IL,4,0
+10-05-2014,4,Avaldsnes IL,Stabæk FK,0,0
+11-05-2014,4,Medkila IL,Røa IL,0,1
+,4,Vålerenga IF,Arna-Bjørnar,0,3
+,4,Kolbotn IL,IK Grand,5,0
+12-05-2014,4,SK Trondheims-Ørn,Lillestrøm SK,2,6
+21-05-2014,4,Amazon Grimstad,Klepp IL,0,3
+01-05-2014,3,Medkila IL,Vålerenga IF,2,1
+,3,Røa IL,Avaldsnes IL,3,1
+,3,Stabæk FK,Kolbotn IL,5,0
+,3,Arna-Bjørnar,Amazon Grimstad,4,1
+,3,IK Grand,SK Trondheims-Ørn,0,4
+,3,Lillestrøm SK,Klepp IL,5,0
+26-04-2014,2,Avaldsnes IL,Vålerenga IF,3,0
+,2,SK Trondheims-Ørn,Stabæk FK,2,2
+,2,Amazon Grimstad,Røa IL,0,1
+,2,Lillestrøm SK,IK Grand,4,0
+27-04-2014,2,Kolbotn IL,Medkila IL,3,0
+,2,Klepp IL,Arna-Bjørnar,3,1
+21-04-2014,1,Vålerenga IF,Kolbotn IL,1,0
+,1,Arna-Bjørnar,SK Trondheims-Ørn,1,0
+,1,Stabæk FK,Amazon Grimstad,5,0
+,1,IK Grand,Klepp IL,2,3
+,1,Medkila IL,Avaldsnes IL,0,3
+,1,Røa IL,Lillestrøm SK,3,3
+02-11-2013,22,Vålerenga IF,Arna-Bjørnar,2,1
+,22,Stabæk FK,Avaldsnes IL,0,0
+,22,IL Sandviken,Røa IL,1,1
+,22,Medkila IL,Kolbotn IL,0,2
+,22,Lillestrøm SK,SK Trondheims-Ørn,0,1
+,22,Klepp IL,Amazon Grimstad,2,1
+20-10-2013,21,SK Trondheims-Ørn,Klepp IL,2,0
+,21,Røa IL,Medkila IL,3,1
+,21,Avaldsnes IL,Vålerenga IF,2,3
+,21,Amazon Grimstad,IL Sandviken,2,0
+,21,Kolbotn IL,Lillestrøm SK,1,2
+,21,Arna-Bjørnar,Stabæk FK,1,0
+13-10-2013,20,Medkila IL,SK Trondheims-Ørn,2,1
+,20,Vålerenga IF,Røa IL,1,1
+,20,Stabæk FK,Kolbotn IL,4,1
+,20,Lillestrøm SK,Amazon Grimstad,0,1
+,20,Klepp IL,IL Sandviken,4,2
+,20,Arna-Bjørnar,Avaldsnes IL,0,1
+28-09-2013,19,SK Trondheims-Ørn,Arna-Bjørnar,1,1
+29-09-2013,19,Røa IL,Avaldsnes IL,2,0
+,19,IL Sandviken,Medkila IL,0,3
+,19,Amazon Grimstad,Stabæk FK,0,5
+,19,Kolbotn IL,Vålerenga IF,4,2
+,19,Klepp IL,Lillestrøm SK,1,3
+14-09-2013,18,Vålerenga IF,SK Trondheims-Ørn,5,3
+,18,Stabæk FK,Klepp IL,3,0
+,18,Lillestrøm SK,IL Sandviken,2,1
+,18,Arna-Bjørnar,Røa IL,1,1
+15-09-2013,18,Medkila IL,Amazon Grimstad,2,1
+,18,Avaldsnes IL,Kolbotn IL,5,0
+06-09-2013,17,Lillestrøm SK,Medkila IL,4,0
+07-09-2013,17,SK Trondheims-Ørn,Avaldsnes IL,3,2
+,17,IL Sandviken,Stabæk FK,0,1
+,17,Amazon Grimstad,Vålerenga IF,1,1
+,17,Kolbotn IL,Røa IL,0,1
+,17,Klepp IL,Arna-Bjørnar,0,1
+31-08-2013,16,Vålerenga IF,IL Sandviken,3,1
+,16,Røa IL,SK Trondheims-Ørn,3,1
+,16,Avaldsnes IL,Amazon Grimstad,1,0
+,16,Medkila IL,Klepp IL,0,0
+,16,Arna-Bjørnar,Kolbotn IL,1,1
+,16,Stabæk FK,Lillestrøm SK,0,0
+24-08-2013,15,IL Sandviken,Avaldsnes IL,0,1
+,15,Lillestrøm SK,Røa IL,4,1
+,15,Klepp IL,Vålerenga IF,1,3
+25-08-2013,15,Medkila IL,Stabæk FK,0,4
+18-09-2013,15,Kolbotn IL,SK Trondheims-Ørn,3,4
+06-10-2013,15,Amazon Grimstad,Arna-Bjørnar,0,2
+17-08-2013,14,Røa IL,Amazon Grimstad,1,1
+,14,Avaldsnes IL,Medkila IL,3,0
+11-09-2013,14,SK Trondheims-Ørn,IL Sandviken,1,3
+,14,Vålerenga IF,Stabæk FK,0,0
+,14,Kolbotn IL,Klepp IL,2,4
+,14,Arna-Bjørnar,Lillestrøm SK,5,1
+10-08-2013,13,Stabæk FK,Røa IL,4,0
+,13,Amazon Grimstad,SK Trondheims-Ørn,0,0
+,13,Lillestrøm SK,Vålerenga IF,0,0
+,13,Klepp IL,Avaldsnes IL,0,2
+,13,Medkila IL,Arna-Bjørnar,2,2
+11-08-2013,13,IL Sandviken,Kolbotn IL,1,4
+07-08-2013,12,SK Trondheims-Ørn,Stabæk FK,1,4
+,12,Vålerenga IF,Medkila IL,3,1
+,12,Røa IL,Klepp IL,2,3
+,12,Kolbotn IL,Amazon Grimstad,1,0
+,12,Arna-Bjørnar,IL Sandviken,1,0
+,12,Avaldsnes IL,Lillestrøm SK,0,2
+03-08-2013,11,Amazon Grimstad,Avaldsnes IL,1,4
+,11,Medkila IL,Røa IL,2,0
+,11,Lillestrøm SK,Kolbotn IL,2,0
+,11,Klepp IL,SK Trondheims-Ørn,4,1
+,11,Arna-Bjørnar,Vålerenga IF,2,0
+04-08-2013,11,Stabæk FK,IL Sandviken,6,0
+15-06-2013,10,Vålerenga IF,Klepp IL,6,1
+,10,Røa IL,Arna-Bjørnar,0,0
+,10,Avaldsnes IL,Stabæk FK,1,5
+,10,Kolbotn IL,Medkila IL,0,0
+,10,SK Trondheims-Ørn,Lillestrøm SK,0,4
+16-06-2013,10,IL Sandviken,Amazon Grimstad,2,1
+08-06-2013,9,IL Sandviken,SK Trondheims-Ørn,1,2
+,9,Lillestrøm SK,Arna-Bjørnar,3,1
+,9,Stabæk FK,Vålerenga IF,3,1
+,9,Amazon Grimstad,Røa IL,0,1
+,9,Medkila IL,Avaldsnes IL,2,2
+09-06-2013,9,Klepp IL,Kolbotn IL,2,1
+25-05-2013,8,Vålerenga IF,Amazon Grimstad,3,3
+,8,SK Trondheims-Ørn,Medkila IL,3,1
+,8,Røa IL,Lillestrøm SK,1,3
+,8,Avaldsnes IL,IL Sandviken,2,0
+,8,Kolbotn IL,Stabæk FK,0,4
+,8,Arna-Bjørnar,Klepp IL,2,2
+18-05-2013,7,Stabæk FK,SK Trondheims-Ørn,4,0
+20-05-2013,7,Avaldsnes IL,Røa IL,1,2
+,7,Medkila IL,Vålerenga IF,2,2
+,7,Amazon Grimstad,Kolbotn IL,2,3
+,7,Lillestrøm SK,Klepp IL,4,0
+12-06-2013,7,IL Sandviken,Arna-Bjørnar,2,4
+12-05-2013,6,Arna-Bjørnar,Medkila IL,8,1
+,6,Vålerenga IF,Lillestrøm SK,1,3
+,6,Røa IL,IL Sandviken,1,0
+,6,Kolbotn IL,Avaldsnes IL,3,1
+,6,Klepp IL,Stabæk FK,0,4
+13-05-2013,6,SK Trondheims-Ørn,Amazon Grimstad,4,3
+09-05-2013,5,Stabæk FK,Arna-Bjørnar,3,0
+,5,Avaldsnes IL,SK Trondheims-Ørn,4,4
+,5,Medkila IL,Lillestrøm SK,1,3
+,5,Røa IL,Kolbotn IL,0,1
+,5,IL Sandviken,Vålerenga IF,1,2
+,5,Amazon Grimstad,Klepp IL,2,1
+04-05-2013,4,Vålerenga IF,Avaldsnes IL,0,2
+,4,SK Trondheims-Ørn,Røa IL,2,0
+,4,Kolbotn IL,IL Sandviken,4,0
+,4,Lillestrøm SK,Stabæk FK,1,1
+05-05-2013,4,Klepp IL,Medkila IL,0,1
+,4,Arna-Bjørnar,Amazon Grimstad,1,1
+27-04-2013,3,SK Trondheims-Ørn,Kolbotn IL,3,4
+,3,Røa IL,Vålerenga IF,1,1
+,3,Avaldsnes IL,Arna-Bjørnar,1,2
+,3,IL Sandviken,Klepp IL,3,2
+,3,Amazon Grimstad,Lillestrøm SK,1,1
+28-04-2013,3,Stabæk FK,Medkila IL,2,1
+20-04-2013,2,Vålerenga IF,Kolbotn IL,2,2
+,2,Stabæk FK,Amazon Grimstad,3,1
+,2,Medkila IL,IL Sandviken,4,1
+,2,Lillestrøm SK,Avaldsnes IL,4,1
+21-04-2013,2,Klepp IL,Røa IL,2,2
+19-06-2013,2,Arna-Bjørnar,SK Trondheims-Ørn,1,0
+13-04-2013,1,IL Sandviken,Lillestrøm SK,0,5
+,1,SK Trondheims-Ørn,Vålerenga IF,2,0
+,1,Røa IL,Stabæk FK,1,4
+01-05-2013,1,Amazon Grimstad,Medkila IL,0,1
+16-05-2013,1,Avaldsnes IL,Klepp IL,3,0
+28-05-2013,1,Kolbotn IL,Arna-Bjørnar,2,2
+11-11-2012,22,Kattem IL,Amazon Grimstad,3,1
+,22,FL Fart,Vålerenga IF,0,3
+,22,Røa IL,IL Sandviken,3,1
+,22,Lillestrøm SK,Kolbotn IL,5,1
+,22,Arna-Bjørnar,Klepp IL,3,0
+,22,Stabæk FK,SK Trondheims-Ørn,2,1
+04-11-2012,21,Klepp IL,Stabæk FK,0,1
+,21,IL Sandviken,Lillestrøm SK,0,4
+,21,Vålerenga IF,Kattem IL,1,2
+,21,SK Trondheims-Ørn,Røa IL,0,1
+,21,Kolbotn IL,Arna-Bjørnar,3,1
+,21,Amazon Grimstad,FL Fart,5,0
+26-10-2012,20,Stabæk FK,Røa IL,1,3
+28-10-2012,20,Lillestrøm SK,Klepp IL,5,1
+,20,Kattem IL,IL Sandviken,5,3
+,20,FL Fart,Kolbotn IL,0,5
+,20,Amazon Grimstad,Vålerenga IF,0,0
+31-10-2012,20,Arna-Bjørnar,SK Trondheims-Ørn,2,0
+13-10-2012,19,Klepp IL,Amazon Grimstad,3,1
+,19,IL Sandviken,Vålerenga IF,2,0
+,19,SK Trondheims-Ørn,FL Fart,6,0
+,19,Kolbotn IL,Kattem IL,2,1
+14-10-2012,19,Røa IL,Lillestrøm SK,1,2
+,19,Stabæk FK,Arna-Bjørnar,1,1
+07-10-2012,18,Kattem IL,Klepp IL,3,3
+,18,FL Fart,Stabæk FK,1,5
+,18,Vålerenga IF,Kolbotn IL,1,3
+,18,Lillestrøm SK,SK Trondheims-Ørn,5,0
+,18,Amazon Grimstad,IL Sandviken,1,2
+,18,Arna-Bjørnar,Røa IL,1,1
+29-09-2012,17,Klepp IL,Vålerenga IF,1,1
+,17,Røa IL,FL Fart,7,0
+,17,SK Trondheims-Ørn,Kattem IL,2,1
+,17,Kolbotn IL,IL Sandviken,2,1
+,17,Stabæk FK,Amazon Grimstad,1,0
+,17,Arna-Bjørnar,Lillestrøm SK,2,1
+22-09-2012,16,Kattem IL,Røa IL,1,5
+,16,Lillestrøm SK,Stabæk FK,2,1
+23-09-2012,16,FL Fart,Arna-Bjørnar,0,11
+,16,IL Sandviken,Klepp IL,3,2
+,16,Vålerenga IF,SK Trondheims-Ørn,1,2
+,16,Amazon Grimstad,Kolbotn IL,0,1
+04-08-2012,15,SK Trondheims-Ørn,Amazon Grimstad,0,2
+,15,Kolbotn IL,Klepp IL,1,1
+,15,Røa IL,Vålerenga IF,2,0
+,15,Lillestrøm SK,FL Fart,5,0
+,15,Arna-Bjørnar,IL Sandviken,2,1
+,15,Stabæk FK,Kattem IL,5,0
+28-07-2012,14,Kattem IL,FL Fart,2,0
+,14,Klepp IL,Røa IL,0,1
+,14,IL Sandviken,SK Trondheims-Ørn,1,1
+,14,Vålerenga IF,Lillestrøm SK,1,1
+,14,Kolbotn IL,Stabæk FK,2,2
+,14,Amazon Grimstad,Arna-Bjørnar,1,1
+21-07-2012,13,Arna-Bjørnar,Kattem IL,3,1
+,13,FL Fart,IL Sandviken,1,9
+,13,Røa IL,Kolbotn IL,4,1
+,13,SK Trondheims-Ørn,Klepp IL,2,1
+,13,Lillestrøm SK,Amazon Grimstad,4,1
+,13,Stabæk FK,Vålerenga IF,3,3
+30-06-2012,12,IL Sandviken,Stabæk FK,1,7
+,12,Klepp IL,FL Fart,6,0
+,12,Kattem IL,Lillestrøm SK,1,2
+,12,Vålerenga IF,Arna-Bjørnar,0,5
+,12,Kolbotn IL,SK Trondheims-Ørn,2,2
+,12,Amazon Grimstad,Røa IL,0,2
+24-06-2012,11,Amazon Grimstad,Kattem IL,2,1
+,11,FL Fart,Røa IL,0,2
+,11,SK Trondheims-Ørn,Vålerenga IF,1,2
+,11,Lillestrøm SK,IL Sandviken,1,0
+,11,Arna-Bjørnar,Kolbotn IL,2,3
+,11,Stabæk FK,Klepp IL,5,1
+09-06-2012,10,Kattem IL,Stabæk FK,1,5
+,10,Klepp IL,Arna-Bjørnar,0,2
+,10,IL Sandviken,Amazon Grimstad,1,1
+,10,Vålerenga IF,FL Fart,2,0
+,10,Røa IL,SK Trondheims-Ørn,4,1
+,10,Kolbotn IL,Lillestrøm SK,1,4
+29-05-2012,9,Stabæk FK,Kolbotn IL,3,0
+02-06-2012,9,FL Fart,Kattem IL,0,4
+,9,Røa IL,Klepp IL,6,0
+,9,SK Trondheims-Ørn,IL Sandviken,4,0
+,9,Arna-Bjørnar,Amazon Grimstad,3,1
+,9,Lillestrøm SK,Vålerenga IF,6,0
+26-05-2012,8,Kattem IL,SK Trondheims-Ørn,1,1
+,8,Klepp IL,Lillestrøm SK,0,0
+,8,IL Sandviken,Arna-Bjørnar,1,4
+,8,Kolbotn IL,FL Fart,3,0
+,8,Amazon Grimstad,Stabæk FK,0,2
+,8,Vålerenga IF,Røa IL,1,4
+19-05-2012,7,Vålerenga IF,IL Sandviken,0,4
+,7,FL Fart,Klepp IL,0,7
+,7,Røa IL,Amazon Grimstad,4,2
+,7,SK Trondheims-Ørn,Kolbotn IL,0,1
+,7,Lillestrøm SK,Kattem IL,2,1
+,7,Arna-Bjørnar,Stabæk FK,0,0
+11-05-2012,6,Stabæk FK,FL Fart,8,2
+12-05-2012,6,IL Sandviken,Røa IL,3,2
+,6,Kattem IL,Arna-Bjørnar,1,6
+,6,Klepp IL,SK Trondheims-Ørn,5,1
+,6,Kolbotn IL,Vålerenga IF,1,3
+,6,Amazon Grimstad,Lillestrøm SK,0,2
+05-05-2012,5,FL Fart,Amazon Grimstad,1,5
+,5,IL Sandviken,Kolbotn IL,2,1
+,5,Vålerenga IF,Klepp IL,3,0
+,5,Røa IL,Kattem IL,2,0
+,5,SK Trondheims-Ørn,Stabæk FK,1,5
+,5,Lillestrøm SK,Arna-Bjørnar,2,0
+01-05-2012,4,Arna-Bjørnar,FL Fart,3,1
+,4,Kattem IL,Vålerenga IF,2,3
+,4,Klepp IL,IL Sandviken,3,1
+,4,Kolbotn IL,Røa IL,1,1
+,4,Stabæk FK,Lillestrøm SK,3,0
+,4,Amazon Grimstad,SK Trondheims-Ørn,2,0
+28-04-2012,3,SK Trondheims-Ørn,Arna-Bjørnar,1,5
+,3,Røa IL,Stabæk FK,0,0
+,3,IL Sandviken,Kattem IL,5,1
+,3,FL Fart,Lillestrøm SK,1,4
+,3,Klepp IL,Kolbotn IL,1,1
+,3,Vålerenga IF,Amazon Grimstad,0,0
+21-04-2012,2,Kattem IL,Kolbotn IL,1,1
+,2,FL Fart,SK Trondheims-Ørn,1,3
+,2,Lillestrøm SK,Røa IL,3,2
+,2,Arna-Bjørnar,Vålerenga IF,3,1
+,2,Stabæk FK,IL Sandviken,5,1
+,2,Amazon Grimstad,Klepp IL,0,4
+14-04-2012,1,Klepp IL,Kattem IL,2,1
+,1,IL Sandviken,FL Fart,3,1
+,1,Vålerenga IF,Stabæk FK,1,5
+,1,Røa IL,Arna-Bjørnar,1,1
+,1,SK Trondheims-Ørn,Lillestrøm SK,0,6
+,1,Kolbotn IL,Amazon Grimstad,0,0
+29-10-2011,22,Stabæk FK,Røa IL,2,0
+,22,Arna-Bjørnar,Medkila IL,3,0
+,22,Lillestrøm SK,SK Trondheims-Ørn,3,2
+,22,Klepp IL,Linderud-Grei,5,0
+,22,Kattem IL,Kolbotn IL,1,2
+,22,Amazon Grimstad,IL Sandviken,2,2
+15-10-2011,21,Røa IL,Kattem IL,8,1
+,21,Kolbotn IL,Klepp IL,4,0
+,21,Linderud-Grei,Lillestrøm SK,1,3
+,21,SK Trondheims-Ørn,Arna-Bjørnar,2,5
+,21,Medkila IL,Amazon Grimstad,1,1
+,21,IL Sandviken,Stabæk FK,0,1
+09-10-2011,20,Medkila IL,IL Sandviken,4,0
+,20,Klepp IL,Røa IL,1,2
+,20,Kattem IL,Stabæk FK,1,5
+,20,Amazon Grimstad,SK Trondheims-Ørn,4,0
+,20,Arna-Bjørnar,Linderud-Grei,9,0
+,20,Lillestrøm SK,Kolbotn IL,2,4
+02-10-2011,19,Røa IL,Lillestrøm SK,5,0
+,19,Stabæk FK,Klepp IL,2,1
+,19,Kolbotn IL,Arna-Bjørnar,2,1
+,19,Linderud-Grei,Amazon Grimstad,2,3
+,19,SK Trondheims-Ørn,Medkila IL,4,2
+,19,IL Sandviken,Kattem IL,2,1
+24-09-2011,18,SK Trondheims-Ørn,IL Sandviken,2,1
+25-09-2011,18,Arna-Bjørnar,Røa IL,0,1
+,18,Lillestrøm SK,Stabæk FK,1,0
+,18,Klepp IL,Kattem IL,0,1
+,18,Medkila IL,Linderud-Grei,2,0
+,18,Amazon Grimstad,Kolbotn IL,0,3
+10-09-2011,17,Kattem IL,Lillestrøm SK,1,5
+,17,Røa IL,Amazon Grimstad,4,1
+,17,Linderud-Grei,SK Trondheims-Ørn,2,3
+,17,IL Sandviken,Klepp IL,3,1
+11-09-2011,17,Stabæk FK,Arna-Bjørnar,0,1
+,17,Kolbotn IL,Medkila IL,2,2
+03-09-2011,16,Medkila IL,Røa IL,0,6
+,16,Amazon Grimstad,Stabæk FK,0,5
+,16,Arna-Bjørnar,Kattem IL,4,1
+,16,Lillestrøm SK,Klepp IL,2,0
+,16,Linderud-Grei,IL Sandviken,1,2
+28-09-2011,16,SK Trondheims-Ørn,Kolbotn IL,0,2
+27-08-2011,15,Klepp IL,Arna-Bjørnar,2,4
+,15,Kattem IL,Amazon Grimstad,0,5
+,15,Røa IL,SK Trondheims-Ørn,3,1
+,15,Kolbotn IL,Linderud-Grei,5,2
+,15,IL Sandviken,Lillestrøm SK,1,2
+28-08-2011,15,Stabæk FK,Medkila IL,4,0
+13-08-2011,14,Linderud-Grei,Røa IL,0,5
+,14,SK Trondheims-Ørn,Stabæk FK,0,2
+,14,Medkila IL,Kattem IL,0,4
+,14,Amazon Grimstad,Klepp IL,0,1
+,14,Arna-Bjørnar,Lillestrøm SK,1,0
+,14,Kolbotn IL,IL Sandviken,5,1
+06-08-2011,13,Røa IL,Kolbotn IL,1,4
+,13,Stabæk FK,Linderud-Grei,8,0
+,13,Kattem IL,SK Trondheims-Ørn,0,3
+,13,Klepp IL,Medkila IL,1,0
+,13,Lillestrøm SK,Amazon Grimstad,3,2
+,13,Arna-Bjørnar,IL Sandviken,5,0
+30-07-2011,12,Kolbotn IL,Stabæk FK,2,1
+,12,Linderud-Grei,Kattem IL,2,2
+,12,SK Trondheims-Ørn,Klepp IL,2,0
+,12,Medkila IL,Lillestrøm SK,0,3
+,12,Amazon Grimstad,Arna-Bjørnar,0,7
+,12,IL Sandviken,Røa IL,0,3
+09-08-2011,11,Røa IL,Stabæk FK,1,2
+,11,Medkila IL,Arna-Bjørnar,0,3
+,11,SK Trondheims-Ørn,Lillestrøm SK,4,3
+,11,Linderud-Grei,Klepp IL,1,3
+,11,Kolbotn IL,Kattem IL,5,1
+,11,IL Sandviken,Amazon Grimstad,0,2
+05-06-2011,10,Kattem IL,Røa IL,0,1
+,10,Klepp IL,Kolbotn IL,1,1
+,10,Lillestrøm SK,Linderud-Grei,3,1
+,10,Arna-Bjørnar,SK Trondheims-Ørn,2,1
+,10,Amazon Grimstad,Medkila IL,2,0
+,10,Stabæk FK,IL Sandviken,5,1
+03-08-2011,9,Røa IL,Klepp IL,4,1
+,9,Stabæk FK,Kattem IL,3,0
+,9,Linderud-Grei,Arna-Bjørnar,0,4
+,9,Kolbotn IL,Lillestrøm SK,3,2
+,9,IL Sandviken,Medkila IL,2,1
+,9,SK Trondheims-Ørn,Amazon Grimstad,4,1
+21-05-2011,8,Kattem IL,IL Sandviken,1,0
+22-05-2011,8,Klepp IL,Stabæk FK,1,1
+,8,Lillestrøm SK,Røa IL,2,1
+,8,Amazon Grimstad,Linderud-Grei,3,1
+,8,Medkila IL,SK Trondheims-Ørn,0,4
+23-05-2011,8,Arna-Bjørnar,Kolbotn IL,1,2
+07-05-2011,7,Stabæk FK,Lillestrøm SK,4,0
+,7,Røa IL,Arna-Bjørnar,1,0
+,7,Kattem IL,Klepp IL,3,3
+,7,Kolbotn IL,Amazon Grimstad,2,3
+,7,IL Sandviken,SK Trondheims-Ørn,2,2
+,7,Linderud-Grei,Medkila IL,1,3
+01-05-2011,6,Arna-Bjørnar,Stabæk FK,0,1
+,6,Medkila IL,Kolbotn IL,1,4
+,6,Lillestrøm SK,Kattem IL,4,2
+,6,Amazon Grimstad,Røa IL,1,2
+,6,SK Trondheims-Ørn,Linderud-Grei,5,0
+,6,Klepp IL,IL Sandviken,0,0
+28-04-2011,5,Røa IL,Medkila IL,4,0
+,5,Stabæk FK,Amazon Grimstad,0,0
+,5,Kattem IL,Arna-Bjørnar,2,2
+,5,Klepp IL,Lillestrøm SK,3,0
+,5,Kolbotn IL,SK Trondheims-Ørn,0,1
+,5,IL Sandviken,Linderud-Grei,2,1
+25-04-2011,4,Lillestrøm SK,IL Sandviken,2,2
+,4,Amazon Grimstad,Kattem IL,3,2
+,4,Arna-Bjørnar,Klepp IL,3,0
+,4,Medkila IL,Stabæk FK,0,4
+,4,SK Trondheims-Ørn,Røa IL,1,4
+,4,Linderud-Grei,Kolbotn IL,0,4
+16-04-2011,3,Røa IL,Linderud-Grei,13,0
+,3,Stabæk FK,SK Trondheims-Ørn,2,0
+,3,Klepp IL,Amazon Grimstad,1,0
+,3,Lillestrøm SK,Arna-Bjørnar,3,4
+,3,IL Sandviken,Kolbotn IL,1,3
+17-04-2011,3,Kattem IL,Medkila IL,5,0
+09-04-2011,2,Kolbotn IL,Røa IL,0,4
+,2,Linderud-Grei,Stabæk FK,1,5
+,2,SK Trondheims-Ørn,Kattem IL,3,3
+,2,Medkila IL,Klepp IL,3,3
+,2,Amazon Grimstad,Lillestrøm SK,0,1
+10-04-2011,2,IL Sandviken,Arna-Bjørnar,1,4
+02-04-2011,1,Kattem IL,Linderud-Grei,4,0
+,1,Røa IL,IL Sandviken,3,1
+,1,Lillestrøm SK,Medkila IL,3,1
+12-04-2011,1,Stabæk FK,Kolbotn IL,0,0
+13-04-2011,1,Klepp IL,SK Trondheims-Ørn,0,1
+,1,Arna-Bjørnar,Amazon Grimstad,1,0
+06-11-2010,22,Kolbotn IL,Arna-Bjørnar,2,0
+,22,Lillestrøm SK,Røa IL,2,1
+,22,IF Fløya,Kattem IL,0,1
+,22,Amazon Grimstad,Stabæk FK,0,6
+,22,SK Trondheims-Ørn,FK Donn,1,0
+,22,Linderud-Grei,Klepp IL,0,0
+30-10-2010,21,FK Donn,Linderud-Grei,2,1
+,21,Kattem IL,Amazon Grimstad,1,3
+,21,Røa IL,Kolbotn IL,0,4
+,21,Klepp IL,IF Fløya,6,1
+,21,Stabæk FK,SK Trondheims-Ørn,3,0
+,21,Arna-Bjørnar,Lillestrøm SK,6,1
+16-10-2010,20,Kolbotn IL,Kattem IL,4,0
+,20,Lillestrøm SK,Stabæk FK,0,2
+,20,Amazon Grimstad,FK Donn,1,0
+,20,Linderud-Grei,IF Fløya,2,0
+,20,Arna-Bjørnar,Røa IL,1,1
+17-10-2010,20,SK Trondheims-Ørn,Klepp IL,3,1
+09-10-2010,19,Kattem IL,Røa IL,3,5
+,19,FK Donn,Arna-Bjørnar,2,4
+,19,IF Fløya,Amazon Grimstad,1,2
+,19,Klepp IL,Lillestrøm SK,1,2
+,19,Linderud-Grei,SK Trondheims-Ørn,1,1
+10-10-2010,19,Stabæk FK,Kolbotn IL,0,0
+25-09-2010,18,Røa IL,Stabæk FK,2,2
+,18,Lillestrøm SK,Linderud-Grei,4,0
+,18,Kolbotn IL,FK Donn,3,1
+,18,Amazon Grimstad,Klepp IL,2,3
+,18,SK Trondheims-Ørn,IF Fløya,3,0
+,18,Arna-Bjørnar,Kattem IL,1,0
+18-09-2010,17,FK Donn,Røa IL,2,5
+,17,IF Fløya,Lillestrøm SK,2,2
+,17,Klepp IL,Kolbotn IL,1,0
+,17,Stabæk FK,Kattem IL,2,0
+,17,SK Trondheims-Ørn,Amazon Grimstad,2,1
+,17,Linderud-Grei,Arna-Bjørnar,0,4
+04-09-2010,16,Kolbotn IL,IF Fløya,4,0
+,16,Lillestrøm SK,SK Trondheims-Ørn,2,2
+,16,Kattem IL,FK Donn,1,2
+,16,Røa IL,Klepp IL,1,0
+,16,Amazon Grimstad,Linderud-Grei,2,0
+,16,Arna-Bjørnar,Stabæk FK,0,7
+29-08-2010,15,IF Fløya,Røa IL,0,2
+,15,Klepp IL,Arna-Bjørnar,1,3
+,15,Stabæk FK,FK Donn,3,0
+,15,Amazon Grimstad,Lillestrøm SK,2,0
+,15,SK Trondheims-Ørn,Kattem IL,2,0
+,15,Linderud-Grei,Kolbotn IL,0,2
+07-08-2010,14,Kolbotn IL,Lillestrøm SK,1,1
+,14,FK Donn,IF Fløya,4,2
+,14,Kattem IL,Klepp IL,1,2
+,14,Røa IL,Amazon Grimstad,4,1
+,14,Stabæk FK,Linderud-Grei,9,0
+,14,Arna-Bjørnar,SK Trondheims-Ørn,3,1
+31-07-2010,13,Lillestrøm SK,Kattem IL,2,3
+,13,IF Fløya,Stabæk FK,1,1
+,13,Klepp IL,FK Donn,5,1
+,13,Amazon Grimstad,Arna-Bjørnar,3,0
+,13,SK Trondheims-Ørn,Kolbotn IL,1,0
+,13,Linderud-Grei,Røa IL,2,7
+03-07-2010,12,Kolbotn IL,Amazon Grimstad,6,0
+,12,FK Donn,Lillestrøm SK,2,0
+,12,Kattem IL,Linderud-Grei,1,1
+,12,Røa IL,SK Trondheims-Ørn,2,1
+,12,Stabæk FK,Klepp IL,2,0
+,12,Arna-Bjørnar,IF Fløya,4,0
+27-06-2010,11,Lillestrøm SK,IF Fløya,4,0
+,11,Klepp IL,Røa IL,1,1
+,11,Amazon Grimstad,Kattem IL,3,0
+,11,SK Trondheims-Ørn,Stabæk FK,1,5
+,11,Linderud-Grei,FK Donn,2,1
+,11,Arna-Bjørnar,Kolbotn IL,1,2
+12-06-2010,10,Kolbotn IL,Linderud-Grei,8,0
+,10,FK Donn,SK Trondheims-Ørn,1,2
+,10,Kattem IL,Arna-Bjørnar,0,7
+,10,Røa IL,Lillestrøm SK,3,0
+,10,IF Fløya,Klepp IL,1,1
+15-06-2010,10,Stabæk FK,Amazon Grimstad,2,0
+29-05-2010,9,Lillestrøm SK,Kolbotn IL,1,0
+,9,IF Fløya,FK Donn,1,2
+,9,Klepp IL,Kattem IL,4,0
+,9,Amazon Grimstad,Røa IL,0,2
+,9,SK Trondheims-Ørn,Arna-Bjørnar,1,2
+,9,Linderud-Grei,Stabæk FK,0,4
+24-05-2010,8,Stabæk FK,Lillestrøm SK,2,0
+,8,Kolbotn IL,Klepp IL,2,1
+,8,FK Donn,Amazon Grimstad,0,2
+,8,Kattem IL,SK Trondheims-Ørn,0,3
+,8,Røa IL,IF Fløya,5,0
+,8,Arna-Bjørnar,Linderud-Grei,3,0
+16-05-2010,7,Lillestrøm SK,FK Donn,1,2
+,7,Røa IL,Kattem IL,4,1
+,7,IF Fløya,Arna-Bjørnar,0,6
+,7,Klepp IL,Stabæk FK,2,2
+,7,Amazon Grimstad,Kolbotn IL,0,2
+,7,SK Trondheims-Ørn,Linderud-Grei,1,0
+08-05-2010,6,Stabæk FK,Røa IL,7,0
+,6,Kolbotn IL,SK Trondheims-Ørn,0,2
+,6,FK Donn,Klepp IL,1,2
+,6,Kattem IL,IF Fløya,1,0
+,6,Linderud-Grei,Lillestrøm SK,1,5
+,6,Arna-Bjørnar,Amazon Grimstad,8,0
+01-05-2010,5,Lillestrøm SK,Arna-Bjørnar,3,0
+,5,Kattem IL,Stabæk FK,2,7
+,5,Røa IL,FK Donn,6,2
+,5,IF Fløya,Kolbotn IL,2,3
+,5,Klepp IL,Linderud-Grei,3,1
+,5,Amazon Grimstad,SK Trondheims-Ørn,1,2
+24-04-2010,4,Kolbotn IL,Røa IL,3,0
+,4,FK Donn,Kattem IL,0,0
+,4,Stabæk FK,IF Fløya,4,0
+,4,SK Trondheims-Ørn,Lillestrøm SK,2,3
+,4,Linderud-Grei,Amazon Grimstad,1,1
+,4,Arna-Bjørnar,Klepp IL,1,0
+17-04-2010,3,Lillestrøm SK,Amazon Grimstad,1,0
+,3,FK Donn,Stabæk FK,0,0
+,3,Kattem IL,Kolbotn IL,0,1
+,3,Røa IL,Arna-Bjørnar,1,0
+18-04-2010,3,Klepp IL,SK Trondheims-Ørn,0,1
+28-04-2010,3,IF Fløya,Linderud-Grei,0,4
+10-04-2010,2,Kolbotn IL,Stabæk FK,0,1
+,2,Lillestrøm SK,Klepp IL,3,0
+,2,Amazon Grimstad,IF Fløya,4,2
+,2,SK Trondheims-Ørn,Røa IL,1,2
+,2,Linderud-Grei,Kattem IL,0,2
+,2,Arna-Bjørnar,FK Donn,1,0
+05-04-2010,1,Kattem IL,Lillestrøm SK,0,5
+,1,Røa IL,Linderud-Grei,2,0
+,1,IF Fløya,SK Trondheims-Ørn,2,1
+,1,Klepp IL,Amazon Grimstad,0,0
+,1,Stabæk FK,Arna-Bjørnar,1,0
+27-04-2010,1,FK Donn,Kolbotn IL,0,2
+31-10-2009,22,Fortuna Ålesund,Team Strømmen,0,8
+,22,IL Sandviken,SK Trondheims-Ørn,4,5
+,22,Kattem IL,Arna-Bjørnar,1,1
+,22,IF Fløya,Klepp IL,3,3
+,22,Røa IL,Stabæk FK,0,0
+,22,Kolbotn IL,Amazon Grimstad,1,0
+17-10-2009,21,Arna-Bjørnar,Røa IL,1,5
+,21,SK Trondheims-Ørn,IF Fløya,1,0
+,21,Team Strømmen,IL Sandviken,4,0
+,21,Amazon Grimstad,Kattem IL,1,0
+,21,Stabæk FK,Kolbotn IL,5,1
+,21,Klepp IL,Fortuna Ålesund,7,1
+10-10-2009,20,Fortuna Ålesund,SK Trondheims-Ørn,2,2
+,20,IL Sandviken,Arna-Bjørnar,0,4
+,20,IF Fløya,Stabæk FK,0,0
+,20,Røa IL,Amazon Grimstad,3,0
+,20,Kolbotn IL,Kattem IL,2,1
+,20,Klepp IL,Team Strømmen,2,0
+03-10-2009,19,Arna-Bjørnar,Team Strømmen,3,0
+,19,SK Trondheims-Ørn,Klepp IL,3,0
+,19,Kattem IL,IL Sandviken,2,2
+,19,Amazon Grimstad,IF Fløya,0,2
+,19,Stabæk FK,Fortuna Ålesund,6,0
+,19,Kolbotn IL,Røa IL,1,2
+26-09-2009,18,Fortuna Ålesund,Arna-Bjørnar,1,2
+,18,IL Sandviken,Amazon Grimstad,0,2
+,18,Team Strømmen,SK Trondheims-Ørn,3,2
+,18,Røa IL,Kattem IL,6,0
+,18,Klepp IL,Stabæk FK,1,4
+27-09-2009,18,IF Fløya,Kolbotn IL,1,2
+04-07-2009,17,Arna-Bjørnar,SK Trondheims-Ørn,3,0
+,17,Kattem IL,Fortuna Ålesund,5,1
+,17,Amazon Grimstad,Team Strømmen,0,1
+,17,Stabæk FK,IL Sandviken,6,1
+,17,Røa IL,IF Fløya,4,2
+,17,Kolbotn IL,Klepp IL,0,3
+30-06-2009,16,Fortuna Ålesund,Røa IL,0,6
+,16,IL Sandviken,Kolbotn IL,0,2
+,16,SK Trondheims-Ørn,Amazon Grimstad,4,0
+,16,Team Strømmen,Stabæk FK,1,3
+,16,IF Fløya,Kattem IL,1,2
+,16,Klepp IL,Arna-Bjørnar,1,1
+27-06-2009,15,Arna-Bjørnar,IF Fløya,1,0
+,15,Kattem IL,Team Strømmen,1,2
+,15,Amazon Grimstad,Klepp IL,2,1
+,15,Stabæk FK,SK Trondheims-Ørn,7,0
+,15,Røa IL,IL Sandviken,2,1
+,15,Kolbotn IL,Fortuna Ålesund,8,1
+23-06-2009,14,Fortuna Ålesund,Amazon Grimstad,0,1
+,14,SK Trondheims-Ørn,Røa IL,0,6
+,14,Team Strømmen,Kolbotn IL,2,3
+,14,IF Fløya,IL Sandviken,5,0
+,14,Stabæk FK,Arna-Bjørnar,6,1
+,14,Klepp IL,Kattem IL,3,0
+20-06-2009,13,IL Sandviken,Fortuna Ålesund,3,2
+,13,Kattem IL,Stabæk FK,1,5
+,13,Amazon Grimstad,Arna-Bjørnar,1,3
+,13,IF Fløya,Team Strømmen,2,1
+,13,Røa IL,Klepp IL,4,1
+,13,Kolbotn IL,SK Trondheims-Ørn,1,0
+13-06-2009,12,Fortuna Ålesund,IF Fløya,0,2
+,12,Arna-Bjørnar,Kolbotn IL,0,3
+,12,SK Trondheims-Ørn,Kattem IL,2,2
+,12,Stabæk FK,Amazon Grimstad,2,0
+,12,Klepp IL,IL Sandviken,4,1
+14-06-2009,12,Team Strømmen,Røa IL,0,3
+06-06-2009,11,Arna-Bjørnar,Kattem IL,1,2
+,11,IL Sandviken,Team Strømmen,1,5
+,11,Amazon Grimstad,SK Trondheims-Ørn,0,2
+,11,Røa IL,Fortuna Ålesund,3,2
+,11,Klepp IL,IF Fløya,3,2
+07-06-2009,11,Kolbotn IL,Stabæk FK,3,1
+01-06-2009,10,Stabæk FK,Klepp IL,0,0
+,10,Fortuna Ålesund,Kolbotn IL,2,6
+,10,SK Trondheims-Ørn,IL Sandviken,2,0
+,10,Kattem IL,Røa IL,1,4
+,10,Team Strømmen,Amazon Grimstad,4,2
+,10,IF Fløya,Arna-Bjørnar,2,2
+24-05-2009,9,Arna-Bjørnar,Stabæk FK,1,1
+,9,Amazon Grimstad,Fortuna Ålesund,1,0
+,9,IL Sandviken,IF Fløya,1,3
+,9,Team Strømmen,Kattem IL,3,0
+,9,Røa IL,SK Trondheims-Ørn,2,0
+,9,Klepp IL,Kolbotn IL,1,1
+21-05-2009,8,Fortuna Ålesund,Klepp IL,3,3
+,8,SK Trondheims-Ørn,Arna-Bjørnar,2,1
+,8,Kattem IL,Amazon Grimstad,1,0
+,8,IF Fløya,Røa IL,0,1
+,8,Kolbotn IL,IL Sandviken,2,0
+29-09-2009,8,Stabæk FK,Team Strømmen,5,0
+16-05-2009,7,Arna-Bjørnar,Fortuna Ålesund,3,1
+,7,IL Sandviken,Klepp IL,0,0
+,7,Kattem IL,SK Trondheims-Ørn,2,1
+,7,Team Strømmen,IF Fløya,2,2
+,7,Amazon Grimstad,Stabæk FK,0,3
+,7,Røa IL,Kolbotn IL,0,3
+09-05-2009,6,Fortuna Ålesund,IL Sandviken,1,2
+,6,SK Trondheims-Ørn,Team Strømmen,0,3
+,6,IF Fløya,Amazon Grimstad,2,0
+,6,Stabæk FK,Kattem IL,5,0
+,6,Kolbotn IL,Arna-Bjørnar,4,1
+10-05-2009,6,Klepp IL,Røa IL,0,3
+05-05-2009,5,Arna-Bjørnar,Klepp IL,5,3
+,5,IL Sandviken,Røa IL,1,7
+,5,SK Trondheims-Ørn,Stabæk FK,2,2
+,5,Kattem IL,IF Fløya,3,0
+,5,Team Strømmen,Fortuna Ålesund,5,0
+,5,Amazon Grimstad,Kolbotn IL,2,1
+01-05-2009,4,Fortuna Ålesund,Stabæk FK,0,5
+,4,IL Sandviken,Kattem IL,2,1
+,4,IF Fløya,SK Trondheims-Ørn,1,2
+,4,Røa IL,Arna-Bjørnar,1,0
+,4,Kolbotn IL,Team Strømmen,1,0
+,4,Klepp IL,Amazon Grimstad,1,0
+19-04-2009,3,Stabæk FK,IF Fløya,5,2
+,3,Arna-Bjørnar,IL Sandviken,2,0
+,3,SK Trondheims-Ørn,Fortuna Ålesund,6,0
+,3,Kattem IL,Kolbotn IL,1,2
+,3,Team Strømmen,Klepp IL,3,0
+,3,Amazon Grimstad,Røa IL,0,1
+16-04-2009,2,Fortuna Ålesund,Kattem IL,0,0
+,2,Arna-Bjørnar,Amazon Grimstad,1,1
+,2,IL Sandviken,Stabæk FK,1,10
+,2,Røa IL,Team Strømmen,1,1
+,2,Kolbotn IL,IF Fløya,3,1
+,2,Klepp IL,SK Trondheims-Ørn,1,0
+13-04-2009,1,Stabæk FK,Røa IL,2,0
+,1,SK Trondheims-Ørn,Kolbotn IL,1,1
+,1,Kattem IL,Klepp IL,2,1
+,1,Team Strømmen,Arna-Bjørnar,0,0
+,1,Amazon Grimstad,IL Sandviken,1,0
+,1,IF Fløya,Fortuna Ålesund,3,1

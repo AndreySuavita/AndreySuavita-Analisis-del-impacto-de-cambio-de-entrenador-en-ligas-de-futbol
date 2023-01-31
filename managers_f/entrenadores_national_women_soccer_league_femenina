@@ -1,0 +1,75 @@
+club,fecha_activo_inicio,fecha_activo_fin,entrenador,pais,fecha_nacimiento
+NJ/NY Gotham FC,01-10-2022,30-06-2023,Hue Menzies,Jamaica,
+NJ/NY Gotham FC,31-08-2021,01-09-2022,Scott Parkinson,Inglaterra,
+NJ/NY Gotham FC,01-01-2020,29-08-2021,Freya Coombe,Estados Unidos,
+NJ/NY Gotham FC,15-11-2017,31-12-2018,Denise Reddy,Estados Unidos,14-09-1970
+NJ/NY Gotham FC,07-10-2010,14-10-2015,Jim Gabarra,Estados Unidos,22-09-1959
+NJ/NY Gotham FC,29-09-2009,19-07-2010,Pauliina Miettinen,Finlandia,20-05-1972
+NJ/NY Gotham FC,30-07-2009,28-09-2009,Christie Pearce,Estados Unidos,24-06-1975
+NJ/NY Gotham FC,01-01-2008,31-12-2008,Denise Reddy,Estados Unidos,14-09-1970
+Washington Spirit,15-09-2022,30-06-2023,Albertin Montoya,Estados Unidos,19-02-1975
+Washington Spirit,10-08-2021,01-09-2022,Kris Ward,Estados Unidos,
+Washington Spirit,01-01-2019,30-06-2021,Richie Burke,Inglaterra,00-00-1962
+Washington Spirit,15-10-2015,31-12-2018,Jim Gabarra,Estados Unidos,22-09-1959
+Washington Spirit,01-07-2013,30-09-2015,Mark Parsons,Inglaterra,08-08-1986
+Washington Spirit,06-04-2012,30-06-2013,Mike Jorden,Estados Unidos,
+Racing Louisville,09-12-2021,31-12-2022,Kim Björkegren,Suecia,
+Racing Louisville,01-09-2021,31-12-2021,Mario Sánchez,Estados Unidos,
+Racing Louisville,01-01-2021,31-08-2021,Christy Holly,Irlanda del Norte,
+OL Reign,02-07-2021,31-12-2023,Laura Harvey,Inglaterra,15-05-1980
+OL Reign,01-01-2020,02-07-2021,Farid Benstiti,Francia,16-01-1967
+OL Reign,07-11-2017,31-12-2018,Vlatko Andonovski,Macedonia del Norte,14-09-1976
+OL Reign,01-01-2013,07-11-2017,Laura Harvey,Inglaterra,15-05-1980
+Chicago Red Stars,01-01-2022,31-12-2022,Chris Petrucelli,Estados Unidos,09-05-1962
+Chicago Red Stars,01-01-2011,31-12-2021,Rory Dames,Estados Unidos,00-00-1973
+Chicago Red Stars,01-01-2009,31-12-2009,Emma Hayes,Inglaterra,18-10-1976
+Orlando Pride,01-07-2022,31-12-2023,Seb Hines,Inglaterra,29-05-1988
+Orlando Pride,07-12-2021,30-06-2022,Amanda Cromwell,Estados Unidos,15-06-1970
+Orlando Pride,02-07-2021,31-12-2021,Becky Burleigh,Estados Unidos,13-10-1967
+Orlando Pride,01-07-2019,28-07-2021,Marc Skinner,Inglaterra,23-03-1983
+Orlando Pride,01-01-2016,31-12-2018,Tom Sermanni,Escocia,01-07-1954
+NC Courage,01-12-2021,31-12-2022,Sean Nahas,Estados Unidos,
+NC Courage,01-01-2017,30-09-2021,Paul Riley,Inglaterra,23-09-1963
+NC Courage,01-01-2009,31-12-2015,Aaran Lines,Nueva Zelanda,21-12-1976
+Houston Dash,01-07-2022,31-12-2022,Amorós,España,03-06-1984
+Houston Dash,01-01-2021,15-04-2022,James Clarkson,Inglaterra,
+Houston Dash,27-11-2017,31-12-2018,Vera Pauw,Países Bajos,18-01-1963
+Houston Dash,01-01-2014,29-05-2017,Randy Waldrum,Estados Unidos,30-09-1961
+San Diego Wave FC,01-01-2022,31-12-2022,Casey Stoney,Inglaterra,13-05-1982
+Kansas City Current,11-01-2022,31-12-2022,Matt Potter,Inglaterra,23-01-1970
+Kansas City Current,07-12-2020,31-12-2021,Huw Williams,Gales,
+Portland Thorns,29-11-2021,31-12-2022,Rhian Wilkinson,Canadá,12-05-1982
+Portland Thorns,01-01-2018,31-12-2021,Mark Parsons,Inglaterra,08-08-1986
+Portland Thorns,01-01-2014,31-12-2015,Paul Riley,Inglaterra,23-09-1963
+Portland Thorns,01-01-2012,31-12-2013,Cindy Parlow,Estados Unidos,08-05-1978
+Angel City FC,30-08-2021,31-12-2022,Freya Coombe,Estados Unidos,
+Kansas City NWSL,11-01-2022,31-12-2022,Matt Potter,Inglaterra,23-01-1970
+Kansas City NWSL,07-12-2020,31-12-2021,Huw Williams,Gales,
+Sky Blue FC,01-10-2022,30-06-2023,Hue Menzies,Jamaica,
+Sky Blue FC,31-08-2021,01-09-2022,Scott Parkinson,Inglaterra,
+Sky Blue FC,01-01-2020,29-08-2021,Freya Coombe,Estados Unidos,
+Sky Blue FC,15-11-2017,31-12-2018,Denise Reddy,Estados Unidos,14-09-1970
+Sky Blue FC,07-10-2010,14-10-2015,Jim Gabarra,Estados Unidos,22-09-1959
+Sky Blue FC,29-09-2009,19-07-2010,Pauliina Miettinen,Finlandia,20-05-1972
+Sky Blue FC,30-07-2009,28-09-2009,Christie Pearce,Estados Unidos,24-06-1975
+Sky Blue FC,01-01-2008,31-12-2008,Denise Reddy,Estados Unidos,14-09-1970
+Utah Royals FC,01-12-2017,31-12-2018,Laura Harvey,Inglaterra,15-05-1980
+Reign FC,02-07-2021,31-12-2023,Laura Harvey,Inglaterra,15-05-1980
+Reign FC,01-01-2020,02-07-2021,Farid Benstiti,Francia,16-01-1967
+Reign FC,07-11-2017,31-12-2018,Vlatko Andonovski,Macedonia del Norte,14-09-1976
+Reign FC,01-01-2013,07-11-2017,Laura Harvey,Inglaterra,15-05-1980
+Seattle Reign,02-07-2021,31-12-2023,Laura Harvey,Inglaterra,15-05-1980
+Seattle Reign,01-01-2020,02-07-2021,Farid Benstiti,Francia,16-01-1967
+Seattle Reign,07-11-2017,31-12-2018,Vlatko Andonovski,Macedonia del Norte,14-09-1976
+Seattle Reign,01-01-2013,07-11-2017,Laura Harvey,Inglaterra,15-05-1980
+Boston Breakers,01-01-2016,31-12-2017,Matt Beard,Inglaterra,09-01-1978
+Boston Breakers,03-09-2013,31-12-2015,Tom Durkin,Estados Unidos,
+Boston Breakers,02-08-2013,02-09-2013,Cat Whitehill,Estados Unidos,10-02-1982
+Boston Breakers,01-01-2012,01-08-2013,Lisa Cole,Estados Unidos,
+Boston Breakers,01-01-2009,31-12-2011,Tony DiCicco,Estados Unidos,05-08-1948
+Boston Breakers,01-01-2003,31-12-2003,Pia Sundhage,Suecia,13-02-1960
+Boston Breakers,01-01-2001,31-12-2001,Jay Hoffman,Estados Unidos,15-01-1951
+FC Kansas City,05-12-2012,06-01-2017,Vlatko Andonovski,Macedonia del Norte,14-09-1976
+Western New York Flash,01-12-2021,31-12-2022,Sean Nahas,Estados Unidos,
+Western New York Flash,01-01-2017,30-09-2021,Paul Riley,Inglaterra,23-09-1963
+Western New York Flash,01-01-2009,31-12-2015,Aaran Lines,Nueva Zelanda,21-12-1976

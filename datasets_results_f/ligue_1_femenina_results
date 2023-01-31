@@ -1,0 +1,1717 @@
+fecha,jornada,local,visitante,goles_local,goles_visitante
+27-05-2023,22,Havre AC,Girondins Bordeaux,,
+,22,Dijon FCO,Montpellier,,
+,22,FC Fleury 91,Guingamp,,
+,22,Lyon,Stade Reims,,
+,22,Rodez AF,Paris FC,,
+,22,ASJ Soyaux,París Saint-Germain,,
+20-05-2023,21,Guingamp,Rodez AF,,
+,21,Paris FC,ASJ Soyaux,,
+,21,Girondins Bordeaux,FC Fleury 91,,
+,21,Montpellier,Havre AC,,
+,21,París Saint-Germain,Lyon,,
+,21,Stade Reims,Dijon FCO,,
+06-05-2023,20,Havre AC,Stade Reims,,
+,20,Dijon FCO,Lyon,,
+,20,FC Fleury 91,Montpellier,,
+,20,París Saint-Germain,Paris FC,,
+,20,Rodez AF,Girondins Bordeaux,,
+,20,ASJ Soyaux,Guingamp,,
+15-04-2023,19,Dijon FCO,Havre AC,,
+,19,Guingamp,París Saint-Germain,,
+,19,Girondins Bordeaux,ASJ Soyaux,,
+,19,Montpellier,Rodez AF,,
+,19,Lyon,Paris FC,,
+,19,Stade Reims,FC Fleury 91,,
+01-04-2023,18,Havre AC,Lyon,,
+,18,Paris FC,Guingamp,,
+,18,FC Fleury 91,Dijon FCO,,
+,18,París Saint-Germain,Girondins Bordeaux,,
+,18,Rodez AF,Stade Reims,,
+,18,ASJ Soyaux,Montpellier,,
+25-03-2023,17,Havre AC,FC Fleury 91,,
+,17,Dijon FCO,Rodez AF,,
+,17,Girondins Bordeaux,Paris FC,,
+,17,Montpellier,París Saint-Germain,,
+,17,Lyon,Guingamp,,
+,17,Stade Reims,ASJ Soyaux,,
+11-03-2023,16,Guingamp,Girondins Bordeaux,,
+,16,Paris FC,Montpellier,,
+,16,FC Fleury 91,Lyon,,
+,16,París Saint-Germain,Stade Reims,,
+,16,Rodez AF,Havre AC,,
+,16,ASJ Soyaux,Dijon FCO,,
+25-02-2023,15,Havre AC,ASJ Soyaux,,
+,15,Dijon FCO,París Saint-Germain,,
+,15,FC Fleury 91,Rodez AF,,
+,15,Montpellier,Guingamp,,
+,15,Lyon,Girondins Bordeaux,,
+,15,Stade Reims,Paris FC,,
+04-02-2023,14,Guingamp,Stade Reims,,
+,14,Paris FC,Dijon FCO,,
+,14,Girondins Bordeaux,Montpellier,,
+,14,París Saint-Germain,Havre AC,,
+,14,Rodez AF,Lyon,,
+,14,ASJ Soyaux,FC Fleury 91,,
+21-01-2023,13,Havre AC,Paris FC,,
+,13,Dijon FCO,Guingamp,,
+,13,FC Fleury 91,París Saint-Germain,,
+,13,Lyon,Montpellier,,
+,13,Rodez AF,ASJ Soyaux,,
+,13,Stade Reims,Girondins Bordeaux,,
+14-01-2023,12,Guingamp,Havre AC,,
+,12,Paris FC,FC Fleury 91,,
+,12,Girondins Bordeaux,Dijon FCO,,
+,12,Montpellier,Stade Reims,,
+,12,París Saint-Germain,Rodez AF,,
+,12,ASJ Soyaux,Lyon,,
+10-12-2022,11,Havre AC,Montpellier,,
+,11,Dijon FCO,Stade Reims,,
+,11,FC Fleury 91,Girondins Bordeaux,,
+,11,Lyon,París Saint-Germain,,
+,11,Rodez AF,Guingamp,,
+,11,ASJ Soyaux,Paris FC,,
+03-12-2022,10,Guingamp,ASJ Soyaux,,
+,10,Paris FC,París Saint-Germain,,
+,10,Girondins Bordeaux,Rodez AF,,
+,10,Montpellier,FC Fleury 91,,
+,10,Lyon,Dijon FCO,,
+,10,Stade Reims,Havre AC,,
+26-11-2022,9,Havre AC,Dijon FCO,,
+,9,Paris FC,Lyon,,
+,9,FC Fleury 91,Stade Reims,,
+,9,París Saint-Germain,Guingamp,,
+,9,Rodez AF,Montpellier,,
+,9,ASJ Soyaux,Girondins Bordeaux,,
+19-11-2022,8,Dijon FCO,FC Fleury 91,,
+,8,Guingamp,Paris FC,,
+,8,Girondins Bordeaux,París Saint-Germain,,
+,8,Montpellier,ASJ Soyaux,,
+,8,Lyon,Havre AC,,
+,8,Stade Reims,Rodez AF,,
+05-11-2022,7,Guingamp,Lyon,,
+,7,Paris FC,Girondins Bordeaux,,
+,7,FC Fleury 91,Havre AC,,
+,7,París Saint-Germain,Montpellier,,
+,7,Rodez AF,Dijon FCO,,
+,7,ASJ Soyaux,Stade Reims,,
+29-10-2022,6,Havre AC,Rodez AF,,
+,6,Dijon FCO,ASJ Soyaux,,
+,6,Girondins Bordeaux,Guingamp,,
+,6,Montpellier,Paris FC,,
+,6,Lyon,FC Fleury 91,,
+,6,Stade Reims,París Saint-Germain,,
+15-10-2022,5,Guingamp,Montpellier,,
+,5,Paris FC,Stade Reims,,
+,5,Girondins Bordeaux,Lyon,,
+,5,París Saint-Germain,Dijon FCO,,
+,5,Rodez AF,FC Fleury 91,,
+,5,ASJ Soyaux,Havre AC,,
+01-10-2022,4,Havre AC,París Saint-Germain,,
+,4,Dijon FCO,Paris FC,,
+,4,FC Fleury 91,ASJ Soyaux,,
+,4,Montpellier,Girondins Bordeaux,,
+,4,Lyon,Rodez AF,,
+,4,Stade Reims,Guingamp,,
+24-09-2022,3,Guingamp,Dijon FCO,,
+,3,Paris FC,Havre AC,,
+,3,Girondins Bordeaux,Stade Reims,,
+,3,Montpellier,Lyon,,
+,3,París Saint-Germain,FC Fleury 91,,
+,3,ASJ Soyaux,Rodez AF,,
+17-09-2022,2,Havre AC,Guingamp,,
+,2,Dijon FCO,Girondins Bordeaux,,
+,2,FC Fleury 91,Paris FC,,
+,2,Lyon,ASJ Soyaux,,
+,2,Rodez AF,París Saint-Germain,,
+,2,Stade Reims,Montpellier,,
+09-09-2022,1,Paris FC,Rodez AF,,
+10-09-2022,1,Guingamp,FC Fleury 91,,
+,1,Girondins Bordeaux,Havre AC,,
+,1,Montpellier,Dijon FCO,,
+,1,París Saint-Germain,ASJ Soyaux,,
+11-09-2022,1,Stade Reims,Lyon,,
+01-06-2022,22,Saint-Étienne,ASJ Soyaux,0.0,3.0
+,22,Guingamp,FC Fleury 91,0.0,3.0
+,22,Paris FC,Dijon FCO,2.0,0.0
+,22,Montpellier,Girondins Bordeaux,0.0,1.0
+,22,Lyon,GPSO 92 Issy,4.0,0.0
+,22,Stade Reims,París Saint-Germain,1.0,0.0
+27-05-2022,21,Girondins Bordeaux,Paris FC,1.0,4.0
+28-05-2022,21,Dijon FCO,Stade Reims,2.0,2.0
+,21,FC Fleury 91,Saint-Étienne,4.0,2.0
+,21,GPSO 92 Issy,Montpellier,2.0,5.0
+,21,ASJ Soyaux,Guingamp,2.0,0.0
+29-05-2022,21,París Saint-Germain,Lyon,0.0,1.0
+07-05-2022,20,Guingamp,Dijon FCO,4.0,0.0
+,20,Montpellier,ASJ Soyaux,3.0,0.0
+,20,GPSO 92 Issy,FC Fleury 91,0.0,5.0
+,20,Stade Reims,Saint-Étienne,1.0,0.0
+,20,Girondins Bordeaux,París Saint-Germain,1.0,5.0
+08-05-2022,20,Lyon,Paris FC,2.0,0.0
+15-04-2022,19,Paris FC,Montpellier,3.0,1.0
+16-04-2022,19,Saint-Étienne,Guingamp,1.0,3.0
+,19,Dijon FCO,Girondins Bordeaux,0.0,2.0
+,19,ASJ Soyaux,Stade Reims,1.0,2.0
+,19,París Saint-Germain,GPSO 92 Issy,6.0,1.0
+17-04-2022,19,FC Fleury 91,Lyon,1.0,2.0
+02-04-2022,18,Montpellier,Stade Reims,1.0,2.0
+,18,ASJ Soyaux,FC Fleury 91,0.0,1.0
+,18,Girondins Bordeaux,GPSO 92 Issy,3.0,0.0
+03-04-2022,18,Guingamp,Lyon,0.0,2.0
+,18,Paris FC,París Saint-Germain,0.0,0.0
+23-04-2022,18,Saint-Étienne,Dijon FCO,2.0,2.0
+18-03-2022,17,Dijon FCO,Lyon,0.0,3.0
+,17,París Saint-Germain,ASJ Soyaux,2.0,0.0
+19-03-2022,17,Montpellier,Guingamp,6.0,0.0
+,17,GPSO 92 Issy,Saint-Étienne,4.0,1.0
+,17,Stade Reims,Paris FC,1.0,2.0
+20-03-2022,17,FC Fleury 91,Girondins Bordeaux,2.0,0.0
+11-03-2022,16,Paris FC,FC Fleury 91,3.0,1.0
+,16,París Saint-Germain,Montpellier,0.0,0.0
+12-03-2022,16,Saint-Étienne,Lyon,1.0,1.0
+,16,Guingamp,Stade Reims,0.0,1.0
+,16,ASJ Soyaux,Girondins Bordeaux,0.0,3.0
+,16,Dijon FCO,GPSO 92 Issy,0.0,1.0
+26-02-2022,15,Guingamp,Paris FC,2.0,5.0
+,15,Girondins Bordeaux,Saint-Étienne,3.0,0.0
+,15,GPSO 92 Issy,ASJ Soyaux,5.0,1.0
+,15,Montpellier,Dijon FCO,2.0,0.0
+27-02-2022,15,FC Fleury 91,París Saint-Germain,0.0,4.0
+,15,Stade Reims,Lyon,0.0,2.0
+04-02-2022,14,FC Fleury 91,Montpellier,1.0,0.0
+05-02-2022,14,Guingamp,París Saint-Germain,2.0,6.0
+,14,Dijon FCO,ASJ Soyaux,0.0,1.0
+,14,Paris FC,Saint-Étienne,2.0,1.0
+,14,Stade Reims,GPSO 92 Issy,4.0,3.0
+06-02-2022,14,Lyon,Girondins Bordeaux,1.0,0.0
+22-01-2022,13,Girondins Bordeaux,Stade Reims,3.0,1.0
+,13,GPSO 92 Issy,Guingamp,0.0,2.0
+,13,ASJ Soyaux,Paris FC,1.0,3.0
+,13,Montpellier,Lyon,2.0,3.0
+23-01-2022,13,Saint-Étienne,París Saint-Germain,0.0,5.0
+08-02-2022,13,Dijon FCO,FC Fleury 91,0.0,0.0
+15-01-2022,12,Paris FC,GPSO 92 Issy,1.0,0.0
+,12,Montpellier,Saint-Étienne,3.0,0.0
+,12,Stade Reims,FC Fleury 91,0.0,1.0
+29-01-2022,12,Guingamp,Girondins Bordeaux,0.0,2.0
+11-02-2022,12,Lyon,ASJ Soyaux,8.0,0.0
+,12,París Saint-Germain,Dijon FCO,5.0,0.0
+12-12-2021,11,Saint-Étienne,Stade Reims,0.0,1.0
+,11,Dijon FCO,Guingamp,1.0,1.0
+,11,Paris FC,Lyon,1.0,2.0
+,11,FC Fleury 91,GPSO 92 Issy,1.0,0.0
+,11,París Saint-Germain,Girondins Bordeaux,1.0,0.0
+,11,ASJ Soyaux,Montpellier,0.0,1.0
+03-12-2021,10,Montpellier,Paris FC,0.0,0.0
+04-12-2021,10,Stade Reims,ASJ Soyaux,3.0,1.0
+,10,Guingamp,Saint-Étienne,1.0,1.0
+,10,Girondins Bordeaux,Dijon FCO,1.0,1.0
+,10,GPSO 92 Issy,París Saint-Germain,0.0,3.0
+05-12-2021,10,Lyon,FC Fleury 91,4.0,0.0
+20-11-2021,9,Dijon FCO,Paris FC,0.0,2.0
+,9,FC Fleury 91,Guingamp,6.0,2.0
+,9,ASJ Soyaux,Saint-Étienne,2.0,1.0
+,9,Girondins Bordeaux,Montpellier,0.0,1.0
+21-11-2021,9,GPSO 92 Issy,Lyon,0.0,4.0
+,9,París Saint-Germain,Stade Reims,7.0,0.0
+12-11-2021,8,Paris FC,Girondins Bordeaux,1.0,3.0
+13-11-2021,8,Saint-Étienne,FC Fleury 91,0.0,4.0
+,8,Guingamp,ASJ Soyaux,2.0,2.0
+,8,Montpellier,GPSO 92 Issy,3.0,0.0
+,8,Stade Reims,Dijon FCO,1.0,1.0
+14-11-2021,8,Lyon,París Saint-Germain,6.0,1.0
+30-10-2021,7,GPSO 92 Issy,Paris FC,0.0,5.0
+,7,Saint-Étienne,Montpellier,1.0,2.0
+,7,Girondins Bordeaux,Guingamp,3.0,0.0
+,7,FC Fleury 91,Stade Reims,1.0,0.0
+31-10-2021,7,Dijon FCO,París Saint-Germain,0.0,3.0
+,7,ASJ Soyaux,Lyon,1.0,6.0
+16-10-2021,6,Stade Reims,Girondins Bordeaux,5.0,2.0
+,6,Guingamp,GPSO 92 Issy,1.0,1.0
+,6,Paris FC,ASJ Soyaux,4.0,0.0
+,6,FC Fleury 91,Dijon FCO,0.0,1.0
+17-10-2021,6,Lyon,Montpellier,5.0,0.0
+,6,París Saint-Germain,Saint-Étienne,2.0,0.0
+01-10-2021,5,Girondins Bordeaux,Lyon,1.0,4.0
+,5,Montpellier,FC Fleury 91,1.0,2.0
+02-10-2021,5,Saint-Étienne,Paris FC,1.0,3.0
+,5,GPSO 92 Issy,Stade Reims,1.0,3.0
+,5,ASJ Soyaux,Dijon FCO,1.0,2.0
+10-10-2021,5,París Saint-Germain,Guingamp,6.0,0.0
+24-09-2021,4,Lyon,Guingamp,4.0,0.0
+25-09-2021,4,FC Fleury 91,ASJ Soyaux,1.0,0.0
+,4,GPSO 92 Issy,Girondins Bordeaux,0.0,1.0
+,4,Stade Reims,Montpellier,1.0,4.0
+,4,Dijon FCO,Saint-Étienne,0.0,4.0
+26-09-2021,4,París Saint-Germain,Paris FC,4.0,0.0
+10-09-2021,3,Guingamp,Montpellier,2.0,1.0
+11-09-2021,3,Saint-Étienne,GPSO 92 Issy,0.0,1.0
+,3,Paris FC,Stade Reims,3.0,0.0
+12-09-2021,3,Girondins Bordeaux,FC Fleury 91,1.0,2.0
+,3,ASJ Soyaux,París Saint-Germain,0.0,2.0
+,3,Lyon,Dijon FCO,6.0,0.0
+03-09-2021,2,FC Fleury 91,Paris FC,0.0,1.0
+,2,Montpellier,París Saint-Germain,0.0,1.0
+04-09-2021,2,Girondins Bordeaux,ASJ Soyaux,6.0,0.0
+,2,GPSO 92 Issy,Dijon FCO,0.0,2.0
+,2,Stade Reims,Guingamp,0.0,0.0
+05-09-2021,2,Lyon,Saint-Étienne,6.0,0.0
+27-08-2021,1,Lyon,Stade Reims,3.0,0.0
+28-08-2021,1,Saint-Étienne,Girondins Bordeaux,1.0,1.0
+,1,Dijon FCO,Montpellier,1.0,2.0
+,1,Paris FC,Guingamp,4.0,1.0
+,1,ASJ Soyaux,GPSO 92 Issy,2.0,0.0
+29-08-2021,1,París Saint-Germain,FC Fleury 91,5.0,0.0
+04-06-2021,22,Lyon,FC Fleury 91,8.0,0.0
+,22,París Saint-Germain,Dijon FCO,3.0,0.0
+05-06-2021,22,Guingamp,Girondins Bordeaux,4.0,2.0
+,22,Paris FC,Montpellier,2.0,0.0
+,22,GPSO 92 Issy,Stade Reims,1.0,2.0
+,22,ASJ Soyaux,Havre AC,3.0,0.0
+21-05-2021,21,Havre AC,Paris FC,1.0,0.0
+,21,Dijon FCO,Guingamp,2.0,1.0
+,21,FC Fleury 91,GPSO 92 Issy,3.0,1.0
+,21,Girondins Bordeaux,Lyon,0.0,1.0
+,21,Montpellier,ASJ Soyaux,2.0,1.0
+,21,Stade Reims,París Saint-Germain,0.0,4.0
+08-05-2021,20,Guingamp,Stade Reims,0.0,0.0
+,20,Montpellier,Girondins Bordeaux,0.0,1.0
+,20,ASJ Soyaux,FC Fleury 91,1.0,0.0
+09-05-2021,20,Dijon FCO,Paris FC,0.0,1.0
+,20,GPSO 92 Issy,Lyon,0.0,4.0
+,20,Havre AC,París Saint-Germain,0.0,2.0
+17-04-2021,19,FC Fleury 91,Guingamp,0.0,2.0
+,19,ASJ Soyaux,Girondins Bordeaux,0.0,2.0
+,19,Stade Reims,Dijon FCO,2.0,1.0
+,19,GPSO 92 Issy,Montpellier,0.0,3.0
+30-04-2021,19,Lyon,Havre AC,5.0,1.0
+06-05-2021,19,Paris FC,París Saint-Germain,2.0,3.0
+03-04-2021,18,Havre AC,Dijon FCO,0.0,2.0
+,18,Girondins Bordeaux,GPSO 92 Issy,1.0,0.0
+,18,Montpellier,Stade Reims,0.0,4.0
+04-04-2021,18,París Saint-Germain,ASJ Soyaux,7.0,0.0
+24-04-2021,18,Paris FC,FC Fleury 91,2.0,0.0
+,18,Guingamp,Lyon,0.0,5.0
+27-03-2021,17,FC Fleury 91,Girondins Bordeaux,1.0,2.0
+,17,ASJ Soyaux,Guingamp,0.0,0.0
+,17,Stade Reims,Havre AC,2.0,1.0
+,17,Dijon FCO,Lyon,0.0,3.0
+,17,Montpellier,París Saint-Germain,0.0,3.0
+01-05-2021,17,GPSO 92 Issy,Paris FC,0.0,4.0
+12-03-2021,16,Girondins Bordeaux,Paris FC,2.0,3.0
+13-03-2021,16,Havre AC,Montpellier,1.0,4.0
+,16,Dijon FCO,FC Fleury 91,3.0,1.0
+,16,Guingamp,GPSO 92 Issy,2.0,0.0
+,16,Stade Reims,ASJ Soyaux,4.0,0.0
+30-05-2021,16,Lyon,París Saint-Germain,0.0,0.0
+27-02-2021,15,Paris FC,Guingamp,0.0,0.0
+,15,FC Fleury 91,Stade Reims,1.0,2.0
+,15,Girondins Bordeaux,Havre AC,6.0,0.0
+,15,Montpellier,Dijon FCO,1.0,1.0
+,15,París Saint-Germain,GPSO 92 Issy,4.0,0.0
+,15,ASJ Soyaux,Lyon,0.0,2.0
+05-02-2021,14,FC Fleury 91,París Saint-Germain,0.0,5.0
+06-02-2021,14,Havre AC,Guingamp,0.0,1.0
+,14,GPSO 92 Issy,ASJ Soyaux,0.0,1.0
+,14,Lyon,Montpellier,2.0,1.0
+06-03-2021,14,Dijon FCO,Girondins Bordeaux,0.0,2.0
+,14,Stade Reims,Paris FC,1.0,4.0
+22-01-2021,13,Paris FC,Lyon,0.0,5.0
+23-01-2021,13,Havre AC,GPSO 92 Issy,0.0,0.0
+,13,Dijon FCO,ASJ Soyaux,3.0,2.0
+,13,Girondins Bordeaux,Stade Reims,7.0,1.0
+,13,Montpellier,FC Fleury 91,0.0,0.0
+,13,Guingamp,París Saint-Germain,0.0,5.0
+15-01-2021,12,Guingamp,Montpellier,4.0,1.0
+,12,Lyon,Stade Reims,3.0,0.0
+,12,París Saint-Germain,Girondins Bordeaux,1.0,0.0
+16-01-2021,12,ASJ Soyaux,Paris FC,0.0,3.0
+13-02-2021,12,GPSO 92 Issy,Dijon FCO,1.0,0.0
+06-03-2021,12,FC Fleury 91,Havre AC,1.0,0.0
+12-12-2020,11,Paris FC,Dijon FCO,3.0,2.0
+,11,FC Fleury 91,ASJ Soyaux,0.0,0.0
+,11,Lyon,GPSO 92 Issy,9.0,0.0
+,11,Stade Reims,Guingamp,0.0,1.0
+,11,Girondins Bordeaux,Montpellier,2.0,0.0
+13-12-2020,11,París Saint-Germain,Havre AC,5.0,0.0
+05-12-2020,10,Havre AC,Lyon,1.0,3.0
+,10,Dijon FCO,Stade Reims,0.0,0.0
+,10,Guingamp,FC Fleury 91,0.0,1.0
+,10,Girondins Bordeaux,ASJ Soyaux,2.0,1.0
+,10,Montpellier,GPSO 92 Issy,3.0,1.0
+06-12-2020,10,París Saint-Germain,Paris FC,4.0,1.0
+20-11-2020,9,París Saint-Germain,Lyon,1.0,0.0
+21-11-2020,9,FC Fleury 91,Dijon FCO,2.0,0.0
+,9,GPSO 92 Issy,Guingamp,1.0,6.0
+,9,ASJ Soyaux,Stade Reims,1.0,2.0
+,9,Montpellier,Havre AC,3.0,1.0
+22-11-2020,9,Paris FC,Girondins Bordeaux,0.0,1.0
+13-11-2020,8,Lyon,ASJ Soyaux,5.0,1.0
+14-11-2020,8,Havre AC,Girondins Bordeaux,0.0,2.0
+,8,Dijon FCO,Montpellier,1.0,0.0
+,8,Guingamp,Paris FC,1.0,1.0
+,8,Stade Reims,FC Fleury 91,1.0,2.0
+,8,GPSO 92 Issy,París Saint-Germain,0.0,14.0
+31-10-2020,7,Guingamp,Havre AC,2.0,1.0
+,7,Paris FC,Stade Reims,3.0,1.0
+,7,Girondins Bordeaux,Dijon FCO,5.0,1.0
+,7,ASJ Soyaux,GPSO 92 Issy,0.0,1.0
+,7,Montpellier,Lyon,0.0,5.0
+01-11-2020,7,París Saint-Germain,FC Fleury 91,4.0,0.0
+16-10-2020,6,Lyon,Guingamp,4.0,0.0
+17-10-2020,6,Dijon FCO,Havre AC,2.0,1.0
+,6,FC Fleury 91,Paris FC,1.0,1.0
+,6,GPSO 92 Issy,Girondins Bordeaux,3.0,1.0
+,6,Stade Reims,Montpellier,0.0,1.0
+18-10-2020,6,ASJ Soyaux,París Saint-Germain,0.0,3.0
+10-10-2020,5,Havre AC,Stade Reims,0.0,1.0
+,5,Guingamp,ASJ Soyaux,3.0,0.0
+,5,Paris FC,GPSO 92 Issy,5.0,0.0
+,5,Girondins Bordeaux,FC Fleury 91,6.0,1.0
+,5,París Saint-Germain,Montpellier,4.0,0.0
+11-10-2020,5,Lyon,Dijon FCO,2.0,0.0
+02-10-2020,4,Havre AC,ASJ Soyaux,0.0,1.0
+,4,FC Fleury 91,Lyon,0.0,3.0
+03-10-2020,4,Girondins Bordeaux,Guingamp,1.0,0.0
+,4,Montpellier,Paris FC,2.0,1.0
+,4,Stade Reims,GPSO 92 Issy,7.0,1.0
+04-10-2020,4,Dijon FCO,París Saint-Germain,0.0,3.0
+25-09-2020,3,París Saint-Germain,Stade Reims,4.0,0.0
+26-09-2020,3,Guingamp,Dijon FCO,1.0,2.0
+,3,Paris FC,Havre AC,1.0,1.0
+,3,GPSO 92 Issy,FC Fleury 91,0.0,1.0
+,3,ASJ Soyaux,Montpellier,1.0,4.0
+27-09-2020,3,Lyon,Girondins Bordeaux,2.0,1.0
+11-09-2020,2,Montpellier,Guingamp,2.0,0.0
+,2,Stade Reims,Lyon,0.0,3.0
+12-09-2020,2,Havre AC,FC Fleury 91,1.0,3.0
+,2,Dijon FCO,GPSO 92 Issy,3.0,1.0
+,2,Paris FC,ASJ Soyaux,2.0,0.0
+13-09-2020,2,Girondins Bordeaux,París Saint-Germain,0.0,0.0
+05-09-2020,1,FC Fleury 91,Montpellier,0.0,0.0
+,1,GPSO 92 Issy,Havre AC,0.0,4.0
+,1,ASJ Soyaux,Dijon FCO,2.0,1.0
+,1,Stade Reims,Girondins Bordeaux,4.0,4.0
+,1,París Saint-Germain,Guingamp,4.0,1.0
+06-09-2020,1,Lyon,Paris FC,4.0,0.0
+30-05-2020,22,Paris FC,Lyon,,
+,22,Stade Reims,Dijon FCO,,
+,22,Guingamp,Girondins Bordeaux,,
+,22,FC Metz-Algrange,Olympique Marseille,,
+,22,París Saint-Germain,FC Fleury 91,,
+,22,Montpellier,ASJ Soyaux,,
+16-05-2020,21,Lyon,Guingamp,,
+,21,Olympique Marseille,Paris FC,,
+,21,FC Fleury 91,Stade Reims,,
+,21,ASJ Soyaux,FC Metz-Algrange,,
+,21,Girondins Bordeaux,París Saint-Germain,,
+,21,Dijon FCO,Montpellier,,
+18-04-2020,20,FC Metz-Algrange,Lyon,,
+,20,Paris FC,FC Fleury 91,,
+,20,Stade Reims,Girondins Bordeaux,,
+,20,ASJ Soyaux,Olympique Marseille,,
+,20,Dijon FCO,Guingamp,,
+,20,Montpellier,París Saint-Germain,,
+04-04-2020,19,Lyon,ASJ Soyaux,,
+,19,Girondins Bordeaux,Paris FC,,
+,19,París Saint-Germain,Stade Reims,,
+,19,Guingamp,Montpellier,,
+,19,Olympique Marseille,Dijon FCO,,
+,19,FC Fleury 91,FC Metz-Algrange,,
+28-03-2020,18,FC Fleury 91,Lyon,,
+,18,FC Metz-Algrange,Paris FC,,
+,18,Stade Reims,Olympique Marseille,,
+,18,ASJ Soyaux,Guingamp,,
+,18,Montpellier,Girondins Bordeaux,,
+,18,Dijon FCO,París Saint-Germain,,
+14-03-2020,17,París Saint-Germain,Lyon,,
+,17,Stade Reims,ASJ Soyaux,,
+,17,Montpellier,Olympique Marseille,,
+,17,Dijon FCO,FC Fleury 91,,
+15-03-2020,17,Paris FC,Guingamp,,
+,17,Girondins Bordeaux,FC Metz-Algrange,,
+22-02-2020,16,Paris FC,Stade Reims,0.0,0.0
+,16,Olympique Marseille,FC Fleury 91,2.0,3.0
+,16,Guingamp,París Saint-Germain,1.0,4.0
+,16,FC Metz-Algrange,Dijon FCO,1.0,2.0
+,16,ASJ Soyaux,Girondins Bordeaux,0.0,4.0
+23-02-2020,16,Lyon,Montpellier,5.0,0.0
+08-02-2020,15,Dijon FCO,Paris FC,0.0,4.0
+,15,Stade Reims,Montpellier,1.0,7.0
+,15,FC Fleury 91,Girondins Bordeaux,0.0,2.0
+,15,FC Metz-Algrange,Guingamp,0.0,0.0
+,15,Olympique Marseille,Lyon,0.0,8.0
+09-02-2020,15,ASJ Soyaux,París Saint-Germain,0.0,3.0
+25-01-2020,14,Paris FC,ASJ Soyaux,1.0,0.0
+,14,Girondins Bordeaux,Dijon FCO,1.0,0.0
+,14,París Saint-Germain,FC Metz-Algrange,5.0,1.0
+,14,Montpellier,FC Fleury 91,3.0,0.0
+,14,Guingamp,Olympique Marseille,3.0,1.0
+26-01-2020,14,Lyon,Stade Reims,5.0,0.0
+18-01-2020,13,Montpellier,Paris FC,1.0,2.0
+,13,Stade Reims,FC Metz-Algrange,1.0,0.0
+,13,Dijon FCO,ASJ Soyaux,1.0,4.0
+,13,FC Fleury 91,Guingamp,0.0,2.0
+,13,París Saint-Germain,Olympique Marseille,11.0,0.0
+19-01-2020,13,Girondins Bordeaux,Lyon,0.0,0.0
+14-12-2019,12,Guingamp,Stade Reims,1.0,1.0
+,12,Olympique Marseille,Girondins Bordeaux,1.0,4.0
+,12,Lyon,Dijon FCO,2.0,0.0
+15-12-2019,12,Paris FC,París Saint-Germain,0.0,3.0
+,12,FC Metz-Algrange,Montpellier,0.0,3.0
+16-02-2020,12,ASJ Soyaux,FC Fleury 91,0.0,1.0
+07-12-2019,11,FC Fleury 91,Paris FC,2.0,3.0
+,11,Girondins Bordeaux,Stade Reims,2.0,0.0
+,11,Olympique Marseille,ASJ Soyaux,1.0,3.0
+,11,Guingamp,Dijon FCO,1.0,1.0
+,11,París Saint-Germain,Montpellier,1.0,1.0
+08-12-2019,11,Lyon,FC Metz-Algrange,6.0,0.0
+23-11-2019,10,Paris FC,Girondins Bordeaux,0.0,3.0
+,10,Dijon FCO,Olympique Marseille,1.0,0.0
+,10,FC Metz-Algrange,FC Fleury 91,0.0,2.0
+,10,Stade Reims,París Saint-Germain,1.0,3.0
+24-11-2019,10,ASJ Soyaux,Lyon,0.0,4.0
+27-11-2019,10,Montpellier,Guingamp,1.0,1.0
+16-11-2019,9,ASJ Soyaux,Stade Reims,0.0,1.0
+,9,Olympique Marseille,Montpellier,0.0,3.0
+,9,FC Metz-Algrange,Girondins Bordeaux,0.0,4.0
+,9,FC Fleury 91,Dijon FCO,1.0,1.0
+,9,Lyon,París Saint-Germain,1.0,0.0
+17-11-2019,9,Guingamp,Paris FC,2.0,0.0
+02-11-2019,8,Stade Reims,Paris FC,0.0,1.0
+,8,FC Fleury 91,Olympique Marseille,4.0,1.0
+,8,Girondins Bordeaux,ASJ Soyaux,4.0,1.0
+,8,Dijon FCO,FC Metz-Algrange,2.0,1.0
+,8,Montpellier,Lyon,0.0,3.0
+03-11-2019,8,París Saint-Germain,Guingamp,1.0,1.0
+26-10-2019,7,Paris FC,Montpellier,2.0,5.0
+,7,FC Metz-Algrange,Stade Reims,0.0,1.0
+,7,ASJ Soyaux,Dijon FCO,0.0,0.0
+,7,Guingamp,FC Fleury 91,0.0,1.0
+,7,Lyon,Girondins Bordeaux,4.0,0.0
+27-10-2019,7,Olympique Marseille,París Saint-Germain,0.0,5.0
+19-10-2019,6,Stade Reims,Guingamp,0.0,1.0
+,6,FC Fleury 91,ASJ Soyaux,1.0,1.0
+,6,Girondins Bordeaux,Olympique Marseille,3.0,0.0
+,6,Montpellier,FC Metz-Algrange,3.0,0.0
+,6,París Saint-Germain,Paris FC,2.0,0.0
+20-10-2019,6,Dijon FCO,Lyon,0.0,0.0
+12-10-2019,5,Lyon,Paris FC,4.0,0.0
+,5,Dijon FCO,Stade Reims,1.0,1.0
+,5,Olympique Marseille,FC Metz-Algrange,3.0,1.0
+,5,FC Fleury 91,París Saint-Germain,0.0,2.0
+,5,ASJ Soyaux,Montpellier,1.0,1.0
+13-10-2019,5,Girondins Bordeaux,Guingamp,1.0,2.0
+28-09-2019,4,Paris FC,Olympique Marseille,3.0,1.0
+,4,FC Metz-Algrange,ASJ Soyaux,0.0,2.0
+,4,Montpellier,Dijon FCO,6.0,0.0
+,4,Stade Reims,FC Fleury 91,0.0,1.0
+,4,Guingamp,Lyon,1.0,5.0
+29-09-2019,4,París Saint-Germain,Girondins Bordeaux,3.0,0.0
+14-09-2019,3,Olympique Marseille,Stade Reims,0.0,3.0
+,3,Guingamp,ASJ Soyaux,1.0,3.0
+,3,Girondins Bordeaux,Montpellier,1.0,0.0
+,3,Paris FC,FC Metz-Algrange,2.0,2.0
+15-09-2019,3,Lyon,FC Fleury 91,6.0,0.0
+,3,París Saint-Germain,Dijon FCO,4.0,0.0
+07-09-2019,2,ASJ Soyaux,Paris FC,0.0,0.0
+,2,FC Fleury 91,Montpellier,1.0,3.0
+,2,Olympique Marseille,Guingamp,2.0,1.0
+,2,Stade Reims,Lyon,3.0,8.0
+,2,FC Metz-Algrange,París Saint-Germain,1.0,6.0
+08-09-2019,2,Dijon FCO,Girondins Bordeaux,0.0,3.0
+24-08-2019,1,Paris FC,Dijon FCO,3.0,1.0
+,1,Montpellier,Stade Reims,2.0,0.0
+,1,Girondins Bordeaux,FC Fleury 91,4.0,1.0
+,1,Guingamp,FC Metz-Algrange,2.0,0.0
+,1,Lyon,Olympique Marseille,6.0,0.0
+25-08-2019,1,París Saint-Germain,ASJ Soyaux,7.0,0.0
+04-05-2019,22,Girondins Bordeaux,Paris FC,1.0,1.0
+,22,Rodez AF,Dijon FCO,1.0,4.0
+,22,Lyon,FC Metz-Algrange,3.0,0.0
+,22,Guingamp,París Saint-Germain,1.0,1.0
+,22,Montpellier,Lille OSC,3.0,2.0
+,22,ASJ Soyaux,FC Fleury 91,2.0,1.0
+24-04-2019,21,Paris FC,Montpellier,0.0,1.0
+,21,París Saint-Germain,Girondins Bordeaux,6.0,2.0
+,21,Dijon FCO,Lyon,0.0,4.0
+,21,FC Fleury 91,Guingamp,1.0,2.0
+,21,FC Metz-Algrange,Rodez AF,3.0,1.0
+,21,Lille OSC,ASJ Soyaux,1.0,0.0
+13-04-2019,20,FC Metz-Algrange,Paris FC,0.0,1.0
+,20,Dijon FCO,FC Fleury 91,2.0,1.0
+,20,Rodez AF,Montpellier,2.0,1.0
+,20,Guingamp,ASJ Soyaux,0.0,1.0
+,20,Lyon,París Saint-Germain,5.0,0.0
+14-04-2019,20,Girondins Bordeaux,Lille OSC,2.0,1.0
+23-03-2019,19,Montpellier,Guingamp,1.0,0.0
+30-03-2019,19,ASJ Soyaux,Girondins Bordeaux,1.0,0.0
+,19,Paris FC,Dijon FCO,4.0,0.0
+,19,Lille OSC,FC Metz-Algrange,2.0,1.0
+31-03-2019,19,París Saint-Germain,Rodez AF,3.0,0.0
+,19,FC Fleury 91,Lyon,1.0,1.0
+16-03-2019,18,Girondins Bordeaux,Lyon,1.0,7.0
+,18,Paris FC,ASJ Soyaux,0.0,0.0
+,18,FC Fleury 91,Rodez AF,0.0,0.0
+,18,FC Metz-Algrange,Montpellier,0.0,7.0
+,18,Lille OSC,Guingamp,3.0,3.0
+17-03-2019,18,Dijon FCO,París Saint-Germain,0.0,2.0
+16-02-2019,17,Girondins Bordeaux,FC Metz-Algrange,2.0,0.0
+,17,Guingamp,Paris FC,0.0,1.0
+,17,Montpellier,Dijon FCO,4.0,1.0
+,17,Lyon,Lille OSC,1.0,0.0
+17-02-2019,17,París Saint-Germain,FC Fleury 91,4.0,0.0
+10-03-2019,17,Rodez AF,ASJ Soyaux,0.0,0.0
+02-02-2019,16,Dijon FCO,Lille OSC,1.0,0.0
+,16,Guingamp,Rodez AF,3.0,0.0
+,16,ASJ Soyaux,FC Metz-Algrange,2.0,3.0
+,16,París Saint-Germain,Montpellier,4.0,0.0
+20-02-2019,16,Paris FC,Lyon,1.0,4.0
+10-03-2019,16,FC Fleury 91,Girondins Bordeaux,1.0,2.0
+12-01-2019,15,Girondins Bordeaux,Dijon FCO,1.0,0.0
+,15,Paris FC,FC Fleury 91,2.0,1.0
+,15,Montpellier,ASJ Soyaux,2.0,0.0
+,15,FC Metz-Algrange,Guingamp,2.0,1.0
+,15,Lyon,Rodez AF,4.0,0.0
+13-01-2019,15,Lille OSC,París Saint-Germain,1.0,3.0
+15-12-2018,14,Guingamp,Girondins Bordeaux,0.0,1.0
+,14,Rodez AF,Paris FC,1.0,0.0
+,14,ASJ Soyaux,Dijon FCO,4.0,2.0
+,14,FC Fleury 91,Lille OSC,4.0,1.0
+16-12-2018,14,Montpellier,Lyon,0.0,5.0
+,14,París Saint-Germain,FC Metz-Algrange,7.0,1.0
+08-12-2018,13,Girondins Bordeaux,Montpellier,2.0,2.0
+,13,Dijon FCO,Guingamp,1.0,1.0
+,13,FC Fleury 91,FC Metz-Algrange,2.0,1.0
+,13,Lille OSC,Rodez AF,0.0,1.0
+,13,ASJ Soyaux,Lyon,0.0,6.0
+09-12-2018,13,Paris FC,París Saint-Germain,1.0,3.0
+01-12-2018,12,Rodez AF,Girondins Bordeaux,1.0,4.0
+,12,Lille OSC,Paris FC,2.0,1.0
+,12,FC Metz-Algrange,Dijon FCO,1.0,4.0
+,12,Montpellier,FC Fleury 91,3.0,1.0
+,12,París Saint-Germain,ASJ Soyaux,2.0,0.0
+02-12-2018,12,Lyon,Guingamp,7.0,0.0
+24-11-2018,11,Girondins Bordeaux,ASJ Soyaux,0.0,1.0
+,11,Dijon FCO,Paris FC,0.0,5.0
+,11,Guingamp,Montpellier,1.0,5.0
+,11,FC Metz-Algrange,Lille OSC,2.0,0.0
+,11,Lyon,FC Fleury 91,4.0,1.0
+25-11-2018,11,Rodez AF,París Saint-Germain,1.0,2.0
+17-11-2018,10,Lille OSC,Girondins Bordeaux,0.0,2.0
+,10,Paris FC,FC Metz-Algrange,2.0,2.0
+,10,FC Fleury 91,Dijon FCO,3.0,2.0
+,10,ASJ Soyaux,Guingamp,1.0,1.0
+,10,Montpellier,Rodez AF,5.0,0.0
+18-11-2018,10,París Saint-Germain,Lyon,1.0,1.0
+03-11-2018,9,Montpellier,Paris FC,2.0,0.0
+,9,Lyon,Dijon FCO,5.0,0.0
+,9,Guingamp,FC Fleury 91,4.0,1.0
+,9,Rodez AF,FC Metz-Algrange,2.0,3.0
+,9,ASJ Soyaux,Lille OSC,1.0,1.0
+04-11-2018,9,Girondins Bordeaux,París Saint-Germain,0.0,2.0
+27-10-2018,8,Paris FC,Girondins Bordeaux,5.0,0.0
+,8,Dijon FCO,Rodez AF,1.0,1.0
+,8,FC Metz-Algrange,Lyon,0.0,5.0
+,8,Lille OSC,Montpellier,1.0,1.0
+,8,FC Fleury 91,ASJ Soyaux,1.0,1.0
+28-10-2018,8,París Saint-Germain,Guingamp,1.0,0.0
+20-10-2018,7,ASJ Soyaux,Paris FC,0.0,2.0
+,7,París Saint-Germain,Dijon FCO,2.0,0.0
+,7,Rodez AF,FC Fleury 91,0.0,0.0
+,7,Montpellier,FC Metz-Algrange,11.0,0.0
+,7,Guingamp,Lille OSC,3.0,0.0
+21-10-2018,7,Lyon,Girondins Bordeaux,3.0,0.0
+13-10-2018,6,Girondins Bordeaux,Guingamp,0.0,0.0
+,6,Paris FC,Rodez AF,4.0,0.0
+,6,Dijon FCO,ASJ Soyaux,3.0,0.0
+,6,Lille OSC,FC Fleury 91,0.0,0.0
+,6,FC Metz-Algrange,París Saint-Germain,1.0,3.0
+14-10-2018,6,Lyon,Montpellier,2.0,1.0
+29-09-2018,5,Dijon FCO,Girondins Bordeaux,1.0,2.0
+,5,FC Fleury 91,Paris FC,1.0,1.0
+,5,ASJ Soyaux,Montpellier,1.0,1.0
+,5,Guingamp,FC Metz-Algrange,2.0,0.0
+30-09-2018,5,Rodez AF,Lyon,0.0,2.0
+,5,París Saint-Germain,Lille OSC,1.0,1.0
+22-09-2018,4,Girondins Bordeaux,FC Fleury 91,1.0,1.0
+,4,Lyon,Paris FC,5.0,0.0
+,4,Lille OSC,Dijon FCO,1.0,3.0
+,4,FC Metz-Algrange,ASJ Soyaux,0.0,1.0
+,4,Rodez AF,Guingamp,0.0,1.0
+23-09-2018,4,Montpellier,París Saint-Germain,0.0,3.0
+15-09-2018,3,Girondins Bordeaux,Rodez AF,2.0,0.0
+,3,Paris FC,Lille OSC,0.0,0.0
+,3,Dijon FCO,FC Metz-Algrange,3.0,0.0
+,3,FC Fleury 91,Montpellier,1.0,0.0
+,3,ASJ Soyaux,París Saint-Germain,0.0,6.0
+16-09-2018,3,Guingamp,Lyon,0.0,3.0
+08-09-2018,2,Montpellier,Girondins Bordeaux,0.0,1.0
+,2,Guingamp,Dijon FCO,1.0,1.0
+,2,FC Metz-Algrange,FC Fleury 91,0.0,2.0
+,2,Lyon,ASJ Soyaux,4.0,0.0
+,2,Rodez AF,Lille OSC,2.0,3.0
+09-09-2018,2,París Saint-Germain,Paris FC,5.0,1.0
+25-08-2018,1,Paris FC,Guingamp,2.0,0.0
+,1,Dijon FCO,Montpellier,0.0,1.0
+,1,FC Fleury 91,París Saint-Germain,0.0,1.0
+,1,ASJ Soyaux,Rodez AF,3.0,1.0
+26-08-2018,1,Lille OSC,Lyon,0.0,8.0
+30-10-2018,1,FC Metz-Algrange,Girondins Bordeaux,1.0,0.0
+27-05-2018,22,Girondins Bordeaux,Lille OSC,1.0,2.0
+,22,Guingamp,Olympique Marseille,1.0,0.0
+,22,Montpellier,ASPTT Albi,3.0,1.0
+,22,Paris FC,FC Fleury 91,0.0,0.0
+,22,Rodez AF,Lyon,0.0,6.0
+,22,ASJ Soyaux,París Saint-Germain,0.0,3.0
+18-05-2018,21,París Saint-Germain,Lyon,0.0,0.0
+19-05-2018,21,ASPTT Albi,Paris FC,0.0,1.0
+,21,FC Fleury 91,Guingamp,1.0,0.0
+,21,Lille OSC,Montpellier,0.0,2.0
+,21,Olympique Marseille,Rodez AF,0.0,1.0
+,21,ASJ Soyaux,Girondins Bordeaux,1.0,0.0
+12-05-2018,20,Paris FC,Lille OSC,2.0,1.0
+13-05-2018,20,Guingamp,ASPTT Albi,0.0,1.0
+,20,Rodez AF,FC Fleury 91,3.0,1.0
+,20,Girondins Bordeaux,París Saint-Germain,0.0,1.0
+,20,Lyon,Olympique Marseille,7.0,0.0
+,20,Montpellier,ASJ Soyaux,1.0,0.0
+22-04-2018,19,Lille OSC,Guingamp,1.0,0.0
+,19,ASPTT Albi,Rodez AF,1.0,1.0
+,19,Girondins Bordeaux,Montpellier,0.0,0.0
+,19,ASJ Soyaux,Paris FC,1.0,1.0
+,19,París Saint-Germain,Olympique Marseille,4.0,0.0
+02-05-2018,19,FC Fleury 91,Lyon,1.0,3.0
+01-04-2018,18,Guingamp,ASJ Soyaux,1.0,0.0
+,18,Montpellier,París Saint-Germain,3.0,0.0
+,18,Rodez AF,Lille OSC,2.0,1.0
+,18,Lyon,ASPTT Albi,4.0,0.0
+,18,Olympique Marseille,FC Fleury 91,0.0,1.0
+,18,Paris FC,Girondins Bordeaux,1.0,1.0
+17-03-2018,17,Lille OSC,Lyon,1.0,10.0
+18-03-2018,17,ASPTT Albi,Olympique Marseille,0.0,2.0
+,17,Girondins Bordeaux,Guingamp,1.0,1.0
+,17,Montpellier,Paris FC,2.0,1.0
+,17,ASJ Soyaux,Rodez AF,3.0,2.0
+28-04-2018,17,París Saint-Germain,FC Fleury 91,4.0,2.0
+11-03-2018,16,Olympique Marseille,Lille OSC,0.0,2.0
+,16,Lyon,ASJ Soyaux,5.0,0.0
+,16,FC Fleury 91,ASPTT Albi,0.0,1.0
+,16,Rodez AF,Girondins Bordeaux,2.0,2.0
+,16,Guingamp,Montpellier,1.0,3.0
+12-03-2018,16,París Saint-Germain,Paris FC,4.0,1.0
+17-02-2018,15,Montpellier,Rodez AF,2.0,1.0
+,15,Paris FC,Guingamp,1.0,3.0
+18-02-2018,15,ASPTT Albi,París Saint-Germain,0.0,4.0
+,15,Girondins Bordeaux,Lyon,0.0,4.0
+,15,Lille OSC,FC Fleury 91,2.0,2.0
+,15,ASJ Soyaux,Olympique Marseille,2.0,1.0
+04-02-2018,14,Rodez AF,Paris FC,0.0,0.0
+,14,ASPTT Albi,Lille OSC,0.0,0.0
+,14,Olympique Marseille,Girondins Bordeaux,1.0,0.0
+,14,FC Fleury 91,ASJ Soyaux,1.0,0.0
+,14,París Saint-Germain,Guingamp,2.0,0.0
+05-02-2018,14,Lyon,Montpellier,2.0,1.0
+13-01-2018,13,Montpellier,Olympique Marseille,3.0,2.0
+,13,Lille OSC,París Saint-Germain,1.0,3.0
+14-01-2018,13,Girondins Bordeaux,FC Fleury 91,3.0,3.0
+,13,Guingamp,Rodez AF,3.0,1.0
+,13,Paris FC,Lyon,0.0,4.0
+,13,ASJ Soyaux,ASPTT Albi,1.0,1.0
+17-12-2017,12,Lille OSC,ASJ Soyaux,2.0,0.0
+,12,Lyon,Guingamp,4.0,0.0
+,12,Olympique Marseille,Paris FC,1.0,0.0
+,12,París Saint-Germain,Rodez AF,6.0,0.0
+11-02-2018,12,ASPTT Albi,Girondins Bordeaux,0.0,1.0
+21-02-2018,12,FC Fleury 91,Montpellier,1.0,1.0
+09-12-2017,11,Montpellier,Lille OSC,4.0,1.0
+10-12-2017,11,Girondins Bordeaux,ASJ Soyaux,0.0,0.0
+,11,Guingamp,FC Fleury 91,1.0,2.0
+,11,Paris FC,ASPTT Albi,1.0,0.0
+,11,Rodez AF,Olympique Marseille,4.0,2.0
+11-12-2017,11,Lyon,París Saint-Germain,1.0,0.0
+02-12-2017,10,Olympique Marseille,Lyon,0.0,5.0
+,10,París Saint-Germain,Girondins Bordeaux,3.0,0.0
+03-12-2017,10,FC Fleury 91,Rodez AF,2.0,0.0
+,10,ASPTT Albi,Guingamp,2.0,0.0
+,10,ASJ Soyaux,Montpellier,1.0,5.0
+11-02-2018,10,Lille OSC,Paris FC,1.0,1.0
+18-11-2017,9,Olympique Marseille,París Saint-Germain,2.0,5.0
+,9,Rodez AF,ASPTT Albi,0.0,0.0
+19-11-2017,9,Guingamp,Lille OSC,1.0,0.0
+,9,Lyon,FC Fleury 91,5.0,0.0
+,9,Montpellier,Girondins Bordeaux,4.0,1.0
+,9,Paris FC,ASJ Soyaux,2.0,1.0
+04-11-2017,8,Girondins Bordeaux,Paris FC,2.0,3.0
+,8,ASPTT Albi,Lyon,0.0,5.0
+,8,París Saint-Germain,Montpellier,3.0,1.0
+05-11-2017,8,Lille OSC,Rodez AF,0.0,2.0
+,8,FC Fleury 91,Olympique Marseille,2.0,1.0
+,8,ASJ Soyaux,Guingamp,1.0,2.0
+28-10-2017,7,Rodez AF,ASJ Soyaux,1.0,1.0
+,7,Lyon,Lille OSC,6.0,0.0
+,7,Paris FC,Montpellier,1.0,2.0
+29-10-2017,7,FC Fleury 91,París Saint-Germain,0.0,2.0
+,7,Guingamp,Girondins Bordeaux,0.0,1.0
+,7,Olympique Marseille,ASPTT Albi,1.0,2.0
+15-10-2017,6,Montpellier,Guingamp,1.0,0.0
+,6,ASPTT Albi,FC Fleury 91,1.0,0.0
+,6,Lille OSC,Olympique Marseille,1.0,1.0
+,6,Paris FC,París Saint-Germain,0.0,1.0
+,6,ASJ Soyaux,Lyon,0.0,5.0
+,6,Girondins Bordeaux,Rodez AF,1.0,1.0
+08-10-2017,5,Olympique Marseille,ASJ Soyaux,0.0,0.0
+,5,FC Fleury 91,Lille OSC,1.0,2.0
+,5,Guingamp,Paris FC,2.0,2.0
+,5,Lyon,Girondins Bordeaux,2.0,0.0
+,5,París Saint-Germain,ASPTT Albi,1.0,0.0
+,5,Rodez AF,Montpellier,0.0,6.0
+30-09-2017,4,Girondins Bordeaux,Olympique Marseille,1.0,0.0
+,4,Guingamp,París Saint-Germain,0.0,3.0
+,4,Montpellier,Lyon,0.0,5.0
+,4,Lille OSC,ASPTT Albi,1.0,1.0
+01-10-2017,4,Paris FC,Rodez AF,4.0,0.0
+,4,ASJ Soyaux,FC Fleury 91,2.0,1.0
+23-09-2017,3,Rodez AF,Guingamp,1.0,1.0
+24-09-2017,3,ASPTT Albi,ASJ Soyaux,0.0,1.0
+,3,FC Fleury 91,Girondins Bordeaux,0.0,1.0
+,3,Lyon,Paris FC,9.0,2.0
+,3,Olympique Marseille,Montpellier,1.0,4.0
+,3,París Saint-Germain,Lille OSC,6.0,1.0
+09-09-2017,2,Guingamp,Lyon,0.0,5.0
+,2,Rodez AF,París Saint-Germain,0.0,3.0
+10-09-2017,2,Girondins Bordeaux,ASPTT Albi,3.0,1.0
+,2,Montpellier,FC Fleury 91,8.0,0.0
+,2,Paris FC,Olympique Marseille,2.0,1.0
+,2,ASJ Soyaux,Lille OSC,2.0,1.0
+03-09-2017,1,ASPTT Albi,Montpellier,0.0,7.0
+,1,FC Fleury 91,Paris FC,1.0,5.0
+,1,Lille OSC,Girondins Bordeaux,3.0,0.0
+,1,Olympique Marseille,Guingamp,0.0,0.0
+,1,París Saint-Germain,ASJ Soyaux,1.0,1.0
+,1,Lyon,Rodez AF,7.0,0.0
+25-05-2017,22,Juvisy FCF,Olympique Marseille,2.0,1.0
+,22,París Saint-Germain,Girondins Bordeaux,2.0,2.0
+,22,Rodez AF,Montpellier,0.0,4.0
+,22,ASJ Soyaux,ASPTT Albi,3.0,1.0
+,22,Saint-Étienne,Guingamp,0.0,1.0
+,22,FC Metz-Algrange,Lyon,0.0,3.0
+13-05-2017,21,Lyon,París Saint-Germain,3.0,0.0
+,21,Montpellier,ASJ Soyaux,10.0,0.0
+14-05-2017,21,ASPTT Albi,Rodez AF,1.0,3.0
+,21,Girondins Bordeaux,Juvisy FCF,1.0,1.0
+,21,Guingamp,FC Metz-Algrange,6.0,2.0
+,21,Olympique Marseille,Saint-Étienne,3.0,1.0
+06-05-2017,20,Rodez AF,Saint-Étienne,1.0,1.0
+,20,Juvisy FCF,Guingamp,2.0,1.0
+07-05-2017,20,Montpellier,FC Metz-Algrange,6.0,0.0
+,20,Olympique Marseille,Girondins Bordeaux,0.0,1.0
+,20,París Saint-Germain,ASPTT Albi,4.0,0.0
+08-05-2017,20,Lyon,ASJ Soyaux,9.0,0.0
+23-04-2017,19,Juvisy FCF,Rodez AF,1.0,1.0
+,19,Olympique Marseille,ASJ Soyaux,2.0,0.0
+,19,Guingamp,ASPTT Albi,1.0,2.0
+,19,Saint-Étienne,Montpellier,0.0,8.0
+03-05-2017,19,Girondins Bordeaux,Lyon,0.0,1.0
+,19,FC Metz-Algrange,París Saint-Germain,0.0,2.0
+01-04-2017,18,Montpellier,Olympique Marseille,5.0,0.0
+02-04-2017,18,Rodez AF,FC Metz-Algrange,1.0,2.0
+,18,Girondins Bordeaux,ASPTT Albi,1.0,2.0
+,18,Lyon,Saint-Étienne,6.0,0.0
+,18,París Saint-Germain,Guingamp,3.0,3.0
+,18,ASJ Soyaux,Juvisy FCF,1.0,1.0
+26-03-2017,17,Girondins Bordeaux,FC Metz-Algrange,1.0,2.0
+,17,ASPTT Albi,Montpellier,0.0,1.0
+,17,Juvisy FCF,Saint-Étienne,3.0,0.0
+,17,Olympique Marseille,Guingamp,2.0,0.0
+,17,París Saint-Germain,ASJ Soyaux,2.0,0.0
+,17,Lyon,Rodez AF,8.0,0.0
+18-03-2017,16,Olympique Marseille,París Saint-Germain,2.0,0.0
+,16,ASPTT Albi,Lyon,0.0,5.0
+19-03-2017,16,Guingamp,Montpellier,0.0,2.0
+,16,ASJ Soyaux,Rodez AF,2.0,3.0
+,16,FC Metz-Algrange,Juvisy FCF,1.0,3.0
+,16,Saint-Étienne,Girondins Bordeaux,0.0,0.0
+25-02-2017,15,Montpellier,Lyon,0.0,3.0
+,15,Rodez AF,Girondins Bordeaux,0.0,0.0
+,15,Juvisy FCF,París Saint-Germain,1.0,2.0
+26-02-2017,15,FC Metz-Algrange,Olympique Marseille,1.0,3.0
+,15,ASJ Soyaux,Guingamp,1.0,0.0
+,15,Saint-Étienne,ASPTT Albi,0.0,1.0
+12-02-2017,14,FC Metz-Algrange,ASJ Soyaux,1.0,1.0
+,14,Guingamp,Rodez AF,1.0,0.0
+,14,Girondins Bordeaux,Montpellier,1.0,2.0
+,14,Olympique Marseille,ASPTT Albi,3.0,1.0
+,14,París Saint-Germain,Saint-Étienne,4.0,0.0
+,14,Lyon,Juvisy FCF,5.0,2.0
+05-02-2017,13,Rodez AF,París Saint-Germain,0.0,3.0
+,13,Montpellier,Juvisy FCF,0.0,0.0
+,13,ASPTT Albi,FC Metz-Algrange,1.0,0.0
+,13,Lyon,Olympique Marseille,4.0,0.0
+12-03-2017,13,Girondins Bordeaux,Guingamp,0.0,1.0
+09-04-2017,13,ASJ Soyaux,Saint-Étienne,1.0,0.0
+14-01-2017,12,Guingamp,Lyon,0.0,3.0
+,12,Montpellier,París Saint-Germain,2.0,1.0
+15-01-2017,12,Juvisy FCF,ASPTT Albi,3.0,0.0
+,12,Olympique Marseille,Rodez AF,3.0,1.0
+,12,ASJ Soyaux,Girondins Bordeaux,2.0,0.0
+29-04-2017,12,Saint-Étienne,FC Metz-Algrange,1.0,2.0
+17-12-2016,11,Juvisy FCF,Girondins Bordeaux,0.0,0.0
+,11,Rodez AF,ASPTT Albi,1.0,0.0
+,11,París Saint-Germain,Lyon,1.0,0.0
+18-12-2016,11,ASJ Soyaux,Montpellier,0.0,2.0
+,11,Saint-Étienne,Olympique Marseille,0.0,2.0
+15-02-2017,11,FC Metz-Algrange,Guingamp,1.0,1.0
+10-12-2016,10,Lyon,Montpellier,2.0,1.0
+,10,París Saint-Germain,Juvisy FCF,3.0,0.0
+,10,Girondins Bordeaux,Rodez AF,0.0,2.0
+11-12-2016,10,Olympique Marseille,FC Metz-Algrange,3.0,0.0
+,10,ASPTT Albi,Saint-Étienne,0.0,0.0
+,10,Guingamp,ASJ Soyaux,0.0,0.0
+04-12-2016,9,ASJ Soyaux,FC Metz-Algrange,1.0,1.0
+,9,Montpellier,Girondins Bordeaux,1.0,0.0
+,9,Rodez AF,Guingamp,0.0,3.0
+01-02-2017,9,ASPTT Albi,Olympique Marseille,0.0,1.0
+,9,Saint-Étienne,París Saint-Germain,0.0,6.0
+15-02-2017,9,Juvisy FCF,Lyon,0.0,1.0
+19-11-2016,8,Montpellier,Rodez AF,4.0,1.0
+20-11-2016,8,Guingamp,Saint-Étienne,0.0,0.0
+,8,Lyon,FC Metz-Algrange,3.0,0.0
+,8,Olympique Marseille,Juvisy FCF,2.0,1.0
+,8,Girondins Bordeaux,París Saint-Germain,0.0,6.0
+22-01-2017,8,ASPTT Albi,ASJ Soyaux,1.0,4.0
+05-11-2016,7,Rodez AF,Lyon,0.0,5.0
+06-11-2016,7,FC Metz-Algrange,Girondins Bordeaux,0.0,1.0
+,7,ASJ Soyaux,París Saint-Germain,0.0,2.0
+,7,Guingamp,Olympique Marseille,4.0,0.0
+21-12-2016,7,Montpellier,ASPTT Albi,7.0,0.0
+11-01-2017,7,Saint-Étienne,Juvisy FCF,2.0,0.0
+30-10-2016,6,ASPTT Albi,Juvisy FCF,0.0,3.0
+,6,Lyon,Guingamp,9.0,1.0
+,6,FC Metz-Algrange,Saint-Étienne,0.0,3.0
+,6,París Saint-Germain,Montpellier,1.0,0.0
+,6,Rodez AF,Olympique Marseille,2.0,2.0
+,6,Girondins Bordeaux,ASJ Soyaux,2.0,3.0
+15-10-2016,5,Olympique Marseille,Lyon,1.0,6.0
+,5,Juvisy FCF,Montpellier,1.0,2.0
+16-10-2016,5,Guingamp,Girondins Bordeaux,2.0,2.0
+,5,FC Metz-Algrange,ASPTT Albi,0.0,1.0
+,5,París Saint-Germain,Rodez AF,4.0,0.0
+,5,Saint-Étienne,ASJ Soyaux,2.0,2.0
+08-10-2016,4,Montpellier,Saint-Étienne,3.0,0.0
+09-10-2016,4,Rodez AF,Juvisy FCF,0.0,10.0
+,4,ASPTT Albi,Guingamp,0.0,2.0
+,4,Lyon,Girondins Bordeaux,8.0,0.0
+,4,París Saint-Germain,FC Metz-Algrange,3.0,0.0
+,4,ASJ Soyaux,Olympique Marseille,2.0,1.0
+02-10-2016,3,FC Metz-Algrange,Rodez AF,0.0,4.0
+,3,Guingamp,París Saint-Germain,0.0,4.0
+,3,ASPTT Albi,Girondins Bordeaux,0.0,1.0
+,3,Juvisy FCF,ASJ Soyaux,2.0,1.0
+,3,Olympique Marseille,Montpellier,0.0,5.0
+,3,Saint-Étienne,Lyon,0.0,4.0
+24-09-2016,2,Juvisy FCF,FC Metz-Algrange,6.0,0.0
+25-09-2016,2,Girondins Bordeaux,Saint-Étienne,0.0,7.0
+,2,Lyon,ASPTT Albi,6.0,0.0
+,2,Montpellier,Guingamp,3.0,0.0
+,2,París Saint-Germain,Olympique Marseille,1.0,0.0
+,2,Rodez AF,ASJ Soyaux,1.0,1.0
+10-09-2016,1,ASPTT Albi,París Saint-Germain,3.0,0.0
+11-09-2016,1,FC Metz-Algrange,Montpellier,0.0,5.0
+,1,Guingamp,Juvisy FCF,1.0,0.0
+,1,ASJ Soyaux,Lyon,0.0,9.0
+,1,Saint-Étienne,Rodez AF,1.0,1.0
+,1,Girondins Bordeaux,Olympique Marseille,1.0,1.0
+21-05-2016,22,Nîmes Métropole Gard,ASJ Soyaux,2.0,2.0
+,22,Guingamp,Rodez AF,4.0,1.0
+,22,Lyon,Montpellier,1.0,1.0
+,22,París Saint-Germain,Juvisy FCF,2.0,2.0
+,22,VGA Saint-Maur,La Roche ESOF,2.0,1.0
+,22,Saint-Étienne,ASPTT Albi,2.0,1.0
+08-05-2016,21,ASPTT Albi,París Saint-Germain,2.0,3.0
+,21,Montpellier,VGA Saint-Maur,5.0,0.0
+,21,La Roche ESOF,Saint-Étienne,2.0,3.0
+,21,Juvisy FCF,Guingamp,5.0,0.0
+,21,ASJ Soyaux,Lyon,1.0,5.0
+,21,Rodez AF,Nîmes Métropole Gard,3.0,1.0
+23-04-2016,20,Guingamp,ASPTT Albi,3.0,2.0
+24-04-2016,20,Montpellier,ASJ Soyaux,7.0,0.0
+,20,VGA Saint-Maur,Saint-Étienne,1.0,2.0
+,20,Nîmes Métropole Gard,Juvisy FCF,0.0,3.0
+04-05-2016,20,París Saint-Germain,La Roche ESOF,4.0,0.0
+05-05-2016,20,Lyon,Rodez AF,5.0,0.0
+02-04-2016,19,Rodez AF,Montpellier,0.0,3.0
+,19,La Roche ESOF,Guingamp,1.0,0.0
+03-04-2016,19,Saint-Étienne,París Saint-Germain,0.0,4.0
+,19,ASJ Soyaux,VGA Saint-Maur,2.0,0.0
+,19,Juvisy FCF,Lyon,0.0,1.0
+,19,ASPTT Albi,Nîmes Métropole Gard,2.0,1.0
+27-03-2016,18,Nîmes Métropole Gard,La Roche ESOF,2.0,4.0
+,18,VGA Saint-Maur,París Saint-Germain,1.0,3.0
+,18,ASJ Soyaux,Rodez AF,0.0,2.0
+,18,Guingamp,Saint-Étienne,3.0,1.0
+,18,Lyon,ASPTT Albi,6.0,0.0
+,18,Montpellier,Juvisy FCF,1.0,3.0
+13-03-2016,17,VGA Saint-Maur,Rodez AF,0.0,4.0
+,17,Juvisy FCF,ASJ Soyaux,4.0,1.0
+,17,ASPTT Albi,Montpellier,2.0,1.0
+,17,La Roche ESOF,Lyon,0.0,5.0
+,17,Saint-Étienne,Nîmes Métropole Gard,2.0,2.0
+19-03-2016,17,París Saint-Germain,Guingamp,6.0,0.0
+20-02-2016,16,Saint-Étienne,Lyon,0.0,3.0
+,16,Rodez AF,Juvisy FCF,1.0,1.0
+,16,Montpellier,La Roche ESOF,2.0,0.0
+21-02-2016,16,Nîmes Métropole Gard,París Saint-Germain,0.0,5.0
+,16,Guingamp,VGA Saint-Maur,5.0,2.0
+,16,ASJ Soyaux,ASPTT Albi,3.0,0.0
+05-02-2016,15,París Saint-Germain,Lyon,0.0,0.0
+06-02-2016,15,La Roche ESOF,ASJ Soyaux,2.0,3.0
+,15,Guingamp,Nîmes Métropole Gard,1.0,0.0
+07-02-2016,15,Saint-Étienne,Montpellier,1.0,1.0
+,15,VGA Saint-Maur,Juvisy FCF,0.0,1.0
+,15,ASPTT Albi,Rodez AF,0.0,0.0
+16-01-2016,14,Rodez AF,La Roche ESOF,3.0,2.0
+17-01-2016,14,Montpellier,París Saint-Germain,1.0,2.0
+,14,Nîmes Métropole Gard,VGA Saint-Maur,3.0,2.0
+,14,ASJ Soyaux,Saint-Étienne,1.0,2.0
+,14,Lyon,Guingamp,12.0,0.0
+,14,Juvisy FCF,ASPTT Albi,3.0,0.0
+19-12-2015,13,La Roche ESOF,Juvisy FCF,0.0,4.0
+,13,París Saint-Germain,ASJ Soyaux,3.0,0.0
+20-12-2015,13,Saint-Étienne,Rodez AF,3.0,0.0
+,13,Guingamp,Montpellier,1.0,2.0
+,13,VGA Saint-Maur,ASPTT Albi,1.0,3.0
+,13,Nîmes Métropole Gard,Lyon,0.0,10.0
+13-12-2015,12,Rodez AF,París Saint-Germain,0.0,1.0
+,12,Lyon,VGA Saint-Maur,8.0,1.0
+,12,Juvisy FCF,Saint-Étienne,2.0,1.0
+,12,ASJ Soyaux,Guingamp,4.0,1.0
+,12,ASPTT Albi,La Roche ESOF,1.0,1.0
+,12,Montpellier,Nîmes Métropole Gard,1.0,0.0
+05-12-2015,11,La Roche ESOF,VGA Saint-Maur,4.0,1.0
+,11,Rodez AF,Guingamp,2.0,0.0
+,11,Juvisy FCF,París Saint-Germain,0.0,5.0
+06-12-2015,11,ASJ Soyaux,Nîmes Métropole Gard,0.0,0.0
+,11,Montpellier,Lyon,0.0,0.0
+,11,ASPTT Albi,Saint-Étienne,0.0,3.0
+21-11-2015,10,Saint-Étienne,La Roche ESOF,3.0,0.0
+22-11-2015,10,París Saint-Germain,ASPTT Albi,3.0,0.0
+,10,VGA Saint-Maur,Montpellier,0.0,5.0
+,10,Guingamp,Juvisy FCF,0.0,3.0
+,10,Lyon,ASJ Soyaux,7.0,1.0
+,10,Nîmes Métropole Gard,Rodez AF,2.0,4.0
+07-11-2015,9,La Roche ESOF,París Saint-Germain,1.0,5.0
+,9,ASJ Soyaux,Montpellier,0.0,6.0
+,9,Rodez AF,Lyon,0.0,6.0
+08-11-2015,9,Saint-Étienne,VGA Saint-Maur,2.0,2.0
+,9,Juvisy FCF,Nîmes Métropole Gard,5.0,0.0
+,9,ASPTT Albi,Guingamp,1.0,0.0
+01-11-2015,8,París Saint-Germain,Saint-Étienne,3.0,0.0
+,8,VGA Saint-Maur,ASJ Soyaux,1.0,1.0
+,8,Montpellier,Rodez AF,4.0,0.0
+,8,Guingamp,La Roche ESOF,1.0,0.0
+,8,Nîmes Métropole Gard,ASPTT Albi,1.0,1.0
+,8,Lyon,Juvisy FCF,2.0,0.0
+18-10-2015,7,La Roche ESOF,Nîmes Métropole Gard,3.0,1.0
+,7,Saint-Étienne,Guingamp,1.0,1.0
+,7,ASPTT Albi,Lyon,0.0,4.0
+,7,París Saint-Germain,VGA Saint-Maur,7.0,0.0
+,7,Rodez AF,ASJ Soyaux,2.0,3.0
+,7,Juvisy FCF,Montpellier,1.0,2.0
+10-10-2015,6,Montpellier,ASPTT Albi,3.0,0.0
+11-10-2015,6,Rodez AF,VGA Saint-Maur,5.0,2.0
+,6,Lyon,La Roche ESOF,6.0,0.0
+,6,Guingamp,París Saint-Germain,1.0,4.0
+,6,Nîmes Métropole Gard,Saint-Étienne,1.0,2.0
+,6,ASJ Soyaux,Juvisy FCF,0.0,1.0
+03-10-2015,5,La Roche ESOF,Montpellier,0.0,2.0
+04-10-2015,5,Juvisy FCF,Rodez AF,3.0,0.0
+,5,París Saint-Germain,Nîmes Métropole Gard,8.0,0.0
+,5,VGA Saint-Maur,Guingamp,1.0,3.0
+,5,Lyon,Saint-Étienne,5.0,0.0
+,5,ASPTT Albi,ASJ Soyaux,0.0,0.0
+26-09-2015,4,ASJ Soyaux,La Roche ESOF,2.0,3.0
+,4,Juvisy FCF,VGA Saint-Maur,2.0,0.0
+,4,Rodez AF,ASPTT Albi,2.0,2.0
+,4,Nîmes Métropole Gard,Guingamp,0.0,2.0
+27-09-2015,4,Lyon,París Saint-Germain,5.0,0.0
+,4,Montpellier,Saint-Étienne,1.0,0.0
+13-09-2015,3,La Roche ESOF,Rodez AF,0.0,3.0
+,3,París Saint-Germain,Montpellier,0.0,0.0
+,3,VGA Saint-Maur,Nîmes Métropole Gard,3.0,1.0
+,3,Saint-Étienne,ASJ Soyaux,1.0,2.0
+,3,ASPTT Albi,Juvisy FCF,1.0,2.0
+,3,Guingamp,Lyon,0.0,8.0
+05-09-2015,2,Montpellier,Guingamp,3.0,0.0
+06-09-2015,2,ASJ Soyaux,París Saint-Germain,0.0,2.0
+,2,Rodez AF,Saint-Étienne,1.0,0.0
+,2,Juvisy FCF,La Roche ESOF,2.0,0.0
+,2,Lyon,Nîmes Métropole Gard,9.0,0.0
+,2,ASPTT Albi,VGA Saint-Maur,4.0,2.0
+30-08-2015,1,París Saint-Germain,Rodez AF,5.0,0.0
+,1,VGA Saint-Maur,Lyon,0.0,7.0
+,1,Saint-Étienne,Juvisy FCF,2.0,2.0
+,1,Guingamp,ASJ Soyaux,0.0,1.0
+,1,La Roche ESOF,ASPTT Albi,0.0,3.0
+,1,Nîmes Métropole Gard,Montpellier,0.0,7.0
+09-05-2015,22,Montpellier,Issy FF,9.0,0.0
+,22,Arras FCF,París Saint-Germain,0.0,3.0
+,22,Guingamp,Lyon,0.0,3.0
+,22,FC Metz-Algrange,ASPTT Albi,7.0,0.0
+,22,ASJ Soyaux,Juvisy FCF,0.0,3.0
+,22,Rodez AF,Saint-Étienne,1.0,0.0
+03-05-2015,21,Saint-Étienne,ASJ Soyaux,2.0,0.0
+,21,París Saint-Germain,Rodez AF,5.0,0.0
+,21,Lyon,Arras FCF,14.0,0.0
+,21,ASPTT Albi,Guingamp,1.0,2.0
+,21,Issy FF,FC Metz-Algrange,0.0,1.0
+,21,Juvisy FCF,Montpellier,1.0,3.0
+28-01-2015,20,Saint-Étienne,París Saint-Germain,0.0,7.0
+28-03-2015,20,Montpellier,ASJ Soyaux,1.0,0.0
+,20,Rodez AF,Lyon,0.0,6.0
+29-03-2015,20,Arras FCF,ASPTT Albi,0.0,3.0
+,20,Guingamp,Issy FF,1.0,0.0
+,20,FC Metz-Algrange,Juvisy FCF,1.0,3.0
+21-01-2015,19,ASJ Soyaux,París Saint-Germain,0.0,10.0
+21-03-2015,19,Juvisy FCF,Guingamp,1.0,2.0
+22-03-2015,19,Lyon,Saint-Étienne,5.0,1.0
+,19,ASPTT Albi,Rodez AF,2.0,1.0
+,19,Issy FF,Arras FCF,1.0,1.0
+,19,Montpellier,FC Metz-Algrange,5.0,0.0
+21-02-2015,18,París Saint-Germain,Lyon,0.0,4.0
+22-02-2015,18,Rodez AF,Issy FF,5.0,1.0
+,18,Guingamp,Montpellier,1.0,1.0
+,18,FC Metz-Algrange,ASJ Soyaux,1.0,1.0
+,18,Saint-Étienne,ASPTT Albi,2.0,0.0
+15-03-2015,18,Arras FCF,Juvisy FCF,0.0,4.0
+01-02-2015,17,Juvisy FCF,Rodez AF,2.0,0.0
+,17,Montpellier,Arras FCF,8.0,0.0
+,17,Issy FF,Saint-Étienne,0.0,3.0
+,17,ASPTT Albi,París Saint-Germain,0.0,4.0
+,17,ASJ Soyaux,Lyon,0.0,4.0
+26-04-2015,17,FC Metz-Algrange,Guingamp,0.0,2.0
+18-01-2015,16,Lyon,ASPTT Albi,14.0,0.0
+,16,París Saint-Germain,Issy FF,5.0,0.0
+,16,Rodez AF,Montpellier,0.0,4.0
+,16,Saint-Étienne,Juvisy FCF,0.0,1.0
+,16,Guingamp,ASJ Soyaux,1.0,2.0
+08-03-2015,16,Arras FCF,FC Metz-Algrange,0.0,2.0
+09-01-2015,15,Juvisy FCF,París Saint-Germain,0.0,3.0
+11-01-2015,15,Montpellier,Saint-Étienne,1.0,0.0
+,15,FC Metz-Algrange,Rodez AF,2.0,3.0
+,15,Guingamp,Arras FCF,2.0,0.0
+,15,Issy FF,Lyon,0.0,9.0
+,15,ASJ Soyaux,ASPTT Albi,1.0,0.0
+20-12-2014,14,París Saint-Germain,Montpellier,2.0,1.0
+,14,Lyon,Juvisy FCF,4.0,0.0
+21-12-2014,14,Rodez AF,Guingamp,2.0,4.0
+,14,Saint-Étienne,FC Metz-Algrange,2.0,1.0
+,14,ASPTT Albi,Issy FF,5.0,0.0
+,14,Arras FCF,ASJ Soyaux,2.0,3.0
+13-12-2014,13,Guingamp,Saint-Étienne,3.0,2.0
+14-12-2014,13,Juvisy FCF,ASPTT Albi,4.0,0.0
+,13,Montpellier,Lyon,1.0,5.0
+,13,ASJ Soyaux,Issy FF,3.0,2.0
+,13,FC Metz-Algrange,París Saint-Germain,0.0,9.0
+07-02-2015,13,Arras FCF,Rodez AF,0.0,5.0
+06-12-2014,12,Rodez AF,ASJ Soyaux,0.0,0.0
+07-12-2014,12,Saint-Étienne,Arras FCF,5.0,1.0
+,12,París Saint-Germain,Guingamp,2.0,1.0
+,12,Lyon,FC Metz-Algrange,11.0,0.0
+,12,ASPTT Albi,Montpellier,1.0,7.0
+,12,Issy FF,Juvisy FCF,1.0,5.0
+30-11-2014,11,Rodez AF,París Saint-Germain,1.0,3.0
+,11,Guingamp,ASPTT Albi,3.0,0.0
+,11,ASJ Soyaux,Saint-Étienne,1.0,2.0
+,11,Arras FCF,Lyon,2.0,8.0
+,11,FC Metz-Algrange,Issy FF,1.0,1.0
+26-04-2015,11,Montpellier,Juvisy FCF,3.0,1.0
+15-11-2014,10,ASPTT Albi,Arras FCF,3.0,1.0
+,10,ASJ Soyaux,Montpellier,1.0,1.0
+16-11-2014,10,París Saint-Germain,Saint-Étienne,2.0,0.0
+,10,Lyon,Rodez AF,7.0,0.0
+,10,Issy FF,Guingamp,0.0,4.0
+,10,Juvisy FCF,FC Metz-Algrange,4.0,0.0
+09-11-2014,9,FC Metz-Algrange,Montpellier,2.0,2.0
+,9,Rodez AF,ASPTT Albi,2.0,0.0
+,9,Arras FCF,Issy FF,3.0,1.0
+,9,Guingamp,Juvisy FCF,1.0,6.0
+03-12-2014,9,Saint-Étienne,Lyon,0.0,6.0
+,9,París Saint-Germain,ASJ Soyaux,6.0,0.0
+01-11-2014,8,Lyon,París Saint-Germain,2.0,1.0
+02-11-2014,8,Issy FF,Rodez AF,2.0,3.0
+,8,Montpellier,Guingamp,0.0,0.0
+,8,ASPTT Albi,Saint-Étienne,1.0,0.0
+,8,Juvisy FCF,Arras FCF,4.0,0.0
+,8,ASJ Soyaux,FC Metz-Algrange,5.0,2.0
+18-10-2014,7,Rodez AF,Juvisy FCF,0.0,1.0
+19-10-2014,7,París Saint-Germain,ASPTT Albi,6.0,0.0
+,7,Arras FCF,Montpellier,0.0,6.0
+,7,Saint-Étienne,Issy FF,1.0,2.0
+,7,Lyon,ASJ Soyaux,9.0,0.0
+,7,Guingamp,FC Metz-Algrange,2.0,2.0
+11-10-2014,6,Juvisy FCF,Saint-Étienne,3.0,0.0
+,6,Montpellier,Rodez AF,0.0,0.0
+12-10-2014,6,FC Metz-Algrange,Arras FCF,3.0,1.0
+,6,Issy FF,París Saint-Germain,0.0,2.0
+,6,ASJ Soyaux,Guingamp,0.0,4.0
+,6,ASPTT Albi,Lyon,0.0,4.0
+04-10-2014,5,París Saint-Germain,Juvisy FCF,2.0,0.0
+05-10-2014,5,Saint-Étienne,Montpellier,0.0,4.0
+,5,Rodez AF,FC Metz-Algrange,1.0,2.0
+,5,Arras FCF,Guingamp,0.0,2.0
+,5,Lyon,Issy FF,6.0,0.0
+,5,ASPTT Albi,ASJ Soyaux,1.0,1.0
+27-09-2014,4,Montpellier,París Saint-Germain,0.0,1.0
+28-09-2014,4,Issy FF,ASPTT Albi,0.0,2.0
+,4,Guingamp,Rodez AF,4.0,2.0
+,4,FC Metz-Algrange,Saint-Étienne,0.0,1.0
+,4,ASJ Soyaux,Arras FCF,5.0,1.0
+,4,Juvisy FCF,Lyon,1.0,4.0
+20-09-2014,3,Lyon,Montpellier,4.0,0.0
+,3,Rodez AF,Arras FCF,1.0,1.0
+21-09-2014,3,Saint-Étienne,Guingamp,1.0,2.0
+,3,París Saint-Germain,FC Metz-Algrange,7.0,0.0
+,3,ASPTT Albi,Juvisy FCF,0.0,3.0
+,3,Issy FF,ASJ Soyaux,0.0,0.0
+06-09-2014,2,Guingamp,París Saint-Germain,0.0,3.0
+,2,ASJ Soyaux,Rodez AF,3.0,2.0
+07-09-2014,2,Arras FCF,Saint-Étienne,1.0,1.0
+,2,FC Metz-Algrange,Lyon,0.0,15.0
+,2,Montpellier,ASPTT Albi,3.0,0.0
+,2,Juvisy FCF,Issy FF,3.0,1.0
+30-08-2014,1,Juvisy FCF,ASJ Soyaux,3.0,0.0
+,1,París Saint-Germain,Arras FCF,5.0,0.0
+,1,Saint-Étienne,Rodez AF,1.0,4.0
+,1,ASPTT Albi,FC Metz-Algrange,2.0,0.0
+31-08-2014,1,Lyon,Guingamp,3.0,0.0
+,1,Issy FF,Montpellier,1.0,3.0
+01-06-2014,22,AS Muretaine,Juvisy FCF,0.0,10.0
+,22,Saint-Étienne,Montpellier,1.0,1.0
+,22,Rodez AF,ASJ Soyaux,1.0,1.0
+,22,Lyon,Henin-Beaumont,7.0,0.0
+,22,París Saint-Germain,Nord Allier Yzeure,4.0,0.0
+,22,Arras FCF,Guingamp,0.0,0.0
+24-05-2014,21,Guingamp,Lyon,1.0,5.0
+,21,Juvisy FCF,París Saint-Germain,2.0,2.0
+25-05-2014,21,Montpellier,Arras FCF,7.0,1.0
+,21,ASJ Soyaux,Saint-Étienne,0.0,1.0
+,21,Henin-Beaumont,AS Muretaine,7.0,0.0
+,21,Nord Allier Yzeure,Rodez AF,1.0,3.0
+17-05-2014,20,Arras FCF,ASJ Soyaux,3.0,0.0
+,20,Saint-Étienne,Nord Allier Yzeure,0.0,2.0
+,20,Lyon,Montpellier,2.0,1.0
+,20,Rodez AF,París Saint-Germain,0.0,3.0
+18-05-2014,20,AS Muretaine,Guingamp,0.0,3.0
+,20,Juvisy FCF,Henin-Beaumont,3.0,0.0
+19-04-2014,19,ASJ Soyaux,Lyon,0.0,5.0
+,19,Rodez AF,Saint-Étienne,1.0,1.0
+20-04-2014,19,París Saint-Germain,Henin-Beaumont,11.0,0.0
+,19,Guingamp,Juvisy FCF,2.0,6.0
+,19,Nord Allier Yzeure,Arras FCF,3.0,1.0
+,19,Montpellier,AS Muretaine,5.0,0.0
+22-03-2014,18,Arras FCF,Rodez AF,1.0,0.0
+23-03-2014,18,Saint-Étienne,París Saint-Germain,0.0,0.0
+,18,Juvisy FCF,Montpellier,2.0,1.0
+,18,Lyon,Nord Allier Yzeure,1.0,0.0
+,18,AS Muretaine,ASJ Soyaux,1.0,7.0
+,18,Henin-Beaumont,Guingamp,1.0,1.0
+01-03-2014,17,ASJ Soyaux,Juvisy FCF,1.0,4.0
+,17,París Saint-Germain,Guingamp,4.0,0.0
+02-03-2014,17,Montpellier,Henin-Beaumont,4.0,0.0
+,17,Nord Allier Yzeure,AS Muretaine,3.0,0.0
+,17,Saint-Étienne,Arras FCF,1.0,1.0
+30-03-2014,17,Rodez AF,Lyon,1.0,2.0
+23-02-2014,16,Henin-Beaumont,ASJ Soyaux,1.0,1.0
+,16,Guingamp,Montpellier,1.0,2.0
+,16,Arras FCF,París Saint-Germain,1.0,6.0
+,16,Lyon,Saint-Étienne,4.0,1.0
+,16,Juvisy FCF,Nord Allier Yzeure,1.0,0.0
+,16,AS Muretaine,Rodez AF,1.0,6.0
+01-02-2014,15,París Saint-Germain,Montpellier,2.0,0.0
+,15,Arras FCF,Lyon,2.0,11.0
+02-02-2014,15,Rodez AF,Juvisy FCF,1.0,6.0
+,15,Saint-Étienne,AS Muretaine,2.0,0.0
+,15,ASJ Soyaux,Guingamp,0.0,1.0
+09-03-2014,15,Nord Allier Yzeure,Henin-Beaumont,1.0,2.0
+18-01-2014,14,Lyon,París Saint-Germain,0.0,1.0
+19-01-2014,14,Henin-Beaumont,Rodez AF,0.0,4.0
+,14,Juvisy FCF,Saint-Étienne,2.0,1.0
+,14,Montpellier,ASJ Soyaux,2.0,0.0
+,14,AS Muretaine,Arras FCF,0.0,1.0
+,14,Guingamp,Nord Allier Yzeure,1.0,1.0
+21-12-2013,13,París Saint-Germain,ASJ Soyaux,6.0,0.0
+,13,Arras FCF,Juvisy FCF,2.0,3.0
+22-12-2013,13,AS Muretaine,Lyon,0.0,7.0
+,13,Nord Allier Yzeure,Montpellier,0.0,3.0
+,13,Rodez AF,Guingamp,0.0,0.0
+,13,Saint-Étienne,Henin-Beaumont,0.0,0.0
+15-12-2013,12,Juvisy FCF,Lyon,0.0,4.0
+,12,ASJ Soyaux,Nord Allier Yzeure,1.0,0.0
+,12,AS Muretaine,París Saint-Germain,0.0,9.0
+,12,Guingamp,Saint-Étienne,0.0,3.0
+,12,Henin-Beaumont,Arras FCF,2.0,2.0
+,12,Montpellier,Rodez AF,8.0,1.0
+06-12-2013,11,París Saint-Germain,Juvisy FCF,0.0,1.0
+08-12-2013,11,Arras FCF,Montpellier,1.0,3.0
+,11,Lyon,Guingamp,5.0,0.0
+,11,Rodez AF,Nord Allier Yzeure,2.0,0.0
+,11,Saint-Étienne,ASJ Soyaux,1.0,2.0
+,11,AS Muretaine,Henin-Beaumont,1.0,5.0
+01-12-2013,10,París Saint-Germain,Rodez AF,7.0,0.0
+,10,ASJ Soyaux,Arras FCF,5.0,0.0
+,10,Guingamp,AS Muretaine,5.0,1.0
+,10,Henin-Beaumont,Juvisy FCF,2.0,4.0
+,10,Nord Allier Yzeure,Saint-Étienne,2.0,1.0
+,10,Montpellier,Lyon,1.0,4.0
+17-11-2013,9,Saint-Étienne,Rodez AF,0.0,2.0
+,9,Lyon,ASJ Soyaux,5.0,0.0
+,9,Arras FCF,Nord Allier Yzeure,2.0,0.0
+,9,AS Muretaine,Montpellier,0.0,6.0
+,9,Juvisy FCF,Guingamp,2.0,1.0
+11-12-2013,9,Henin-Beaumont,París Saint-Germain,0.0,1.0
+01-11-2013,8,Rodez AF,Arras FCF,1.0,2.0
+03-11-2013,8,Montpellier,Juvisy FCF,1.0,2.0
+,8,Nord Allier Yzeure,Lyon,0.0,1.0
+,8,París Saint-Germain,Saint-Étienne,5.0,0.0
+,8,ASJ Soyaux,AS Muretaine,4.0,1.0
+,8,Guingamp,Henin-Beaumont,4.0,1.0
+19-10-2013,7,Arras FCF,Saint-Étienne,1.0,0.0
+20-10-2013,7,AS Muretaine,Nord Allier Yzeure,0.0,3.0
+,7,Juvisy FCF,ASJ Soyaux,1.0,2.0
+,7,Henin-Beaumont,Montpellier,0.0,3.0
+,7,Lyon,Rodez AF,4.0,0.0
+,7,Guingamp,París Saint-Germain,0.0,6.0
+12-10-2013,6,Montpellier,Guingamp,2.0,0.0
+13-10-2013,6,París Saint-Germain,Arras FCF,3.0,0.0
+,6,Rodez AF,AS Muretaine,2.0,0.0
+,6,Nord Allier Yzeure,Juvisy FCF,0.0,3.0
+,6,Saint-Étienne,Lyon,1.0,5.0
+,6,ASJ Soyaux,Henin-Beaumont,1.0,1.0
+05-10-2013,5,Montpellier,París Saint-Germain,1.0,2.0
+06-10-2013,5,Juvisy FCF,Rodez AF,3.0,1.0
+,5,Guingamp,ASJ Soyaux,1.0,0.0
+,5,Lyon,Arras FCF,3.0,2.0
+,5,Henin-Beaumont,Nord Allier Yzeure,3.0,0.0
+,5,AS Muretaine,Saint-Étienne,0.0,4.0
+29-09-2013,4,Rodez AF,Henin-Beaumont,1.0,1.0
+,4,ASJ Soyaux,Montpellier,0.0,7.0
+,4,Arras FCF,AS Muretaine,2.0,2.0
+,4,Saint-Étienne,Juvisy FCF,0.0,3.0
+,4,Nord Allier Yzeure,Guingamp,1.0,4.0
+,4,París Saint-Germain,Lyon,0.0,3.0
+14-09-2013,3,Guingamp,Rodez AF,0.0,0.0
+,3,ASJ Soyaux,París Saint-Germain,2.0,3.0
+15-09-2013,3,Henin-Beaumont,Saint-Étienne,0.0,3.0
+,3,Juvisy FCF,Arras FCF,2.0,0.0
+,3,Lyon,AS Muretaine,10.0,1.0
+,3,Montpellier,Nord Allier Yzeure,4.0,0.0
+07-09-2013,2,Lyon,Juvisy FCF,3.0,0.0
+08-09-2013,2,París Saint-Germain,AS Muretaine,4.0,0.0
+,2,Arras FCF,Henin-Beaumont,0.0,1.0
+,2,Nord Allier Yzeure,ASJ Soyaux,2.0,2.0
+,2,Rodez AF,Montpellier,0.0,2.0
+,2,Saint-Étienne,Guingamp,1.0,1.0
+31-08-2013,1,ASJ Soyaux,Rodez AF,3.0,2.0
+01-09-2013,1,Guingamp,Arras FCF,3.0,2.0
+,1,Juvisy FCF,AS Muretaine,4.0,0.0
+,1,Henin-Beaumont,Lyon,0.0,4.0
+,1,Nord Allier Yzeure,París Saint-Germain,0.0,2.0
+10-11-2013,1,Montpellier,Saint-Étienne,3.0,1.0
+26-05-2013,22,Toulouse,Nord Allier Yzeure,1.0,5.0
+,22,Arras FCF,Juvisy FCF,3.0,4.0
+,22,Montpellier,Saint-Étienne,1.0,1.0
+,22,Issy FF,FC Vendenheim,1.0,4.0
+,22,París Saint-Germain,Guingamp,5.0,0.0
+,22,Rodez AF,Lyon,0.0,3.0
+18-05-2013,21,Nord Allier Yzeure,Rodez AF,3.0,2.0
+,21,Guingamp,Montpellier,1.0,6.0
+,21,Saint-Étienne,Toulouse,5.0,1.0
+,21,FC Vendenheim,Arras FCF,2.0,2.0
+,21,Lyon,Issy FF,9.0,0.0
+,21,Juvisy FCF,París Saint-Germain,0.0,2.0
+20-04-2013,20,París Saint-Germain,FC Vendenheim,11.0,0.0
+21-04-2013,20,Issy FF,Nord Allier Yzeure,2.0,2.0
+,20,Saint-Étienne,Guingamp,4.0,0.0
+,20,Rodez AF,Toulouse,4.0,1.0
+05-05-2013,20,Montpellier,Juvisy FCF,0.0,1.0
+,20,Arras FCF,Lyon,0.0,6.0
+02-03-2013,19,Lyon,París Saint-Germain,3.0,0.0
+07-04-2013,19,FC Vendenheim,Montpellier,1.0,4.0
+,19,Rodez AF,Issy FF,1.0,0.0
+,19,Toulouse,Guingamp,1.0,2.0
+,19,Juvisy FCF,Saint-Étienne,4.0,0.0
+,19,Nord Allier Yzeure,Arras FCF,2.0,0.0
+30-03-2013,18,París Saint-Germain,Nord Allier Yzeure,3.0,0.0
+,18,Arras FCF,Rodez AF,0.0,2.0
+31-03-2013,18,Saint-Étienne,FC Vendenheim,3.0,0.0
+,18,Guingamp,Juvisy FCF,0.0,2.0
+,18,Issy FF,Toulouse,4.0,2.0
+,18,Montpellier,Lyon,0.0,4.0
+16-03-2013,17,Toulouse,Juvisy FCF,0.0,5.0
+17-03-2013,17,Lyon,Saint-Étienne,5.0,0.0
+,17,Rodez AF,París Saint-Germain,0.0,4.0
+,17,FC Vendenheim,Guingamp,1.0,4.0
+,17,Nord Allier Yzeure,Montpellier,0.0,3.0
+14-04-2013,17,Issy FF,Arras FCF,1.0,1.0
+23-02-2013,16,Guingamp,Lyon,1.0,5.0
+,16,Arras FCF,Toulouse,2.0,2.0
+,16,París Saint-Germain,Issy FF,2.0,0.0
+24-02-2013,16,Juvisy FCF,FC Vendenheim,4.0,0.0
+,16,Montpellier,Rodez AF,7.0,0.0
+13-04-2013,16,Saint-Étienne,Nord Allier Yzeure,2.0,2.0
+02-02-2013,15,Nord Allier Yzeure,Guingamp,3.0,2.0
+,15,Issy FF,Montpellier,1.0,3.0
+,15,Lyon,Juvisy FCF,2.0,0.0
+03-02-2013,15,Rodez AF,Saint-Étienne,1.0,1.0
+,15,Arras FCF,París Saint-Germain,1.0,4.0
+,15,Toulouse,FC Vendenheim,0.0,0.0
+20-01-2013,14,París Saint-Germain,Toulouse,3.0,0.0
+,14,Saint-Étienne,Issy FF,2.0,0.0
+,14,Montpellier,Arras FCF,7.0,0.0
+02-03-2013,14,Juvisy FCF,Nord Allier Yzeure,3.0,0.0
+03-03-2013,14,Guingamp,Rodez AF,2.0,0.0
+10-04-2013,14,FC Vendenheim,Lyon,0.0,7.0
+06-01-2013,13,Issy FF,Guingamp,0.0,2.0
+,13,Toulouse,Lyon,1.0,11.0
+,13,Rodez AF,Juvisy FCF,0.0,3.0
+,13,Nord Allier Yzeure,FC Vendenheim,3.0,0.0
+13-01-2013,13,París Saint-Germain,Montpellier,3.0,1.0
+10-02-2013,13,Arras FCF,Saint-Étienne,0.0,2.0
+15-12-2012,12,Issy FF,Juvisy FCF,0.0,4.0
+,12,Lyon,Nord Allier Yzeure,3.0,0.0
+16-12-2012,12,Montpellier,Toulouse,2.0,1.0
+,12,Guingamp,Arras FCF,7.0,0.0
+,12,París Saint-Germain,Saint-Étienne,4.0,1.0
+10-03-2013,12,FC Vendenheim,Rodez AF,0.0,1.0
+08-12-2012,11,Montpellier,Guingamp,1.0,1.0
+09-12-2012,11,Issy FF,Lyon,0.0,8.0
+,11,Rodez AF,Nord Allier Yzeure,2.0,4.0
+,11,París Saint-Germain,Juvisy FCF,2.0,1.0
+13-01-2013,11,Toulouse,Saint-Étienne,1.0,0.0
+,11,Arras FCF,FC Vendenheim,2.0,0.0
+02-12-2012,10,Guingamp,Saint-Étienne,0.0,1.0
+,10,Nord Allier Yzeure,Issy FF,1.0,1.0
+,10,Lyon,Arras FCF,13.0,1.0
+,10,Toulouse,Rodez AF,1.0,1.0
+,10,FC Vendenheim,París Saint-Germain,0.0,3.0
+,10,Juvisy FCF,Montpellier,2.0,0.0
+17-11-2012,9,París Saint-Germain,Lyon,0.0,1.0
+,9,Guingamp,Toulouse,3.0,0.0
+18-11-2012,9,Montpellier,FC Vendenheim,6.0,0.0
+,9,Issy FF,Rodez AF,0.0,1.0
+,9,Arras FCF,Nord Allier Yzeure,4.0,1.0
+,9,Saint-Étienne,Juvisy FCF,0.0,5.0
+11-11-2012,8,Rodez AF,Arras FCF,5.0,1.0
+,8,Toulouse,Issy FF,3.0,4.0
+,8,FC Vendenheim,Saint-Étienne,0.0,0.0
+,8,Juvisy FCF,Guingamp,3.0,1.0
+,8,Nord Allier Yzeure,París Saint-Germain,0.0,3.0
+,8,Lyon,Montpellier,6.0,2.0
+04-11-2012,7,Saint-Étienne,Lyon,0.0,3.0
+,7,París Saint-Germain,Rodez AF,5.0,0.0
+,7,Arras FCF,Issy FF,2.0,1.0
+,7,Montpellier,Nord Allier Yzeure,1.0,0.0
+,7,Juvisy FCF,Toulouse,6.0,0.0
+,7,Guingamp,FC Vendenheim,1.0,0.0
+28-10-2012,6,FC Vendenheim,Juvisy FCF,0.0,3.0
+,6,Rodez AF,Montpellier,0.0,2.0
+,6,Lyon,Guingamp,3.0,0.0
+,6,Toulouse,Arras FCF,0.0,2.0
+,6,Nord Allier Yzeure,Saint-Étienne,0.0,0.0
+,6,Issy FF,París Saint-Germain,0.0,2.0
+13-10-2012,5,Juvisy FCF,Lyon,0.0,4.0
+14-10-2012,5,Saint-Étienne,Rodez AF,2.0,0.0
+,5,París Saint-Germain,Arras FCF,6.0,0.0
+,5,Montpellier,Issy FF,8.0,0.0
+,5,Guingamp,Nord Allier Yzeure,2.0,0.0
+,5,FC Vendenheim,Toulouse,1.0,1.0
+07-10-2012,4,Nord Allier Yzeure,Juvisy FCF,1.0,0.0
+,4,Lyon,FC Vendenheim,13.0,0.0
+,4,Toulouse,París Saint-Germain,0.0,6.0
+,4,Arras FCF,Montpellier,0.0,3.0
+,4,Rodez AF,Guingamp,4.0,0.0
+,4,Issy FF,Saint-Étienne,0.0,2.0
+30-09-2012,3,Juvisy FCF,Rodez AF,0.0,0.0
+,3,Guingamp,Issy FF,4.0,2.0
+,3,Saint-Étienne,Arras FCF,1.0,1.0
+,3,FC Vendenheim,Nord Allier Yzeure,1.0,4.0
+,3,Lyon,Toulouse,7.0,0.0
+,3,Montpellier,París Saint-Germain,1.0,1.0
+22-09-2012,2,Juvisy FCF,Issy FF,9.0,1.0
+,2,Toulouse,Montpellier,0.0,5.0
+23-09-2012,2,Rodez AF,FC Vendenheim,0.0,2.0
+,2,Arras FCF,Guingamp,1.0,1.0
+,2,Nord Allier Yzeure,Lyon,0.0,8.0
+,2,Saint-Étienne,París Saint-Germain,0.0,5.0
+09-09-2012,1,Lyon,Rodez AF,8.0,0.0
+,1,Saint-Étienne,Montpellier,0.0,2.0
+,1,FC Vendenheim,Issy FF,2.0,1.0
+,1,Juvisy FCF,Arras FCF,6.0,0.0
+,1,Nord Allier Yzeure,Toulouse,3.0,1.0
+,1,Guingamp,París Saint-Germain,1.0,1.0
+27-05-2012,22,Rodez AF,Montpellier,1.0,2.0
+,22,AS Muretaine,Guingamp,0.0,3.0
+,22,París Saint-Germain,Saint-Étienne,3.0,2.0
+,22,ASJ Soyaux,Juvisy FCF,0.0,2.0
+,22,Lyon,FC Vendenheim,10.0,0.0
+,22,Nord Allier Yzeure,Henin-Beaumont,1.0,1.0
+02-06-2012,21,Montpellier,París Saint-Germain,4.0,2.0
+,21,Juvisy FCF,Lyon,0.0,3.0
+03-06-2012,21,Henin-Beaumont,Rodez AF,3.0,1.0
+,21,Saint-Étienne,AS Muretaine,3.0,1.0
+,21,Guingamp,ASJ Soyaux,4.0,3.0
+,21,FC Vendenheim,Nord Allier Yzeure,3.0,3.0
+06-05-2012,20,Rodez AF,FC Vendenheim,3.0,3.0
+,20,Nord Allier Yzeure,Juvisy FCF,1.0,3.0
+,20,AS Muretaine,Montpellier,0.0,4.0
+,20,Lyon,ASJ Soyaux,6.0,0.0
+,20,Guingamp,Saint-Étienne,0.0,0.0
+,20,París Saint-Germain,Henin-Beaumont,2.0,0.0
+14-04-2012,19,FC Vendenheim,París Saint-Germain,0.0,4.0
+15-04-2012,19,Juvisy FCF,Rodez AF,4.0,2.0
+,19,Montpellier,Guingamp,4.0,2.0
+,19,Henin-Beaumont,AS Muretaine,1.0,1.0
+,19,ASJ Soyaux,Saint-Étienne,0.0,4.0
+01-05-2012,19,Lyon,Nord Allier Yzeure,8.0,0.0
+25-03-2012,18,Guingamp,Henin-Beaumont,1.0,1.0
+,18,Rodez AF,Lyon,0.0,4.0
+,18,Saint-Étienne,Montpellier,1.0,6.0
+,18,AS Muretaine,FC Vendenheim,1.0,2.0
+,18,Nord Allier Yzeure,ASJ Soyaux,2.0,1.0
+,18,París Saint-Germain,Juvisy FCF,1.0,3.0
+18-03-2012,17,FC Vendenheim,Guingamp,2.0,0.0
+,17,Henin-Beaumont,Saint-Étienne,1.0,0.0
+08-04-2012,17,Juvisy FCF,AS Muretaine,4.0,0.0
+22-04-2012,17,Nord Allier Yzeure,Rodez AF,0.0,1.0
+,17,ASJ Soyaux,Montpellier,0.0,6.0
+20-05-2012,17,Lyon,París Saint-Germain,3.0,0.0
+05-02-2012,16,Montpellier,Henin-Beaumont,5.0,1.0
+,16,Guingamp,Juvisy FCF,0.0,3.0
+11-03-2012,16,Saint-Étienne,FC Vendenheim,0.0,0.0
+18-03-2012,16,París Saint-Germain,Nord Allier Yzeure,5.0,2.0
+,16,AS Muretaine,Lyon,0.0,3.0
+,16,Rodez AF,ASJ Soyaux,2.0,0.0
+21-01-2012,15,FC Vendenheim,Montpellier,1.0,3.0
+22-01-2012,15,Rodez AF,París Saint-Germain,1.0,1.0
+,15,Lyon,Guingamp,7.0,0.0
+,15,Nord Allier Yzeure,AS Muretaine,1.0,1.0
+,15,ASJ Soyaux,Henin-Beaumont,0.0,1.0
+,15,Juvisy FCF,Saint-Étienne,1.0,0.0
+14-01-2012,14,Guingamp,Nord Allier Yzeure,2.0,2.0
+15-01-2012,14,AS Muretaine,Rodez AF,0.0,1.0
+,14,Saint-Étienne,Lyon,0.0,3.0
+,14,Montpellier,Juvisy FCF,0.0,0.0
+,14,Henin-Beaumont,FC Vendenheim,4.0,2.0
+,14,París Saint-Germain,ASJ Soyaux,2.0,0.0
+07-01-2012,13,Lyon,Montpellier,1.0,0.0
+,13,Nord Allier Yzeure,Saint-Étienne,4.0,2.0
+08-01-2012,13,ASJ Soyaux,FC Vendenheim,1.0,2.0
+,13,Juvisy FCF,Henin-Beaumont,5.0,2.0
+,13,París Saint-Germain,AS Muretaine,3.0,0.0
+26-02-2012,13,Rodez AF,Guingamp,0.0,1.0
+10-12-2011,12,Montpellier,Nord Allier Yzeure,4.0,0.0
+11-12-2011,12,FC Vendenheim,Juvisy FCF,1.0,3.0
+,12,Henin-Beaumont,Lyon,1.0,6.0
+,12,Guingamp,París Saint-Germain,0.0,0.0
+,12,AS Muretaine,ASJ Soyaux,1.0,2.0
+,12,Saint-Étienne,Rodez AF,2.0,2.0
+03-12-2011,11,Lyon,Juvisy FCF,1.0,1.0
+04-12-2011,11,AS Muretaine,Saint-Étienne,0.0,5.0
+,11,Rodez AF,Henin-Beaumont,3.0,1.0
+,11,París Saint-Germain,Montpellier,1.0,1.0
+,11,Nord Allier Yzeure,FC Vendenheim,2.0,2.0
+,11,ASJ Soyaux,Guingamp,1.0,4.0
+27-11-2011,10,FC Vendenheim,Rodez AF,2.0,1.0
+,10,Juvisy FCF,Nord Allier Yzeure,2.0,1.0
+,10,Montpellier,AS Muretaine,8.0,0.0
+,10,ASJ Soyaux,Lyon,0.0,8.0
+,10,Henin-Beaumont,París Saint-Germain,0.0,4.0
+,10,Saint-Étienne,Guingamp,1.0,1.0
+13-11-2011,9,Rodez AF,Juvisy FCF,1.0,2.0
+,9,París Saint-Germain,FC Vendenheim,4.0,1.0
+,9,Nord Allier Yzeure,Lyon,0.0,6.0
+,9,Guingamp,Montpellier,0.0,3.0
+,9,AS Muretaine,Henin-Beaumont,2.0,3.0
+,9,Saint-Étienne,ASJ Soyaux,1.0,0.0
+05-11-2011,8,FC Vendenheim,AS Muretaine,3.0,1.0
+06-11-2011,8,ASJ Soyaux,Nord Allier Yzeure,2.0,4.0
+,8,Lyon,Rodez AF,7.0,0.0
+,8,Montpellier,Saint-Étienne,4.0,0.0
+,8,Henin-Beaumont,Guingamp,6.0,0.0
+,8,Juvisy FCF,París Saint-Germain,1.0,0.0
+29-10-2011,7,Rodez AF,Nord Allier Yzeure,0.0,1.0
+30-10-2011,7,AS Muretaine,Juvisy FCF,0.0,3.0
+,7,Saint-Étienne,Henin-Beaumont,3.0,0.0
+,7,París Saint-Germain,Lyon,0.0,0.0
+,7,Guingamp,FC Vendenheim,3.0,2.0
+,7,Montpellier,ASJ Soyaux,4.0,3.0
+16-10-2011,6,FC Vendenheim,Saint-Étienne,1.0,3.0
+,6,Nord Allier Yzeure,París Saint-Germain,2.0,2.0
+,6,ASJ Soyaux,Rodez AF,0.0,5.0
+,6,Lyon,AS Muretaine,11.0,0.0
+,6,Juvisy FCF,Guingamp,2.0,0.0
+,6,Henin-Beaumont,Montpellier,0.0,6.0
+08-10-2011,5,Guingamp,Lyon,0.0,5.0
+09-10-2011,5,París Saint-Germain,Rodez AF,2.0,0.0
+,5,Henin-Beaumont,ASJ Soyaux,0.0,4.0
+,5,Montpellier,FC Vendenheim,5.0,0.0
+,5,AS Muretaine,Nord Allier Yzeure,1.0,1.0
+,5,Saint-Étienne,Juvisy FCF,4.0,1.0
+01-10-2011,4,Lyon,Saint-Étienne,7.0,0.0
+02-10-2011,4,Nord Allier Yzeure,Guingamp,2.0,0.0
+,4,Juvisy FCF,Montpellier,2.0,1.0
+,4,Rodez AF,AS Muretaine,3.0,2.0
+,4,ASJ Soyaux,París Saint-Germain,1.0,2.0
+,4,FC Vendenheim,Henin-Beaumont,7.0,0.0
+24-09-2011,3,Guingamp,Rodez AF,2.0,1.0
+25-09-2011,3,Saint-Étienne,Nord Allier Yzeure,1.0,0.0
+,3,Henin-Beaumont,Juvisy FCF,0.0,9.0
+,3,FC Vendenheim,ASJ Soyaux,2.0,1.0
+,3,AS Muretaine,París Saint-Germain,1.0,5.0
+12-10-2011,3,Montpellier,Lyon,1.0,1.0
+11-09-2011,2,Juvisy FCF,FC Vendenheim,6.0,3.0
+,2,Lyon,Henin-Beaumont,9.0,0.0
+,2,Rodez AF,Saint-Étienne,1.0,0.0
+,2,ASJ Soyaux,AS Muretaine,0.0,1.0
+,2,París Saint-Germain,Guingamp,2.0,0.0
+,2,Nord Allier Yzeure,Montpellier,1.0,2.0
+03-09-2011,1,FC Vendenheim,Lyon,0.0,10.0
+04-09-2011,1,Henin-Beaumont,Nord Allier Yzeure,1.0,1.0
+,1,Montpellier,Rodez AF,1.0,0.0
+,1,Juvisy FCF,ASJ Soyaux,5.0,0.0
+,1,Guingamp,AS Muretaine,2.0,1.0
+30-11-2011,1,Saint-Étienne,París Saint-Germain,1.0,2.0
+29-05-2011,22,Rodez AF,La Roche ESOF,2.0,0.0
+,22,París Saint-Germain,Montpellier,1.0,0.0
+,22,Toulouse,Lyon,1.0,5.0
+,22,Henin-Beaumont,Juvisy FCF,1.0,2.0
+,22,Saint-Étienne,Le Mans FC,0.0,0.0
+,22,Nord Allier Yzeure,Guingamp,0.0,2.0
+15-05-2011,21,Le Mans FC,Rodez AF,2.0,1.0
+,21,Guingamp,Henin-Beaumont,0.0,0.0
+,21,Juvisy FCF,Toulouse,4.0,2.0
+,21,Lyon,Saint-Étienne,8.0,0.0
+,21,La Roche ESOF,París Saint-Germain,1.0,6.0
+,21,Montpellier,Nord Allier Yzeure,3.0,1.0
+23-04-2011,20,Rodez AF,Lyon,1.0,3.0
+24-04-2011,20,Toulouse,Guingamp,0.0,1.0
+,20,Saint-Étienne,Juvisy FCF,1.0,3.0
+,20,Montpellier,La Roche ESOF,6.0,0.0
+,20,Henin-Beaumont,Nord Allier Yzeure,0.0,2.0
+,20,París Saint-Germain,Le Mans FC,2.0,1.0
+05-02-2011,19,Guingamp,Saint-Étienne,0.0,1.0
+06-02-2011,19,Lyon,París Saint-Germain,3.0,0.0
+,19,Juvisy FCF,Rodez AF,4.0,0.0
+,19,Le Mans FC,Montpellier,0.0,5.0
+,19,Nord Allier Yzeure,La Roche ESOF,2.0,2.0
+,19,Henin-Beaumont,Toulouse,1.0,0.0
+27-03-2011,18,Rodez AF,Guingamp,0.0,0.0
+,18,París Saint-Germain,Juvisy FCF,3.0,1.0
+,18,Toulouse,Nord Allier Yzeure,1.0,3.0
+,18,La Roche ESOF,Le Mans FC,1.0,2.0
+,18,Montpellier,Lyon,0.0,1.0
+,18,Saint-Étienne,Henin-Beaumont,3.0,0.0
+20-03-2011,17,Henin-Beaumont,Rodez AF,0.0,1.0
+,17,Toulouse,Saint-Étienne,0.0,1.0
+,17,Lyon,La Roche ESOF,10.0,0.0
+,17,Juvisy FCF,Montpellier,3.0,1.0
+,17,Guingamp,París Saint-Germain,0.0,3.0
+,17,Nord Allier Yzeure,Le Mans FC,3.0,0.0
+12-02-2011,16,Montpellier,Guingamp,5.0,0.0
+13-02-2011,16,París Saint-Germain,Henin-Beaumont,1.0,2.0
+,16,Rodez AF,Toulouse,0.0,0.0
+,16,La Roche ESOF,Juvisy FCF,2.0,3.0
+,16,Saint-Étienne,Nord Allier Yzeure,2.0,0.0
+,16,Le Mans FC,Lyon,0.0,4.0
+27-11-2010,15,Guingamp,La Roche ESOF,4.0,0.0
+28-11-2010,15,Juvisy FCF,Le Mans FC,5.0,0.0
+,15,Toulouse,París Saint-Germain,1.0,4.0
+,15,Saint-Étienne,Rodez AF,1.0,0.0
+15-12-2010,15,Nord Allier Yzeure,Lyon,0.0,5.0
+26-01-2011,15,Henin-Beaumont,Montpellier,0.0,3.0
+22-01-2011,14,Montpellier,Toulouse,5.0,1.0
+23-01-2011,14,París Saint-Germain,Saint-Étienne,1.0,0.0
+,14,Rodez AF,Nord Allier Yzeure,1.0,1.0
+,14,Lyon,Juvisy FCF,7.0,1.0
+,14,La Roche ESOF,Henin-Beaumont,1.0,0.0
+,14,Le Mans FC,Guingamp,1.0,2.0
+15-01-2011,13,Guingamp,Lyon,1.0,4.0
+16-01-2011,13,Rodez AF,París Saint-Germain,0.0,1.0
+,13,Nord Allier Yzeure,Juvisy FCF,3.0,3.0
+,13,Henin-Beaumont,Le Mans FC,2.0,1.0
+,13,Toulouse,La Roche ESOF,3.0,0.0
+,13,Saint-Étienne,Montpellier,0.0,1.0
+09-01-2011,12,La Roche ESOF,Saint-Étienne,0.0,1.0
+,12,Juvisy FCF,Guingamp,1.0,0.0
+,12,Montpellier,Rodez AF,2.0,1.0
+,12,París Saint-Germain,Nord Allier Yzeure,2.0,1.0
+,12,Le Mans FC,Toulouse,0.0,0.0
+,12,Lyon,Henin-Beaumont,7.0,0.0
+19-12-2010,11,Rodez AF,Le Mans FC,0.0,0.0
+,11,Toulouse,Juvisy FCF,0.0,6.0
+09-04-2011,11,París Saint-Germain,La Roche ESOF,2.0,0.0
+10-04-2011,11,Henin-Beaumont,Guingamp,2.0,1.0
+,11,Nord Allier Yzeure,Montpellier,2.0,2.0
+08-05-2011,11,Saint-Étienne,Lyon,0.0,6.0
+11-12-2010,10,La Roche ESOF,Montpellier,0.0,4.0
+,10,Nord Allier Yzeure,Henin-Beaumont,0.0,3.0
+,10,Guingamp,Toulouse,1.0,1.0
+12-12-2010,10,Lyon,Rodez AF,1.0,0.0
+26-02-2011,10,Le Mans FC,París Saint-Germain,1.0,2.0
+10-04-2011,10,Juvisy FCF,Saint-Étienne,2.0,1.0
+05-12-2010,9,Rodez AF,Juvisy FCF,2.0,4.0
+,9,Montpellier,Le Mans FC,3.0,0.0
+,9,Toulouse,Henin-Beaumont,1.0,0.0
+19-01-2011,9,París Saint-Germain,Lyon,1.0,2.0
+26-02-2011,9,La Roche ESOF,Nord Allier Yzeure,2.0,1.0
+27-02-2011,9,Saint-Étienne,Guingamp,2.0,0.0
+14-11-2010,8,Guingamp,Rodez AF,1.0,1.0
+,8,Nord Allier Yzeure,Toulouse,2.0,3.0
+,8,Henin-Beaumont,Saint-Étienne,1.0,0.0
+,8,Le Mans FC,La Roche ESOF,2.0,1.0
+,8,Lyon,Montpellier,1.0,0.0
+15-12-2010,8,Juvisy FCF,París Saint-Germain,0.0,0.0
+07-11-2010,7,Saint-Étienne,Toulouse,3.0,1.0
+,7,París Saint-Germain,Guingamp,3.0,0.0
+,7,La Roche ESOF,Lyon,0.0,4.0
+,7,Montpellier,Juvisy FCF,1.0,0.0
+,7,Rodez AF,Henin-Beaumont,2.0,0.0
+,7,Le Mans FC,Nord Allier Yzeure,2.0,2.0
+30-10-2010,6,Juvisy FCF,La Roche ESOF,7.0,1.0
+31-10-2010,6,Guingamp,Montpellier,0.0,1.0
+,6,Toulouse,Rodez AF,2.0,1.0
+,6,Lyon,Le Mans FC,9.0,0.0
+,6,Henin-Beaumont,París Saint-Germain,0.0,4.0
+,6,Nord Allier Yzeure,Saint-Étienne,1.0,0.0
+16-10-2010,5,La Roche ESOF,Guingamp,2.0,1.0
+17-10-2010,5,Montpellier,Henin-Beaumont,4.0,0.0
+,5,Lyon,Nord Allier Yzeure,13.0,0.0
+,5,Le Mans FC,Juvisy FCF,1.0,2.0
+,5,París Saint-Germain,Toulouse,1.0,0.0
+,5,Rodez AF,Saint-Étienne,2.0,1.0
+09-10-2010,4,Toulouse,Montpellier,0.0,3.0
+10-10-2010,4,Saint-Étienne,París Saint-Germain,0.0,1.0
+,4,Juvisy FCF,Lyon,1.0,3.0
+,4,Guingamp,Le Mans FC,1.0,1.0
+,4,Nord Allier Yzeure,Rodez AF,1.0,2.0
+,4,Henin-Beaumont,La Roche ESOF,4.0,1.0
+26-09-2010,3,La Roche ESOF,Toulouse,1.0,1.0
+,3,Juvisy FCF,Nord Allier Yzeure,6.0,0.0
+,3,Le Mans FC,Henin-Beaumont,1.0,2.0
+,3,Montpellier,Saint-Étienne,0.0,1.0
+,3,París Saint-Germain,Rodez AF,3.0,0.0
+,3,Lyon,Guingamp,3.0,0.0
+19-09-2010,2,Saint-Étienne,La Roche ESOF,4.0,0.0
+,2,Guingamp,Juvisy FCF,0.0,3.0
+,2,Rodez AF,Montpellier,0.0,2.0
+,2,Toulouse,Le Mans FC,1.0,2.0
+,2,Henin-Beaumont,Lyon,0.0,1.0
+,2,Nord Allier Yzeure,París Saint-Germain,0.0,1.0
+04-09-2010,1,Guingamp,Nord Allier Yzeure,2.0,1.0
+05-09-2010,1,La Roche ESOF,Rodez AF,0.0,2.0
+,1,Juvisy FCF,Henin-Beaumont,1.0,1.0
+,1,Le Mans FC,Saint-Étienne,0.0,3.0
+,1,Lyon,Toulouse,6.0,0.0
+,1,Montpellier,París Saint-Germain,3.0,1.0

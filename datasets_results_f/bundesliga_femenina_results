@@ -1,0 +1,3433 @@
+fecha,jornada,local,visitante,goles_local,goles_visitante
+27-05-2023,22,Bayern Múnich,Turbine Potsdam,,
+,22,Werder Bremen,Bayer Leverkusen,,
+,22,MSV Duisburg,Hoffenheim,,
+,22,Colonia,SGS Essen,,
+,22,Wolfsburgo,SC Freiburg,,
+,22,Eintracht Frankfurt,SV Meppen,,
+20-05-2023,21,Turbine Potsdam,Eintracht Frankfurt,,
+,21,SV Meppen,Wolfsburgo,,
+,21,SC Freiburg,Colonia,,
+,21,SGS Essen,MSV Duisburg,,
+,21,Hoffenheim,Werder Bremen,,
+,21,Bayer Leverkusen,Bayern Múnich,,
+13-05-2023,20,Eintracht Frankfurt,Wolfsburgo,,
+,20,Turbine Potsdam,Bayer Leverkusen,,
+,20,Bayern Múnich,Hoffenheim,,
+,20,Werder Bremen,SGS Essen,,
+,20,MSV Duisburg,SC Freiburg,,
+,20,Colonia,SV Meppen,,
+06-05-2023,19,Hoffenheim,Turbine Potsdam,,
+,19,Bayer Leverkusen,Eintracht Frankfurt,,
+,19,Wolfsburgo,Colonia,,
+,19,SV Meppen,MSV Duisburg,,
+,19,SC Freiburg,Werder Bremen,,
+,19,SGS Essen,Bayern Múnich,,
+22-04-2023,18,Colonia,Eintracht Frankfurt,,
+,18,MSV Duisburg,Wolfsburgo,,
+,18,Bayer Leverkusen,Hoffenheim,,
+,18,Turbine Potsdam,SGS Essen,,
+,18,Bayern Múnich,SC Freiburg,,
+,18,Werder Bremen,SV Meppen,,
+01-04-2023,17,SC Freiburg,Turbine Potsdam,,
+,17,SGS Essen,Bayer Leverkusen,,
+,17,Eintracht Frankfurt,Hoffenheim,,
+,17,Colonia,MSV Duisburg,,
+,17,Wolfsburgo,Werder Bremen,,
+,17,SV Meppen,Bayern Múnich,,
+25-03-2023,16,MSV Duisburg,Eintracht Frankfurt,,
+,16,Bayern Múnich,Wolfsburgo,,
+,16,Werder Bremen,Colonia,,
+,16,Hoffenheim,SGS Essen,,
+,16,Bayer Leverkusen,SC Freiburg,,
+,16,Turbine Potsdam,SV Meppen,,
+18-03-2023,15,Wolfsburgo,Turbine Potsdam,,
+,15,SV Meppen,Bayer Leverkusen,,
+,15,SC Freiburg,Hoffenheim,,
+,15,Eintracht Frankfurt,SGS Essen,,
+,15,MSV Duisburg,Werder Bremen,,
+,15,Colonia,Bayern Múnich,,
+11-03-2023,14,Hoffenheim,SV Meppen,,
+,14,Werder Bremen,Eintracht Frankfurt,,
+,14,Bayer Leverkusen,Wolfsburgo,,
+,14,Turbine Potsdam,Colonia,,
+,14,Bayern Múnich,MSV Duisburg,,
+,14,SGS Essen,SC Freiburg,,
+04-03-2023,13,MSV Duisburg,Turbine Potsdam,,
+,13,Colonia,Bayer Leverkusen,,
+,13,Wolfsburgo,Hoffenheim,,
+,13,SV Meppen,SGS Essen,,
+,13,Eintracht Frankfurt,SC Freiburg,,
+,13,Werder Bremen,Bayern Múnich,,
+11-02-2023,12,Bayern Múnich,Eintracht Frankfurt,,
+,12,SGS Essen,Wolfsburgo,,
+,12,Hoffenheim,Colonia,,
+,12,Bayer Leverkusen,MSV Duisburg,,
+,12,Turbine Potsdam,Werder Bremen,,
+,12,SC Freiburg,SV Meppen,,
+04-02-2023,11,Turbine Potsdam,Bayern Múnich,,
+,11,Bayer Leverkusen,Werder Bremen,,
+,11,Hoffenheim,MSV Duisburg,,
+,11,SGS Essen,Colonia,,
+,11,SC Freiburg,Wolfsburgo,,
+,11,SV Meppen,Eintracht Frankfurt,,
+10-12-2022,10,Eintracht Frankfurt,Turbine Potsdam,,
+,10,Wolfsburgo,SV Meppen,,
+,10,Colonia,SC Freiburg,,
+,10,MSV Duisburg,SGS Essen,,
+,10,Werder Bremen,Hoffenheim,,
+,10,Bayern Múnich,Bayer Leverkusen,,
+03-12-2022,9,Wolfsburgo,Eintracht Frankfurt,,
+,9,Bayer Leverkusen,Turbine Potsdam,,
+,9,Hoffenheim,Bayern Múnich,,
+,9,SGS Essen,Werder Bremen,,
+,9,SC Freiburg,MSV Duisburg,,
+,9,SV Meppen,Colonia,,
+26-11-2022,8,Turbine Potsdam,Hoffenheim,,
+,8,Eintracht Frankfurt,Bayer Leverkusen,,
+,8,Colonia,Wolfsburgo,,
+,8,MSV Duisburg,SV Meppen,,
+,8,Werder Bremen,SC Freiburg,,
+,8,Bayern Múnich,SGS Essen,,
+05-11-2022,7,Eintracht Frankfurt,Colonia,,
+,7,Wolfsburgo,MSV Duisburg,,
+,7,Hoffenheim,Bayer Leverkusen,,
+,7,SGS Essen,Turbine Potsdam,,
+,7,SC Freiburg,Bayern Múnich,,
+,7,SV Meppen,Werder Bremen,,
+29-10-2022,6,Turbine Potsdam,SC Freiburg,,
+,6,Bayer Leverkusen,SGS Essen,,
+,6,Hoffenheim,Eintracht Frankfurt,,
+,6,MSV Duisburg,Colonia,,
+,6,Werder Bremen,Wolfsburgo,,
+,6,Bayern Múnich,SV Meppen,,
+22-10-2022,5,Eintracht Frankfurt,MSV Duisburg,,
+,5,Wolfsburgo,Bayern Múnich,,
+,5,Colonia,Werder Bremen,,
+,5,SGS Essen,Hoffenheim,,
+,5,SC Freiburg,Bayer Leverkusen,,
+,5,SV Meppen,Turbine Potsdam,,
+15-10-2022,4,Turbine Potsdam,Wolfsburgo,,
+,4,Bayer Leverkusen,SV Meppen,,
+,4,Hoffenheim,SC Freiburg,,
+,4,SGS Essen,Eintracht Frankfurt,,
+,4,Werder Bremen,MSV Duisburg,,
+,4,Bayern Múnich,Colonia,,
+01-10-2022,3,SV Meppen,Hoffenheim,,
+,3,Eintracht Frankfurt,Werder Bremen,,
+,3,Wolfsburgo,Bayer Leverkusen,,
+,3,Colonia,Turbine Potsdam,,
+,3,MSV Duisburg,Bayern Múnich,,
+,3,SC Freiburg,SGS Essen,,
+23-09-2022,2,Bayer Leverkusen,Colonia,,
+24-09-2022,2,Hoffenheim,Wolfsburgo,,
+25-09-2022,2,Turbine Potsdam,MSV Duisburg,,
+,2,Bayern Múnich,Werder Bremen,,
+,2,SGS Essen,SV Meppen,,
+,2,SC Freiburg,Eintracht Frankfurt,,
+16-09-2022,1,Eintracht Frankfurt,Bayern Múnich,,
+17-09-2022,1,Wolfsburgo,SGS Essen,,
+18-09-2022,1,Colonia,Hoffenheim,,
+,1,SV Meppen,SC Freiburg,,
+,1,MSV Duisburg,Bayer Leverkusen,,
+,1,Werder Bremen,Turbine Potsdam,,
+15-05-2022,22,Colonia,SC Freiburg,0.0,0.0
+,22,Hoffenheim,SC Sand,3.0,3.0
+,22,Eintracht Frankfurt,Werder Bremen,4.0,0.0
+,22,Bayern Múnich,Turbine Potsdam,5.0,0.0
+,22,Wolfsburgo,Bayer Leverkusen,7.0,1.0
+,22,SGS Essen,FC Carl Zeiss Jena,3.0,0.0
+06-05-2022,21,Bayer Leverkusen,Bayern Múnich,0.0,3.0
+07-05-2022,21,Turbine Potsdam,Eintracht Frankfurt,0.0,2.0
+08-05-2022,21,SC Freiburg,SGS Essen,3.0,0.0
+,21,SC Sand,Colonia,1.0,0.0
+,21,FC Carl Zeiss Jena,Wolfsburgo,1.0,10.0
+,21,Werder Bremen,Hoffenheim,0.0,1.0
+22-04-2022,20,FC Carl Zeiss Jena,Bayern Múnich,0.0,4.0
+23-04-2022,20,Hoffenheim,Turbine Potsdam,1.0,2.0
+24-04-2022,20,Eintracht Frankfurt,Bayer Leverkusen,2.0,1.0
+,20,Colonia,Werder Bremen,1.0,1.0
+,20,SC Freiburg,SC Sand,7.0,1.0
+04-05-2022,20,SGS Essen,Wolfsburgo,1.0,5.0
+01-04-2022,19,FC Carl Zeiss Jena,Eintracht Frankfurt,0.0,4.0
+02-04-2022,19,Turbine Potsdam,Colonia,2.0,0.0
+03-04-2022,19,SC Sand,SGS Essen,1.0,1.0
+,19,Wolfsburgo,Bayern Múnich,6.0,0.0
+,19,Bayer Leverkusen,Hoffenheim,0.0,3.0
+,19,Werder Bremen,SC Freiburg,0.0,0.0
+25-03-2022,18,SC Freiburg,Turbine Potsdam,0.0,0.0
+26-03-2022,18,Eintracht Frankfurt,Wolfsburgo,1.0,4.0
+27-03-2022,18,SC Sand,Werder Bremen,0.0,1.0
+,18,Colonia,Bayer Leverkusen,1.0,1.0
+,18,Bayern Múnich,SGS Essen,4.0,0.0
+,18,Hoffenheim,FC Carl Zeiss Jena,6.0,0.0
+18-03-2022,17,Bayern Múnich,Eintracht Frankfurt,4.0,2.0
+19-03-2022,17,Wolfsburgo,Hoffenheim,3.0,0.0
+20-03-2022,17,Bayer Leverkusen,SC Freiburg,2.0,3.0
+,17,Turbine Potsdam,SC Sand,2.0,0.0
+,17,SGS Essen,Werder Bremen,0.0,0.0
+,17,FC Carl Zeiss Jena,Colonia,1.0,3.0
+11-03-2022,16,Colonia,Wolfsburgo,1.0,5.0
+12-03-2022,16,Hoffenheim,Bayern Múnich,2.0,4.0
+13-03-2022,16,Eintracht Frankfurt,SGS Essen,1.0,0.0
+,16,SC Sand,Bayer Leverkusen,2.0,1.0
+,16,Werder Bremen,Turbine Potsdam,0.0,5.0
+,16,SC Freiburg,FC Carl Zeiss Jena,7.0,1.0
+04-03-2022,15,Bayer Leverkusen,Werder Bremen,1.0,1.0
+05-03-2022,15,Eintracht Frankfurt,Hoffenheim,3.0,2.0
+06-03-2022,15,Wolfsburgo,SC Freiburg,4.0,1.0
+,15,FC Carl Zeiss Jena,SC Sand,1.0,4.0
+,15,SGS Essen,Turbine Potsdam,0.0,5.0
+,15,Bayern Múnich,Colonia,6.0,0.0
+11-02-2022,14,Turbine Potsdam,Bayer Leverkusen,4.0,2.0
+12-02-2022,14,SC Freiburg,Bayern Múnich,0.0,3.0
+13-02-2022,14,Hoffenheim,SGS Essen,2.0,1.0
+,14,Colonia,Eintracht Frankfurt,1.0,2.0
+,14,Werder Bremen,FC Carl Zeiss Jena,0.0,2.0
+16-03-2022,14,SC Sand,Wolfsburgo,1.0,2.0
+04-02-2022,13,Hoffenheim,Colonia,1.0,1.0
+05-02-2022,13,SGS Essen,Bayer Leverkusen,1.0,1.0
+06-02-2022,13,Eintracht Frankfurt,SC Freiburg,1.0,2.0
+,13,Wolfsburgo,Werder Bremen,3.0,1.0
+,13,Bayern Múnich,SC Sand,4.0,0.0
+,13,FC Carl Zeiss Jena,Turbine Potsdam,0.0,6.0
+17-12-2021,12,Colonia,SGS Essen,2.0,1.0
+18-12-2021,12,SC Freiburg,Hoffenheim,1.0,3.0
+19-12-2021,12,SC Sand,Eintracht Frankfurt,0.0,2.0
+,12,Bayer Leverkusen,FC Carl Zeiss Jena,2.0,0.0
+,12,Werder Bremen,Bayern Múnich,0.0,2.0
+29-01-2022,12,Turbine Potsdam,Wolfsburgo,0.0,3.0
+10-12-2021,11,SC Freiburg,Colonia,2.0,2.0
+11-12-2021,11,Bayer Leverkusen,Wolfsburgo,1.0,1.0
+12-12-2021,11,SC Sand,Hoffenheim,1.0,1.0
+,11,Turbine Potsdam,Bayern Múnich,1.0,1.0
+,11,FC Carl Zeiss Jena,SGS Essen,0.0,4.0
+,11,Werder Bremen,Eintracht Frankfurt,1.0,0.0
+03-12-2021,10,Eintracht Frankfurt,Turbine Potsdam,3.0,3.0
+04-12-2021,10,Bayern Múnich,Bayer Leverkusen,7.0,1.0
+05-12-2021,10,SGS Essen,SC Freiburg,0.0,1.0
+,10,Wolfsburgo,FC Carl Zeiss Jena,5.0,0.0
+,10,Hoffenheim,Werder Bremen,7.0,1.0
+,10,Colonia,SC Sand,1.0,0.0
+19-11-2021,9,Werder Bremen,Colonia,0.0,0.0
+20-11-2021,9,SC Sand,SC Freiburg,0.0,2.0
+21-11-2021,9,Turbine Potsdam,Hoffenheim,3.0,3.0
+,9,Bayern Múnich,FC Carl Zeiss Jena,3.0,0.0
+,9,Wolfsburgo,SGS Essen,5.0,1.0
+,9,Bayer Leverkusen,Eintracht Frankfurt,0.0,1.0
+12-11-2021,8,Eintracht Frankfurt,FC Carl Zeiss Jena,6.0,0.0
+13-11-2021,8,Bayern Múnich,Wolfsburgo,0.0,1.0
+14-11-2021,8,SC Freiburg,Werder Bremen,1.0,0.0
+,8,Hoffenheim,Bayer Leverkusen,7.0,1.0
+,8,SGS Essen,SC Sand,4.0,1.0
+,8,Colonia,Turbine Potsdam,1.0,3.0
+05-11-2021,7,Wolfsburgo,Eintracht Frankfurt,3.0,2.0
+06-11-2021,7,SGS Essen,Bayern Múnich,1.0,2.0
+07-11-2021,7,Werder Bremen,SC Sand,1.0,0.0
+,7,FC Carl Zeiss Jena,Hoffenheim,1.0,5.0
+,7,Turbine Potsdam,SC Freiburg,2.0,1.0
+,7,Bayer Leverkusen,Colonia,3.0,4.0
+15-10-2021,6,Werder Bremen,SGS Essen,1.0,0.0
+16-10-2021,6,SC Freiburg,Bayer Leverkusen,1.0,2.0
+17-10-2021,6,SC Sand,Turbine Potsdam,0.0,1.0
+,6,Hoffenheim,Wolfsburgo,2.0,1.0
+,6,Eintracht Frankfurt,Bayern Múnich,3.0,2.0
+,6,Colonia,FC Carl Zeiss Jena,2.0,0.0
+08-10-2021,5,Bayer Leverkusen,SC Sand,2.0,0.0
+09-10-2021,5,Bayern Múnich,Hoffenheim,3.0,1.0
+10-10-2021,5,Turbine Potsdam,Werder Bremen,5.0,0.0
+,5,FC Carl Zeiss Jena,SC Freiburg,1.0,5.0
+,5,SGS Essen,Eintracht Frankfurt,0.0,2.0
+,5,Wolfsburgo,Colonia,3.0,0.0
+01-10-2021,4,Colonia,Bayern Múnich,0.0,6.0
+02-10-2021,4,SC Freiburg,Wolfsburgo,2.0,2.0
+,4,Hoffenheim,Eintracht Frankfurt,2.0,1.0
+03-10-2021,4,SC Sand,FC Carl Zeiss Jena,0.0,0.0
+,4,Turbine Potsdam,SGS Essen,3.0,2.0
+,4,Werder Bremen,Bayer Leverkusen,0.0,3.0
+10-09-2021,3,Bayer Leverkusen,Turbine Potsdam,2.0,0.0
+11-09-2021,3,Eintracht Frankfurt,Colonia,4.0,0.0
+,3,Bayern Múnich,SC Freiburg,4.0,0.0
+12-09-2021,3,Wolfsburgo,SC Sand,4.0,0.0
+,3,FC Carl Zeiss Jena,Werder Bremen,1.0,1.0
+,3,SGS Essen,Hoffenheim,0.0,0.0
+03-09-2021,2,Turbine Potsdam,FC Carl Zeiss Jena,5.0,0.0
+04-09-2021,2,SC Sand,Bayern Múnich,0.0,3.0
+,2,Werder Bremen,Wolfsburgo,0.0,2.0
+05-09-2021,2,SC Freiburg,Eintracht Frankfurt,0.0,1.0
+,2,Bayer Leverkusen,SGS Essen,1.0,2.0
+,2,Colonia,Hoffenheim,1.0,2.0
+27-08-2021,1,Hoffenheim,SC Freiburg,2.0,1.0
+28-08-2021,1,Wolfsburgo,Turbine Potsdam,3.0,0.0
+,1,SGS Essen,Colonia,1.0,1.0
+29-08-2021,1,Eintracht Frankfurt,SC Sand,2.0,1.0
+,1,FC Carl Zeiss Jena,Bayer Leverkusen,0.0,3.0
+,1,Bayern Múnich,Werder Bremen,8.0,0.0
+06-06-2021,22,SC Sand,Bayer Leverkusen,1.0,0.0
+,22,SC Freiburg,SV Meppen,5.0,0.0
+,22,MSV Duisburg,Hoffenheim,1.0,3.0
+,22,Turbine Potsdam,SGS Essen,2.0,2.0
+,22,Wolfsburgo,Werder Bremen,8.0,0.0
+,22,Bayern Múnich,Eintracht Frankfurt,4.0,0.0
+23-05-2021,21,Bayer Leverkusen,Bayern Múnich,0.0,4.0
+,21,Eintracht Frankfurt,Wolfsburgo,2.0,3.0
+,21,Werder Bremen,Turbine Potsdam,0.0,2.0
+,21,SGS Essen,MSV Duisburg,2.0,3.0
+,21,Hoffenheim,SC Freiburg,4.0,2.0
+,21,SV Meppen,SC Sand,0.0,2.0
+07-05-2021,20,Hoffenheim,SC Sand,0.0,0.0
+09-05-2021,20,Wolfsburgo,Bayern Múnich,1.0,1.0
+,20,Bayer Leverkusen,SV Meppen,2.0,2.0
+,20,SC Freiburg,SGS Essen,3.0,1.0
+,20,MSV Duisburg,Werder Bremen,1.0,2.0
+16-05-2021,20,Turbine Potsdam,Eintracht Frankfurt,2.0,1.0
+05-02-2021,19,Wolfsburgo,Turbine Potsdam,3.0,2.0
+07-02-2021,19,Hoffenheim,Bayer Leverkusen,6.0,0.0
+,19,Bayern Múnich,SV Meppen,7.0,1.0
+17-03-2021,19,Werder Bremen,SC Freiburg,2.0,1.0
+21-03-2021,19,SGS Essen,SC Sand,0.0,0.0
+31-03-2021,19,Eintracht Frankfurt,MSV Duisburg,3.0,0.0
+21-04-2021,18,Turbine Potsdam,Bayern Múnich,2.0,3.0
+23-04-2021,18,Bayer Leverkusen,SGS Essen,2.0,1.0
+25-04-2021,18,MSV Duisburg,Wolfsburgo,0.0,4.0
+,18,SV Meppen,Hoffenheim,1.0,0.0
+,18,SC Sand,Werder Bremen,6.0,1.0
+,18,SC Freiburg,Eintracht Frankfurt,0.0,3.0
+17-04-2021,17,Bayern Múnich,Hoffenheim,2.0,3.0
+18-04-2021,17,Werder Bremen,Bayer Leverkusen,2.0,1.0
+,17,SGS Essen,SV Meppen,3.0,1.0
+,17,Turbine Potsdam,MSV Duisburg,1.0,0.0
+,17,Wolfsburgo,SC Freiburg,3.0,2.0
+,17,Eintracht Frankfurt,SC Sand,4.0,0.0
+26-03-2021,16,Bayer Leverkusen,Eintracht Frankfurt,3.0,2.0
+28-03-2021,16,MSV Duisburg,Bayern Múnich,0.0,6.0
+,16,SC Sand,Wolfsburgo,1.0,3.0
+,16,SC Freiburg,Turbine Potsdam,1.0,0.0
+,16,Hoffenheim,SGS Essen,0.0,1.0
+,16,SV Meppen,Werder Bremen,3.0,2.0
+12-03-2021,15,Eintracht Frankfurt,SV Meppen,1.0,1.0
+14-03-2021,15,Wolfsburgo,Bayer Leverkusen,2.0,0.0
+,15,Werder Bremen,Hoffenheim,0.0,2.0
+,15,Bayern Múnich,SGS Essen,3.0,0.0
+,15,MSV Duisburg,SC Freiburg,1.0,2.0
+,15,Turbine Potsdam,SC Sand,5.0,2.0
+05-03-2021,14,Bayer Leverkusen,Turbine Potsdam,4.0,2.0
+06-03-2021,14,SGS Essen,Werder Bremen,2.0,1.0
+07-03-2021,14,SC Freiburg,Bayern Múnich,1.0,5.0
+,14,SV Meppen,Wolfsburgo,0.0,4.0
+,14,Hoffenheim,Eintracht Frankfurt,2.0,0.0
+17-03-2021,14,SC Sand,MSV Duisburg,1.0,1.0
+14-02-2021,13,Bayern Múnich,Werder Bremen,7.0,0.0
+,13,Wolfsburgo,Hoffenheim,1.0,0.0
+03-03-2021,13,SC Freiburg,SC Sand,2.0,1.0
+17-03-2021,13,Turbine Potsdam,SV Meppen,4.0,1.0
+21-03-2021,13,MSV Duisburg,Bayer Leverkusen,0.0,2.0
+05-05-2021,13,Eintracht Frankfurt,SGS Essen,3.0,1.0
+18-12-2020,12,SV Meppen,MSV Duisburg,0.0,0.0
+20-12-2020,12,SGS Essen,Wolfsburgo,0.0,2.0
+,12,SC Sand,Bayern Múnich,0.0,8.0
+,12,Hoffenheim,Turbine Potsdam,5.0,0.0
+,12,Bayer Leverkusen,SC Freiburg,2.0,1.0
+,12,Werder Bremen,Eintracht Frankfurt,0.0,5.0
+11-12-2020,11,SGS Essen,Turbine Potsdam,1.0,2.0
+13-12-2020,11,Bayer Leverkusen,SC Sand,2.0,1.0
+,11,SV Meppen,SC Freiburg,0.0,1.0
+,11,Hoffenheim,MSV Duisburg,7.0,0.0
+,11,Werder Bremen,Wolfsburgo,1.0,5.0
+,11,Eintracht Frankfurt,Bayern Múnich,0.0,1.0
+20-11-2020,10,Wolfsburgo,Eintracht Frankfurt,3.0,0.0
+21-11-2020,10,MSV Duisburg,SGS Essen,1.0,6.0
+22-11-2020,10,SC Freiburg,Hoffenheim,1.0,5.0
+,10,SC Sand,SV Meppen,1.0,2.0
+06-12-2020,10,Bayern Múnich,Bayer Leverkusen,1.0,0.0
+10-03-2021,10,Turbine Potsdam,Werder Bremen,0.0,0.0
+13-11-2020,9,Eintracht Frankfurt,Turbine Potsdam,0.0,1.0
+14-11-2020,9,Werder Bremen,MSV Duisburg,5.0,3.0
+15-11-2020,9,Bayern Múnich,Wolfsburgo,4.0,1.0
+,9,SV Meppen,Bayer Leverkusen,0.0,3.0
+,9,SC Sand,Hoffenheim,0.0,3.0
+,9,SGS Essen,SC Freiburg,0.0,0.0
+06-11-2020,8,Turbine Potsdam,Wolfsburgo,0.0,5.0
+08-11-2020,8,Bayer Leverkusen,Hoffenheim,2.0,5.0
+,8,SV Meppen,Bayern Múnich,0.0,3.0
+,8,MSV Duisburg,Eintracht Frankfurt,0.0,3.0
+,8,SC Freiburg,Werder Bremen,2.0,1.0
+,8,SC Sand,SGS Essen,1.0,3.0
+16-10-2020,7,Eintracht Frankfurt,SC Freiburg,0.0,1.0
+18-10-2020,7,Bayern Múnich,Turbine Potsdam,3.0,0.0
+,7,Wolfsburgo,MSV Duisburg,5.0,2.0
+,7,Hoffenheim,SV Meppen,1.0,0.0
+,7,SGS Essen,Bayer Leverkusen,0.0,0.0
+,7,Werder Bremen,SC Sand,1.0,0.0
+10-10-2020,6,MSV Duisburg,Turbine Potsdam,2.0,3.0
+11-10-2020,6,Bayer Leverkusen,Werder Bremen,3.0,0.0
+,6,SV Meppen,SGS Essen,1.0,3.0
+,6,Hoffenheim,Bayern Múnich,0.0,4.0
+,6,SC Freiburg,Wolfsburgo,1.0,1.0
+,6,SC Sand,Eintracht Frankfurt,3.0,2.0
+07-10-2020,5,Turbine Potsdam,SC Freiburg,3.0,0.0
+,5,Bayern Múnich,MSV Duisburg,3.0,0.0
+,5,Wolfsburgo,SC Sand,4.0,0.0
+,5,SGS Essen,Hoffenheim,0.0,3.0
+,5,Eintracht Frankfurt,Bayer Leverkusen,2.0,2.0
+14-10-2020,5,Werder Bremen,SV Meppen,2.0,1.0
+02-10-2020,4,Hoffenheim,Werder Bremen,3.0,1.0
+04-10-2020,4,Bayer Leverkusen,Wolfsburgo,0.0,4.0
+,4,SV Meppen,Eintracht Frankfurt,0.0,4.0
+,4,SGS Essen,Bayern Múnich,0.0,2.0
+,4,SC Freiburg,MSV Duisburg,0.0,0.0
+,4,SC Sand,Turbine Potsdam,0.0,3.0
+26-09-2020,3,Bayern Múnich,SC Freiburg,1.0,0.0
+27-09-2020,3,Wolfsburgo,SV Meppen,2.0,0.0
+,3,Turbine Potsdam,Bayer Leverkusen,2.0,0.0
+,3,MSV Duisburg,SC Sand,0.0,1.0
+,3,Werder Bremen,SGS Essen,1.0,3.0
+,3,Eintracht Frankfurt,Hoffenheim,0.0,0.0
+11-09-2020,2,Bayer Leverkusen,MSV Duisburg,2.0,0.0
+13-09-2020,2,SV Meppen,Turbine Potsdam,2.0,2.0
+,2,Hoffenheim,Wolfsburgo,1.0,4.0
+,2,SGS Essen,Eintracht Frankfurt,1.0,3.0
+,2,Werder Bremen,Bayern Múnich,0.0,4.0
+,2,SC Sand,SC Freiburg,0.0,3.0
+04-09-2020,1,Wolfsburgo,SGS Essen,3.0,0.0
+06-09-2020,1,Bayern Múnich,SC Sand,6.0,0.0
+,1,Turbine Potsdam,Hoffenheim,3.0,1.0
+,1,MSV Duisburg,SV Meppen,0.0,0.0
+,1,SC Freiburg,Bayer Leverkusen,1.0,2.0
+,1,Eintracht Frankfurt,Werder Bremen,5.0,1.0
+28-06-2020,22,Turbine Potsdam,Hoffenheim,2.0,1.0
+,22,FF USV Jena,MSV Duisburg,0.0,2.0
+,22,Colonia,SC Sand,1.0,0.0
+,22,Wolfsburgo,Bayer Leverkusen,5.0,0.0
+,22,SGS Essen,Bayern Múnich,0.0,3.0
+,22,1. FFC Frankfurt,SC Freiburg,0.0,2.0
+21-06-2020,21,Hoffenheim,1. FFC Frankfurt,4.0,0.0
+,21,SC Freiburg,SGS Essen,1.0,2.0
+,21,Bayern Múnich,Wolfsburgo,0.0,0.0
+,21,Bayer Leverkusen,Colonia,3.0,1.0
+,21,SC Sand,FF USV Jena,4.0,2.0
+,21,MSV Duisburg,Turbine Potsdam,0.0,0.0
+17-06-2020,20,Turbine Potsdam,SC Sand,2.0,1.0
+,20,Colonia,Bayern Múnich,0.0,4.0
+,20,Wolfsburgo,SC Freiburg,2.0,0.0
+,20,FF USV Jena,Bayer Leverkusen,0.0,0.0
+,20,Hoffenheim,MSV Duisburg,3.0,0.0
+,20,SGS Essen,1. FFC Frankfurt,2.0,1.0
+12-06-2020,19,1. FFC Frankfurt,MSV Duisburg,5.0,1.0
+13-06-2020,19,SGS Essen,Wolfsburgo,0.0,3.0
+14-06-2020,19,SC Sand,Hoffenheim,0.0,6.0
+,19,SC Freiburg,Colonia,6.0,1.0
+,19,Bayern Múnich,FF USV Jena,2.0,0.0
+,19,Bayer Leverkusen,Turbine Potsdam,1.0,5.0
+05-06-2020,18,Hoffenheim,Bayer Leverkusen,4.0,1.0
+06-06-2020,18,Wolfsburgo,1. FFC Frankfurt,5.0,1.0
+07-06-2020,18,Colonia,SGS Essen,1.0,0.0
+,18,MSV Duisburg,SC Sand,0.0,2.0
+,18,Turbine Potsdam,Bayern Múnich,1.0,5.0
+,18,SC Freiburg,FF USV Jena,6.0,0.0
+29-05-2020,17,Wolfsburgo,Colonia,4.0,0.0
+,17,1. FFC Frankfurt,SC Sand,3.0,1.0
+30-05-2020,17,Bayern Múnich,Hoffenheim,3.0,0.0
+,17,SC Freiburg,Turbine Potsdam,3.0,2.0
+,17,Bayer Leverkusen,MSV Duisburg,0.0,2.0
+24-06-2020,17,SGS Essen,FF USV Jena,1.0,1.0
+28-02-2020,16,Turbine Potsdam,SGS Essen,1.0,0.0
+01-03-2020,16,Colonia,1. FFC Frankfurt,1.0,4.0
+,16,FF USV Jena,Wolfsburgo,0.0,6.0
+,16,SC Sand,Bayer Leverkusen,1.0,0.0
+,16,MSV Duisburg,Bayern Múnich,2.0,2.0
+,16,Hoffenheim,SC Freiburg,4.0,1.0
+21-02-2020,15,Wolfsburgo,Turbine Potsdam,5.0,1.0
+22-02-2020,15,SGS Essen,Hoffenheim,3.0,2.0
+23-02-2020,15,SC Freiburg,MSV Duisburg,2.0,2.0
+,15,Bayern Múnich,SC Sand,3.0,1.0
+,15,1. FFC Frankfurt,Bayer Leverkusen,3.0,1.0
+10-06-2020,15,Colonia,FF USV Jena,1.0,0.0
+14-02-2020,14,Hoffenheim,Wolfsburgo,2.0,5.0
+16-02-2020,14,FF USV Jena,1. FFC Frankfurt,2.0,3.0
+,14,MSV Duisburg,SGS Essen,0.0,4.0
+,14,Turbine Potsdam,Colonia,5.0,0.0
+,14,Bayer Leverkusen,Bayern Múnich,0.0,3.0
+,14,SC Sand,SC Freiburg,0.0,2.0
+13-12-2019,13,1. FFC Frankfurt,Bayern Múnich,2.0,3.0
+14-12-2019,13,Wolfsburgo,MSV Duisburg,4.0,0.0
+15-12-2019,13,Colonia,Hoffenheim,0.0,1.0
+,13,SGS Essen,SC Sand,5.0,2.0
+,13,SC Freiburg,Bayer Leverkusen,1.0,1.0
+,13,FF USV Jena,Turbine Potsdam,1.0,6.0
+06-12-2019,12,Bayern Múnich,SC Freiburg,2.0,0.0
+07-12-2019,12,Turbine Potsdam,1. FFC Frankfurt,4.0,3.0
+08-12-2019,12,Bayer Leverkusen,SGS Essen,2.0,0.0
+,12,SC Sand,Wolfsburgo,0.0,4.0
+,12,Hoffenheim,FF USV Jena,2.0,0.0
+04-06-2020,12,MSV Duisburg,Colonia,1.0,1.0
+29-11-2019,11,Bayer Leverkusen,Wolfsburgo,0.0,7.0
+30-11-2019,11,MSV Duisburg,FF USV Jena,0.0,0.0
+01-12-2019,11,Hoffenheim,Turbine Potsdam,5.0,1.0
+,11,SC Sand,Colonia,2.0,1.0
+,11,Bayern Múnich,SGS Essen,2.0,0.0
+,11,SC Freiburg,1. FFC Frankfurt,3.0,3.0
+22-11-2019,10,1. FFC Frankfurt,Hoffenheim,2.0,2.0
+23-11-2019,10,SGS Essen,SC Freiburg,5.0,0.0
+,10,Wolfsburgo,Bayern Múnich,1.0,1.0
+,10,Colonia,Bayer Leverkusen,4.0,3.0
+,10,FF USV Jena,SC Sand,0.0,2.0
+24-11-2019,10,Turbine Potsdam,MSV Duisburg,2.0,1.0
+01-11-2019,9,1. FFC Frankfurt,SGS Essen,1.0,1.0
+03-11-2019,9,MSV Duisburg,Hoffenheim,0.0,4.0
+,9,SC Sand,Turbine Potsdam,0.0,4.0
+,9,Bayer Leverkusen,FF USV Jena,2.0,0.0
+,9,Bayern Múnich,Colonia,5.0,2.0
+,9,SC Freiburg,Wolfsburgo,0.0,8.0
+25-10-2019,8,Turbine Potsdam,Bayer Leverkusen,1.0,0.0
+26-10-2019,8,Wolfsburgo,SGS Essen,5.0,1.0
+27-10-2019,8,FF USV Jena,Bayern Múnich,0.0,3.0
+,8,Hoffenheim,SC Sand,1.0,0.0
+,8,MSV Duisburg,1. FFC Frankfurt,1.0,2.0
+,8,Colonia,SC Freiburg,2.0,4.0
+18-10-2019,7,Bayer Leverkusen,Hoffenheim,1.0,3.0
+20-10-2019,7,1. FFC Frankfurt,Wolfsburgo,0.0,3.0
+,7,SGS Essen,Colonia,3.0,1.0
+,7,SC Sand,MSV Duisburg,0.0,2.0
+,7,Bayern Múnich,Turbine Potsdam,3.0,1.0
+,7,SC Freiburg,FF USV Jena,4.0,0.0
+11-10-2019,6,Colonia,Wolfsburgo,0.0,5.0
+12-10-2019,6,Hoffenheim,Bayern Múnich,1.0,0.0
+13-10-2019,6,MSV Duisburg,Bayer Leverkusen,2.0,1.0
+,6,SC Sand,1. FFC Frankfurt,3.0,0.0
+,6,FF USV Jena,SGS Essen,1.0,7.0
+,6,Turbine Potsdam,SC Freiburg,4.0,5.0
+27-09-2019,5,Bayer Leverkusen,SC Sand,1.0,2.0
+28-09-2019,5,SGS Essen,Turbine Potsdam,2.0,0.0
+29-09-2019,5,1. FFC Frankfurt,Colonia,1.0,0.0
+,5,Wolfsburgo,FF USV Jena,8.0,1.0
+,5,Bayern Múnich,MSV Duisburg,4.0,0.0
+,5,SC Freiburg,Hoffenheim,1.0,5.0
+20-09-2019,4,Hoffenheim,SGS Essen,7.0,0.0
+21-09-2019,4,Turbine Potsdam,Wolfsburgo,0.0,3.0
+22-09-2019,4,MSV Duisburg,SC Freiburg,0.0,1.0
+,4,SC Sand,Bayern Múnich,0.0,5.0
+,4,Bayer Leverkusen,1. FFC Frankfurt,1.0,3.0
+,4,FF USV Jena,Colonia,2.0,2.0
+13-09-2019,3,Colonia,Turbine Potsdam,1.0,2.0
+15-09-2019,3,1. FFC Frankfurt,FF USV Jena,4.0,2.0
+,3,SGS Essen,MSV Duisburg,2.0,1.0
+,3,Wolfsburgo,Hoffenheim,3.0,0.0
+,3,Bayern Múnich,Bayer Leverkusen,1.0,2.0
+,3,SC Freiburg,SC Sand,0.0,0.0
+23-08-2019,2,Bayern Múnich,1. FFC Frankfurt,3.0,0.0
+24-08-2019,2,Hoffenheim,Colonia,4.0,0.0
+25-08-2019,2,MSV Duisburg,Wolfsburgo,1.0,6.0
+,2,SC Sand,SGS Essen,3.0,0.0
+,2,Bayer Leverkusen,SC Freiburg,1.0,0.0
+,2,Turbine Potsdam,FF USV Jena,6.0,2.0
+16-08-2019,1,1. FFC Frankfurt,Turbine Potsdam,3.0,2.0
+17-08-2019,1,FF USV Jena,Hoffenheim,1.0,6.0
+,1,SC Freiburg,Bayern Múnich,1.0,3.0
+18-08-2019,1,SGS Essen,Bayer Leverkusen,3.0,1.0
+,1,Wolfsburgo,SC Sand,1.0,0.0
+,1,Colonia,MSV Duisburg,2.0,1.0
+12-05-2019,22,SC Freiburg,Werder Bremen,1.0,1.0
+,22,Bor. Mönchengladbach,Bayern Múnich,0.0,5.0
+,22,Bayer Leverkusen,SGS Essen,2.0,1.0
+,22,MSV Duisburg,1. FFC Frankfurt,0.0,2.0
+,22,Wolfsburgo,Turbine Potsdam,2.0,0.0
+,22,SC Sand,Hoffenheim,2.0,2.0
+05-05-2019,21,Werder Bremen,SC Sand,1.0,3.0
+,21,Hoffenheim,Wolfsburgo,0.0,1.0
+,21,Turbine Potsdam,MSV Duisburg,3.0,0.0
+,21,1. FFC Frankfurt,Bayer Leverkusen,4.0,2.0
+,21,SGS Essen,Bor. Mönchengladbach,3.0,0.0
+,21,Bayern Múnich,SC Freiburg,3.0,0.0
+28-04-2019,20,Bor. Mönchengladbach,1. FFC Frankfurt,0.0,9.0
+,20,Wolfsburgo,SC Sand,7.0,0.0
+,20,SC Freiburg,SGS Essen,1.0,2.0
+,20,Bayer Leverkusen,Turbine Potsdam,1.0,1.0
+,20,MSV Duisburg,Hoffenheim,2.0,2.0
+08-05-2019,20,Werder Bremen,Bayern Múnich,0.0,1.0
+17-04-2019,19,SC Sand,Bayern Múnich,1.0,1.0
+20-04-2019,19,1. FFC Frankfurt,SC Freiburg,0.0,0.0
+,19,Hoffenheim,Bayer Leverkusen,6.0,2.0
+21-04-2019,19,Turbine Potsdam,Bor. Mönchengladbach,6.0,0.0
+22-04-2019,19,Wolfsburgo,MSV Duisburg,5.0,0.0
+,19,SGS Essen,Werder Bremen,2.0,2.0
+14-04-2019,18,MSV Duisburg,SC Sand,2.0,2.0
+,18,Werder Bremen,1. FFC Frankfurt,2.0,1.0
+,18,Bor. Mönchengladbach,Hoffenheim,0.0,4.0
+,18,SC Freiburg,Turbine Potsdam,1.0,2.0
+,18,Bayer Leverkusen,Wolfsburgo,0.0,5.0
+,18,Bayern Múnich,SGS Essen,2.0,2.0
+23-03-2019,17,Hoffenheim,SC Freiburg,2.0,1.0
+24-03-2019,17,SC Sand,SGS Essen,0.0,1.0
+,17,Turbine Potsdam,Werder Bremen,5.0,0.0
+,17,MSV Duisburg,Bayer Leverkusen,1.0,0.0
+,17,Wolfsburgo,Bor. Mönchengladbach,8.0,0.0
+,17,1. FFC Frankfurt,Bayern Múnich,0.0,3.0
+16-03-2019,16,SGS Essen,1. FFC Frankfurt,4.0,3.0
+17-03-2019,16,Werder Bremen,Hoffenheim,1.0,1.0
+,16,SC Freiburg,Wolfsburgo,2.0,3.0
+,16,Bayern Múnich,Turbine Potsdam,5.0,0.0
+,16,Bayer Leverkusen,SC Sand,1.0,1.0
+27-03-2019,16,Bor. Mönchengladbach,MSV Duisburg,0.0,1.0
+23-02-2019,15,Turbine Potsdam,SGS Essen,2.0,2.0
+,15,Bayer Leverkusen,Bor. Mönchengladbach,3.0,0.0
+,15,MSV Duisburg,SC Freiburg,1.0,6.0
+24-02-2019,15,SC Sand,1. FFC Frankfurt,0.0,1.0
+,15,Wolfsburgo,Werder Bremen,6.0,0.0
+,15,Hoffenheim,Bayern Múnich,0.0,1.0
+17-02-2019,14,Bor. Mönchengladbach,SC Sand,1.0,4.0
+,14,1. FFC Frankfurt,Turbine Potsdam,3.0,3.0
+,14,Werder Bremen,MSV Duisburg,5.0,0.0
+,14,SC Freiburg,Bayer Leverkusen,6.0,0.0
+,14,SGS Essen,Hoffenheim,2.0,2.0
+,14,Bayern Múnich,Wolfsburgo,4.0,2.0
+16-12-2018,13,Bor. Mönchengladbach,SC Freiburg,0.0,2.0
+,13,Bayer Leverkusen,Werder Bremen,1.0,0.0
+,13,MSV Duisburg,Bayern Múnich,0.0,4.0
+,13,Wolfsburgo,SGS Essen,0.0,0.0
+10-02-2019,13,Hoffenheim,1. FFC Frankfurt,0.0,1.0
+,13,SC Sand,Turbine Potsdam,2.0,3.0
+09-12-2018,12,1. FFC Frankfurt,Wolfsburgo,2.0,6.0
+,12,Werder Bremen,Bor. Mönchengladbach,5.0,0.0
+,12,SC Freiburg,SC Sand,2.0,2.0
+,12,SGS Essen,MSV Duisburg,6.0,0.0
+,12,Bayern Múnich,Bayer Leverkusen,8.0,0.0
+,12,Turbine Potsdam,Hoffenheim,1.0,1.0
+05-12-2018,11,Werder Bremen,SC Freiburg,0.0,3.0
+,11,Bayern Múnich,Bor. Mönchengladbach,9.0,0.0
+,11,1. FFC Frankfurt,MSV Duisburg,0.0,0.0
+,11,Hoffenheim,SC Sand,4.0,0.0
+,11,Turbine Potsdam,Wolfsburgo,1.0,1.0
+,11,SGS Essen,Bayer Leverkusen,5.0,0.0
+02-12-2018,10,SC Sand,Werder Bremen,2.0,0.0
+,10,Bor. Mönchengladbach,SGS Essen,0.0,6.0
+,10,SC Freiburg,Bayern Múnich,1.0,2.0
+,10,MSV Duisburg,Turbine Potsdam,1.0,8.0
+,10,Bayer Leverkusen,1. FFC Frankfurt,0.0,3.0
+,10,Wolfsburgo,Hoffenheim,3.0,1.0
+24-11-2018,9,SGS Essen,SC Freiburg,2.0,2.0
+,9,1. FFC Frankfurt,Bor. Mönchengladbach,8.0,0.0
+25-11-2018,9,Hoffenheim,MSV Duisburg,3.0,3.0
+,9,SC Sand,Wolfsburgo,0.0,9.0
+,9,Bayern Múnich,Werder Bremen,4.0,1.0
+,9,Turbine Potsdam,Bayer Leverkusen,3.0,0.0
+03-11-2018,8,Bayer Leverkusen,Hoffenheim,0.0,3.0
+04-11-2018,8,Bor. Mönchengladbach,Turbine Potsdam,0.0,7.0
+,8,Werder Bremen,SGS Essen,1.0,1.0
+,8,MSV Duisburg,Wolfsburgo,1.0,2.0
+,8,SC Freiburg,1. FFC Frankfurt,3.0,4.0
+,8,Bayern Múnich,SC Sand,1.0,1.0
+27-10-2018,7,Wolfsburgo,Bayer Leverkusen,7.0,0.0
+28-10-2018,7,SC Sand,MSV Duisburg,1.0,0.0
+,7,1. FFC Frankfurt,Werder Bremen,2.0,1.0
+,7,Hoffenheim,Bor. Mönchengladbach,4.0,1.0
+,7,SGS Essen,Bayern Múnich,0.0,2.0
+,7,Turbine Potsdam,SC Freiburg,2.0,0.0
+24-10-2018,6,SC Freiburg,Hoffenheim,3.0,2.0
+,6,Bayern Múnich,1. FFC Frankfurt,3.0,1.0
+,6,Werder Bremen,Turbine Potsdam,0.0,4.0
+,6,SGS Essen,SC Sand,1.0,0.0
+,6,Bor. Mönchengladbach,Wolfsburgo,0.0,7.0
+,6,Bayer Leverkusen,MSV Duisburg,4.0,1.0
+21-10-2018,5,1. FFC Frankfurt,SGS Essen,1.0,1.0
+,5,Hoffenheim,Werder Bremen,4.0,0.0
+,5,Wolfsburgo,SC Freiburg,3.0,0.0
+,5,SC Sand,Bayer Leverkusen,3.0,0.0
+,5,MSV Duisburg,Bor. Mönchengladbach,3.0,1.0
+,5,Turbine Potsdam,Bayern Múnich,1.0,1.0
+13-10-2018,4,Bayern Múnich,Hoffenheim,2.0,1.0
+14-10-2018,4,1. FFC Frankfurt,SC Sand,1.0,0.0
+,4,Bor. Mönchengladbach,Bayer Leverkusen,4.0,4.0
+,4,Werder Bremen,Wolfsburgo,0.0,3.0
+,4,SGS Essen,Turbine Potsdam,3.0,2.0
+,4,SC Freiburg,MSV Duisburg,0.0,2.0
+29-09-2018,3,Turbine Potsdam,1. FFC Frankfurt,3.0,1.0
+30-09-2018,3,Hoffenheim,SGS Essen,1.0,2.0
+,3,SC Sand,Bor. Mönchengladbach,5.0,0.0
+,3,Wolfsburgo,Bayern Múnich,6.0,0.0
+,3,MSV Duisburg,Werder Bremen,3.0,0.0
+,3,Bayer Leverkusen,SC Freiburg,0.0,3.0
+23-09-2018,2,1. FFC Frankfurt,Hoffenheim,1.0,4.0
+,2,Bayern Múnich,MSV Duisburg,4.0,0.0
+,2,Werder Bremen,Bayer Leverkusen,0.0,1.0
+,2,Turbine Potsdam,SC Sand,2.0,0.0
+,2,SC Freiburg,Bor. Mönchengladbach,4.0,0.0
+,2,SGS Essen,Wolfsburgo,0.0,5.0
+15-09-2018,1,MSV Duisburg,SGS Essen,0.0,4.0
+16-09-2018,1,Bor. Mönchengladbach,Werder Bremen,0.0,3.0
+,1,Hoffenheim,Turbine Potsdam,1.0,0.0
+,1,Wolfsburgo,1. FFC Frankfurt,3.0,0.0
+,1,SC Sand,SC Freiburg,0.0,0.0
+,1,Bayer Leverkusen,Bayern Múnich,1.0,10.0
+03-06-2018,22,MSV Duisburg,FF USV Jena,1.0,0.0
+,22,Turbine Potsdam,SC Sand,3.0,1.0
+,22,Werder Bremen,Hoffenheim,0.0,4.0
+,22,Wolfsburgo,Colonia,0.0,0.0
+,22,1. FFC Frankfurt,Bayern Múnich,0.0,1.0
+,22,SC Freiburg,SGS Essen,1.0,1.0
+27-05-2018,21,FF USV Jena,SC Freiburg,0.0,4.0
+,21,SGS Essen,1. FFC Frankfurt,3.0,1.0
+,21,Bayern Múnich,Wolfsburgo,2.0,1.0
+,21,Colonia,Werder Bremen,0.0,2.0
+,21,Hoffenheim,Turbine Potsdam,0.0,4.0
+,21,SC Sand,MSV Duisburg,4.0,0.0
+13-05-2018,20,1. FFC Frankfurt,SC Freiburg,1.0,2.0
+,20,FF USV Jena,SC Sand,0.0,1.0
+,20,MSV Duisburg,Hoffenheim,2.0,0.0
+,20,Turbine Potsdam,Colonia,4.0,2.0
+,20,Wolfsburgo,SGS Essen,2.0,0.0
+,20,Werder Bremen,Bayern Múnich,2.0,7.0
+06-05-2018,19,SC Freiburg,SC Sand,3.0,0.0
+,19,1. FFC Frankfurt,Wolfsburgo,0.0,2.0
+,19,Hoffenheim,FF USV Jena,2.0,3.0
+,19,SGS Essen,Werder Bremen,6.0,2.0
+,19,Bayern Múnich,Turbine Potsdam,5.0,0.0
+,19,Colonia,MSV Duisburg,0.0,2.0
+29-04-2018,18,Werder Bremen,1. FFC Frankfurt,0.0,1.0
+,18,SC Sand,Hoffenheim,0.0,0.0
+,18,FF USV Jena,Colonia,0.0,0.0
+,18,MSV Duisburg,Bayern Múnich,1.0,3.0
+,18,Turbine Potsdam,SGS Essen,1.0,2.0
+09-05-2018,18,Wolfsburgo,SC Freiburg,2.0,0.0
+22-04-2018,17,Colonia,SC Sand,0.0,6.0
+,17,1. FFC Frankfurt,Turbine Potsdam,0.0,1.0
+,17,Hoffenheim,SC Freiburg,0.0,1.0
+,17,Bayern Múnich,FF USV Jena,0.0,0.0
+,17,SGS Essen,MSV Duisburg,3.0,1.0
+02-05-2018,17,Werder Bremen,Wolfsburgo,0.0,5.0
+29-03-2018,16,Hoffenheim,Colonia,0.0,1.0
+31-03-2018,16,Werder Bremen,SC Freiburg,0.0,3.0
+01-04-2018,16,SC Sand,Bayern Múnich,0.0,4.0
+,16,MSV Duisburg,1. FFC Frankfurt,2.0,0.0
+,16,FF USV Jena,SGS Essen,0.0,1.0
+,16,Turbine Potsdam,Wolfsburgo,0.0,1.0
+24-03-2018,15,Bayern Múnich,Hoffenheim,1.0,0.0
+25-03-2018,15,1. FFC Frankfurt,FF USV Jena,4.0,2.0
+,15,SGS Essen,SC Sand,3.0,0.0
+,15,SC Freiburg,Colonia,6.0,0.0
+,15,Werder Bremen,Turbine Potsdam,1.0,5.0
+,15,Wolfsburgo,MSV Duisburg,1.0,0.0
+18-03-2018,14,MSV Duisburg,Werder Bremen,1.0,0.0
+,14,Colonia,Bayern Múnich,0.0,8.0
+28-03-2018,14,SC Sand,1. FFC Frankfurt,3.0,2.0
+18-04-2018,14,Turbine Potsdam,SC Freiburg,1.0,0.0
+,14,Hoffenheim,SGS Essen,3.0,1.0
+25-04-2018,14,FF USV Jena,Wolfsburgo,0.0,4.0
+24-02-2018,13,SC Freiburg,Bayern Múnich,2.0,0.0
+,13,Wolfsburgo,SC Sand,2.0,0.0
+,13,1. FFC Frankfurt,Hoffenheim,2.0,0.0
+,13,SGS Essen,Colonia,4.0,1.0
+25-02-2018,13,Werder Bremen,FF USV Jena,1.0,1.0
+28-03-2018,13,Turbine Potsdam,MSV Duisburg,2.0,0.0
+18-02-2018,12,Colonia,1. FFC Frankfurt,0.0,3.0
+,12,SC Sand,Werder Bremen,2.0,2.0
+,12,MSV Duisburg,SC Freiburg,2.0,1.0
+,12,FF USV Jena,Turbine Potsdam,0.0,5.0
+,12,Bayern Múnich,SGS Essen,2.0,1.0
+,12,Hoffenheim,Wolfsburgo,0.0,1.0
+17-12-2017,11,SC Sand,Turbine Potsdam,1.0,2.0
+,11,Hoffenheim,Werder Bremen,2.0,0.0
+,11,Colonia,Wolfsburgo,0.0,6.0
+,11,Bayern Múnich,1. FFC Frankfurt,3.0,0.0
+04-02-2018,11,SGS Essen,SC Freiburg,0.0,3.0
+11-02-2018,11,FF USV Jena,MSV Duisburg,3.0,0.0
+10-12-2017,10,SC Freiburg,FF USV Jena,5.0,0.0
+,10,Werder Bremen,Colonia,7.0,0.0
+,10,Turbine Potsdam,Hoffenheim,2.0,0.0
+11-12-2017,10,Wolfsburgo,Bayern Múnich,3.0,1.0
+04-02-2018,10,MSV Duisburg,SC Sand,0.0,2.0
+11-02-2018,10,1. FFC Frankfurt,SGS Essen,0.0,1.0
+19-11-2017,9,SC Sand,FF USV Jena,1.0,0.0
+,9,Hoffenheim,MSV Duisburg,1.0,0.0
+,9,Bayern Múnich,Werder Bremen,4.0,1.0
+,9,SC Freiburg,1. FFC Frankfurt,0.0,3.0
+,9,Colonia,Turbine Potsdam,0.0,8.0
+,9,SGS Essen,Wolfsburgo,0.0,4.0
+12-11-2017,8,FF USV Jena,Hoffenheim,0.0,3.0
+,8,SC Sand,SC Freiburg,2.0,2.0
+,8,Turbine Potsdam,Bayern Múnich,2.0,2.0
+,8,Werder Bremen,SGS Essen,0.0,0.0
+,8,MSV Duisburg,Colonia,0.0,1.0
+,8,Wolfsburgo,1. FFC Frankfurt,1.0,0.0
+04-11-2017,7,SC Freiburg,Wolfsburgo,1.0,0.0
+05-11-2017,7,1. FFC Frankfurt,Werder Bremen,4.0,0.0
+,7,Hoffenheim,SC Sand,1.0,0.0
+,7,Colonia,FF USV Jena,1.0,0.0
+,7,Bayern Múnich,MSV Duisburg,3.0,1.0
+,7,SGS Essen,Turbine Potsdam,0.0,0.0
+29-10-2017,6,SC Sand,Colonia,3.0,0.0
+,6,SC Freiburg,Hoffenheim,2.0,1.0
+,6,FF USV Jena,Bayern Múnich,0.0,5.0
+,6,Wolfsburgo,Werder Bremen,3.0,2.0
+,6,MSV Duisburg,SGS Essen,1.0,2.0
+30-10-2017,6,Turbine Potsdam,1. FFC Frankfurt,1.0,1.0
+15-10-2017,5,SC Freiburg,Werder Bremen,4.0,1.0
+,5,1. FFC Frankfurt,MSV Duisburg,2.0,1.0
+,5,Bayern Múnich,SC Sand,2.0,0.0
+,5,Colonia,Hoffenheim,0.0,3.0
+,5,SGS Essen,FF USV Jena,6.0,0.0
+,5,Wolfsburgo,Turbine Potsdam,2.0,2.0
+01-10-2017,4,SC Sand,SGS Essen,1.0,3.0
+,4,FF USV Jena,1. FFC Frankfurt,0.0,1.0
+,4,Hoffenheim,Bayern Múnich,0.0,4.0
+,4,Colonia,SC Freiburg,0.0,7.0
+,4,MSV Duisburg,Wolfsburgo,0.0,1.0
+02-10-2017,4,Turbine Potsdam,Werder Bremen,1.0,1.0
+24-09-2017,3,1. FFC Frankfurt,SC Sand,1.0,2.0
+,3,SC Freiburg,Turbine Potsdam,1.0,1.0
+,3,Wolfsburgo,FF USV Jena,5.0,0.0
+,3,Werder Bremen,MSV Duisburg,2.0,1.0
+,3,Bayern Múnich,Colonia,2.0,0.0
+,3,SGS Essen,Hoffenheim,1.0,2.0
+09-09-2017,2,Bayern Múnich,SC Freiburg,0.0,1.0
+,2,FF USV Jena,Werder Bremen,2.0,2.0
+,2,SC Sand,Wolfsburgo,0.0,4.0
+,2,Hoffenheim,1. FFC Frankfurt,0.0,1.0
+,2,Colonia,SGS Essen,2.0,5.0
+,2,MSV Duisburg,Turbine Potsdam,0.0,1.0
+02-09-2017,1,Wolfsburgo,Hoffenheim,6.0,0.0
+,1,SGS Essen,Bayern Múnich,0.0,3.0
+03-09-2017,1,1. FFC Frankfurt,Colonia,2.0,0.0
+,1,Werder Bremen,SC Sand,0.0,3.0
+,1,Turbine Potsdam,FF USV Jena,4.0,1.0
+,1,SC Freiburg,MSV Duisburg,1.0,0.0
+21-05-2017,22,Wolfsburgo,FF USV Jena,2.0,2.0
+,22,Bayer Leverkusen,SC Freiburg,1.0,3.0
+,22,Bayern Múnich,SGS Essen,2.0,0.0
+,22,MSV Duisburg,Turbine Potsdam,1.0,2.0
+,22,Hoffenheim,Bor. Mönchengladbach,3.0,0.0
+,22,SC Sand,1. FFC Frankfurt,1.0,0.0
+14-05-2017,21,FF USV Jena,SC Sand,0.0,3.0
+,21,1. FFC Frankfurt,Hoffenheim,1.0,3.0
+,21,Bor. Mönchengladbach,MSV Duisburg,1.0,3.0
+,21,Turbine Potsdam,Bayern Múnich,0.0,4.0
+,21,SGS Essen,Bayer Leverkusen,7.0,1.0
+,21,SC Freiburg,Wolfsburgo,2.0,0.0
+10-05-2017,20,FF USV Jena,SC Freiburg,0.0,2.0
+,20,Hoffenheim,SC Sand,1.0,0.0
+,20,Wolfsburgo,SGS Essen,2.0,1.0
+,20,MSV Duisburg,1. FFC Frankfurt,1.0,2.0
+,20,Bayer Leverkusen,Turbine Potsdam,1.0,2.0
+,20,Bor. Mönchengladbach,Bayern Múnich,0.0,3.0
+07-05-2017,19,1. FFC Frankfurt,Bayern Múnich,4.0,2.0
+,19,Bor. Mönchengladbach,Bayer Leverkusen,2.0,1.0
+,19,SGS Essen,FF USV Jena,1.0,4.0
+,19,SC Sand,SC Freiburg,2.0,3.0
+,19,Hoffenheim,MSV Duisburg,1.0,0.0
+,19,Turbine Potsdam,Wolfsburgo,1.0,3.0
+29-04-2017,18,FF USV Jena,Turbine Potsdam,0.0,2.0
+30-04-2017,18,MSV Duisburg,SC Sand,3.0,3.0
+,18,SC Freiburg,SGS Essen,4.0,2.0
+,18,Wolfsburgo,Bor. Mönchengladbach,8.0,0.0
+,18,Bayer Leverkusen,1. FFC Frankfurt,2.0,2.0
+01-05-2017,18,Bayern Múnich,Hoffenheim,2.0,0.0
+23-04-2017,17,Bor. Mönchengladbach,FF USV Jena,0.0,3.0
+,17,Turbine Potsdam,SC Freiburg,0.0,1.0
+,17,SC Sand,SGS Essen,0.0,1.0
+,17,MSV Duisburg,Bayern Múnich,0.0,1.0
+,17,Hoffenheim,Bayer Leverkusen,3.0,1.0
+,17,1. FFC Frankfurt,Wolfsburgo,1.0,5.0
+02-04-2017,16,SC Freiburg,Bor. Mönchengladbach,4.0,0.0
+,16,Wolfsburgo,Hoffenheim,4.0,0.0
+,16,Bayer Leverkusen,MSV Duisburg,0.0,0.0
+,16,SGS Essen,Turbine Potsdam,1.0,1.0
+,16,FF USV Jena,1. FFC Frankfurt,0.0,1.0
+,16,Bayern Múnich,SC Sand,1.0,0.0
+26-03-2017,15,Bor. Mönchengladbach,SGS Essen,0.0,3.0
+,15,SC Sand,Turbine Potsdam,0.0,1.0
+,15,Hoffenheim,FF USV Jena,1.0,0.0
+,15,Bayern Múnich,Bayer Leverkusen,1.0,0.0
+,15,MSV Duisburg,Wolfsburgo,0.0,3.0
+27-03-2017,15,1. FFC Frankfurt,SC Freiburg,1.0,1.0
+19-03-2017,14,Bayer Leverkusen,SC Sand,0.0,3.0
+,14,SC Freiburg,Hoffenheim,0.0,0.0
+,14,FF USV Jena,MSV Duisburg,1.0,0.0
+,14,Turbine Potsdam,Bor. Mönchengladbach,5.0,0.0
+,14,SGS Essen,1. FFC Frankfurt,0.0,3.0
+,14,Wolfsburgo,Bayern Múnich,2.0,0.0
+26-02-2017,13,SC Sand,Bor. Mönchengladbach,0.0,1.0
+,13,Bayern Múnich,FF USV Jena,2.0,1.0
+,13,MSV Duisburg,SC Freiburg,3.0,3.0
+,13,Hoffenheim,SGS Essen,1.0,1.0
+,13,Bayer Leverkusen,Wolfsburgo,1.0,8.0
+,13,1. FFC Frankfurt,Turbine Potsdam,1.0,1.0
+18-02-2017,12,SC Freiburg,Bayern Múnich,2.0,3.0
+19-02-2017,12,Bor. Mönchengladbach,1. FFC Frankfurt,0.0,2.0
+,12,Wolfsburgo,SC Sand,4.0,1.0
+,12,SGS Essen,MSV Duisburg,1.0,1.0
+,12,FF USV Jena,Bayer Leverkusen,1.0,1.0
+12-03-2017,12,Turbine Potsdam,Hoffenheim,1.0,0.0
+18-12-2016,11,Bor. Mönchengladbach,Hoffenheim,0.0,4.0
+,11,SGS Essen,Bayern Múnich,0.0,3.0
+,11,SC Freiburg,Bayer Leverkusen,2.0,1.0
+,11,Turbine Potsdam,MSV Duisburg,8.0,0.0
+,11,1. FFC Frankfurt,SC Sand,3.0,1.0
+12-02-2017,11,FF USV Jena,Wolfsburgo,1.0,2.0
+11-12-2016,10,SC Sand,FF USV Jena,3.0,0.0
+,10,Bayern Múnich,Turbine Potsdam,1.0,2.0
+,10,Hoffenheim,1. FFC Frankfurt,2.0,2.0
+,10,MSV Duisburg,Bor. Mönchengladbach,2.0,1.0
+,10,Bayer Leverkusen,SGS Essen,1.0,5.0
+,10,Wolfsburgo,SC Freiburg,1.0,0.0
+19-11-2016,9,1. FFC Frankfurt,MSV Duisburg,1.0,0.0
+20-11-2016,9,SC Sand,Hoffenheim,1.0,0.0
+,9,SC Freiburg,FF USV Jena,2.0,1.0
+,9,Bayern Múnich,Bor. Mönchengladbach,1.0,0.0
+14-12-2016,9,Turbine Potsdam,Bayer Leverkusen,1.0,0.0
+,9,SGS Essen,Wolfsburgo,0.0,2.0
+02-11-2016,8,Wolfsburgo,Turbine Potsdam,0.0,1.0
+,8,Bayer Leverkusen,Bor. Mönchengladbach,2.0,1.0
+12-11-2016,8,FF USV Jena,SGS Essen,0.0,4.0
+13-11-2016,8,Bayern Múnich,1. FFC Frankfurt,1.0,0.0
+,8,SC Freiburg,SC Sand,2.0,1.0
+,8,MSV Duisburg,Hoffenheim,1.0,0.0
+05-11-2016,7,Hoffenheim,Bayern Múnich,0.0,1.0
+,7,1. FFC Frankfurt,Bayer Leverkusen,4.0,2.0
+,7,SC Sand,MSV Duisburg,6.0,0.0
+,7,SGS Essen,SC Freiburg,1.0,0.0
+,7,Turbine Potsdam,FF USV Jena,1.0,0.0
+,7,Bor. Mönchengladbach,Wolfsburgo,1.0,2.0
+29-10-2016,6,Bayern Múnich,MSV Duisburg,3.0,1.0
+30-10-2016,6,FF USV Jena,Bor. Mönchengladbach,1.0,0.0
+,6,SC Freiburg,Turbine Potsdam,2.0,1.0
+,6,SGS Essen,SC Sand,1.0,1.0
+,6,Bayer Leverkusen,Hoffenheim,0.0,1.0
+,6,Wolfsburgo,1. FFC Frankfurt,0.0,0.0
+15-10-2016,5,Turbine Potsdam,SGS Essen,2.0,0.0
+16-10-2016,5,SC Sand,Bayern Múnich,0.0,1.0
+,5,Bor. Mönchengladbach,SC Freiburg,0.0,4.0
+,5,1. FFC Frankfurt,FF USV Jena,2.0,1.0
+,5,Hoffenheim,Wolfsburgo,1.0,2.0
+,5,MSV Duisburg,Bayer Leverkusen,0.0,1.0
+01-10-2016,4,Wolfsburgo,MSV Duisburg,2.0,0.0
+,4,SC Freiburg,1. FFC Frankfurt,0.0,0.0
+02-10-2016,4,FF USV Jena,Hoffenheim,0.0,1.0
+,4,SGS Essen,Bor. Mönchengladbach,3.0,0.0
+,4,Turbine Potsdam,SC Sand,1.0,0.0
+,4,Bayer Leverkusen,Bayern Múnich,0.0,1.0
+25-09-2016,3,Hoffenheim,SC Freiburg,1.0,2.0
+,3,Bor. Mönchengladbach,Turbine Potsdam,1.0,3.0
+,3,1. FFC Frankfurt,SGS Essen,2.0,2.0
+,3,SC Sand,Bayer Leverkusen,2.0,0.0
+,3,MSV Duisburg,FF USV Jena,3.0,1.0
+,3,Bayern Múnich,Wolfsburgo,1.0,2.0
+10-09-2016,2,FF USV Jena,Bayern Múnich,0.0,1.0
+,2,Turbine Potsdam,1. FFC Frankfurt,3.0,0.0
+11-09-2016,2,Bor. Mönchengladbach,SC Sand,0.0,1.0
+,2,SC Freiburg,MSV Duisburg,5.0,0.0
+,2,SGS Essen,Hoffenheim,1.0,0.0
+,2,Wolfsburgo,Bayer Leverkusen,2.0,0.0
+03-09-2016,1,MSV Duisburg,SGS Essen,0.0,3.0
+,1,Bayern Múnich,SC Freiburg,1.0,1.0
+04-09-2016,1,SC Sand,Wolfsburgo,0.0,0.0
+,1,1. FFC Frankfurt,Bor. Mönchengladbach,8.0,0.0
+,1,Hoffenheim,Turbine Potsdam,0.0,3.0
+,1,Bayer Leverkusen,FF USV Jena,0.0,2.0
+16-05-2016,22,Wolfsburgo,Colonia,5.0,2.0
+,22,Werder Bremen,Turbine Potsdam,1.0,4.0
+,22,Bayern Múnich,Hoffenheim,1.0,1.0
+,22,SC Freiburg,SGS Essen,1.0,2.0
+,22,1. FFC Frankfurt,Bayer Leverkusen,4.0,0.0
+,22,FF USV Jena,SC Sand,1.0,0.0
+08-05-2016,21,Colonia,FF USV Jena,2.0,1.0
+,21,SC Sand,1. FFC Frankfurt,0.0,3.0
+,21,Bayer Leverkusen,SC Freiburg,1.0,3.0
+,21,SGS Essen,Bayern Múnich,0.0,1.0
+,21,Hoffenheim,Werder Bremen,2.0,0.0
+,21,Turbine Potsdam,Wolfsburgo,4.0,0.0
+01-05-2016,20,Colonia,Turbine Potsdam,3.0,2.0
+,20,Werder Bremen,SGS Essen,0.0,6.0
+,20,Bayern Múnich,Bayer Leverkusen,5.0,0.0
+,20,SC Freiburg,SC Sand,4.0,1.0
+04-05-2016,20,Wolfsburgo,Hoffenheim,3.0,0.0
+,20,1. FFC Frankfurt,FF USV Jena,5.0,1.0
+20-04-2016,19,1. FFC Frankfurt,SC Freiburg,0.0,2.0
+,19,SGS Essen,Wolfsburgo,1.0,3.0
+24-04-2016,19,SC Sand,Bayern Múnich,0.0,3.0
+,19,Hoffenheim,Colonia,4.0,0.0
+,19,FF USV Jena,Turbine Potsdam,3.0,0.0
+,19,Bayer Leverkusen,Werder Bremen,4.0,1.0
+16-04-2016,18,Colonia,SGS Essen,0.0,3.0
+17-04-2016,18,Werder Bremen,SC Sand,1.0,0.0
+,18,Bayern Múnich,1. FFC Frankfurt,0.0,1.0
+,18,Turbine Potsdam,Hoffenheim,2.0,1.0
+,18,Wolfsburgo,Bayer Leverkusen,2.0,0.0
+27-04-2016,18,SC Freiburg,FF USV Jena,1.0,2.0
+26-03-2016,17,SC Freiburg,Bayern Múnich,0.0,3.0
+27-03-2016,17,1. FFC Frankfurt,Werder Bremen,3.0,0.0
+,17,SC Sand,Wolfsburgo,2.0,4.0
+,17,Bayer Leverkusen,Colonia,2.0,0.0
+,17,SGS Essen,Turbine Potsdam,1.0,1.0
+,17,FF USV Jena,Hoffenheim,3.0,1.0
+19-03-2016,16,Bayern Múnich,FF USV Jena,5.0,1.0
+20-03-2016,16,Werder Bremen,SC Freiburg,1.0,0.0
+,16,Colonia,SC Sand,1.0,5.0
+,16,Wolfsburgo,1. FFC Frankfurt,3.0,1.0
+,16,Hoffenheim,SGS Essen,4.0,0.0
+,16,Turbine Potsdam,Bayer Leverkusen,6.0,0.0
+28-02-2016,15,SC Sand,Turbine Potsdam,1.0,1.0
+,15,SC Freiburg,Wolfsburgo,0.0,2.0
+,15,FF USV Jena,SGS Essen,1.0,4.0
+,15,1. FFC Frankfurt,Colonia,4.0,0.0
+,15,Bayer Leverkusen,Hoffenheim,2.0,1.0
+,15,Bayern Múnich,Werder Bremen,2.0,0.0
+20-02-2016,14,Wolfsburgo,Bayern Múnich,1.0,1.0
+21-02-2016,14,Colonia,SC Freiburg,0.0,1.0
+,14,Werder Bremen,FF USV Jena,1.0,2.0
+,14,Turbine Potsdam,1. FFC Frankfurt,3.0,4.0
+,14,SGS Essen,Bayer Leverkusen,0.0,1.0
+,14,Hoffenheim,SC Sand,2.0,3.0
+14-02-2016,13,SC Freiburg,Turbine Potsdam,2.0,0.0
+,13,Bayern Múnich,Colonia,1.0,0.0
+,13,SC Sand,SGS Essen,4.0,1.0
+,13,FF USV Jena,Bayer Leverkusen,3.0,1.0
+,13,Werder Bremen,Wolfsburgo,0.0,3.0
+15-02-2016,13,1. FFC Frankfurt,Hoffenheim,4.0,1.0
+18-12-2015,12,SGS Essen,1. FFC Frankfurt,3.0,2.0
+19-12-2015,12,Wolfsburgo,FF USV Jena,1.0,2.0
+20-12-2015,12,Hoffenheim,SC Freiburg,2.0,0.0
+,12,Turbine Potsdam,Bayern Múnich,0.0,2.0
+,12,Colonia,Werder Bremen,2.0,2.0
+,12,Bayer Leverkusen,SC Sand,0.0,0.0
+13-12-2015,11,Colonia,Wolfsburgo,0.0,3.0
+,11,Turbine Potsdam,Werder Bremen,4.0,0.0
+,11,Hoffenheim,Bayern Múnich,1.0,3.0
+,11,SGS Essen,SC Freiburg,0.0,3.0
+,11,Bayer Leverkusen,1. FFC Frankfurt,0.0,4.0
+,11,SC Sand,FF USV Jena,2.0,1.0
+06-12-2015,10,FF USV Jena,Colonia,0.0,2.0
+,10,1. FFC Frankfurt,SC Sand,2.0,0.0
+,10,SC Freiburg,Bayer Leverkusen,6.0,1.0
+,10,Bayern Múnich,SGS Essen,2.0,1.0
+,10,Werder Bremen,Hoffenheim,0.0,4.0
+,10,Wolfsburgo,Turbine Potsdam,2.0,5.0
+20-11-2015,9,SGS Essen,Werder Bremen,3.0,0.0
+,9,Bayer Leverkusen,Bayern Múnich,0.0,5.0
+21-11-2015,9,FF USV Jena,1. FFC Frankfurt,4.0,5.0
+22-11-2015,9,Turbine Potsdam,Colonia,4.0,0.0
+,9,Hoffenheim,Wolfsburgo,0.0,4.0
+,9,SC Sand,SC Freiburg,0.0,0.0
+14-11-2015,8,Werder Bremen,Bayer Leverkusen,1.0,1.0
+15-11-2015,8,Colonia,Hoffenheim,1.0,1.0
+,8,Turbine Potsdam,FF USV Jena,0.0,1.0
+,8,SC Freiburg,1. FFC Frankfurt,4.0,0.0
+,8,Bayern Múnich,SC Sand,2.0,0.0
+,8,Wolfsburgo,SGS Essen,4.0,0.0
+31-10-2015,7,SGS Essen,Colonia,3.0,2.0
+01-11-2015,7,FF USV Jena,SC Freiburg,1.0,1.0
+,7,1. FFC Frankfurt,Bayern Múnich,0.0,1.0
+,7,SC Sand,Werder Bremen,3.0,0.0
+,7,Hoffenheim,Turbine Potsdam,0.0,3.0
+02-11-2015,7,Bayer Leverkusen,Wolfsburgo,0.0,2.0
+17-10-2015,6,Colonia,Bayer Leverkusen,1.0,2.0
+18-10-2015,6,Werder Bremen,1. FFC Frankfurt,1.0,1.0
+,6,Turbine Potsdam,SGS Essen,0.0,0.0
+,6,Hoffenheim,FF USV Jena,1.0,1.0
+,6,Bayern Múnich,SC Freiburg,1.0,0.0
+,6,Wolfsburgo,SC Sand,0.0,1.0
+10-10-2015,5,Bayer Leverkusen,Turbine Potsdam,1.0,0.0
+11-10-2015,5,SC Freiburg,Werder Bremen,2.0,2.0
+,5,SC Sand,Colonia,1.0,1.0
+,5,1. FFC Frankfurt,Wolfsburgo,0.0,2.0
+,5,FF USV Jena,Bayern Múnich,1.0,1.0
+,5,SGS Essen,Hoffenheim,1.0,2.0
+02-10-2015,4,Wolfsburgo,SC Freiburg,2.0,2.0
+04-10-2015,4,Turbine Potsdam,SC Sand,0.0,2.0
+,4,Colonia,1. FFC Frankfurt,0.0,2.0
+,4,Hoffenheim,Bayer Leverkusen,3.0,1.0
+,4,SGS Essen,FF USV Jena,4.0,0.0
+,4,Werder Bremen,Bayern Múnich,0.0,2.0
+11-09-2015,3,Bayern Múnich,Wolfsburgo,1.0,0.0
+12-09-2015,3,FF USV Jena,Werder Bremen,1.0,0.0
+13-09-2015,3,1. FFC Frankfurt,Turbine Potsdam,1.0,0.0
+,3,SC Freiburg,Colonia,6.0,1.0
+,3,Bayer Leverkusen,SGS Essen,4.0,5.0
+,3,SC Sand,Hoffenheim,0.0,2.0
+05-09-2015,2,Hoffenheim,1. FFC Frankfurt,0.0,1.0
+06-09-2015,2,Turbine Potsdam,SC Freiburg,2.0,0.0
+,2,Colonia,Bayern Múnich,0.0,2.0
+,2,SGS Essen,SC Sand,1.0,0.0
+,2,Bayer Leverkusen,FF USV Jena,0.0,0.0
+,2,Wolfsburgo,Werder Bremen,2.0,0.0
+28-08-2015,1,Bayern Múnich,Turbine Potsdam,3.0,1.0
+29-08-2015,1,FF USV Jena,Wolfsburgo,0.0,8.0
+30-08-2015,1,1. FFC Frankfurt,SGS Essen,2.0,0.0
+,1,Werder Bremen,Colonia,6.0,2.0
+,1,SC Freiburg,Hoffenheim,0.0,0.0
+,1,SC Sand,Bayer Leverkusen,4.0,0.0
+10-05-2015,22,Hoffenheim,SC Freiburg,2.0,2.0
+,22,1. FFC Frankfurt,Wolfsburgo,1.0,1.0
+,22,Bayern Múnich,SGS Essen,2.0,0.0
+,22,MSV Duisburg,Herforder SV,4.0,0.0
+,22,Turbine Potsdam,FF USV Jena,3.0,1.0
+,22,Bayer Leverkusen,SC Sand,0.0,1.0
+22-04-2015,21,SGS Essen,Wolfsburgo,0.0,4.0
+,21,1. FFC Frankfurt,Hoffenheim,4.0,0.0
+26-04-2015,21,SC Freiburg,Bayer Leverkusen,2.0,3.0
+,21,SC Sand,Turbine Potsdam,1.0,1.0
+,21,FF USV Jena,MSV Duisburg,1.0,1.0
+,21,Herforder SV,Bayern Múnich,0.0,6.0
+15-04-2015,20,Wolfsburgo,Herforder SV,10.0,0.0
+,20,SC Freiburg,1. FFC Frankfurt,2.0,4.0
+19-04-2015,20,Hoffenheim,SGS Essen,3.0,1.0
+,20,MSV Duisburg,SC Sand,1.0,1.0
+,20,Bayern Múnich,FF USV Jena,2.0,1.0
+,20,Turbine Potsdam,Bayer Leverkusen,0.0,0.0
+29-03-2015,19,Herforder SV,Hoffenheim,2.0,3.0
+,19,Turbine Potsdam,MSV Duisburg,1.0,0.0
+,19,SC Sand,Bayern Múnich,1.0,2.0
+,19,SGS Essen,SC Freiburg,5.0,1.0
+12-04-2015,19,Bayer Leverkusen,1. FFC Frankfurt,1.0,2.0
+,19,FF USV Jena,Wolfsburgo,0.0,4.0
+18-03-2015,18,Wolfsburgo,SC Sand,2.0,0.0
+,18,1. FFC Frankfurt,SGS Essen,3.0,1.0
+20-03-2015,18,Bayern Múnich,Turbine Potsdam,1.0,0.0
+22-03-2015,18,MSV Duisburg,Bayer Leverkusen,2.0,0.0
+,18,SC Freiburg,Herforder SV,2.0,3.0
+,18,Hoffenheim,FF USV Jena,1.0,1.0
+15-03-2015,17,FF USV Jena,SC Freiburg,0.0,2.0
+,17,MSV Duisburg,Bayern Múnich,0.0,0.0
+,17,Herforder SV,1. FFC Frankfurt,0.0,5.0
+,17,Bayer Leverkusen,SGS Essen,2.0,3.0
+,17,Turbine Potsdam,Wolfsburgo,2.0,0.0
+,17,SC Sand,Hoffenheim,3.0,2.0
+27-02-2015,16,Wolfsburgo,MSV Duisburg,7.0,0.0
+01-03-2015,16,Hoffenheim,Turbine Potsdam,1.0,3.0
+,16,1. FFC Frankfurt,FF USV Jena,4.0,1.0
+,16,SC Freiburg,SC Sand,3.0,2.0
+,16,Bayern Múnich,Bayer Leverkusen,2.0,0.0
+,16,SGS Essen,Herforder SV,2.0,0.0
+22-02-2015,15,Turbine Potsdam,SC Freiburg,6.0,1.0
+,15,MSV Duisburg,Hoffenheim,0.0,4.0
+,15,Bayer Leverkusen,Herforder SV,3.0,0.0
+,15,SC Sand,1. FFC Frankfurt,1.0,2.0
+,15,FF USV Jena,SGS Essen,1.0,1.0
+,15,Bayern Múnich,Wolfsburgo,0.0,0.0
+15-02-2015,14,SC Freiburg,MSV Duisburg,2.0,2.0
+,14,Hoffenheim,Bayern Múnich,1.0,2.0
+,14,1. FFC Frankfurt,Turbine Potsdam,5.0,1.0
+,14,Wolfsburgo,Bayer Leverkusen,5.0,0.0
+,14,SGS Essen,SC Sand,2.0,2.0
+25-02-2015,14,Herforder SV,FF USV Jena,0.0,2.0
+12-12-2014,13,Turbine Potsdam,SGS Essen,3.0,1.0
+13-12-2014,13,Bayer Leverkusen,FF USV Jena,0.0,1.0
+14-12-2014,13,MSV Duisburg,1. FFC Frankfurt,0.0,4.0
+,13,Bayern Múnich,SC Freiburg,5.0,0.0
+,13,SC Sand,Herforder SV,4.0,2.0
+,13,Wolfsburgo,Hoffenheim,3.0,0.0
+07-12-2014,12,Hoffenheim,Bayer Leverkusen,1.0,1.0
+,12,1. FFC Frankfurt,Bayern Múnich,1.0,2.0
+,12,SC Freiburg,Wolfsburgo,0.0,2.0
+,12,FF USV Jena,SC Sand,3.0,1.0
+,12,Herforder SV,Turbine Potsdam,1.0,3.0
+,12,SGS Essen,MSV Duisburg,0.0,0.0
+30-11-2014,11,SC Freiburg,Hoffenheim,1.0,0.0
+,11,Wolfsburgo,1. FFC Frankfurt,2.0,0.0
+,11,SGS Essen,Bayern Múnich,0.0,0.0
+,11,Herforder SV,MSV Duisburg,1.0,2.0
+,11,FF USV Jena,Turbine Potsdam,2.0,3.0
+,11,SC Sand,Bayer Leverkusen,1.0,2.0
+14-11-2014,10,Bayern Múnich,Herforder SV,7.0,0.0
+16-11-2014,10,Hoffenheim,1. FFC Frankfurt,1.0,7.0
+,10,MSV Duisburg,FF USV Jena,1.0,1.0
+,10,Bayer Leverkusen,SC Freiburg,5.0,1.0
+,10,Turbine Potsdam,SC Sand,2.0,0.0
+,10,Wolfsburgo,SGS Essen,4.0,0.0
+05-11-2014,9,Herforder SV,Wolfsburgo,0.0,7.0
+,9,1. FFC Frankfurt,SC Freiburg,7.0,0.0
+08-11-2014,9,Bayer Leverkusen,Turbine Potsdam,1.0,6.0
+09-11-2014,9,SGS Essen,Hoffenheim,1.0,3.0
+,9,FF USV Jena,Bayern Múnich,1.0,4.0
+,9,SC Sand,MSV Duisburg,4.0,1.0
+18-10-2014,8,Bayern Múnich,SC Sand,4.0,0.0
+19-10-2014,8,SC Freiburg,SGS Essen,1.0,4.0
+,8,1. FFC Frankfurt,Bayer Leverkusen,3.0,0.0
+,8,MSV Duisburg,Turbine Potsdam,3.0,3.0
+,8,Hoffenheim,Herforder SV,3.0,0.0
+,8,Wolfsburgo,FF USV Jena,0.0,0.0
+11-10-2014,7,FF USV Jena,Hoffenheim,1.0,1.0
+12-10-2014,7,Herforder SV,SC Freiburg,2.0,3.0
+,7,SC Sand,Wolfsburgo,0.0,4.0
+,7,Bayer Leverkusen,MSV Duisburg,0.0,0.0
+,7,Turbine Potsdam,Bayern Múnich,0.0,1.0
+,7,SGS Essen,1. FFC Frankfurt,1.0,3.0
+04-10-2014,6,Wolfsburgo,Turbine Potsdam,2.0,1.0
+05-10-2014,6,SC Freiburg,FF USV Jena,3.0,0.0
+,6,1. FFC Frankfurt,Herforder SV,6.0,1.0
+,6,Hoffenheim,SC Sand,1.0,0.0
+,6,SGS Essen,Bayer Leverkusen,1.0,0.0
+,6,Bayern Múnich,MSV Duisburg,6.0,0.0
+01-10-2014,5,FF USV Jena,1. FFC Frankfurt,1.0,2.0
+,5,Turbine Potsdam,Hoffenheim,3.0,0.0
+,5,Herforder SV,SGS Essen,0.0,5.0
+,5,SC Sand,SC Freiburg,1.0,3.0
+,5,MSV Duisburg,Wolfsburgo,0.0,3.0
+02-10-2014,5,Bayer Leverkusen,Bayern Múnich,0.0,4.0
+24-09-2014,4,SC Freiburg,Turbine Potsdam,2.0,4.0
+,4,1. FFC Frankfurt,SC Sand,3.0,0.0
+,4,Herforder SV,Bayer Leverkusen,2.0,2.0
+,4,Wolfsburgo,Bayern Múnich,0.0,0.0
+,4,SGS Essen,FF USV Jena,1.0,2.0
+25-09-2014,4,Hoffenheim,MSV Duisburg,1.0,0.0
+20-09-2014,3,MSV Duisburg,SC Freiburg,0.0,2.0
+21-09-2014,3,Bayer Leverkusen,Wolfsburgo,0.0,3.0
+,3,Turbine Potsdam,1. FFC Frankfurt,2.0,1.0
+,3,Bayern Múnich,Hoffenheim,3.0,0.0
+,3,FF USV Jena,Herforder SV,3.0,3.0
+,3,SC Sand,SGS Essen,0.0,1.0
+06-09-2014,2,Hoffenheim,Wolfsburgo,0.0,1.0
+07-09-2014,2,1. FFC Frankfurt,MSV Duisburg,6.0,0.0
+,2,SC Freiburg,Bayern Múnich,1.0,2.0
+,2,SGS Essen,Turbine Potsdam,0.0,1.0
+,2,Herforder SV,SC Sand,1.0,3.0
+,2,FF USV Jena,Bayer Leverkusen,1.0,2.0
+30-08-2014,1,Wolfsburgo,SC Freiburg,3.0,0.0
+31-08-2014,1,MSV Duisburg,SGS Essen,1.0,2.0
+,1,Bayer Leverkusen,Hoffenheim,1.0,1.0
+,1,Turbine Potsdam,Herforder SV,4.0,0.0
+,1,Bayern Múnich,1. FFC Frankfurt,1.0,1.0
+,1,SC Sand,FF USV Jena,1.0,1.0
+08-06-2014,22,MSV Duisburg,VfL Sindelfingen,7.0,0.0
+,22,Hoffenheim,FF USV Jena,1.0,1.0
+,22,Turbine Potsdam,Bayern Múnich,1.0,1.0
+,22,Wolfsburgo,1. FFC Frankfurt,2.0,1.0
+,22,SC Freiburg,BV Cloppenburg,7.0,2.0
+,22,Bayer Leverkusen,SGS Essen,0.0,1.0
+01-06-2014,21,VfL Sindelfingen,Bayer Leverkusen,0.0,6.0
+,21,SGS Essen,SC Freiburg,2.0,1.0
+,21,BV Cloppenburg,Wolfsburgo,0.0,2.0
+,21,1. FFC Frankfurt,Turbine Potsdam,2.0,1.0
+,21,Bayern Múnich,Hoffenheim,2.0,3.0
+,21,FF USV Jena,MSV Duisburg,1.0,1.0
+24-05-2014,20,MSV Duisburg,Bayern Múnich,0.0,1.0
+25-05-2014,20,SC Freiburg,Bayer Leverkusen,2.0,2.0
+,20,VfL Sindelfingen,FF USV Jena,1.0,1.0
+,20,Turbine Potsdam,BV Cloppenburg,2.0,2.0
+,20,Wolfsburgo,SGS Essen,4.0,0.0
+,20,Hoffenheim,1. FFC Frankfurt,1.0,5.0
+11-05-2014,19,SC Freiburg,Wolfsburgo,2.0,3.0
+,19,1. FFC Frankfurt,MSV Duisburg,4.0,0.0
+,19,Bayern Múnich,VfL Sindelfingen,8.0,0.0
+,19,Bayer Leverkusen,FF USV Jena,0.0,1.0
+,19,SGS Essen,Turbine Potsdam,1.0,3.0
+,19,BV Cloppenburg,Hoffenheim,1.0,1.0
+03-05-2014,18,FF USV Jena,Bayern Múnich,2.0,2.0
+04-05-2014,18,Turbine Potsdam,SC Freiburg,4.0,0.0
+,18,Wolfsburgo,Bayer Leverkusen,3.0,0.0
+,18,VfL Sindelfingen,1. FFC Frankfurt,0.0,8.0
+,18,MSV Duisburg,BV Cloppenburg,1.0,3.0
+,18,Hoffenheim,SGS Essen,2.0,1.0
+27-04-2014,17,1. FFC Frankfurt,FF USV Jena,3.0,1.0
+,17,BV Cloppenburg,VfL Sindelfingen,7.0,1.0
+,17,Bayer Leverkusen,Bayern Múnich,3.0,2.0
+,17,SGS Essen,MSV Duisburg,2.0,0.0
+,17,SC Freiburg,Hoffenheim,4.0,1.0
+16-05-2014,17,Wolfsburgo,Turbine Potsdam,2.0,0.0
+19-04-2014,16,MSV Duisburg,SC Freiburg,1.0,1.0
+21-04-2014,16,VfL Sindelfingen,SGS Essen,0.0,2.0
+,16,Bayern Múnich,1. FFC Frankfurt,1.0,1.0
+,16,FF USV Jena,BV Cloppenburg,2.0,0.0
+01-05-2014,16,Hoffenheim,Wolfsburgo,1.0,2.0
+,16,Turbine Potsdam,Bayer Leverkusen,2.0,0.0
+29-03-2014,15,Bayer Leverkusen,1. FFC Frankfurt,0.0,0.0
+30-03-2014,15,SGS Essen,FF USV Jena,1.0,6.0
+,15,BV Cloppenburg,Bayern Múnich,1.0,2.0
+,15,SC Freiburg,VfL Sindelfingen,3.0,0.0
+13-04-2014,15,Turbine Potsdam,Hoffenheim,3.0,0.0
+,15,Wolfsburgo,MSV Duisburg,6.0,0.0
+19-03-2014,14,VfL Sindelfingen,Wolfsburgo,0.0,7.0
+,14,MSV Duisburg,Turbine Potsdam,0.0,4.0
+22-03-2014,14,FF USV Jena,SC Freiburg,2.0,2.0
+,14,Bayern Múnich,SGS Essen,3.0,0.0
+23-03-2014,14,1. FFC Frankfurt,BV Cloppenburg,7.0,0.0
+,14,Hoffenheim,Bayer Leverkusen,5.0,3.0
+16-03-2014,13,Turbine Potsdam,VfL Sindelfingen,12.0,0.0
+,13,Hoffenheim,MSV Duisburg,1.0,1.0
+,13,SC Freiburg,Bayern Múnich,0.0,2.0
+,13,Wolfsburgo,FF USV Jena,3.0,2.0
+,13,SGS Essen,1. FFC Frankfurt,1.0,2.0
+,13,Bayer Leverkusen,BV Cloppenburg,4.0,1.0
+16-02-2014,12,MSV Duisburg,Bayer Leverkusen,2.0,1.0
+26-02-2014,12,Bayern Múnich,Wolfsburgo,3.0,1.0
+,12,BV Cloppenburg,SGS Essen,1.0,3.0
+01-03-2014,12,FF USV Jena,Turbine Potsdam,0.0,2.0
+02-03-2014,12,1. FFC Frankfurt,SC Freiburg,3.0,0.0
+,12,VfL Sindelfingen,Hoffenheim,0.0,5.0
+22-02-2014,11,1. FFC Frankfurt,Wolfsburgo,0.0,0.0
+23-02-2014,11,BV Cloppenburg,SC Freiburg,1.0,2.0
+,11,VfL Sindelfingen,MSV Duisburg,0.0,3.0
+,11,FF USV Jena,Hoffenheim,4.0,1.0
+,11,Bayern Múnich,Turbine Potsdam,1.0,2.0
+,11,SGS Essen,Bayer Leverkusen,1.0,4.0
+08-12-2013,10,Bayer Leverkusen,VfL Sindelfingen,8.0,0.0
+,10,SC Freiburg,SGS Essen,1.0,1.0
+,10,Turbine Potsdam,1. FFC Frankfurt,0.0,3.0
+,10,Hoffenheim,Bayern Múnich,2.0,2.0
+,10,FCR 2001 Duisburg,FF USV Jena,3.0,0.0
+15-02-2014,10,Wolfsburgo,BV Cloppenburg,4.0,1.0
+30-11-2013,9,Bayern Múnich,FCR 2001 Duisburg,0.0,1.0
+01-12-2013,9,1. FFC Frankfurt,Hoffenheim,8.0,2.0
+,9,Bayer Leverkusen,SC Freiburg,5.0,1.0
+,9,FF USV Jena,VfL Sindelfingen,2.0,0.0
+,9,BV Cloppenburg,Turbine Potsdam,1.0,3.0
+,9,SGS Essen,Wolfsburgo,0.0,2.0
+09-11-2013,8,FF USV Jena,Bayer Leverkusen,2.0,0.0
+10-11-2013,8,Hoffenheim,BV Cloppenburg,2.0,4.0
+,8,VfL Sindelfingen,Bayern Múnich,1.0,1.0
+,8,FCR 2001 Duisburg,1. FFC Frankfurt,0.0,5.0
+11-12-2013,8,Wolfsburgo,SC Freiburg,4.0,1.0
+21-12-2013,8,Turbine Potsdam,SGS Essen,4.0,0.0
+02-11-2013,7,1. FFC Frankfurt,VfL Sindelfingen,12.0,0.0
+03-11-2013,7,SC Freiburg,Turbine Potsdam,1.0,2.0
+,7,Bayer Leverkusen,Wolfsburgo,0.0,4.0
+,7,Bayern Múnich,FF USV Jena,5.0,0.0
+,7,BV Cloppenburg,FCR 2001 Duisburg,2.0,2.0
+,7,SGS Essen,Hoffenheim,5.0,1.0
+19-10-2013,6,Turbine Potsdam,Wolfsburgo,1.0,1.0
+20-10-2013,6,VfL Sindelfingen,BV Cloppenburg,0.0,2.0
+,6,FF USV Jena,1. FFC Frankfurt,2.0,3.0
+,6,Bayern Múnich,Bayer Leverkusen,2.0,0.0
+,6,Hoffenheim,SC Freiburg,3.0,2.0
+,6,FCR 2001 Duisburg,SGS Essen,0.0,3.0
+12-10-2013,5,1. FFC Frankfurt,Bayern Múnich,4.0,1.0
+13-10-2013,5,Bayer Leverkusen,Turbine Potsdam,1.0,5.0
+,5,SC Freiburg,FCR 2001 Duisburg,1.0,0.0
+,5,Wolfsburgo,Hoffenheim,4.0,1.0
+,5,BV Cloppenburg,FF USV Jena,0.0,3.0
+,5,SGS Essen,VfL Sindelfingen,8.0,0.0
+05-10-2013,4,1. FFC Frankfurt,Bayer Leverkusen,2.0,2.0
+06-10-2013,4,Hoffenheim,Turbine Potsdam,2.0,3.0
+,4,VfL Sindelfingen,SC Freiburg,0.0,5.0
+,4,FF USV Jena,SGS Essen,2.0,0.0
+,4,Bayern Múnich,BV Cloppenburg,5.0,2.0
+,4,FCR 2001 Duisburg,Wolfsburgo,0.0,4.0
+03-10-2013,3,SC Freiburg,FF USV Jena,2.0,0.0
+,3,Turbine Potsdam,FCR 2001 Duisburg,2.0,1.0
+,3,Bayer Leverkusen,Hoffenheim,2.0,2.0
+,3,Wolfsburgo,VfL Sindelfingen,8.0,1.0
+,3,BV Cloppenburg,1. FFC Frankfurt,0.0,4.0
+,3,SGS Essen,Bayern Múnich,1.0,2.0
+14-09-2013,2,Bayern Múnich,SC Freiburg,2.0,1.0
+15-09-2013,2,VfL Sindelfingen,Turbine Potsdam,0.0,7.0
+,2,1. FFC Frankfurt,SGS Essen,1.0,1.0
+,2,FF USV Jena,Wolfsburgo,1.0,1.0
+,2,BV Cloppenburg,Bayer Leverkusen,0.0,0.0
+,2,FCR 2001 Duisburg,Hoffenheim,4.0,1.0
+07-09-2013,1,Wolfsburgo,Bayern Múnich,1.0,1.0
+08-09-2013,1,Bayer Leverkusen,FCR 2001 Duisburg,3.0,0.0
+,1,SC Freiburg,1. FFC Frankfurt,0.0,2.0
+,1,Turbine Potsdam,FF USV Jena,1.0,1.0
+,1,Hoffenheim,VfL Sindelfingen,1.0,0.0
+,1,SGS Essen,BV Cloppenburg,3.0,3.0
+12-05-2013,22,FSV Gütersloh 2009,Turbine Potsdam,0.0,2.0
+,22,VfL Sindelfingen,Bayer Leverkusen,2.0,2.0
+,22,SC Freiburg,SGS Essen,1.0,1.0
+,22,FCR 2001 Duisburg,FF USV Jena,4.0,2.0
+,22,1. FFC Frankfurt,Bayern Múnich,1.0,2.0
+,22,Wolfsburgo,SC 07 Bad Neuenahr,4.0,0.0
+05-05-2013,21,Turbine Potsdam,Wolfsburgo,2.0,0.0
+,21,SC 07 Bad Neuenahr,1. FFC Frankfurt,0.0,1.0
+,21,Bayern Múnich,FCR 2001 Duisburg,2.0,2.0
+,21,FF USV Jena,SC Freiburg,1.0,2.0
+,21,SGS Essen,VfL Sindelfingen,2.0,1.0
+,21,Bayer Leverkusen,FSV Gütersloh 2009,3.0,0.0
+28-04-2013,20,1. FFC Frankfurt,Wolfsburgo,2.0,0.0
+,20,Turbine Potsdam,Bayer Leverkusen,3.0,0.0
+,20,VfL Sindelfingen,FF USV Jena,1.0,2.0
+,20,FSV Gütersloh 2009,SGS Essen,1.0,2.0
+,20,SC Freiburg,Bayern Múnich,0.0,3.0
+,20,FCR 2001 Duisburg,SC 07 Bad Neuenahr,0.0,2.0
+21-04-2013,19,1. FFC Frankfurt,FCR 2001 Duisburg,5.0,2.0
+,19,SGS Essen,Turbine Potsdam,1.0,0.0
+,19,SC 07 Bad Neuenahr,SC Freiburg,4.0,0.0
+,19,Bayern Múnich,VfL Sindelfingen,2.0,0.0
+,19,FF USV Jena,FSV Gütersloh 2009,3.0,0.0
+01-05-2013,19,Bayer Leverkusen,Wolfsburgo,1.0,4.0
+13-04-2013,18,Bayer Leverkusen,SGS Essen,0.0,0.0
+14-04-2013,18,SC Freiburg,1. FFC Frankfurt,3.0,1.0
+,18,Turbine Potsdam,FF USV Jena,6.0,0.0
+,18,FSV Gütersloh 2009,Bayern Múnich,0.0,2.0
+,18,VfL Sindelfingen,SC 07 Bad Neuenahr,3.0,1.0
+24-04-2013,18,FCR 2001 Duisburg,Wolfsburgo,0.0,1.0
+30-03-2013,17,Bayern Múnich,Turbine Potsdam,2.0,0.0
+31-03-2013,17,FF USV Jena,Bayer Leverkusen,0.0,2.0
+,17,1. FFC Frankfurt,VfL Sindelfingen,7.0,0.0
+,17,Wolfsburgo,SGS Essen,6.0,0.0
+,17,FCR 2001 Duisburg,SC Freiburg,2.0,1.0
+,17,SC 07 Bad Neuenahr,FSV Gütersloh 2009,1.0,0.0
+24-03-2013,16,Bayer Leverkusen,Bayern Múnich,2.0,1.0
+,16,SC Freiburg,Wolfsburgo,1.0,2.0
+,16,FSV Gütersloh 2009,1. FFC Frankfurt,2.0,5.0
+,16,VfL Sindelfingen,FCR 2001 Duisburg,0.0,3.0
+,16,SGS Essen,FF USV Jena,2.0,2.0
+,16,SC 07 Bad Neuenahr,Turbine Potsdam,0.0,3.0
+16-03-2013,15,SC Freiburg,VfL Sindelfingen,1.0,1.0
+17-03-2013,15,Bayern Múnich,SGS Essen,2.0,1.0
+,15,Wolfsburgo,FF USV Jena,4.0,1.0
+10-04-2013,15,FCR 2001 Duisburg,FSV Gütersloh 2009,7.0,3.0
+17-04-2013,15,SC 07 Bad Neuenahr,Bayer Leverkusen,0.0,0.0
+24-04-2013,15,1. FFC Frankfurt,Turbine Potsdam,1.0,0.0
+23-02-2013,14,Bayer Leverkusen,1. FFC Frankfurt,0.0,3.0
+24-02-2013,14,FSV Gütersloh 2009,SC Freiburg,1.0,4.0
+10-04-2013,14,VfL Sindelfingen,Wolfsburgo,0.0,6.0
+17-04-2013,14,Turbine Potsdam,FCR 2001 Duisburg,6.0,1.0
+01-05-2013,14,FF USV Jena,Bayern Múnich,3.0,4.0
+,14,SGS Essen,SC 07 Bad Neuenahr,1.0,2.0
+17-02-2013,13,SC Freiburg,Turbine Potsdam,1.0,3.0
+,13,1. FFC Frankfurt,SGS Essen,1.0,0.0
+03-03-2013,13,FCR 2001 Duisburg,Bayer Leverkusen,1.0,2.0
+27-03-2013,13,FF USV Jena,SC 07 Bad Neuenahr,1.0,4.0
+17-04-2013,13,Wolfsburgo,Bayern Múnich,2.0,1.0
+24-04-2013,13,VfL Sindelfingen,FSV Gütersloh 2009,2.0,1.0
+09-12-2012,12,FSV Gütersloh 2009,Wolfsburgo,0.0,3.0
+,12,Bayern Múnich,SC 07 Bad Neuenahr,2.0,1.0
+03-02-2013,12,SGS Essen,FCR 2001 Duisburg,2.0,0.0
+09-02-2013,12,Bayer Leverkusen,SC Freiburg,1.0,1.0
+17-04-2013,12,FF USV Jena,1. FFC Frankfurt,1.0,1.0
+01-05-2013,12,Turbine Potsdam,VfL Sindelfingen,6.0,0.0
+02-12-2012,11,Bayer Leverkusen,VfL Sindelfingen,4.0,0.0
+,11,Turbine Potsdam,FSV Gütersloh 2009,5.0,0.0
+,11,SGS Essen,SC Freiburg,2.0,3.0
+,11,FF USV Jena,FCR 2001 Duisburg,2.0,1.0
+,11,Bayern Múnich,1. FFC Frankfurt,2.0,1.0
+,11,SC 07 Bad Neuenahr,Wolfsburgo,2.0,2.0
+23-11-2012,10,Wolfsburgo,Turbine Potsdam,2.0,1.0
+24-11-2012,10,SC Freiburg,FF USV Jena,2.0,0.0
+,10,VfL Sindelfingen,SGS Essen,0.0,3.0
+,10,FCR 2001 Duisburg,Bayern Múnich,2.0,1.0
+,10,FSV Gütersloh 2009,Bayer Leverkusen,1.0,3.0
+25-11-2012,10,1. FFC Frankfurt,SC 07 Bad Neuenahr,4.0,1.0
+11-11-2012,9,Bayer Leverkusen,Turbine Potsdam,2.0,4.0
+,9,FF USV Jena,VfL Sindelfingen,1.0,0.0
+,9,Wolfsburgo,1. FFC Frankfurt,4.0,2.0
+,9,SGS Essen,FSV Gütersloh 2009,2.0,1.0
+,9,Bayern Múnich,SC Freiburg,0.0,2.0
+,9,SC 07 Bad Neuenahr,FCR 2001 Duisburg,1.0,1.0
+04-11-2012,8,Wolfsburgo,Bayer Leverkusen,7.0,0.0
+,8,Turbine Potsdam,SGS Essen,5.0,1.0
+,8,FCR 2001 Duisburg,1. FFC Frankfurt,1.0,3.0
+,8,SC Freiburg,SC 07 Bad Neuenahr,1.0,0.0
+,8,VfL Sindelfingen,Bayern Múnich,0.0,4.0
+,8,FSV Gütersloh 2009,FF USV Jena,0.0,1.0
+28-10-2012,7,1. FFC Frankfurt,SC Freiburg,1.0,0.0
+,7,Wolfsburgo,FCR 2001 Duisburg,4.0,0.0
+,7,SGS Essen,Bayer Leverkusen,0.0,0.0
+,7,FF USV Jena,Turbine Potsdam,0.0,3.0
+,7,SC 07 Bad Neuenahr,VfL Sindelfingen,0.0,0.0
+07-11-2012,7,Bayern Múnich,FSV Gütersloh 2009,8.0,0.0
+14-10-2012,6,Bayer Leverkusen,FF USV Jena,1.0,2.0
+,6,Turbine Potsdam,Bayern Múnich,2.0,1.0
+,6,SGS Essen,Wolfsburgo,0.0,0.0
+,6,SC Freiburg,FCR 2001 Duisburg,2.0,1.0
+,6,VfL Sindelfingen,1. FFC Frankfurt,0.0,3.0
+,6,FSV Gütersloh 2009,SC 07 Bad Neuenahr,0.0,2.0
+03-10-2012,5,1. FFC Frankfurt,FSV Gütersloh 2009,1.0,1.0
+,5,FCR 2001 Duisburg,VfL Sindelfingen,4.0,0.0
+,5,FF USV Jena,SGS Essen,1.0,1.0
+,5,Bayern Múnich,Bayer Leverkusen,3.0,2.0
+10-10-2012,5,Wolfsburgo,SC Freiburg,1.0,0.0
+,5,Turbine Potsdam,SC 07 Bad Neuenahr,5.0,1.0
+30-09-2012,4,Turbine Potsdam,1. FFC Frankfurt,1.0,2.0
+,4,Bayer Leverkusen,SC 07 Bad Neuenahr,1.0,1.0
+,4,SGS Essen,Bayern Múnich,2.0,0.0
+,4,FF USV Jena,Wolfsburgo,0.0,3.0
+,4,VfL Sindelfingen,SC Freiburg,3.0,2.0
+,4,FSV Gütersloh 2009,FCR 2001 Duisburg,3.0,2.0
+23-09-2012,3,1. FFC Frankfurt,Bayer Leverkusen,4.0,2.0
+,3,SC Freiburg,FSV Gütersloh 2009,4.0,1.0
+,3,Wolfsburgo,VfL Sindelfingen,6.0,0.0
+,3,FCR 2001 Duisburg,Turbine Potsdam,0.0,4.0
+,3,Bayern Múnich,FF USV Jena,4.0,0.0
+,3,SC 07 Bad Neuenahr,SGS Essen,1.0,0.0
+09-09-2012,2,SGS Essen,1. FFC Frankfurt,3.0,1.0
+,2,FSV Gütersloh 2009,VfL Sindelfingen,4.0,0.0
+26-09-2012,2,SC 07 Bad Neuenahr,FF USV Jena,0.0,0.0
+10-10-2012,2,Bayer Leverkusen,FCR 2001 Duisburg,1.0,1.0
+14-11-2012,2,Turbine Potsdam,SC Freiburg,0.0,0.0
+05-12-2012,2,Bayern Múnich,Wolfsburgo,3.0,0.0
+02-09-2012,1,1. FFC Frankfurt,FF USV Jena,2.0,1.0
+,1,VfL Sindelfingen,Turbine Potsdam,1.0,9.0
+26-09-2012,1,SC Freiburg,Bayer Leverkusen,2.0,2.0
+,1,FCR 2001 Duisburg,SGS Essen,2.0,0.0
+31-10-2012,1,SC 07 Bad Neuenahr,Bayern Múnich,1.0,0.0
+14-11-2012,1,Wolfsburgo,FSV Gütersloh 2009,10.0,0.0
+28-05-2012,22,SG Essen-Schönebeck,Wolfsburgo,1.0,1.0
+,22,FF USV Jena,SC Freiburg,3.0,0.0
+,22,SC 07 Bad Neuenahr,Bayer Leverkusen,0.0,0.0
+,22,Bayern Múnich,Hamburgo,4.0,1.0
+,22,Turbine Potsdam,1. FC Lok Leipzig,8.0,0.0
+,22,1. FFC Frankfurt,FCR 2001 Duisburg,5.0,3.0
+20-05-2012,21,Wolfsburgo,1. FFC Frankfurt,1.0,0.0
+,21,FCR 2001 Duisburg,Turbine Potsdam,0.0,2.0
+,21,1. FC Lok Leipzig,Bayern Múnich,2.0,2.0
+,21,Hamburgo,SC 07 Bad Neuenahr,0.0,4.0
+,21,Bayer Leverkusen,FF USV Jena,3.0,2.0
+,21,SC Freiburg,SG Essen-Schönebeck,0.0,3.0
+06-05-2012,20,FF USV Jena,Hamburgo,0.0,1.0
+,20,Turbine Potsdam,1. FFC Frankfurt,3.0,1.0
+,20,Wolfsburgo,SC Freiburg,3.0,0.0
+,20,SG Essen-Schönebeck,Bayer Leverkusen,4.0,0.0
+,20,SC 07 Bad Neuenahr,1. FC Lok Leipzig,5.0,0.0
+,20,Bayern Múnich,FCR 2001 Duisburg,2.0,0.0
+29-04-2012,19,1. FFC Frankfurt,SC Freiburg,7.0,0.0
+,19,Bayer Leverkusen,Wolfsburgo,1.0,2.0
+,19,Turbine Potsdam,Bayern Múnich,3.0,0.0
+,19,FCR 2001 Duisburg,SC 07 Bad Neuenahr,2.0,0.0
+,19,1. FC Lok Leipzig,FF USV Jena,2.0,1.0
+,19,Hamburgo,SG Essen-Schönebeck,1.0,1.0
+22-04-2012,18,SC Freiburg,Bayer Leverkusen,0.0,1.0
+,18,FF USV Jena,FCR 2001 Duisburg,0.0,3.0
+,18,Wolfsburgo,Hamburgo,5.0,2.0
+,18,SG Essen-Schönebeck,1. FC Lok Leipzig,4.0,0.0
+25-04-2012,18,Bayern Múnich,1. FFC Frankfurt,1.0,2.0
+02-05-2012,18,SC 07 Bad Neuenahr,Turbine Potsdam,0.0,2.0
+09-04-2012,17,Turbine Potsdam,FF USV Jena,3.0,1.0
+11-04-2012,17,1. FFC Frankfurt,Bayer Leverkusen,4.0,1.0
+14-04-2012,17,FCR 2001 Duisburg,SG Essen-Schönebeck,4.0,0.0
+15-04-2012,17,Hamburgo,SC Freiburg,1.0,1.0
+,17,1. FC Lok Leipzig,Wolfsburgo,2.0,9.0
+,17,Bayern Múnich,SC 07 Bad Neuenahr,0.0,0.0
+25-03-2012,16,Bayer Leverkusen,Hamburgo,2.0,2.0
+,16,SC Freiburg,1. FC Lok Leipzig,3.0,0.0
+,16,SC 07 Bad Neuenahr,1. FFC Frankfurt,1.0,3.0
+,16,SG Essen-Schönebeck,Turbine Potsdam,1.0,0.0
+,16,FF USV Jena,Bayern Múnich,1.0,3.0
+,16,Wolfsburgo,FCR 2001 Duisburg,2.0,1.0
+18-03-2012,15,FCR 2001 Duisburg,SC Freiburg,2.0,2.0
+,15,1. FC Lok Leipzig,Bayer Leverkusen,1.0,4.0
+,15,1. FFC Frankfurt,Hamburgo,0.0,1.0
+,15,Turbine Potsdam,Wolfsburgo,1.0,0.0
+,15,SC 07 Bad Neuenahr,FF USV Jena,0.0,1.0
+,15,Bayern Múnich,SG Essen-Schönebeck,1.0,0.0
+11-03-2012,14,SC Freiburg,Turbine Potsdam,0.0,2.0
+,14,Hamburgo,1. FC Lok Leipzig,2.0,0.0
+,14,FF USV Jena,1. FFC Frankfurt,0.0,2.0
+,14,Wolfsburgo,Bayern Múnich,3.0,0.0
+,14,SG Essen-Schönebeck,SC 07 Bad Neuenahr,0.0,2.0
+,14,Bayer Leverkusen,FCR 2001 Duisburg,0.0,1.0
+26-02-2012,13,Turbine Potsdam,Bayer Leverkusen,1.0,1.0
+,13,FCR 2001 Duisburg,Hamburgo,3.0,1.0
+,13,1. FFC Frankfurt,1. FC Lok Leipzig,4.0,0.0
+,13,FF USV Jena,SG Essen-Schönebeck,2.0,1.0
+,13,Bayern Múnich,SC Freiburg,3.0,0.0
+09-04-2012,13,SC 07 Bad Neuenahr,Wolfsburgo,1.0,3.0
+18-12-2011,12,SG Essen-Schönebeck,1. FFC Frankfurt,0.0,3.0
+,12,Bayer Leverkusen,Bayern Múnich,1.0,3.0
+,12,SC Freiburg,SC 07 Bad Neuenahr,0.0,0.0
+22-02-2012,12,Hamburgo,Turbine Potsdam,1.0,1.0
+14-03-2012,12,1. FC Lok Leipzig,FCR 2001 Duisburg,1.0,6.0
+,12,Wolfsburgo,FF USV Jena,7.0,0.0
+10-12-2011,11,FCR 2001 Duisburg,1. FFC Frankfurt,1.0,1.0
+11-12-2011,11,SC Freiburg,FF USV Jena,0.0,0.0
+,11,Wolfsburgo,SG Essen-Schönebeck,2.0,0.0
+,11,Bayer Leverkusen,SC 07 Bad Neuenahr,0.0,3.0
+,11,1. FC Lok Leipzig,Turbine Potsdam,0.0,7.0
+14-03-2012,11,Hamburgo,Bayern Múnich,1.0,1.0
+27-11-2011,10,1. FFC Frankfurt,Wolfsburgo,0.0,1.0
+,10,FF USV Jena,Bayer Leverkusen,2.0,1.0
+,10,Turbine Potsdam,FCR 2001 Duisburg,2.0,3.0
+,10,Bayern Múnich,1. FC Lok Leipzig,1.0,2.0
+,10,SC 07 Bad Neuenahr,Hamburgo,1.0,0.0
+,10,SG Essen-Schönebeck,SC Freiburg,0.0,2.0
+12-11-2011,9,FCR 2001 Duisburg,Bayern Múnich,3.0,1.0
+13-11-2011,9,Hamburgo,FF USV Jena,1.0,1.0
+,9,1. FFC Frankfurt,Turbine Potsdam,0.0,2.0
+,9,SC Freiburg,Wolfsburgo,0.0,3.0
+,9,Bayer Leverkusen,SG Essen-Schönebeck,0.0,2.0
+,9,1. FC Lok Leipzig,SC 07 Bad Neuenahr,0.0,2.0
+06-11-2011,8,SC Freiburg,1. FFC Frankfurt,1.0,0.0
+,8,FF USV Jena,1. FC Lok Leipzig,0.0,1.0
+,8,Wolfsburgo,Bayer Leverkusen,5.0,1.0
+,8,Bayern Múnich,Turbine Potsdam,0.0,4.0
+,8,SC 07 Bad Neuenahr,FCR 2001 Duisburg,2.0,0.0
+,8,SG Essen-Schönebeck,Hamburgo,1.0,1.0
+16-10-2011,7,1. FFC Frankfurt,Bayern Múnich,7.0,1.0
+,7,Bayer Leverkusen,SC Freiburg,1.0,5.0
+,7,FCR 2001 Duisburg,FF USV Jena,3.0,0.0
+,7,Turbine Potsdam,SC 07 Bad Neuenahr,1.0,0.0
+,7,Hamburgo,Wolfsburgo,1.0,3.0
+,7,1. FC Lok Leipzig,SG Essen-Schönebeck,0.0,4.0
+08-10-2011,6,Bayer Leverkusen,1. FFC Frankfurt,0.0,5.0
+,6,SG Essen-Schönebeck,FCR 2001 Duisburg,1.0,1.0
+09-10-2011,6,SC Freiburg,Hamburgo,2.0,3.0
+,6,Wolfsburgo,1. FC Lok Leipzig,5.0,1.0
+,6,SC 07 Bad Neuenahr,Bayern Múnich,0.0,1.0
+,6,FF USV Jena,Turbine Potsdam,0.0,7.0
+02-10-2011,5,1. FFC Frankfurt,SC 07 Bad Neuenahr,2.0,0.0
+,5,Hamburgo,Bayer Leverkusen,0.0,2.0
+,5,1. FC Lok Leipzig,SC Freiburg,0.0,1.0
+,5,FCR 2001 Duisburg,Wolfsburgo,3.0,0.0
+,5,Turbine Potsdam,SG Essen-Schönebeck,3.0,2.0
+,5,Bayern Múnich,FF USV Jena,1.0,1.0
+24-09-2011,4,SC Freiburg,FCR 2001 Duisburg,0.0,6.0
+25-09-2011,4,Bayer Leverkusen,1. FC Lok Leipzig,2.0,3.0
+,4,Hamburgo,1. FFC Frankfurt,0.0,2.0
+,4,Wolfsburgo,Turbine Potsdam,0.0,2.0
+,4,FF USV Jena,SC 07 Bad Neuenahr,1.0,0.0
+,4,SG Essen-Schönebeck,Bayern Múnich,1.0,0.0
+03-09-2011,3,1. FFC Frankfurt,FF USV Jena,3.0,0.0
+,3,FCR 2001 Duisburg,Bayer Leverkusen,4.0,1.0
+04-09-2011,3,Turbine Potsdam,SC Freiburg,2.0,0.0
+,3,1. FC Lok Leipzig,Hamburgo,0.0,3.0
+,3,Bayern Múnich,Wolfsburgo,0.0,3.0
+,3,SC 07 Bad Neuenahr,SG Essen-Schönebeck,2.0,3.0
+28-08-2011,2,Bayer Leverkusen,Turbine Potsdam,0.0,3.0
+,2,Hamburgo,FCR 2001 Duisburg,0.0,2.0
+,2,1. FC Lok Leipzig,1. FFC Frankfurt,0.0,4.0
+,2,Wolfsburgo,SC 07 Bad Neuenahr,1.0,1.0
+,2,SC Freiburg,Bayern Múnich,3.0,1.0
+,2,SG Essen-Schönebeck,FF USV Jena,1.0,0.0
+21-08-2011,1,FCR 2001 Duisburg,1. FC Lok Leipzig,2.0,1.0
+,1,1. FFC Frankfurt,SG Essen-Schönebeck,3.0,0.0
+,1,FF USV Jena,Wolfsburgo,0.0,3.0
+,1,Turbine Potsdam,Hamburgo,4.0,0.0
+,1,Bayern Múnich,Bayer Leverkusen,3.0,0.0
+,1,SC 07 Bad Neuenahr,SC Freiburg,2.0,2.0
+13-03-2011,22,1. FFC Frankfurt,Bayern Múnich,8.0,2.0
+,22,Herforder SV,Hamburgo,1.0,3.0
+,22,Turbine Potsdam,SG Essen-Schönebeck,3.0,0.0
+,22,SC 07 Bad Neuenahr,Bayer Leverkusen,5.0,1.0
+,22,FCR 2001 Duisburg,1. FC Saarbrücken,5.0,0.0
+,22,Wolfsburgo,FF USV Jena,1.0,2.0
+06-03-2011,21,Bayern Múnich,Wolfsburgo,2.0,1.0
+,21,FF USV Jena,FCR 2001 Duisburg,2.0,2.0
+,21,1. FC Saarbrücken,SC 07 Bad Neuenahr,2.0,3.0
+,21,Bayer Leverkusen,Turbine Potsdam,1.0,7.0
+,21,SG Essen-Schönebeck,Herforder SV,4.0,2.0
+,21,Hamburgo,1. FFC Frankfurt,0.0,4.0
+20-02-2011,20,FCR 2001 Duisburg,Wolfsburgo,2.0,1.0
+,20,Bayern Múnich,Hamburgo,1.0,4.0
+,20,1. FFC Frankfurt,SG Essen-Schönebeck,6.0,0.0
+,20,Turbine Potsdam,1. FC Saarbrücken,7.0,0.0
+,20,Herforder SV,Bayer Leverkusen,2.0,3.0
+,20,SC 07 Bad Neuenahr,FF USV Jena,2.0,1.0
+12-02-2011,19,FCR 2001 Duisburg,SC 07 Bad Neuenahr,2.0,0.0
+13-02-2011,19,1. FC Saarbrücken,Herforder SV,2.0,2.0
+,19,SG Essen-Schönebeck,Bayern Múnich,1.0,2.0
+,19,FF USV Jena,Turbine Potsdam,2.0,3.0
+,19,Bayer Leverkusen,1. FFC Frankfurt,0.0,4.0
+23-02-2011,19,Wolfsburgo,Hamburgo,2.0,3.0
+06-02-2011,18,Turbine Potsdam,FCR 2001 Duisburg,1.0,0.0
+,18,Bayern Múnich,Bayer Leverkusen,4.0,0.0
+,18,1. FFC Frankfurt,1. FC Saarbrücken,9.0,0.0
+,18,Hamburgo,SG Essen-Schönebeck,1.0,0.0
+,18,SC 07 Bad Neuenahr,Wolfsburgo,1.0,2.0
+27-02-2011,18,Herforder SV,FF USV Jena,3.0,4.0
+19-12-2010,17,Wolfsburgo,SG Essen-Schönebeck,1.0,0.0
+02-02-2011,17,Bayer Leverkusen,Hamburgo,4.0,1.0
+15-02-2011,17,SC 07 Bad Neuenahr,Turbine Potsdam,2.0,5.0
+16-02-2011,17,1. FC Saarbrücken,Bayern Múnich,0.0,5.0
+,17,FF USV Jena,1. FFC Frankfurt,0.0,3.0
+,17,FCR 2001 Duisburg,Herforder SV,4.0,0.0
+05-12-2010,16,Hamburgo,1. FC Saarbrücken,3.0,1.0
+,16,Turbine Potsdam,Wolfsburgo,4.0,0.0
+29-01-2011,16,1. FFC Frankfurt,FCR 2001 Duisburg,0.0,1.0
+30-01-2011,16,Bayern Múnich,FF USV Jena,5.0,0.0
+09-02-2011,16,Herforder SV,SC 07 Bad Neuenahr,4.0,2.0
+16-02-2011,16,SG Essen-Schönebeck,Bayer Leverkusen,1.0,1.0
+28-11-2010,15,FCR 2001 Duisburg,Bayern Múnich,2.0,1.0
+,15,FF USV Jena,Hamburgo,0.0,1.0
+,15,Wolfsburgo,Bayer Leverkusen,3.0,3.0
+,15,Turbine Potsdam,Herforder SV,1.0,0.0
+,15,SC 07 Bad Neuenahr,1. FFC Frankfurt,0.0,8.0
+02-02-2011,15,1. FC Saarbrücken,SG Essen-Schönebeck,1.0,3.0
+20-11-2010,14,Herforder SV,Wolfsburgo,0.0,8.0
+21-11-2010,14,Hamburgo,FCR 2001 Duisburg,1.0,5.0
+,14,Bayern Múnich,SC 07 Bad Neuenahr,1.0,2.0
+,14,1. FFC Frankfurt,Turbine Potsdam,4.0,1.0
+,14,Bayer Leverkusen,1. FC Saarbrücken,0.0,1.0
+,14,SG Essen-Schönebeck,FF USV Jena,1.0,2.0
+13-11-2010,13,Wolfsburgo,1. FC Saarbrücken,4.0,0.0
+,13,FF USV Jena,Bayer Leverkusen,0.0,3.0
+14-11-2010,13,Turbine Potsdam,Bayern Múnich,3.0,0.0
+,13,SC 07 Bad Neuenahr,Hamburgo,2.0,6.0
+,13,Herforder SV,1. FFC Frankfurt,0.0,7.0
+17-11-2010,13,FCR 2001 Duisburg,SG Essen-Schönebeck,3.0,1.0
+06-11-2010,12,Bayer Leverkusen,FCR 2001 Duisburg,2.0,3.0
+07-11-2010,12,Bayern Múnich,Herforder SV,3.0,2.0
+,12,1. FC Saarbrücken,FF USV Jena,1.0,1.0
+,12,1. FFC Frankfurt,Wolfsburgo,5.0,1.0
+,12,SG Essen-Schönebeck,SC 07 Bad Neuenahr,2.0,1.0
+,12,Hamburgo,Turbine Potsdam,0.0,1.0
+31-10-2010,11,Bayern Múnich,1. FFC Frankfurt,0.0,2.0
+,11,1. FC Saarbrücken,FCR 2001 Duisburg,0.0,3.0
+,11,FF USV Jena,Wolfsburgo,1.0,4.0
+,11,Hamburgo,Herforder SV,3.0,0.0
+,11,SG Essen-Schönebeck,Turbine Potsdam,1.0,4.0
+,11,Bayer Leverkusen,SC 07 Bad Neuenahr,1.0,4.0
+17-10-2010,10,FCR 2001 Duisburg,FF USV Jena,1.0,0.0
+,10,1. FFC Frankfurt,Hamburgo,5.0,1.0
+,10,Wolfsburgo,Bayern Múnich,0.0,0.0
+,10,SC 07 Bad Neuenahr,1. FC Saarbrücken,6.0,0.0
+,10,Turbine Potsdam,Bayer Leverkusen,6.0,1.0
+,10,Herforder SV,SG Essen-Schönebeck,1.0,1.0
+10-10-2010,9,SG Essen-Schönebeck,1. FFC Frankfurt,0.0,8.0
+,9,1. FC Saarbrücken,Turbine Potsdam,0.0,2.0
+,9,FF USV Jena,SC 07 Bad Neuenahr,0.0,7.0
+,9,Wolfsburgo,FCR 2001 Duisburg,3.0,2.0
+,9,Hamburgo,Bayern Múnich,2.0,1.0
+,9,Bayer Leverkusen,Herforder SV,5.0,1.0
+03-10-2010,8,Bayern Múnich,SG Essen-Schönebeck,1.0,1.0
+,8,Herforder SV,1. FC Saarbrücken,1.0,2.0
+,8,1. FFC Frankfurt,Bayer Leverkusen,5.0,1.0
+,8,Hamburgo,Wolfsburgo,2.0,1.0
+,8,SC 07 Bad Neuenahr,FCR 2001 Duisburg,0.0,2.0
+,8,Turbine Potsdam,FF USV Jena,5.0,0.0
+26-09-2010,7,FCR 2001 Duisburg,Turbine Potsdam,1.0,1.0
+,7,FF USV Jena,Herforder SV,2.0,1.0
+,7,Wolfsburgo,SC 07 Bad Neuenahr,1.0,4.0
+,7,SG Essen-Schönebeck,Hamburgo,1.0,3.0
+,7,Bayer Leverkusen,Bayern Múnich,1.0,2.0
+,7,1. FC Saarbrücken,1. FFC Frankfurt,1.0,4.0
+19-09-2010,6,Bayern Múnich,1. FC Saarbrücken,4.0,0.0
+,6,Hamburgo,Bayer Leverkusen,0.0,1.0
+,6,1. FFC Frankfurt,FF USV Jena,5.0,0.0
+,6,SG Essen-Schönebeck,Wolfsburgo,3.0,2.0
+,6,Turbine Potsdam,SC 07 Bad Neuenahr,1.0,0.0
+,6,Herforder SV,FCR 2001 Duisburg,0.0,5.0
+11-09-2010,5,1. FC Saarbrücken,Hamburgo,1.0,3.0
+,5,FF USV Jena,Bayern Múnich,0.0,4.0
+,5,Wolfsburgo,Turbine Potsdam,2.0,1.0
+,5,FCR 2001 Duisburg,1. FFC Frankfurt,1.0,2.0
+,5,SC 07 Bad Neuenahr,Herforder SV,5.0,1.0
+,5,Bayer Leverkusen,SG Essen-Schönebeck,1.0,1.0
+05-09-2010,4,Bayern Múnich,FCR 2001 Duisburg,2.0,4.0
+,4,Hamburgo,FF USV Jena,2.0,2.0
+,4,1. FFC Frankfurt,SC 07 Bad Neuenahr,4.0,1.0
+,4,SG Essen-Schönebeck,1. FC Saarbrücken,3.0,1.0
+,4,Bayer Leverkusen,Wolfsburgo,3.0,2.0
+,4,Herforder SV,Turbine Potsdam,1.0,2.0
+29-08-2010,3,FCR 2001 Duisburg,Hamburgo,2.0,2.0
+,3,FF USV Jena,SG Essen-Schönebeck,0.0,0.0
+,3,Wolfsburgo,Herforder SV,6.0,3.0
+,3,SC 07 Bad Neuenahr,Bayern Múnich,0.0,1.0
+,3,Turbine Potsdam,1. FFC Frankfurt,2.0,1.0
+,3,1. FC Saarbrücken,Bayer Leverkusen,2.0,0.0
+22-08-2010,2,Bayern Múnich,Turbine Potsdam,0.0,3.0
+,2,Bayer Leverkusen,FF USV Jena,0.0,4.0
+,2,1. FC Saarbrücken,Wolfsburgo,2.0,3.0
+,2,1. FFC Frankfurt,Herforder SV,6.0,0.0
+,2,Hamburgo,SC 07 Bad Neuenahr,0.0,3.0
+,2,SG Essen-Schönebeck,FCR 2001 Duisburg,0.0,2.0
+15-08-2010,1,Wolfsburgo,1. FFC Frankfurt,4.0,3.0
+,1,FCR 2001 Duisburg,Bayer Leverkusen,9.0,0.0
+,1,SC 07 Bad Neuenahr,SG Essen-Schönebeck,4.0,3.0
+,1,Turbine Potsdam,Hamburgo,4.0,1.0
+,1,Herforder SV,Bayern Múnich,0.0,2.0
+,1,FF USV Jena,1. FC Saarbrücken,1.0,3.0
+09-05-2010,22,SC 07 Bad Neuenahr,1. FFC Frankfurt,1.0,5.0
+,22,Wolfsburgo,Turbine Potsdam,1.0,3.0
+,22,1. FC Saarbrücken,FF USV Jena,5.0,2.0
+,22,SC Freiburg,SG Essen-Schönebeck,1.0,1.0
+,22,Bayern Múnich,FCR 2001 Duisburg,1.0,2.0
+,22,TeBe Berlin,Hamburgo,3.0,1.0
+02-05-2010,21,1. FFC Frankfurt,TeBe Berlin,13.0,0.0
+,21,Hamburgo,Bayern Múnich,1.0,4.0
+,21,FCR 2001 Duisburg,SC Freiburg,5.0,0.0
+,21,SG Essen-Schönebeck,1. FC Saarbrücken,0.0,1.0
+,21,FF USV Jena,Wolfsburgo,1.0,6.0
+,21,Turbine Potsdam,SC 07 Bad Neuenahr,1.0,0.0
+25-04-2010,20,Bayern Múnich,TeBe Berlin,5.0,0.0
+,20,1. FFC Frankfurt,Turbine Potsdam,2.0,1.0
+,20,1. FC Saarbrücken,FCR 2001 Duisburg,0.0,6.0
+,20,SC Freiburg,Hamburgo,0.0,2.0
+,20,Wolfsburgo,SG Essen-Schönebeck,3.0,0.0
+,20,FF USV Jena,SC 07 Bad Neuenahr,0.0,3.0
+18-04-2010,19,Bayern Múnich,SC Freiburg,2.0,1.0
+,19,Hamburgo,1. FC Saarbrücken,1.0,0.0
+,19,FF USV Jena,1. FFC Frankfurt,0.0,3.0
+,19,SG Essen-Schönebeck,SC 07 Bad Neuenahr,0.0,0.0
+28-04-2010,19,FCR 2001 Duisburg,Wolfsburgo,4.0,0.0
+,19,TeBe Berlin,Turbine Potsdam,0.0,6.0
+07-04-2010,18,SC 07 Bad Neuenahr,FCR 2001 Duisburg,1.0,3.0
+,18,Turbine Potsdam,FF USV Jena,7.0,0.0
+11-04-2010,18,SC Freiburg,TeBe Berlin,2.0,0.0
+,18,1. FC Saarbrücken,Bayern Múnich,0.0,0.0
+,18,1. FFC Frankfurt,SG Essen-Schönebeck,4.0,0.0
+,18,Wolfsburgo,Hamburgo,3.0,3.0
+20-03-2010,17,FCR 2001 Duisburg,1. FFC Frankfurt,0.0,2.0
+21-03-2010,17,Bayern Múnich,Wolfsburgo,2.0,1.0
+,17,SG Essen-Schönebeck,Turbine Potsdam,1.0,5.0
+,17,TeBe Berlin,FF USV Jena,0.0,3.0
+,17,SC Freiburg,1. FC Saarbrücken,1.0,0.0
+,17,Hamburgo,SC 07 Bad Neuenahr,2.0,1.0
+14-03-2010,16,1. FC Saarbrücken,TeBe Berlin,3.0,1.0
+,16,1. FFC Frankfurt,Hamburgo,4.0,2.0
+,16,SC 07 Bad Neuenahr,Bayern Múnich,3.0,0.0
+,16,FF USV Jena,SG Essen-Schönebeck,2.0,2.0
+24-03-2010,16,Turbine Potsdam,FCR 2001 Duisburg,2.0,1.0
+05-04-2010,16,Wolfsburgo,SC Freiburg,1.0,0.0
+07-03-2010,15,FCR 2001 Duisburg,FF USV Jena,3.0,0.0
+,15,Bayern Múnich,1. FFC Frankfurt,2.0,1.0
+,15,TeBe Berlin,SG Essen-Schönebeck,1.0,2.0
+,15,SC Freiburg,SC 07 Bad Neuenahr,4.0,1.0
+28-03-2010,15,Hamburgo,Turbine Potsdam,1.0,5.0
+15-04-2010,15,1. FC Saarbrücken,Wolfsburgo,0.0,2.0
+20-02-2010,14,SG Essen-Schönebeck,FCR 2001 Duisburg,1.0,1.0
+03-04-2010,14,SC 07 Bad Neuenahr,1. FC Saarbrücken,2.0,1.0
+07-04-2010,14,1. FFC Frankfurt,SC Freiburg,5.0,1.0
+14-04-2010,14,Turbine Potsdam,Bayern Múnich,2.0,0.0
+,14,FF USV Jena,Hamburgo,2.0,2.0
+18-04-2010,14,Wolfsburgo,TeBe Berlin,3.0,0.0
+20-02-2010,13,SC Freiburg,Turbine Potsdam,0.0,4.0
+17-03-2010,13,TeBe Berlin,FCR 2001 Duisburg,0.0,5.0
+,13,1. FC Saarbrücken,1. FFC Frankfurt,1.0,4.0
+,13,Bayern Múnich,FF USV Jena,1.0,0.0
+,13,Wolfsburgo,SC 07 Bad Neuenahr,2.0,0.0
+07-04-2010,13,Hamburgo,SG Essen-Schönebeck,2.0,0.0
+12-12-2009,12,SG Essen-Schönebeck,Bayern Múnich,0.0,2.0
+13-12-2009,12,FF USV Jena,SC Freiburg,2.0,0.0
+,12,Turbine Potsdam,1. FC Saarbrücken,5.0,1.0
+,12,FCR 2001 Duisburg,Hamburgo,4.0,0.0
+,12,SC 07 Bad Neuenahr,TeBe Berlin,2.0,1.0
+03-04-2010,12,1. FFC Frankfurt,Wolfsburgo,1.0,2.0
+05-12-2009,11,FCR 2001 Duisburg,Bayern Múnich,7.0,0.0
+06-12-2009,11,1. FFC Frankfurt,SC 07 Bad Neuenahr,5.0,2.0
+,11,FF USV Jena,1. FC Saarbrücken,3.0,1.0
+,11,Turbine Potsdam,Wolfsburgo,2.0,0.0
+,11,SG Essen-Schönebeck,SC Freiburg,3.0,2.0
+,11,Hamburgo,TeBe Berlin,1.0,0.0
+29-11-2009,10,TeBe Berlin,1. FFC Frankfurt,1.0,6.0
+,10,Bayern Múnich,Hamburgo,1.0,2.0
+,10,SC Freiburg,FCR 2001 Duisburg,0.0,3.0
+,10,1. FC Saarbrücken,SG Essen-Schönebeck,3.0,1.0
+,10,Wolfsburgo,FF USV Jena,2.0,0.0
+,10,SC 07 Bad Neuenahr,Turbine Potsdam,0.0,4.0
+21-11-2009,9,SG Essen-Schönebeck,Wolfsburgo,2.0,2.0
+,9,FCR 2001 Duisburg,1. FC Saarbrücken,1.0,1.0
+22-11-2009,9,Hamburgo,SC Freiburg,0.0,1.0
+,9,TeBe Berlin,Bayern Múnich,2.0,2.0
+,9,Turbine Potsdam,1. FFC Frankfurt,4.0,1.0
+,9,SC 07 Bad Neuenahr,FF USV Jena,6.0,2.0
+08-11-2009,8,1. FFC Frankfurt,FF USV Jena,3.0,1.0
+,8,SC Freiburg,Bayern Múnich,0.0,3.0
+,8,1. FC Saarbrücken,Hamburgo,2.0,4.0
+,8,Turbine Potsdam,TeBe Berlin,3.0,1.0
+,8,Wolfsburgo,FCR 2001 Duisburg,1.0,3.0
+,8,SC 07 Bad Neuenahr,SG Essen-Schönebeck,1.0,2.0
+31-10-2009,7,Bayern Múnich,1. FC Saarbrücken,6.0,2.0
+,7,FCR 2001 Duisburg,SC 07 Bad Neuenahr,4.0,1.0
+01-11-2009,7,TeBe Berlin,SC Freiburg,2.0,0.0
+,7,FF USV Jena,Turbine Potsdam,1.0,4.0
+,7,Hamburgo,Wolfsburgo,2.0,2.0
+,7,SG Essen-Schönebeck,1. FFC Frankfurt,3.0,8.0
+25-10-2009,6,1. FFC Frankfurt,FCR 2001 Duisburg,2.0,3.0
+,6,Wolfsburgo,Bayern Múnich,4.0,0.0
+,6,Turbine Potsdam,SG Essen-Schönebeck,7.0,0.0
+,6,FF USV Jena,TeBe Berlin,4.0,0.0
+,6,1. FC Saarbrücken,SC Freiburg,5.0,0.0
+,6,SC 07 Bad Neuenahr,Hamburgo,0.0,0.0
+17-10-2009,5,FCR 2001 Duisburg,Turbine Potsdam,2.0,2.0
+18-10-2009,5,TeBe Berlin,1. FC Saarbrücken,2.0,2.0
+,5,Bayern Múnich,SC 07 Bad Neuenahr,0.0,1.0
+,5,SC Freiburg,Wolfsburgo,1.0,3.0
+,5,SG Essen-Schönebeck,FF USV Jena,3.0,3.0
+,5,Hamburgo,1. FFC Frankfurt,0.0,4.0
+11-10-2009,4,1. FFC Frankfurt,Bayern Múnich,2.0,3.0
+,4,FF USV Jena,FCR 2001 Duisburg,0.0,6.0
+,4,Wolfsburgo,1. FC Saarbrücken,2.0,2.0
+,4,Turbine Potsdam,Hamburgo,6.0,0.0
+,4,SG Essen-Schönebeck,TeBe Berlin,2.0,2.0
+,4,SC 07 Bad Neuenahr,SC Freiburg,3.0,0.0
+03-10-2009,3,FCR 2001 Duisburg,SG Essen-Schönebeck,2.0,0.0
+04-10-2009,3,Bayern Múnich,Turbine Potsdam,3.0,3.0
+,3,SC Freiburg,1. FFC Frankfurt,0.0,2.0
+,3,Hamburgo,FF USV Jena,1.0,3.0
+,3,TeBe Berlin,Wolfsburgo,0.0,3.0
+,3,1. FC Saarbrücken,SC 07 Bad Neuenahr,0.0,4.0
+27-09-2009,2,1. FFC Frankfurt,1. FC Saarbrücken,4.0,0.0
+,2,Turbine Potsdam,SC Freiburg,5.0,0.0
+,2,FF USV Jena,Bayern Múnich,1.0,2.0
+,2,FCR 2001 Duisburg,TeBe Berlin,4.0,1.0
+,2,SC 07 Bad Neuenahr,Wolfsburgo,1.0,0.0
+,2,SG Essen-Schönebeck,Hamburgo,2.0,3.0
+20-09-2009,1,Bayern Múnich,SG Essen-Schönebeck,3.0,0.0
+,1,SC Freiburg,FF USV Jena,0.0,1.0
+,1,Hamburgo,FCR 2001 Duisburg,1.0,4.0
+,1,TeBe Berlin,SC 07 Bad Neuenahr,0.0,2.0
+,1,1. FC Saarbrücken,Turbine Potsdam,0.0,3.0
+,1,Wolfsburgo,1. FFC Frankfurt,2.0,3.0
+07-06-2009,22,Hamburgo,Herforder SV,5.0,1.0
+,22,FCR 2001 Duisburg,SC Freiburg,5.0,0.0
+,22,TSV Crailsheim,Bayern Múnich,0.0,3.0
+,22,Turbine Potsdam,Wolfsburgo,3.0,0.0
+,22,SG Essen-Schönebeck,1. FFC Frankfurt,1.0,3.0
+,22,FF USV Jena,SC 07 Bad Neuenahr,5.0,0.0
+17-05-2009,21,Herforder SV,FF USV Jena,3.0,4.0
+,21,SC 07 Bad Neuenahr,SG Essen-Schönebeck,1.0,1.0
+,21,1. FFC Frankfurt,Turbine Potsdam,1.0,2.0
+,21,Wolfsburgo,TSV Crailsheim,6.0,1.0
+,21,SC Freiburg,Hamburgo,2.0,2.0
+03-06-2009,21,Bayern Múnich,FCR 2001 Duisburg,0.0,4.0
+10-05-2009,20,FCR 2001 Duisburg,Wolfsburgo,4.0,0.0
+,20,SG Essen-Schönebeck,FF USV Jena,0.0,3.0
+,20,Herforder SV,SC Freiburg,2.0,1.0
+,20,Hamburgo,Bayern Múnich,0.0,3.0
+,20,TSV Crailsheim,1. FFC Frankfurt,1.0,5.0
+,20,Turbine Potsdam,SC 07 Bad Neuenahr,3.0,0.0
+03-05-2009,19,Bayern Múnich,Herforder SV,7.0,0.0
+,19,FF USV Jena,SC Freiburg,2.0,1.0
+,19,1. FFC Frankfurt,FCR 2001 Duisburg,1.0,2.0
+,19,SG Essen-Schönebeck,Turbine Potsdam,1.0,5.0
+,19,SC 07 Bad Neuenahr,TSV Crailsheim,5.0,1.0
+,19,Wolfsburgo,Hamburgo,2.0,4.0
+18-04-2009,18,SC Freiburg,Bayern Múnich,1.0,5.0
+,18,Turbine Potsdam,FF USV Jena,3.0,2.0
+,18,Herforder SV,Wolfsburgo,1.0,6.0
+,18,Hamburgo,1. FFC Frankfurt,0.0,2.0
+,18,TSV Crailsheim,SG Essen-Schönebeck,1.0,4.0
+,18,FCR 2001 Duisburg,SC 07 Bad Neuenahr,6.0,1.0
+18-03-2009,17,SG Essen-Schönebeck,FCR 2001 Duisburg,0.0,3.0
+29-03-2009,17,1. FFC Frankfurt,Herforder SV,8.0,0.0
+,17,FF USV Jena,Bayern Múnich,0.0,2.0
+,17,Turbine Potsdam,TSV Crailsheim,4.0,0.0
+,17,Wolfsburgo,SC Freiburg,2.0,3.0
+,17,SC 07 Bad Neuenahr,Hamburgo,1.0,5.0
+22-03-2009,16,FCR 2001 Duisburg,Turbine Potsdam,0.0,3.0
+,16,Bayern Múnich,Wolfsburgo,3.0,3.0
+,16,SC Freiburg,1. FFC Frankfurt,2.0,1.0
+,16,TSV Crailsheim,FF USV Jena,0.0,2.0
+,16,Hamburgo,SG Essen-Schönebeck,0.0,1.0
+,16,Herforder SV,SC 07 Bad Neuenahr,3.0,2.0
+15-03-2009,15,1. FFC Frankfurt,Bayern Múnich,1.0,0.0
+,15,FF USV Jena,Wolfsburgo,1.0,4.0
+,15,TSV Crailsheim,FCR 2001 Duisburg,0.0,7.0
+,15,SG Essen-Schönebeck,Herforder SV,4.0,0.0
+,15,SC 07 Bad Neuenahr,SC Freiburg,3.0,0.0
+,15,Turbine Potsdam,Hamburgo,3.0,1.0
+01-03-2009,14,FCR 2001 Duisburg,FF USV Jena,3.0,0.0
+,14,Hamburgo,TSV Crailsheim,1.0,1.0
+,14,Wolfsburgo,1. FFC Frankfurt,2.0,3.0
+,14,SC Freiburg,SG Essen-Schönebeck,3.0,2.0
+,14,Herforder SV,Turbine Potsdam,0.0,4.0
+26-04-2009,14,Bayern Múnich,SC 07 Bad Neuenahr,8.0,1.0
+21-02-2009,13,SC 07 Bad Neuenahr,Wolfsburgo,0.0,5.0
+,13,FF USV Jena,1. FFC Frankfurt,1.0,1.0
+,13,SG Essen-Schönebeck,Bayern Múnich,2.0,2.0
+,13,FCR 2001 Duisburg,Hamburgo,5.0,2.0
+08-03-2009,13,TSV Crailsheim,Herforder SV,2.0,2.0
+18-03-2009,13,Turbine Potsdam,SC Freiburg,7.0,1.0
+14-12-2008,12,Bayern Múnich,Turbine Potsdam,2.0,1.0
+,12,1. FFC Frankfurt,SC 07 Bad Neuenahr,1.0,0.0
+,12,Hamburgo,FF USV Jena,2.0,1.0
+,12,Wolfsburgo,SG Essen-Schönebeck,1.0,0.0
+,12,SC Freiburg,TSV Crailsheim,1.0,3.0
+15-04-2009,12,Herforder SV,FCR 2001 Duisburg,0.0,6.0
+22-10-2008,11,Wolfsburgo,Turbine Potsdam,1.0,5.0
+07-12-2008,11,SC Freiburg,FCR 2001 Duisburg,0.0,3.0
+,11,Bayern Múnich,TSV Crailsheim,4.0,1.0
+11-04-2009,11,Herforder SV,Hamburgo,1.0,4.0
+13-04-2009,11,1. FFC Frankfurt,SG Essen-Schönebeck,2.0,2.0
+,11,SC 07 Bad Neuenahr,FF USV Jena,2.0,1.0
+30-11-2008,10,TSV Crailsheim,Wolfsburgo,1.0,3.0
+,10,Hamburgo,SC Freiburg,0.0,1.0
+,10,SG Essen-Schönebeck,SC 07 Bad Neuenahr,8.0,1.0
+08-02-2009,10,FF USV Jena,Herforder SV,2.0,2.0
+01-04-2009,10,Turbine Potsdam,1. FFC Frankfurt,2.0,2.0
+,10,FCR 2001 Duisburg,Bayern Múnich,1.0,2.0
+17-09-2008,9,SC 07 Bad Neuenahr,Turbine Potsdam,2.0,2.0
+22-10-2008,9,FF USV Jena,SG Essen-Schönebeck,3.0,1.0
+,9,Bayern Múnich,Hamburgo,2.0,1.0
+16-11-2008,9,1. FFC Frankfurt,TSV Crailsheim,2.0,0.0
+17-12-2008,9,SC Freiburg,Herforder SV,3.0,1.0
+08-02-2009,9,Wolfsburgo,FCR 2001 Duisburg,2.0,2.0
+02-11-2008,8,Herforder SV,Bayern Múnich,0.0,5.0
+,8,SC Freiburg,FF USV Jena,4.0,1.0
+,8,Turbine Potsdam,SG Essen-Schönebeck,4.0,0.0
+,8,TSV Crailsheim,SC 07 Bad Neuenahr,1.0,3.0
+,8,Hamburgo,Wolfsburgo,3.0,2.0
+22-11-2008,8,FCR 2001 Duisburg,1. FFC Frankfurt,5.0,0.0
+26-10-2008,7,Bayern Múnich,SC Freiburg,5.0,5.0
+,7,1. FFC Frankfurt,Hamburgo,5.0,0.0
+,7,FF USV Jena,Turbine Potsdam,0.0,5.0
+,7,SG Essen-Schönebeck,TSV Crailsheim,4.0,0.0
+,7,Wolfsburgo,Herforder SV,3.0,0.0
+,7,SC 07 Bad Neuenahr,FCR 2001 Duisburg,0.0,4.0
+17-09-2008,6,Herforder SV,1. FFC Frankfurt,0.0,3.0
+,6,FCR 2001 Duisburg,SG Essen-Schönebeck,2.0,3.0
+12-10-2008,6,Bayern Múnich,FF USV Jena,3.0,0.0
+,6,TSV Crailsheim,Turbine Potsdam,0.0,2.0
+,6,SC Freiburg,Wolfsburgo,2.0,1.0
+,6,Hamburgo,SC 07 Bad Neuenahr,9.0,2.0
+05-10-2008,5,Turbine Potsdam,FCR 2001 Duisburg,2.0,2.0
+,5,Wolfsburgo,Bayern Múnich,1.0,5.0
+,5,1. FFC Frankfurt,SC Freiburg,4.0,1.0
+,5,FF USV Jena,TSV Crailsheim,1.0,0.0
+,5,SG Essen-Schönebeck,Hamburgo,4.0,0.0
+,5,SC 07 Bad Neuenahr,Herforder SV,0.0,4.0
+28-09-2008,4,Bayern Múnich,1. FFC Frankfurt,1.0,0.0
+,4,FCR 2001 Duisburg,TSV Crailsheim,8.0,0.0
+,4,Herforder SV,SG Essen-Schönebeck,0.0,4.0
+,4,SC Freiburg,SC 07 Bad Neuenahr,0.0,2.0
+,4,Wolfsburgo,FF USV Jena,6.0,0.0
+,4,Hamburgo,Turbine Potsdam,1.0,3.0
+21-09-2008,3,FF USV Jena,FCR 2001 Duisburg,0.0,7.0
+,3,1. FFC Frankfurt,Wolfsburgo,4.0,2.0
+,3,SG Essen-Schönebeck,SC Freiburg,1.0,2.0
+,3,Turbine Potsdam,Herforder SV,3.0,0.0
+,3,TSV Crailsheim,Hamburgo,1.0,7.0
+,3,SC 07 Bad Neuenahr,Bayern Múnich,0.0,2.0
+14-09-2008,2,Herforder SV,TSV Crailsheim,2.0,0.0
+,2,SC Freiburg,Turbine Potsdam,0.0,1.0
+,2,Bayern Múnich,SG Essen-Schönebeck,2.0,0.0
+,2,1. FFC Frankfurt,FF USV Jena,4.0,1.0
+,2,Hamburgo,FCR 2001 Duisburg,3.0,4.0
+,2,Wolfsburgo,SC 07 Bad Neuenahr,0.0,0.0
+06-09-2008,1,SC 07 Bad Neuenahr,1. FFC Frankfurt,0.0,5.0
+07-09-2008,1,FF USV Jena,Hamburgo,2.0,3.0
+,1,SG Essen-Schönebeck,Wolfsburgo,3.0,1.0
+,1,Turbine Potsdam,Bayern Múnich,0.0,3.0
+,1,TSV Crailsheim,SC Freiburg,0.0,3.0
+,1,FCR 2001 Duisburg,Herforder SV,3.0,1.0
+15-06-2008,22,SC Freiburg,Turbine Potsdam,1.0,6.0
+,22,TSV Crailsheim,Wolfsburgo,1.0,4.0
+,22,Bayern Múnich,FCR 2001 Duisburg,0.0,2.0
+,22,Hamburgo,1. FC Saarbrücken,1.0,1.0
+,22,SG Wattenscheid 09,SC 07 Bad Neuenahr,1.0,2.0
+,22,1. FFC Frankfurt,SG Essen-Schönebeck,5.0,1.0
+08-06-2008,21,FCR 2001 Duisburg,1. FFC Frankfurt,1.0,1.0
+,21,Wolfsburgo,SC Freiburg,4.0,3.0
+,21,1. FC Saarbrücken,Bayern Múnich,0.0,1.0
+,21,SG Essen-Schönebeck,SG Wattenscheid 09,6.0,0.0
+,21,SC 07 Bad Neuenahr,TSV Crailsheim,2.0,1.0
+,21,Turbine Potsdam,Hamburgo,2.0,2.0
+01-06-2008,20,SG Wattenscheid 09,1. FFC Frankfurt,1.0,7.0
+,20,FCR 2001 Duisburg,1. FC Saarbrücken,3.0,0.0
+,20,Bayern Múnich,Turbine Potsdam,7.0,2.0
+,20,Hamburgo,Wolfsburgo,1.0,2.0
+,20,SC Freiburg,SC 07 Bad Neuenahr,1.0,4.0
+,20,TSV Crailsheim,SG Essen-Schönebeck,2.0,4.0
+25-05-2008,19,Turbine Potsdam,FCR 2001 Duisburg,1.0,2.0
+,19,SG Wattenscheid 09,TSV Crailsheim,1.0,3.0
+,19,SG Essen-Schönebeck,SC Freiburg,1.0,2.0
+,19,SC 07 Bad Neuenahr,Hamburgo,2.0,4.0
+,19,Wolfsburgo,Bayern Múnich,3.0,1.0
+04-06-2008,19,1. FFC Frankfurt,1. FC Saarbrücken,2.0,1.0
+27-04-2008,18,TSV Crailsheim,1. FFC Frankfurt,1.0,2.0
+17-05-2008,18,FCR 2001 Duisburg,Wolfsburgo,9.0,1.0
+18-05-2008,18,1. FC Saarbrücken,Turbine Potsdam,0.0,2.0
+,18,Bayern Múnich,SC 07 Bad Neuenahr,2.0,0.0
+,18,Hamburgo,SG Essen-Schönebeck,2.0,3.0
+,18,SC Freiburg,SG Wattenscheid 09,4.0,0.0
+12-05-2008,17,Wolfsburgo,1. FC Saarbrücken,1.0,3.0
+,17,1. FFC Frankfurt,Turbine Potsdam,4.0,0.0
+,17,SC 07 Bad Neuenahr,FCR 2001 Duisburg,0.0,3.0
+,17,SG Essen-Schönebeck,Bayern Múnich,3.0,2.0
+,17,TSV Crailsheim,SC Freiburg,0.0,1.0
+,17,SG Wattenscheid 09,Hamburgo,1.0,0.0
+04-05-2008,16,SC Freiburg,1. FFC Frankfurt,2.0,6.0
+,16,Hamburgo,TSV Crailsheim,0.0,4.0
+,16,FCR 2001 Duisburg,SG Essen-Schönebeck,1.0,4.0
+,16,Bayern Múnich,SG Wattenscheid 09,6.0,1.0
+,16,Turbine Potsdam,Wolfsburgo,3.0,2.0
+,16,1. FC Saarbrücken,SC 07 Bad Neuenahr,1.0,2.0
+13-04-2008,15,1. FFC Frankfurt,Wolfsburgo,6.0,0.0
+,15,SC Freiburg,Hamburgo,3.0,0.0
+,15,SG Wattenscheid 09,FCR 2001 Duisburg,1.0,3.0
+,15,SG Essen-Schönebeck,1. FC Saarbrücken,3.0,0.0
+,15,SC 07 Bad Neuenahr,Turbine Potsdam,2.0,1.0
+,15,TSV Crailsheim,Bayern Múnich,0.0,1.0
+17-02-2008,14,Hamburgo,1. FFC Frankfurt,1.0,5.0
+06-04-2008,14,Bayern Múnich,SC Freiburg,2.0,4.0
+,14,1. FC Saarbrücken,SG Wattenscheid 09,2.0,1.0
+,14,FCR 2001 Duisburg,TSV Crailsheim,7.0,1.0
+,14,Wolfsburgo,SC 07 Bad Neuenahr,4.0,1.0
+,14,Turbine Potsdam,SG Essen-Schönebeck,3.0,0.0
+30-03-2008,13,SC Freiburg,FCR 2001 Duisburg,0.0,3.0
+,13,SG Essen-Schönebeck,Wolfsburgo,0.0,1.0
+,13,Hamburgo,Bayern Múnich,1.0,2.0
+,13,TSV Crailsheim,1. FC Saarbrücken,2.0,2.0
+,13,SG Wattenscheid 09,Turbine Potsdam,0.0,5.0
+23-04-2008,13,1. FFC Frankfurt,SC 07 Bad Neuenahr,0.0,1.0
+24-03-2008,12,Turbine Potsdam,TSV Crailsheim,2.0,1.0
+,12,FCR 2001 Duisburg,Hamburgo,4.0,0.0
+,12,Wolfsburgo,SG Wattenscheid 09,0.0,1.0
+,12,SC 07 Bad Neuenahr,SG Essen-Schönebeck,4.0,0.0
+01-05-2008,12,Bayern Múnich,1. FFC Frankfurt,3.0,2.0
+,12,1. FC Saarbrücken,SC Freiburg,0.0,2.0
+02-03-2008,11,Turbine Potsdam,SC Freiburg,1.0,1.0
+,11,1. FC Saarbrücken,Hamburgo,3.0,1.0
+,11,FCR 2001 Duisburg,Bayern Múnich,2.0,1.0
+,11,SC 07 Bad Neuenahr,SG Wattenscheid 09,7.0,0.0
+,11,SG Essen-Schönebeck,1. FFC Frankfurt,1.0,7.0
+20-04-2008,11,Wolfsburgo,TSV Crailsheim,1.0,1.0
+24-02-2008,10,1. FFC Frankfurt,FCR 2001 Duisburg,4.0,0.0
+,10,SC Freiburg,Wolfsburgo,0.0,2.0
+,10,Bayern Múnich,1. FC Saarbrücken,4.0,1.0
+,10,SG Wattenscheid 09,SG Essen-Schönebeck,0.0,2.0
+,10,TSV Crailsheim,SC 07 Bad Neuenahr,0.0,2.0
+,10,Hamburgo,Turbine Potsdam,2.0,2.0
+09-12-2007,9,1. FFC Frankfurt,SG Wattenscheid 09,4.0,0.0
+,9,1. FC Saarbrücken,FCR 2001 Duisburg,0.0,5.0
+,9,Turbine Potsdam,Bayern Múnich,1.0,2.0
+,9,Wolfsburgo,Hamburgo,3.0,1.0
+,9,SC 07 Bad Neuenahr,SC Freiburg,4.0,3.0
+,9,SG Essen-Schönebeck,TSV Crailsheim,2.0,0.0
+02-12-2007,8,FCR 2001 Duisburg,Turbine Potsdam,0.0,1.0
+,8,TSV Crailsheim,SG Wattenscheid 09,4.0,2.0
+,8,SC Freiburg,SG Essen-Schönebeck,0.0,3.0
+,8,Hamburgo,SC 07 Bad Neuenahr,1.0,0.0
+,8,Bayern Múnich,Wolfsburgo,1.0,3.0
+,8,1. FC Saarbrücken,1. FFC Frankfurt,2.0,4.0
+17-11-2007,7,Turbine Potsdam,1. FC Saarbrücken,4.0,0.0
+18-11-2007,7,1. FFC Frankfurt,TSV Crailsheim,3.0,1.0
+,7,SG Wattenscheid 09,SC Freiburg,0.0,0.0
+,7,SC 07 Bad Neuenahr,Bayern Múnich,1.0,3.0
+,7,SG Essen-Schönebeck,Hamburgo,1.0,1.0
+17-02-2008,7,Wolfsburgo,FCR 2001 Duisburg,2.0,2.0
+11-11-2007,6,1. FC Saarbrücken,Wolfsburgo,2.0,1.0
+,6,Turbine Potsdam,1. FFC Frankfurt,1.0,1.0
+,6,Bayern Múnich,SG Essen-Schönebeck,3.0,3.0
+,6,SC Freiburg,TSV Crailsheim,0.0,1.0
+,6,Hamburgo,SG Wattenscheid 09,1.0,0.0
+20-02-2008,6,FCR 2001 Duisburg,SC 07 Bad Neuenahr,1.0,0.0
+03-11-2007,5,Wolfsburgo,Turbine Potsdam,2.0,5.0
+04-11-2007,5,1. FFC Frankfurt,SC Freiburg,8.0,0.0
+,5,TSV Crailsheim,Hamburgo,0.0,0.0
+,5,SG Wattenscheid 09,Bayern Múnich,2.0,1.0
+,5,SC 07 Bad Neuenahr,1. FC Saarbrücken,5.0,1.0
+,5,SG Essen-Schönebeck,FCR 2001 Duisburg,2.0,3.0
+14-10-2007,4,FCR 2001 Duisburg,SG Wattenscheid 09,3.0,0.0
+,4,Hamburgo,SC Freiburg,3.0,1.0
+,4,1. FC Saarbrücken,SG Essen-Schönebeck,2.0,2.0
+,4,Turbine Potsdam,SC 07 Bad Neuenahr,2.0,0.0
+,4,Bayern Múnich,TSV Crailsheim,3.0,2.0
+19-12-2007,4,Wolfsburgo,1. FFC Frankfurt,1.0,1.0
+07-10-2007,3,1. FFC Frankfurt,Hamburgo,6.0,1.0
+,3,SC Freiburg,Bayern Múnich,0.0,6.0
+,3,SG Wattenscheid 09,1. FC Saarbrücken,2.0,2.0
+,3,TSV Crailsheim,FCR 2001 Duisburg,0.0,2.0
+,3,SC 07 Bad Neuenahr,Wolfsburgo,3.0,0.0
+,3,SG Essen-Schönebeck,Turbine Potsdam,1.0,1.0
+26-08-2007,2,FCR 2001 Duisburg,SC Freiburg,8.0,1.0
+,2,Wolfsburgo,SG Essen-Schönebeck,1.0,1.0
+,2,Bayern Múnich,Hamburgo,0.0,0.0
+,2,1. FC Saarbrücken,TSV Crailsheim,2.0,2.0
+,2,Turbine Potsdam,SG Wattenscheid 09,3.0,1.0
+,2,SC 07 Bad Neuenahr,1. FFC Frankfurt,1.0,4.0
+19-08-2007,1,1. FFC Frankfurt,Bayern Múnich,5.0,2.0
+,1,TSV Crailsheim,Turbine Potsdam,1.0,0.0
+,1,SG Wattenscheid 09,Wolfsburgo,2.0,4.0
+,1,SC Freiburg,1. FC Saarbrücken,1.0,1.0
+,1,Hamburgo,FCR 2001 Duisburg,0.0,1.0
+,1,SG Essen-Schönebeck,SC 07 Bad Neuenahr,0.0,0.0
+10-06-2007,22,1. FFC Frankfurt,Brauweiler Pulheim,7.0,0.0
+,22,Heike Rheine,SC 07 Bad Neuenahr,1.0,2.0
+,22,FCR 2001 Duisburg,Hamburgo,2.0,2.0
+,22,Bayern Múnich,TSV Crailsheim,1.0,2.0
+,22,SC Freiburg,Turbine Potsdam,2.0,4.0
+,22,Wolfsburgo,SG Essen-Schönebeck,0.0,4.0
+03-06-2007,21,Brauweiler Pulheim,Wolfsburgo,3.0,4.0
+,21,SG Essen-Schönebeck,SC Freiburg,1.0,4.0
+,21,Turbine Potsdam,Bayern Múnich,1.0,0.0
+,21,TSV Crailsheim,FCR 2001 Duisburg,2.0,2.0
+,21,Hamburgo,Heike Rheine,4.0,0.0
+,21,SC 07 Bad Neuenahr,1. FFC Frankfurt,0.0,9.0
+20-05-2007,20,SC Freiburg,Wolfsburgo,4.0,0.0
+,20,1. FFC Frankfurt,Hamburgo,2.0,1.0
+,20,Heike Rheine,TSV Crailsheim,2.0,3.0
+,20,FCR 2001 Duisburg,Turbine Potsdam,0.0,1.0
+,20,Bayern Múnich,SG Essen-Schönebeck,3.0,1.0
+,20,Brauweiler Pulheim,SC 07 Bad Neuenahr,2.0,3.0
+13-05-2007,19,Hamburgo,Brauweiler Pulheim,3.0,0.0
+,19,Wolfsburgo,SC 07 Bad Neuenahr,2.0,0.0
+,19,SC Freiburg,Bayern Múnich,0.0,3.0
+,19,Turbine Potsdam,Heike Rheine,0.0,0.0
+,19,TSV Crailsheim,1. FFC Frankfurt,0.0,4.0
+,19,SG Essen-Schönebeck,FCR 2001 Duisburg,2.0,4.0
+06-05-2007,18,Bayern Múnich,Wolfsburgo,3.0,1.0
+,18,FCR 2001 Duisburg,SC Freiburg,6.0,2.0
+,18,1. FFC Frankfurt,Turbine Potsdam,1.0,1.0
+,18,Heike Rheine,SG Essen-Schönebeck,1.0,2.0
+,18,SC 07 Bad Neuenahr,Hamburgo,3.0,2.0
+,18,Brauweiler Pulheim,TSV Crailsheim,1.0,3.0
+29-04-2007,17,Turbine Potsdam,Brauweiler Pulheim,6.0,0.0
+,17,Bayern Múnich,FCR 2001 Duisburg,0.0,3.0
+,17,SC Freiburg,Heike Rheine,4.0,0.0
+,17,TSV Crailsheim,SC 07 Bad Neuenahr,1.0,2.0
+,17,Wolfsburgo,Hamburgo,2.0,1.0
+,17,SG Essen-Schönebeck,1. FFC Frankfurt,2.0,3.0
+22-04-2007,16,FCR 2001 Duisburg,Wolfsburgo,7.0,0.0
+,16,1. FFC Frankfurt,SC Freiburg,4.0,0.0
+,16,Hamburgo,TSV Crailsheim,1.0,0.0
+,16,Heike Rheine,Bayern Múnich,0.0,2.0
+,16,SC 07 Bad Neuenahr,Turbine Potsdam,2.0,5.0
+,16,Brauweiler Pulheim,SG Essen-Schönebeck,1.0,6.0
+01-04-2007,15,Wolfsburgo,TSV Crailsheim,0.0,0.0
+,15,FCR 2001 Duisburg,Heike Rheine,4.0,0.0
+,15,SG Essen-Schönebeck,SC 07 Bad Neuenahr,1.0,2.0
+,15,Turbine Potsdam,Hamburgo,3.0,0.0
+07-04-2007,15,SC Freiburg,Brauweiler Pulheim,4.0,0.0
+01-05-2007,15,Bayern Múnich,1. FFC Frankfurt,2.0,5.0
+25-03-2007,14,Heike Rheine,Wolfsburgo,0.0,1.0
+,14,1. FFC Frankfurt,FCR 2001 Duisburg,3.0,0.0
+,14,SC 07 Bad Neuenahr,SC Freiburg,1.0,3.0
+,14,Brauweiler Pulheim,Bayern Múnich,1.0,2.0
+,14,Hamburgo,SG Essen-Schönebeck,0.0,0.0
+01-05-2007,14,TSV Crailsheim,Turbine Potsdam,0.0,4.0
+18-03-2007,13,FCR 2001 Duisburg,Brauweiler Pulheim,12.0,0.0
+,13,Bayern Múnich,SC 07 Bad Neuenahr,2.0,0.0
+,13,SC Freiburg,Hamburgo,1.0,5.0
+,13,Heike Rheine,1. FFC Frankfurt,1.0,4.0
+,13,SG Essen-Schönebeck,TSV Crailsheim,0.0,2.0
+,13,Wolfsburgo,Turbine Potsdam,0.0,2.0
+04-03-2007,12,1. FFC Frankfurt,Wolfsburgo,5.0,1.0
+,12,TSV Crailsheim,SC Freiburg,3.0,1.0
+,12,Hamburgo,Bayern Múnich,0.0,2.0
+,12,SC 07 Bad Neuenahr,FCR 2001 Duisburg,1.0,3.0
+,12,Turbine Potsdam,SG Essen-Schönebeck,3.0,3.0
+15-04-2007,12,Brauweiler Pulheim,Heike Rheine,1.0,3.0
+25-02-2007,11,Turbine Potsdam,SC Freiburg,3.0,0.0
+,11,Brauweiler Pulheim,1. FFC Frankfurt,0.0,8.0
+,11,SC 07 Bad Neuenahr,Heike Rheine,3.0,0.0
+,11,Hamburgo,FCR 2001 Duisburg,2.0,2.0
+,11,TSV Crailsheim,Bayern Múnich,1.0,2.0
+,11,SG Essen-Schönebeck,Wolfsburgo,2.0,1.0
+10-12-2006,10,Bayern Múnich,Turbine Potsdam,1.0,1.0
+,10,FCR 2001 Duisburg,TSV Crailsheim,2.0,0.0
+,10,Heike Rheine,Hamburgo,2.0,1.0
+,10,1. FFC Frankfurt,SC 07 Bad Neuenahr,2.0,1.0
+,10,Wolfsburgo,Brauweiler Pulheim,2.0,0.0
+,10,SC Freiburg,SG Essen-Schönebeck,2.0,1.0
+03-12-2006,9,Wolfsburgo,SC Freiburg,0.0,0.0
+,9,TSV Crailsheim,Heike Rheine,3.0,2.0
+,9,Turbine Potsdam,FCR 2001 Duisburg,0.0,3.0
+,9,SC 07 Bad Neuenahr,Brauweiler Pulheim,6.0,1.0
+,9,Hamburgo,1. FFC Frankfurt,2.0,2.0
+,9,SG Essen-Schönebeck,Bayern Múnich,3.0,0.0
+25-11-2006,8,Brauweiler Pulheim,Hamburgo,0.0,3.0
+,8,FCR 2001 Duisburg,SG Essen-Schönebeck,4.0,2.0
+26-11-2006,8,1. FFC Frankfurt,TSV Crailsheim,4.0,1.0
+,8,Bayern Múnich,SC Freiburg,2.0,0.0
+,8,Heike Rheine,Turbine Potsdam,0.0,4.0
+07-04-2007,8,SC 07 Bad Neuenahr,Wolfsburgo,1.0,3.0
+12-11-2006,7,Wolfsburgo,Bayern Múnich,1.0,0.0
+,7,SC Freiburg,FCR 2001 Duisburg,0.0,3.0
+,7,Hamburgo,SC 07 Bad Neuenahr,0.0,1.0
+,7,TSV Crailsheim,Brauweiler Pulheim,3.0,0.0
+,7,Turbine Potsdam,1. FFC Frankfurt,1.0,2.0
+,7,SG Essen-Schönebeck,Heike Rheine,9.0,1.0
+05-11-2006,6,Brauweiler Pulheim,Turbine Potsdam,1.0,2.0
+,6,FCR 2001 Duisburg,Bayern Múnich,3.0,0.0
+,6,Heike Rheine,SC Freiburg,0.0,3.0
+,6,1. FFC Frankfurt,SG Essen-Schönebeck,2.0,1.0
+,6,SC 07 Bad Neuenahr,TSV Crailsheim,2.0,2.0
+,6,Hamburgo,Wolfsburgo,0.0,0.0
+29-10-2006,5,TSV Crailsheim,Hamburgo,0.0,1.0
+,5,Wolfsburgo,FCR 2001 Duisburg,1.0,3.0
+,5,SC Freiburg,1. FFC Frankfurt,1.0,9.0
+,5,Turbine Potsdam,SC 07 Bad Neuenahr,2.0,2.0
+,5,SG Essen-Schönebeck,Brauweiler Pulheim,5.0,0.0
+29-11-2006,5,Bayern Múnich,Heike Rheine,2.0,1.0
+15-10-2006,4,TSV Crailsheim,Wolfsburgo,3.0,0.0
+,4,Heike Rheine,FCR 2001 Duisburg,0.0,3.0
+,4,1. FFC Frankfurt,Bayern Múnich,2.0,1.0
+,4,Brauweiler Pulheim,SC Freiburg,0.0,2.0
+,4,SC 07 Bad Neuenahr,SG Essen-Schönebeck,6.0,0.0
+,4,Hamburgo,Turbine Potsdam,1.0,3.0
+08-10-2006,3,Wolfsburgo,Heike Rheine,0.0,4.0
+,3,Bayern Múnich,Brauweiler Pulheim,2.0,1.0
+,3,FCR 2001 Duisburg,1. FFC Frankfurt,1.0,6.0
+,3,Turbine Potsdam,TSV Crailsheim,3.0,1.0
+,3,SC Freiburg,SC 07 Bad Neuenahr,2.0,6.0
+,3,SG Essen-Schönebeck,Hamburgo,4.0,1.0
+17-09-2006,2,Hamburgo,SC Freiburg,3.0,1.0
+,2,Brauweiler Pulheim,FCR 2001 Duisburg,1.0,8.0
+,2,SC 07 Bad Neuenahr,Bayern Múnich,1.0,1.0
+,2,TSV Crailsheim,SG Essen-Schönebeck,0.0,3.0
+03-10-2006,2,Turbine Potsdam,Wolfsburgo,0.0,1.0
+04-02-2007,2,1. FFC Frankfurt,Heike Rheine,0.0,0.0
+10-09-2006,1,Wolfsburgo,1. FFC Frankfurt,0.0,7.0
+,1,Bayern Múnich,Hamburgo,4.0,1.0
+,1,FCR 2001 Duisburg,SC 07 Bad Neuenahr,1.0,0.0
+,1,Heike Rheine,Brauweiler Pulheim,6.0,2.0
+,1,SC Freiburg,TSV Crailsheim,0.0,3.0
+,1,SG Essen-Schönebeck,Turbine Potsdam,3.0,2.0
+05-06-2006,22,Turbine Potsdam,Bayern Múnich,3.0,1.0
+,22,FCR 2001 Duisburg,1. FFC Frankfurt,4.0,0.0
+,22,FSV Frankfurt,Hamburgo,0.0,9.0
+,22,Heike Rheine,SG Essen-Schönebeck,2.0,3.0
+,22,Brauweiler Pulheim,VfL Sindelfingen,1.0,1.0
+,22,SC Freiburg,SC 07 Bad Neuenahr,2.0,2.0
+25-05-2006,21,Hamburgo,FCR 2001 Duisburg,0.0,3.0
+,21,VfL Sindelfingen,Heike Rheine,2.0,1.0
+,21,1. FFC Frankfurt,SC Freiburg,6.0,1.0
+,21,SC 07 Bad Neuenahr,Turbine Potsdam,2.0,1.0
+,21,Bayern Múnich,Brauweiler Pulheim,6.0,2.0
+28-05-2006,21,FSV Frankfurt,SG Essen-Schönebeck,0.0,7.0
+14-05-2006,20,Turbine Potsdam,1. FFC Frankfurt,2.0,0.0
+,20,FCR 2001 Duisburg,SC Freiburg,7.0,1.0
+,20,Hamburgo,SG Essen-Schönebeck,3.0,3.0
+,20,FSV Frankfurt,VfL Sindelfingen,1.0,6.0
+,20,Brauweiler Pulheim,SC 07 Bad Neuenahr,0.0,2.0
+,20,Heike Rheine,Bayern Múnich,2.0,2.0
+06-05-2006,19,FCR 2001 Duisburg,SG Essen-Schönebeck,4.0,0.0
+07-05-2006,19,SC Freiburg,Turbine Potsdam,0.0,1.0
+,19,VfL Sindelfingen,Hamburgo,0.0,3.0
+,19,1. FFC Frankfurt,Brauweiler Pulheim,5.0,1.0
+,19,Bayern Múnich,FSV Frankfurt,6.0,0.0
+,19,SC 07 Bad Neuenahr,Heike Rheine,3.0,1.0
+23-04-2006,18,Turbine Potsdam,FCR 2001 Duisburg,2.0,1.0
+,18,Heike Rheine,1. FFC Frankfurt,0.0,2.0
+,18,Hamburgo,Bayern Múnich,3.0,1.0
+,18,Brauweiler Pulheim,SC Freiburg,1.0,2.0
+,18,SG Essen-Schönebeck,VfL Sindelfingen,4.0,1.0
+,18,FSV Frankfurt,SC 07 Bad Neuenahr,0.0,8.0
+17-04-2006,17,Turbine Potsdam,Brauweiler Pulheim,13.0,0.0
+,17,SC Freiburg,Heike Rheine,2.0,2.0
+,17,FCR 2001 Duisburg,VfL Sindelfingen,1.0,0.0
+,17,1. FFC Frankfurt,FSV Frankfurt,17.0,0.0
+,17,Bayern Múnich,SG Essen-Schönebeck,4.0,0.0
+,17,SC 07 Bad Neuenahr,Hamburgo,3.0,0.0
+09-04-2006,16,Brauweiler Pulheim,FCR 2001 Duisburg,1.0,9.0
+,16,Hamburgo,1. FFC Frankfurt,0.0,3.0
+,16,FSV Frankfurt,SC Freiburg,0.0,5.0
+,16,VfL Sindelfingen,Bayern Múnich,0.0,5.0
+,16,SG Essen-Schönebeck,SC 07 Bad Neuenahr,1.0,2.0
+,16,Heike Rheine,Turbine Potsdam,0.0,7.0
+02-04-2006,15,SC Freiburg,Hamburgo,3.0,1.0
+,15,Brauweiler Pulheim,Heike Rheine,1.0,2.0
+,15,1. FFC Frankfurt,SG Essen-Schönebeck,1.0,0.0
+,15,FCR 2001 Duisburg,Bayern Múnich,4.0,0.0
+,15,SC 07 Bad Neuenahr,VfL Sindelfingen,4.0,1.0
+,15,Turbine Potsdam,FSV Frankfurt,16.0,0.0
+19-03-2006,14,Heike Rheine,FCR 2001 Duisburg,1.0,4.0
+,14,Bayern Múnich,SC 07 Bad Neuenahr,1.0,4.0
+,14,VfL Sindelfingen,1. FFC Frankfurt,1.0,3.0
+,14,SG Essen-Schönebeck,SC Freiburg,0.0,3.0
+,14,FSV Frankfurt,Brauweiler Pulheim,1.0,3.0
+17-05-2006,14,Hamburgo,Turbine Potsdam,1.0,3.0
+04-03-2006,13,FCR 2001 Duisburg,SC 07 Bad Neuenahr,2.0,0.0
+26-03-2006,13,Brauweiler Pulheim,Hamburgo,0.0,2.0
+,13,SC Freiburg,VfL Sindelfingen,2.0,1.0
+,13,Heike Rheine,FSV Frankfurt,7.0,0.0
+20-04-2006,13,Turbine Potsdam,SG Essen-Schönebeck,5.0,1.0
+01-05-2006,13,1. FFC Frankfurt,Bayern Múnich,3.0,0.0
+26-02-2006,12,SC 07 Bad Neuenahr,1. FFC Frankfurt,0.0,4.0
+,12,VfL Sindelfingen,Turbine Potsdam,1.0,5.0
+,12,FSV Frankfurt,FCR 2001 Duisburg,0.0,4.0
+,12,Hamburgo,Heike Rheine,2.0,2.0
+,12,Bayern Múnich,SC Freiburg,2.0,0.0
+,12,SG Essen-Schönebeck,Brauweiler Pulheim,4.0,0.0
+11-12-2005,11,Bayern Múnich,Turbine Potsdam,0.0,5.0
+,11,1. FFC Frankfurt,FCR 2001 Duisburg,2.0,2.0
+,11,Hamburgo,FSV Frankfurt,3.0,1.0
+,11,SG Essen-Schönebeck,Heike Rheine,2.0,1.0
+,11,VfL Sindelfingen,Brauweiler Pulheim,1.0,1.0
+,11,SC 07 Bad Neuenahr,SC Freiburg,4.0,0.0
+27-11-2005,10,Brauweiler Pulheim,Bayern Múnich,1.0,0.0
+04-12-2005,10,Heike Rheine,VfL Sindelfingen,5.0,0.0
+,10,SG Essen-Schönebeck,FSV Frankfurt,4.0,0.0
+07-12-2005,10,Turbine Potsdam,SC 07 Bad Neuenahr,7.0,1.0
+19-02-2006,10,FCR 2001 Duisburg,Hamburgo,3.0,0.0
+29-03-2006,10,SC Freiburg,1. FFC Frankfurt,2.0,1.0
+13-11-2005,9,SG Essen-Schönebeck,Hamburgo,3.0,0.0
+20-11-2005,9,SC Freiburg,FCR 2001 Duisburg,2.0,2.0
+,9,VfL Sindelfingen,FSV Frankfurt,1.0,1.0
+,9,SC 07 Bad Neuenahr,Brauweiler Pulheim,2.0,2.0
+15-04-2006,9,Bayern Múnich,Heike Rheine,1.0,4.0
+,9,1. FFC Frankfurt,Turbine Potsdam,2.0,6.0
+30-10-2005,8,Turbine Potsdam,SC Freiburg,4.0,0.0
+,8,Heike Rheine,SC 07 Bad Neuenahr,0.0,3.0
+,8,Hamburgo,VfL Sindelfingen,3.0,0.0
+,8,SG Essen-Schönebeck,FCR 2001 Duisburg,1.0,5.0
+,8,Brauweiler Pulheim,1. FFC Frankfurt,0.0,5.0
+,8,FSV Frankfurt,Bayern Múnich,0.0,3.0
+23-10-2005,7,FCR 2001 Duisburg,Turbine Potsdam,0.0,0.0
+,7,Bayern Múnich,Hamburgo,1.0,0.0
+,7,1. FFC Frankfurt,Heike Rheine,4.0,1.0
+,7,SC Freiburg,Brauweiler Pulheim,3.0,2.0
+,7,VfL Sindelfingen,SG Essen-Schönebeck,1.0,1.0
+,7,SC 07 Bad Neuenahr,FSV Frankfurt,5.0,0.0
+09-10-2005,6,Heike Rheine,SC Freiburg,3.0,3.0
+,6,Hamburgo,SC 07 Bad Neuenahr,2.0,1.0
+,6,VfL Sindelfingen,FCR 2001 Duisburg,0.0,10.0
+,6,SG Essen-Schönebeck,Bayern Múnich,3.0,2.0
+19-02-2006,6,Brauweiler Pulheim,Turbine Potsdam,0.0,7.0
+05-04-2006,6,FSV Frankfurt,1. FFC Frankfurt,0.0,7.0
+18-09-2005,5,FCR 2001 Duisburg,Brauweiler Pulheim,6.0,0.0
+,5,SC Freiburg,FSV Frankfurt,5.0,0.0
+,5,Bayern Múnich,VfL Sindelfingen,1.0,1.0
+,5,SC 07 Bad Neuenahr,SG Essen-Schönebeck,5.0,0.0
+17-12-2005,5,Turbine Potsdam,Heike Rheine,5.0,1.0
+18-12-2005,5,1. FFC Frankfurt,Hamburgo,9.0,0.0
+11-09-2005,4,Hamburgo,SC Freiburg,5.0,0.0
+,4,Bayern Múnich,FCR 2001 Duisburg,0.0,0.0
+,4,Heike Rheine,Brauweiler Pulheim,2.0,2.0
+,4,SG Essen-Schönebeck,1. FFC Frankfurt,1.0,2.0
+,4,VfL Sindelfingen,SC 07 Bad Neuenahr,1.0,3.0
+,4,FSV Frankfurt,Turbine Potsdam,0.0,13.0
+28-08-2005,3,FCR 2001 Duisburg,Heike Rheine,5.0,0.0
+,3,1. FFC Frankfurt,VfL Sindelfingen,8.0,0.0
+,3,SC Freiburg,SG Essen-Schönebeck,1.0,1.0
+,3,Turbine Potsdam,Hamburgo,1.0,1.0
+,3,Brauweiler Pulheim,FSV Frankfurt,5.0,0.0
+,3,SC 07 Bad Neuenahr,Bayern Múnich,3.0,1.0
+21-08-2005,2,Hamburgo,Brauweiler Pulheim,2.0,0.0
+,2,SG Essen-Schönebeck,Turbine Potsdam,1.0,6.0
+,2,VfL Sindelfingen,SC Freiburg,0.0,6.0
+,2,Bayern Múnich,1. FFC Frankfurt,1.0,8.0
+,2,SC 07 Bad Neuenahr,FCR 2001 Duisburg,1.0,9.0
+,2,FSV Frankfurt,Heike Rheine,1.0,2.0
+14-08-2005,1,FCR 2001 Duisburg,FSV Frankfurt,6.0,0.0
+,1,Heike Rheine,Hamburgo,0.0,2.0
+,1,1. FFC Frankfurt,SC 07 Bad Neuenahr,5.0,3.0
+,1,SC Freiburg,Bayern Múnich,2.0,3.0
+,1,Turbine Potsdam,VfL Sindelfingen,3.0,0.0
+,1,Brauweiler Pulheim,SG Essen-Schönebeck,1.0,4.0
+10-05-2005,22,TSV Crailsheim,Turbine Potsdam,2.0,0.0
+22-05-2005,22,Hamburgo,FCR 2001 Duisburg,0.0,5.0
+,22,Wolfsburgo,SC Freiburg,3.0,1.0
+,22,SC 07 Bad Neuenahr,1. FFC Frankfurt,0.0,4.0
+,22,FSV Frankfurt,Heike Rheine,2.0,2.0
+,22,Bayern Múnich,SG Essen-Schönebeck,6.0,0.0
+16-05-2005,21,FCR 2001 Duisburg,TSV Crailsheim,5.0,0.0
+,21,SG Essen-Schönebeck,FSV Frankfurt,3.0,0.0
+,21,Heike Rheine,SC 07 Bad Neuenahr,2.0,0.0
+,21,1. FFC Frankfurt,Wolfsburgo,3.0,0.0
+,21,SC Freiburg,Hamburgo,5.0,1.0
+17-05-2005,21,Turbine Potsdam,Bayern Múnich,3.0,4.0
+08-05-2005,20,FCR 2001 Duisburg,SC Freiburg,3.0,0.0
+,20,FSV Frankfurt,Turbine Potsdam,0.0,0.0
+,20,Bayern Múnich,TSV Crailsheim,2.0,1.0
+,20,Hamburgo,1. FFC Frankfurt,0.0,2.0
+,20,Wolfsburgo,Heike Rheine,5.0,2.0
+,20,SC 07 Bad Neuenahr,SG Essen-Schönebeck,5.0,2.0
+01-05-2005,19,Bayern Múnich,FSV Frankfurt,0.0,1.0
+,19,Turbine Potsdam,SC 07 Bad Neuenahr,3.0,0.0
+,19,SG Essen-Schönebeck,Wolfsburgo,3.0,2.0
+,19,Heike Rheine,Hamburgo,0.0,2.0
+,19,TSV Crailsheim,SC Freiburg,3.0,1.0
+14-05-2005,19,1. FFC Frankfurt,FCR 2001 Duisburg,1.0,2.0
+05-04-2005,18,Wolfsburgo,Turbine Potsdam,0.0,4.0
+17-04-2005,18,SC Freiburg,1. FFC Frankfurt,0.0,4.0
+,18,FCR 2001 Duisburg,Heike Rheine,8.0,0.0
+,18,FSV Frankfurt,TSV Crailsheim,1.0,0.0
+,18,SC 07 Bad Neuenahr,Bayern Múnich,4.0,1.0
+,18,Hamburgo,SG Essen-Schönebeck,1.0,2.0
+02-03-2005,17,Turbine Potsdam,Hamburgo,6.0,0.0
+10-04-2005,17,Heike Rheine,SC Freiburg,3.0,0.0
+,17,TSV Crailsheim,1. FFC Frankfurt,1.0,4.0
+,17,Bayern Múnich,Wolfsburgo,0.0,4.0
+,17,SG Essen-Schönebeck,FCR 2001 Duisburg,0.0,3.0
+,17,FSV Frankfurt,SC 07 Bad Neuenahr,1.0,4.0
+24-03-2005,16,FCR 2001 Duisburg,Turbine Potsdam,3.0,2.0
+28-03-2005,16,Wolfsburgo,FSV Frankfurt,2.0,0.0
+03-04-2005,16,1. FFC Frankfurt,Heike Rheine,3.0,1.0
+,16,SC Freiburg,SG Essen-Schönebeck,2.0,0.0
+,16,SC 07 Bad Neuenahr,TSV Crailsheim,1.0,0.0
+,16,Hamburgo,Bayern Múnich,1.0,0.0
+20-03-2005,15,Turbine Potsdam,SC Freiburg,4.0,0.0
+,15,TSV Crailsheim,Heike Rheine,2.0,0.0
+,15,SG Essen-Schönebeck,1. FFC Frankfurt,0.0,6.0
+,15,SC 07 Bad Neuenahr,Wolfsburgo,3.0,0.0
+13-04-2005,15,FSV Frankfurt,Hamburgo,4.0,3.0
+24-04-2005,15,Bayern Múnich,FCR 2001 Duisburg,3.0,3.0
+05-03-2005,14,FCR 2001 Duisburg,FSV Frankfurt,6.0,1.0
+06-03-2005,14,Wolfsburgo,TSV Crailsheim,0.0,1.0
+,14,1. FFC Frankfurt,Turbine Potsdam,2.0,1.0
+28-03-2005,14,Hamburgo,SC 07 Bad Neuenahr,1.0,0.0
+05-05-2005,14,SC Freiburg,Bayern Múnich,1.0,5.0
+14-05-2005,14,Heike Rheine,SG Essen-Schönebeck,2.0,0.0
+27-02-2005,13,Turbine Potsdam,Heike Rheine,5.0,0.0
+,13,SC 07 Bad Neuenahr,FCR 2001 Duisburg,0.0,8.0
+24-03-2005,13,Bayern Múnich,1. FFC Frankfurt,0.0,4.0
+,13,Wolfsburgo,Hamburgo,0.0,1.0
+28-03-2005,13,TSV Crailsheim,SG Essen-Schönebeck,2.0,0.0
+24-04-2005,13,FSV Frankfurt,SC Freiburg,2.0,3.0
+19-12-2004,12,Hamburgo,TSV Crailsheim,3.0,0.0
+,12,1. FFC Frankfurt,FSV Frankfurt,4.0,2.0
+,12,FCR 2001 Duisburg,Wolfsburgo,5.0,0.0
+,12,Heike Rheine,Bayern Múnich,3.0,2.0
+,12,SC Freiburg,SC 07 Bad Neuenahr,0.0,2.0
+,12,SG Essen-Schönebeck,Turbine Potsdam,2.0,6.0
+05-12-2004,11,FCR 2001 Duisburg,Hamburgo,7.0,1.0
+,11,1. FFC Frankfurt,SC 07 Bad Neuenahr,2.0,1.0
+,11,Heike Rheine,FSV Frankfurt,3.0,3.0
+,11,SG Essen-Schönebeck,Bayern Múnich,0.0,0.0
+,11,Turbine Potsdam,TSV Crailsheim,5.0,1.0
+,11,SC Freiburg,Wolfsburgo,3.0,0.0
+28-11-2004,10,Wolfsburgo,1. FFC Frankfurt,0.0,1.0
+,10,Hamburgo,SC Freiburg,0.0,1.0
+,10,FSV Frankfurt,SG Essen-Schönebeck,3.0,0.0
+,10,SC 07 Bad Neuenahr,Heike Rheine,1.0,1.0
+12-12-2004,10,TSV Crailsheim,FCR 2001 Duisburg,0.0,3.0
+12-04-2005,10,Bayern Múnich,Turbine Potsdam,1.0,3.0
+20-11-2004,9,Heike Rheine,Wolfsburgo,1.0,1.0
+,9,SG Essen-Schönebeck,SC 07 Bad Neuenahr,0.0,3.0
+21-11-2004,9,TSV Crailsheim,Bayern Múnich,0.0,3.0
+,9,1. FFC Frankfurt,Hamburgo,5.0,0.0
+26-03-2005,9,SC Freiburg,FCR 2001 Duisburg,0.0,0.0
+02-04-2005,9,Turbine Potsdam,FSV Frankfurt,2.0,1.0
+07-11-2004,8,Wolfsburgo,SG Essen-Schönebeck,2.0,5.0
+,8,SC Freiburg,TSV Crailsheim,2.0,1.0
+,8,FSV Frankfurt,Bayern Múnich,1.0,3.0
+,8,Hamburgo,Heike Rheine,0.0,2.0
+13-02-2005,8,FCR 2001 Duisburg,1. FFC Frankfurt,1.0,3.0
+20-02-2005,8,SC 07 Bad Neuenahr,Turbine Potsdam,4.0,6.0
+31-10-2004,7,Bayern Múnich,SC 07 Bad Neuenahr,0.0,0.0
+,7,1. FFC Frankfurt,SC Freiburg,5.0,1.0
+,7,Heike Rheine,FCR 2001 Duisburg,2.0,5.0
+,7,TSV Crailsheim,FSV Frankfurt,1.0,3.0
+,7,SG Essen-Schönebeck,Hamburgo,0.0,0.0
+01-12-2004,7,Turbine Potsdam,Wolfsburgo,4.0,0.0
+24-10-2004,6,FCR 2001 Duisburg,SG Essen-Schönebeck,4.0,1.0
+,6,SC Freiburg,Heike Rheine,1.0,3.0
+,6,1. FFC Frankfurt,TSV Crailsheim,5.0,1.0
+,6,SC 07 Bad Neuenahr,FSV Frankfurt,2.0,2.0
+,6,Wolfsburgo,Bayern Múnich,0.0,4.0
+08-12-2004,6,Hamburgo,Turbine Potsdam,1.0,2.0
+17-10-2004,5,TSV Crailsheim,SC 07 Bad Neuenahr,0.0,3.0
+,5,Heike Rheine,1. FFC Frankfurt,2.0,3.0
+,5,SG Essen-Schönebeck,SC Freiburg,4.0,5.0
+,5,Turbine Potsdam,FCR 2001 Duisburg,5.0,0.0
+,5,Bayern Múnich,Hamburgo,1.0,0.0
+,5,FSV Frankfurt,Wolfsburgo,5.0,1.0
+10-10-2004,4,SC Freiburg,Turbine Potsdam,1.0,7.0
+,4,1. FFC Frankfurt,SG Essen-Schönebeck,6.0,0.0
+,4,Heike Rheine,TSV Crailsheim,2.0,0.0
+,4,FCR 2001 Duisburg,Bayern Múnich,2.0,0.0
+,4,Wolfsburgo,SC 07 Bad Neuenahr,1.0,2.0
+,4,Hamburgo,FSV Frankfurt,1.0,2.0
+19-09-2004,3,Bayern Múnich,SC Freiburg,1.0,0.0
+,3,TSV Crailsheim,Wolfsburgo,2.0,3.0
+,3,FSV Frankfurt,FCR 2001 Duisburg,0.0,7.0
+,3,SC 07 Bad Neuenahr,Hamburgo,1.0,2.0
+,3,SG Essen-Schönebeck,Heike Rheine,3.0,1.0
+03-10-2004,3,Turbine Potsdam,1. FFC Frankfurt,2.0,5.0
+11-09-2004,2,FCR 2001 Duisburg,SC 07 Bad Neuenahr,5.0,1.0
+12-09-2004,2,1. FFC Frankfurt,Bayern Múnich,4.0,0.0
+,2,Heike Rheine,Turbine Potsdam,2.0,5.0
+,2,SG Essen-Schönebeck,TSV Crailsheim,3.0,0.0
+,2,SC Freiburg,FSV Frankfurt,2.0,2.0
+,2,Hamburgo,Wolfsburgo,2.0,2.0
+05-09-2004,1,TSV Crailsheim,Hamburgo,1.0,0.0
+,1,Bayern Múnich,Heike Rheine,3.0,2.0
+,1,FSV Frankfurt,1. FFC Frankfurt,1.0,2.0
+,1,SC 07 Bad Neuenahr,SC Freiburg,3.0,1.0
+,1,Wolfsburgo,FCR 2001 Duisburg,0.0,6.0
+,1,Turbine Potsdam,SG Essen-Schönebeck,4.0,0.0
+13-06-2004,22,Heike Rheine,FSV Frankfurt,3.0,0.0
+,22,Hamburgo,Wolfsburgo,7.0,2.0
+,22,Bayern Múnich,1. FC Saarbrücken,7.0,0.0
+,22,SC 07 Bad Neuenahr,Brauweiler Pulheim,1.0,1.0
+,22,FCR 2001 Duisburg,SC Freiburg,3.0,1.0
+,22,1. FFC Frankfurt,Turbine Potsdam,2.0,7.0
+04-05-2004,21,FSV Frankfurt,1. FFC Frankfurt,0.0,2.0
+06-06-2004,21,Turbine Potsdam,FCR 2001 Duisburg,3.0,0.0
+,21,SC Freiburg,SC 07 Bad Neuenahr,1.0,2.0
+,21,Brauweiler Pulheim,1. FC Saarbrücken,7.0,1.0
+,21,Bayern Múnich,Hamburgo,1.0,1.0
+,21,Wolfsburgo,Heike Rheine,1.0,3.0
+23-05-2004,20,FCR 2001 Duisburg,1. FFC Frankfurt,0.0,2.0
+,20,Hamburgo,Brauweiler Pulheim,2.0,2.0
+,20,SC 07 Bad Neuenahr,Turbine Potsdam,2.0,3.0
+,20,FSV Frankfurt,Wolfsburgo,2.0,3.0
+,20,1. FC Saarbrücken,SC Freiburg,1.0,1.0
+,20,Heike Rheine,Bayern Múnich,0.0,4.0
+14-04-2004,19,1. FFC Frankfurt,Wolfsburgo,3.0,0.0
+30-05-2004,19,Bayern Múnich,FSV Frankfurt,6.0,0.0
+,19,SC Freiburg,Hamburgo,1.0,3.0
+31-05-2004,19,FCR 2001 Duisburg,SC 07 Bad Neuenahr,3.0,1.0
+,19,1. FC Saarbrücken,Turbine Potsdam,0.0,7.0
+,19,Brauweiler Pulheim,Heike Rheine,5.0,6.0
+16-05-2004,18,Heike Rheine,SC Freiburg,2.0,2.0
+,18,SC 07 Bad Neuenahr,1. FFC Frankfurt,1.0,4.0
+,18,1. FC Saarbrücken,FCR 2001 Duisburg,0.0,8.0
+,18,FSV Frankfurt,Brauweiler Pulheim,3.0,1.0
+,18,Hamburgo,Turbine Potsdam,0.0,3.0
+,18,Wolfsburgo,Bayern Múnich,0.0,2.0
+09-05-2004,17,FCR 2001 Duisburg,Hamburgo,3.0,0.0
+,17,SC Freiburg,FSV Frankfurt,3.0,1.0
+,17,Brauweiler Pulheim,Wolfsburgo,0.0,4.0
+,17,SC 07 Bad Neuenahr,1. FC Saarbrücken,7.0,0.0
+,17,Turbine Potsdam,Heike Rheine,3.0,3.0
+02-06-2004,17,1. FFC Frankfurt,Bayern Múnich,1.0,1.0
+24-04-2004,16,Wolfsburgo,SC Freiburg,1.0,0.0
+25-04-2004,16,Heike Rheine,FCR 2001 Duisburg,2.0,1.0
+,16,Bayern Múnich,Brauweiler Pulheim,6.0,0.0
+,16,1. FC Saarbrücken,1. FFC Frankfurt,0.0,5.0
+,16,Hamburgo,SC 07 Bad Neuenahr,0.0,2.0
+03-06-2004,16,FSV Frankfurt,Turbine Potsdam,0.0,6.0
+15-02-2004,15,FCR 2001 Duisburg,FSV Frankfurt,2.0,3.0
+18-04-2004,15,SC Freiburg,Bayern Múnich,3.0,2.0
+,15,1. FFC Frankfurt,Brauweiler Pulheim,3.0,1.0
+,15,1. FC Saarbrücken,Hamburgo,0.0,3.0
+,15,Turbine Potsdam,Wolfsburgo,6.0,0.0
+,15,SC 07 Bad Neuenahr,Heike Rheine,0.0,7.0
+04-04-2004,14,Hamburgo,1. FFC Frankfurt,0.0,3.0
+,14,FSV Frankfurt,SC 07 Bad Neuenahr,0.0,1.0
+,14,Brauweiler Pulheim,SC Freiburg,1.0,1.0
+12-04-2004,14,Heike Rheine,1. FC Saarbrücken,6.0,2.0
+,14,Bayern Múnich,Turbine Potsdam,1.0,2.0
+29-05-2004,14,Wolfsburgo,FCR 2001 Duisburg,1.0,1.0
+28-03-2004,13,FCR 2001 Duisburg,Bayern Múnich,0.0,3.0
+,13,Turbine Potsdam,Brauweiler Pulheim,3.0,0.0
+,13,1. FC Saarbrücken,FSV Frankfurt,1.0,2.0
+,13,SC 07 Bad Neuenahr,Wolfsburgo,2.0,1.0
+,13,Hamburgo,Heike Rheine,2.0,2.0
+07-04-2004,13,SC Freiburg,1. FFC Frankfurt,1.0,3.0
+14-03-2004,12,Brauweiler Pulheim,FCR 2001 Duisburg,1.0,3.0
+,12,Bayern Múnich,SC 07 Bad Neuenahr,2.0,1.0
+,12,Wolfsburgo,1. FC Saarbrücken,4.0,0.0
+,12,SC Freiburg,Turbine Potsdam,0.0,6.0
+,12,FSV Frankfurt,Hamburgo,0.0,2.0
+21-03-2004,12,Heike Rheine,1. FFC Frankfurt,2.0,3.0
+07-03-2004,11,1. FC Saarbrücken,Bayern Múnich,0.0,3.0
+,11,SC Freiburg,FCR 2001 Duisburg,2.0,5.0
+,11,Wolfsburgo,Hamburgo,2.0,2.0
+,11,Brauweiler Pulheim,SC 07 Bad Neuenahr,1.0,1.0
+,11,Turbine Potsdam,1. FFC Frankfurt,0.0,3.0
+26-05-2004,11,FSV Frankfurt,Heike Rheine,1.0,3.0
+07-12-2003,10,1. FFC Frankfurt,FSV Frankfurt,3.0,0.0
+,10,FCR 2001 Duisburg,Turbine Potsdam,1.0,3.0
+,10,Heike Rheine,Wolfsburgo,4.0,1.0
+,10,SC 07 Bad Neuenahr,SC Freiburg,0.0,3.0
+,10,Hamburgo,Bayern Múnich,3.0,1.0
+15-02-2004,10,1. FC Saarbrücken,Brauweiler Pulheim,0.0,4.0
+30-11-2003,9,Bayern Múnich,Heike Rheine,1.0,3.0
+,9,Brauweiler Pulheim,Hamburgo,0.0,5.0
+,9,Wolfsburgo,FSV Frankfurt,4.0,1.0
+,9,SC Freiburg,1. FC Saarbrücken,4.0,0.0
+,9,Turbine Potsdam,SC 07 Bad Neuenahr,8.0,0.0
+22-02-2004,9,1. FFC Frankfurt,FCR 2001 Duisburg,4.0,2.0
+23-11-2003,8,Turbine Potsdam,1. FC Saarbrücken,1.0,0.0
+,8,Hamburgo,SC Freiburg,5.0,1.0
+,8,FSV Frankfurt,Bayern Múnich,3.0,2.0
+,8,Wolfsburgo,1. FFC Frankfurt,0.0,3.0
+,8,SC 07 Bad Neuenahr,FCR 2001 Duisburg,1.0,4.0
+,8,Heike Rheine,Brauweiler Pulheim,5.0,1.0
+16-11-2003,7,FCR 2001 Duisburg,1. FC Saarbrücken,7.0,0.0
+,7,Brauweiler Pulheim,FSV Frankfurt,0.0,0.0
+22-02-2004,7,SC Freiburg,Heike Rheine,1.0,1.0
+,7,Turbine Potsdam,Hamburgo,2.0,0.0
+21-03-2004,7,Bayern Múnich,Wolfsburgo,1.0,1.0
+26-05-2004,7,1. FFC Frankfurt,SC 07 Bad Neuenahr,0.0,0.0
+02-11-2003,6,1. FC Saarbrücken,SC 07 Bad Neuenahr,0.0,7.0
+,6,Heike Rheine,Turbine Potsdam,1.0,4.0
+,6,FSV Frankfurt,SC Freiburg,2.0,0.0
+,6,Wolfsburgo,Brauweiler Pulheim,2.0,0.0
+,6,Hamburgo,FCR 2001 Duisburg,2.0,3.0
+15-02-2004,6,Bayern Múnich,1. FFC Frankfurt,0.0,1.0
+26-10-2003,5,1. FFC Frankfurt,1. FC Saarbrücken,11.0,0.0
+,5,SC Freiburg,Wolfsburgo,4.0,0.0
+,5,Turbine Potsdam,FSV Frankfurt,5.0,1.0
+,5,SC 07 Bad Neuenahr,Hamburgo,0.0,2.0
+,5,Brauweiler Pulheim,Bayern Múnich,1.0,1.0
+10-04-2004,5,FCR 2001 Duisburg,Heike Rheine,4.0,1.0
+19-10-2003,4,Bayern Múnich,SC Freiburg,4.0,2.0
+,4,Brauweiler Pulheim,1. FFC Frankfurt,1.0,6.0
+,4,Hamburgo,1. FC Saarbrücken,6.0,1.0
+,4,FSV Frankfurt,FCR 2001 Duisburg,2.0,2.0
+,4,Wolfsburgo,Turbine Potsdam,1.0,9.0
+,4,Heike Rheine,SC 07 Bad Neuenahr,3.0,0.0
+31-08-2003,3,1. FFC Frankfurt,Hamburgo,3.0,1.0
+,3,FCR 2001 Duisburg,Wolfsburgo,0.0,1.0
+,3,1. FC Saarbrücken,Heike Rheine,0.0,5.0
+,3,SC 07 Bad Neuenahr,FSV Frankfurt,2.0,2.0
+,3,SC Freiburg,Brauweiler Pulheim,0.0,1.0
+,3,Turbine Potsdam,Bayern Múnich,8.0,1.0
+23-08-2003,2,Heike Rheine,Hamburgo,2.0,0.0
+24-08-2003,2,Bayern Múnich,FCR 2001 Duisburg,3.0,2.0
+,2,Brauweiler Pulheim,Turbine Potsdam,0.0,1.0
+,2,FSV Frankfurt,1. FC Saarbrücken,6.0,1.0
+,2,Wolfsburgo,SC 07 Bad Neuenahr,2.0,5.0
+28-02-2004,2,1. FFC Frankfurt,SC Freiburg,2.0,2.0
+17-08-2003,1,1. FFC Frankfurt,Heike Rheine,1.0,0.0
+,1,FCR 2001 Duisburg,Brauweiler Pulheim,3.0,2.0
+,1,1. FC Saarbrücken,Wolfsburgo,0.0,4.0
+,1,Turbine Potsdam,SC Freiburg,6.0,1.0
+,1,SC 07 Bad Neuenahr,Bayern Múnich,4.0,1.0
+,1,Hamburgo,FSV Frankfurt,1.0,0.0
+15-06-2003,22,Turbine Potsdam,1. FFC Frankfurt,0.0,0.0
+,22,TeBe Berlin,Bayern Múnich,0.0,1.0
+,22,FCR 2001 Duisburg,TuS Niederkirchen,5.0,1.0
+,22,Brauweiler Pulheim,SC 07 Bad Neuenahr,7.0,0.0
+,22,WSV Wolfsburg-Wendschott,Heike Rheine,1.0,1.0
+,22,SC Freiburg,FSV Frankfurt,3.0,1.0
+08-06-2003,21,FCR 2001 Duisburg,Turbine Potsdam,1.0,5.0
+,21,Bayern Múnich,FSV Frankfurt,3.0,2.0
+,21,SC Freiburg,WSV Wolfsburg-Wendschott,1.0,3.0
+,21,Heike Rheine,SC 07 Bad Neuenahr,4.0,1.0
+,21,Brauweiler Pulheim,TuS Niederkirchen,4.0,0.0
+,21,1. FFC Frankfurt,TeBe Berlin,6.0,0.0
+18-05-2003,20,TeBe Berlin,FSV Frankfurt,3.0,1.0
+,20,1. FFC Frankfurt,FCR 2001 Duisburg,3.0,0.0
+,20,Turbine Potsdam,Brauweiler Pulheim,2.0,1.0
+,20,TuS Niederkirchen,Heike Rheine,0.0,4.0
+,20,WSV Wolfsburg-Wendschott,Bayern Múnich,4.0,1.0
+,20,SC 07 Bad Neuenahr,SC Freiburg,2.0,3.0
+11-05-2003,19,Heike Rheine,Turbine Potsdam,1.0,2.0
+,19,Bayern Múnich,SC 07 Bad Neuenahr,2.0,3.0
+,19,FCR 2001 Duisburg,TeBe Berlin,5.0,0.0
+,19,Brauweiler Pulheim,1. FFC Frankfurt,0.0,1.0
+,19,FSV Frankfurt,WSV Wolfsburg-Wendschott,4.0,1.0
+,19,SC Freiburg,TuS Niederkirchen,3.0,1.0
+03-05-2003,18,Turbine Potsdam,SC Freiburg,2.0,0.0
+04-05-2003,18,TuS Niederkirchen,Bayern Múnich,0.0,3.0
+,18,FCR 2001 Duisburg,Brauweiler Pulheim,3.0,1.0
+,18,1. FFC Frankfurt,Heike Rheine,3.0,1.0
+,18,SC 07 Bad Neuenahr,FSV Frankfurt,1.0,9.0
+,18,TeBe Berlin,WSV Wolfsburg-Wendschott,0.0,0.0
+27-04-2003,17,FCR 2001 Duisburg,Heike Rheine,1.0,7.0
+,17,FSV Frankfurt,TuS Niederkirchen,3.0,1.0
+,17,Brauweiler Pulheim,TeBe Berlin,2.0,0.0
+,17,Bayern Múnich,Turbine Potsdam,0.0,2.0
+,17,WSV Wolfsburg-Wendschott,SC 07 Bad Neuenahr,1.0,3.0
+01-05-2003,17,SC Freiburg,1. FFC Frankfurt,1.0,4.0
+13-04-2003,16,1. FFC Frankfurt,Bayern Múnich,4.0,1.0
+,16,Turbine Potsdam,FSV Frankfurt,2.0,1.0
+,16,TuS Niederkirchen,WSV Wolfsburg-Wendschott,0.0,2.0
+,16,FCR 2001 Duisburg,SC Freiburg,3.0,1.0
+,16,TeBe Berlin,SC 07 Bad Neuenahr,2.0,0.0
+,16,Brauweiler Pulheim,Heike Rheine,2.0,2.0
+05-04-2003,15,WSV Wolfsburg-Wendschott,Turbine Potsdam,0.0,3.0
+06-04-2003,15,Heike Rheine,TeBe Berlin,1.0,0.0
+,15,SC Freiburg,Brauweiler Pulheim,1.0,3.0
+,15,SC 07 Bad Neuenahr,TuS Niederkirchen,3.0,0.0
+19-04-2003,15,Bayern Múnich,FCR 2001 Duisburg,0.0,0.0
+21-04-2003,15,FSV Frankfurt,1. FFC Frankfurt,0.0,5.0
+30-03-2003,14,FCR 2001 Duisburg,FSV Frankfurt,1.0,0.0
+,14,1. FFC Frankfurt,WSV Wolfsburg-Wendschott,5.0,0.0
+,14,TeBe Berlin,TuS Niederkirchen,1.0,0.0
+,14,Heike Rheine,SC Freiburg,4.0,0.0
+,14,Brauweiler Pulheim,Bayern Múnich,0.0,1.0
+,14,Turbine Potsdam,SC 07 Bad Neuenahr,4.0,0.0
+16-03-2003,13,TuS Niederkirchen,Turbine Potsdam,0.0,1.0
+,13,Bayern Múnich,Heike Rheine,1.0,0.0
+,13,TeBe Berlin,SC Freiburg,2.0,2.0
+,13,SC 07 Bad Neuenahr,1. FFC Frankfurt,0.0,7.0
+,13,WSV Wolfsburg-Wendschott,FCR 2001 Duisburg,0.0,3.0
+,13,FSV Frankfurt,Brauweiler Pulheim,2.0,1.0
+06-12-2002,12,Turbine Potsdam,TeBe Berlin,5.0,1.0
+08-12-2002,12,Heike Rheine,FSV Frankfurt,0.0,2.0
+,12,FCR 2001 Duisburg,SC 07 Bad Neuenahr,3.0,0.0
+,12,1. FFC Frankfurt,TuS Niederkirchen,7.0,1.0
+,12,SC Freiburg,Bayern Múnich,1.0,2.0
+,12,Brauweiler Pulheim,WSV Wolfsburg-Wendschott,2.0,1.0
+01-12-2002,11,Heike Rheine,WSV Wolfsburg-Wendschott,3.0,0.0
+,11,Bayern Múnich,TeBe Berlin,6.0,1.0
+,11,TuS Niederkirchen,FCR 2001 Duisburg,0.0,5.0
+,11,SC 07 Bad Neuenahr,Brauweiler Pulheim,0.0,3.0
+,11,FSV Frankfurt,SC Freiburg,1.0,2.0
+16-02-2003,11,1. FFC Frankfurt,Turbine Potsdam,2.0,3.0
+17-11-2002,10,Turbine Potsdam,FCR 2001 Duisburg,0.0,0.0
+,10,WSV Wolfsburg-Wendschott,SC Freiburg,0.0,1.0
+,10,TeBe Berlin,1. FFC Frankfurt,2.0,8.0
+,10,FSV Frankfurt,Bayern Múnich,1.0,6.0
+,10,SC 07 Bad Neuenahr,Heike Rheine,0.0,1.0
+,10,TuS Niederkirchen,Brauweiler Pulheim,1.0,3.0
+10-11-2002,9,Bayern Múnich,WSV Wolfsburg-Wendschott,1.0,1.0
+,9,FSV Frankfurt,TeBe Berlin,3.0,0.0
+,9,FCR 2001 Duisburg,1. FFC Frankfurt,0.0,4.0
+,9,Brauweiler Pulheim,Turbine Potsdam,2.0,2.0
+,9,Heike Rheine,TuS Niederkirchen,6.0,0.0
+,9,SC Freiburg,SC 07 Bad Neuenahr,2.0,2.0
+03-11-2002,8,Turbine Potsdam,Heike Rheine,2.0,0.0
+,8,TeBe Berlin,FCR 2001 Duisburg,0.0,5.0
+,8,WSV Wolfsburg-Wendschott,FSV Frankfurt,3.0,2.0
+,8,SC 07 Bad Neuenahr,Bayern Múnich,2.0,3.0
+15-12-2002,8,1. FFC Frankfurt,Brauweiler Pulheim,2.0,1.0
+23-02-2003,8,TuS Niederkirchen,SC Freiburg,1.0,1.0
+27-10-2002,7,Bayern Múnich,TuS Niederkirchen,7.0,0.0
+,7,Heike Rheine,1. FFC Frankfurt,0.0,3.0
+,7,SC Freiburg,Turbine Potsdam,1.0,3.0
+,7,FSV Frankfurt,SC 07 Bad Neuenahr,3.0,1.0
+,7,WSV Wolfsburg-Wendschott,TeBe Berlin,4.0,1.0
+09-03-2003,7,Brauweiler Pulheim,FCR 2001 Duisburg,4.0,1.0
+06-10-2002,6,1. FFC Frankfurt,SC Freiburg,2.0,2.0
+,6,Heike Rheine,FCR 2001 Duisburg,0.0,5.0
+,6,TuS Niederkirchen,FSV Frankfurt,1.0,2.0
+,6,TeBe Berlin,Brauweiler Pulheim,2.0,0.0
+,6,Turbine Potsdam,Bayern Múnich,1.0,1.0
+,6,SC 07 Bad Neuenahr,WSV Wolfsburg-Wendschott,2.0,2.0
+29-09-2002,5,FSV Frankfurt,Turbine Potsdam,0.0,4.0
+,5,WSV Wolfsburg-Wendschott,TuS Niederkirchen,5.0,1.0
+,5,SC 07 Bad Neuenahr,TeBe Berlin,2.0,1.0
+,5,Heike Rheine,Brauweiler Pulheim,2.0,3.0
+03-10-2002,5,Bayern Múnich,1. FFC Frankfurt,0.0,3.0
+16-02-2003,5,SC Freiburg,FCR 2001 Duisburg,0.0,1.0
+22-09-2002,4,1. FFC Frankfurt,FSV Frankfurt,6.0,0.0
+,4,Brauweiler Pulheim,SC Freiburg,0.0,0.0
+,4,TuS Niederkirchen,SC 07 Bad Neuenahr,1.0,3.0
+,4,TeBe Berlin,Heike Rheine,0.0,7.0
+,4,FCR 2001 Duisburg,Bayern Múnich,3.0,2.0
+,4,Turbine Potsdam,WSV Wolfsburg-Wendschott,7.0,0.0
+08-09-2002,3,Bayern Múnich,Brauweiler Pulheim,2.0,1.0
+,3,WSV Wolfsburg-Wendschott,1. FFC Frankfurt,2.0,2.0
+,3,SC 07 Bad Neuenahr,Turbine Potsdam,4.0,3.0
+,3,TuS Niederkirchen,TeBe Berlin,1.0,1.0
+,3,FSV Frankfurt,FCR 2001 Duisburg,1.0,6.0
+,3,SC Freiburg,Heike Rheine,3.0,4.0
+01-09-2002,2,1. FFC Frankfurt,SC 07 Bad Neuenahr,11.0,0.0
+20-10-2002,2,Turbine Potsdam,TuS Niederkirchen,6.0,0.0
+,2,FCR 2001 Duisburg,WSV Wolfsburg-Wendschott,6.0,1.0
+,2,SC Freiburg,TeBe Berlin,3.0,0.0
+,2,Brauweiler Pulheim,FSV Frankfurt,1.0,2.0
+,2,Heike Rheine,Bayern Múnich,1.0,0.0
+25-08-2002,1,TuS Niederkirchen,1. FFC Frankfurt,0.0,2.0
+,1,WSV Wolfsburg-Wendschott,Brauweiler Pulheim,0.0,0.0
+03-10-2002,1,TeBe Berlin,Turbine Potsdam,0.0,6.0
+,1,FSV Frankfurt,Heike Rheine,2.0,3.0
+,1,SC 07 Bad Neuenahr,FCR 2001 Duisburg,2.0,1.0
+15-12-2002,1,Bayern Múnich,SC Freiburg,2.0,2.0
+16-06-2002,22,Turbine Potsdam,1. FFC Frankfurt,1.0,3.0
+,22,Brauweiler Pulheim,Bayern Múnich,1.0,3.0
+,22,Hamburgo,Heike Rheine,3.0,1.0
+,22,FSV Frankfurt,1. FC Saarbrücken,6.0,1.0
+,22,FCR 2001 Duisburg,WSV Wolfsburg-Wendschott,5.0,0.0
+,22,SC 07 Bad Neuenahr,SC Freiburg,1.0,2.0
+09-06-2002,21,1. FC Saarbrücken,Hamburgo,1.0,1.0
+,21,SC Freiburg,Turbine Potsdam,0.0,6.0
+,21,Bayern Múnich,SC 07 Bad Neuenahr,5.0,1.0
+,21,1. FFC Frankfurt,FCR 2001 Duisburg,2.0,1.0
+,21,WSV Wolfsburg-Wendschott,FSV Frankfurt,1.0,2.0
+,21,Heike Rheine,Brauweiler Pulheim,0.0,0.0
+02-06-2002,20,Heike Rheine,1. FC Saarbrücken,4.0,0.0
+,20,FCR 2001 Duisburg,SC Freiburg,4.0,1.0
+,20,Turbine Potsdam,Bayern Múnich,4.0,0.0
+,20,Brauweiler Pulheim,SC 07 Bad Neuenahr,0.0,0.0
+,20,Hamburgo,WSV Wolfsburg-Wendschott,0.0,1.0
+,20,FSV Frankfurt,1. FFC Frankfurt,1.0,1.0
+26-05-2002,19,1. FFC Frankfurt,Hamburgo,2.0,0.0
+,19,SC 07 Bad Neuenahr,Turbine Potsdam,1.0,3.0
+,19,WSV Wolfsburg-Wendschott,Heike Rheine,1.0,4.0
+,19,Bayern Múnich,FCR 2001 Duisburg,2.0,3.0
+,19,SC Freiburg,FSV Frankfurt,1.0,2.0
+,19,1. FC Saarbrücken,Brauweiler Pulheim,1.0,4.0
+12-05-2002,18,FCR 2001 Duisburg,SC 07 Bad Neuenahr,6.0,1.0
+,18,1. FC Saarbrücken,WSV Wolfsburg-Wendschott,2.0,3.0
+,18,FSV Frankfurt,Bayern Múnich,2.0,2.0
+20-05-2002,18,Hamburgo,SC Freiburg,0.0,1.0
+29-05-2002,18,Brauweiler Pulheim,Turbine Potsdam,1.0,0.0
+05-06-2002,18,Heike Rheine,1. FFC Frankfurt,1.0,1.0
+28-04-2002,17,Turbine Potsdam,FCR 2001 Duisburg,2.0,0.0
+,17,Bayern Múnich,Hamburgo,3.0,0.0
+,17,SC Freiburg,Heike Rheine,2.0,1.0
+,17,SC 07 Bad Neuenahr,FSV Frankfurt,2.0,1.0
+,17,WSV Wolfsburg-Wendschott,Brauweiler Pulheim,1.0,3.0
+15-05-2002,17,1. FFC Frankfurt,1. FC Saarbrücken,7.0,0.0
+21-04-2002,16,Heike Rheine,Bayern Múnich,1.0,3.0
+,16,FSV Frankfurt,Turbine Potsdam,3.0,1.0
+,16,Hamburgo,SC 07 Bad Neuenahr,1.0,0.0
+,16,Brauweiler Pulheim,FCR 2001 Duisburg,2.0,3.0
+,16,WSV Wolfsburg-Wendschott,1. FFC Frankfurt,0.0,2.0
+,16,1. FC Saarbrücken,SC Freiburg,0.0,1.0
+13-04-2002,15,Turbine Potsdam,Hamburgo,0.0,0.0
+14-04-2002,15,SC Freiburg,WSV Wolfsburg-Wendschott,3.0,1.0
+,15,FCR 2001 Duisburg,FSV Frankfurt,2.0,1.0
+,15,SC 07 Bad Neuenahr,Heike Rheine,0.0,0.0
+,15,Bayern Múnich,1. FC Saarbrücken,3.0,1.0
+01-05-2002,15,1. FFC Frankfurt,Brauweiler Pulheim,3.0,1.0
+17-03-2002,14,WSV Wolfsburg-Wendschott,Bayern Múnich,1.0,4.0
+,14,1. FC Saarbrücken,SC 07 Bad Neuenahr,0.0,3.0
+,14,Heike Rheine,Turbine Potsdam,0.0,0.0
+,14,Hamburgo,FCR 2001 Duisburg,0.0,4.0
+,14,Brauweiler Pulheim,FSV Frankfurt,2.0,1.0
+30-05-2002,14,1. FFC Frankfurt,SC Freiburg,1.0,1.0
+10-03-2002,13,FCR 2001 Duisburg,Heike Rheine,4.0,0.0
+,13,Turbine Potsdam,1. FC Saarbrücken,8.0,2.0
+,13,FSV Frankfurt,Hamburgo,4.0,0.0
+,13,SC 07 Bad Neuenahr,WSV Wolfsburg-Wendschott,1.0,0.0
+,13,Bayern Múnich,1. FFC Frankfurt,1.0,3.0
+,13,Brauweiler Pulheim,SC Freiburg,2.0,1.0
+24-02-2002,12,1. FFC Frankfurt,SC 07 Bad Neuenahr,4.0,1.0
+,12,Heike Rheine,FSV Frankfurt,1.0,1.0
+,12,SC Freiburg,Bayern Múnich,1.0,1.0
+,12,1. FC Saarbrücken,FCR 2001 Duisburg,0.0,5.0
+,12,Hamburgo,Brauweiler Pulheim,0.0,2.0
+01-04-2002,12,Turbine Potsdam,WSV Wolfsburg-Wendschott,3.0,1.0
+02-12-2001,11,1. FFC Frankfurt,Turbine Potsdam,4.0,1.0
+,11,Bayern Múnich,Brauweiler Pulheim,3.0,2.0
+,11,WSV Wolfsburg-Wendschott,FCR 2001 Duisburg,2.0,2.0
+,11,SC Freiburg,SC 07 Bad Neuenahr,1.0,0.0
+16-12-2001,11,Heike Rheine,Hamburgo,2.0,1.0
+10-04-2002,11,1. FC Saarbrücken,FSV Frankfurt,1.0,2.0
+24-11-2001,10,FCR 2001 Duisburg,1. FFC Frankfurt,1.0,7.0
+,10,Brauweiler Pulheim,Heike Rheine,1.0,2.0
+25-11-2001,10,Hamburgo,1. FC Saarbrücken,1.0,2.0
+,10,Turbine Potsdam,SC Freiburg,0.0,1.0
+,10,SC 07 Bad Neuenahr,Bayern Múnich,0.0,3.0
+,10,FSV Frankfurt,WSV Wolfsburg-Wendschott,4.0,2.0
+04-11-2001,9,1. FC Saarbrücken,Heike Rheine,2.0,2.0
+,9,1. FFC Frankfurt,FSV Frankfurt,1.0,0.0
+,9,Bayern Múnich,Turbine Potsdam,1.0,2.0
+,9,SC 07 Bad Neuenahr,Brauweiler Pulheim,1.0,0.0
+,9,WSV Wolfsburg-Wendschott,Hamburgo,3.0,0.0
+,9,SC Freiburg,FCR 2001 Duisburg,0.0,1.0
+28-10-2001,8,Heike Rheine,WSV Wolfsburg-Wendschott,0.0,0.0
+,8,FCR 2001 Duisburg,Bayern Múnich,3.0,6.0
+,8,Hamburgo,1. FFC Frankfurt,2.0,4.0
+,8,Turbine Potsdam,SC 07 Bad Neuenahr,1.0,2.0
+,8,FSV Frankfurt,SC Freiburg,4.0,1.0
+,8,Brauweiler Pulheim,1. FC Saarbrücken,3.0,1.0
+14-10-2001,7,Turbine Potsdam,Brauweiler Pulheim,1.0,0.0
+,7,WSV Wolfsburg-Wendschott,1. FC Saarbrücken,3.0,0.0
+,7,1. FFC Frankfurt,Heike Rheine,2.0,1.0
+,7,SC Freiburg,Hamburgo,5.0,0.0
+,7,Bayern Múnich,FSV Frankfurt,1.0,1.0
+,7,SC 07 Bad Neuenahr,FCR 2001 Duisburg,2.0,2.0
+07-10-2001,6,Heike Rheine,SC Freiburg,2.0,0.0
+,6,FCR 2001 Duisburg,Turbine Potsdam,1.0,2.0
+,6,Brauweiler Pulheim,WSV Wolfsburg-Wendschott,2.0,0.0
+,6,Hamburgo,Bayern Múnich,1.0,5.0
+,6,FSV Frankfurt,SC 07 Bad Neuenahr,2.0,2.0
+16-12-2001,6,1. FC Saarbrücken,1. FFC Frankfurt,0.0,3.0
+30-09-2001,5,Turbine Potsdam,FSV Frankfurt,4.0,0.0
+,5,1. FFC Frankfurt,WSV Wolfsburg-Wendschott,3.0,1.0
+,5,SC 07 Bad Neuenahr,Hamburgo,4.0,3.0
+,5,SC Freiburg,1. FC Saarbrücken,2.0,0.0
+11-11-2001,5,Bayern Múnich,Heike Rheine,5.0,5.0
+16-12-2001,5,FCR 2001 Duisburg,Brauweiler Pulheim,3.0,0.0
+16-09-2001,4,WSV Wolfsburg-Wendschott,SC Freiburg,0.0,3.0
+18-11-2001,4,1. FC Saarbrücken,Bayern Múnich,0.0,2.0
+09-12-2001,4,Heike Rheine,SC 07 Bad Neuenahr,5.0,1.0
+,4,Hamburgo,Turbine Potsdam,1.0,4.0
+,4,FSV Frankfurt,FCR 2001 Duisburg,3.0,0.0
+,4,Brauweiler Pulheim,1. FFC Frankfurt,0.0,0.0
+02-09-2001,3,Turbine Potsdam,Heike Rheine,3.0,1.0
+,3,FCR 2001 Duisburg,Hamburgo,5.0,1.0
+,3,Bayern Múnich,WSV Wolfsburg-Wendschott,4.0,1.0
+,3,SC 07 Bad Neuenahr,1. FC Saarbrücken,0.0,1.0
+,3,FSV Frankfurt,Brauweiler Pulheim,3.0,1.0
+,3,SC Freiburg,1. FFC Frankfurt,1.0,2.0
+26-08-2001,2,Heike Rheine,FCR 2001 Duisburg,0.0,3.0
+,2,1. FC Saarbrücken,Turbine Potsdam,1.0,5.0
+,2,1. FFC Frankfurt,Bayern Múnich,3.0,1.0
+,2,Hamburgo,FSV Frankfurt,1.0,4.0
+,2,WSV Wolfsburg-Wendschott,SC 07 Bad Neuenahr,4.0,0.0
+,2,SC Freiburg,Brauweiler Pulheim,0.0,5.0
+19-08-2001,1,FCR 2001 Duisburg,1. FC Saarbrücken,3.0,0.0
+,1,Bayern Múnich,SC Freiburg,1.0,2.0
+,1,SC 07 Bad Neuenahr,1. FFC Frankfurt,1.0,7.0
+,1,FSV Frankfurt,Heike Rheine,1.0,1.0
+,1,Brauweiler Pulheim,Hamburgo,5.0,0.0
+,1,WSV Wolfsburg-Wendschott,Turbine Potsdam,0.0,5.0
+10-06-2001,22,FCR Duisburg 55,1. FC Saarbrücken,7.0,1.0
+,22,Brauweiler Pulheim,1. FFC Frankfurt,5.0,2.0
+,22,SC 07 Bad Neuenahr,Bayern Múnich,5.0,5.0
+,22,WSV Wolfsburg-Wendschott,Turbine Potsdam,2.0,4.0
+,22,FSV Frankfurt,FFC Flaesheim-Hillen,3.0,1.0
+,22,Heike Rheine,Sportfreunde Siegen,2.0,1.0
+03-06-2001,21,1. FFC Frankfurt,FCR Duisburg 55,4.0,0.0
+,21,Bayern Múnich,Heike Rheine,1.0,1.0
+,21,Turbine Potsdam,Brauweiler Pulheim,2.0,0.0
+,21,Sportfreunde Siegen,FSV Frankfurt,1.0,1.0
+,21,FFC Flaesheim-Hillen,WSV Wolfsburg-Wendschott,3.0,0.0
+,21,1. FC Saarbrücken,SC 07 Bad Neuenahr,2.0,4.0
+20-05-2001,20,1. FC Saarbrücken,1. FFC Frankfurt,0.0,7.0
+,20,FCR Duisburg 55,Turbine Potsdam,1.0,0.0
+,20,SC 07 Bad Neuenahr,Heike Rheine,1.0,2.0
+,20,Brauweiler Pulheim,FFC Flaesheim-Hillen,1.0,0.0
+,20,FSV Frankfurt,Bayern Múnich,1.0,1.0
+,20,WSV Wolfsburg-Wendschott,Sportfreunde Siegen,1.0,2.0
+13-05-2001,19,FFC Flaesheim-Hillen,FCR Duisburg 55,2.0,1.0
+,19,Turbine Potsdam,1. FC Saarbrücken,6.0,0.0
+,19,Heike Rheine,FSV Frankfurt,1.0,1.0
+,19,1. FFC Frankfurt,SC 07 Bad Neuenahr,5.0,0.0
+,19,Bayern Múnich,WSV Wolfsburg-Wendschott,2.0,1.0
+,19,Sportfreunde Siegen,Brauweiler Pulheim,0.0,2.0
+06-05-2001,18,1. FFC Frankfurt,Turbine Potsdam,0.0,2.0
+,18,1. FC Saarbrücken,FFC Flaesheim-Hillen,2.0,4.0
+,18,Brauweiler Pulheim,Bayern Múnich,0.0,1.0
+,18,FCR Duisburg 55,Sportfreunde Siegen,1.0,4.0
+,18,WSV Wolfsburg-Wendschott,Heike Rheine,2.0,1.0
+,18,SC 07 Bad Neuenahr,FSV Frankfurt,3.0,1.0
+29-04-2001,17,Turbine Potsdam,SC 07 Bad Neuenahr,7.0,0.0
+,17,Heike Rheine,Brauweiler Pulheim,1.0,4.0
+,17,Bayern Múnich,FCR Duisburg 55,3.0,4.0
+,17,FSV Frankfurt,WSV Wolfsburg-Wendschott,1.0,1.0
+,17,Sportfreunde Siegen,1. FC Saarbrücken,3.0,0.0
+,17,FFC Flaesheim-Hillen,1. FFC Frankfurt,3.0,3.0
+22-04-2001,16,1. FC Saarbrücken,Bayern Múnich,0.0,1.0
+,16,FCR Duisburg 55,Heike Rheine,3.0,2.0
+,16,Turbine Potsdam,FFC Flaesheim-Hillen,0.0,1.0
+,16,1. FFC Frankfurt,Sportfreunde Siegen,2.0,2.0
+,16,Brauweiler Pulheim,FSV Frankfurt,0.0,1.0
+,16,SC 07 Bad Neuenahr,WSV Wolfsburg-Wendschott,1.0,2.0
+16-04-2001,15,Heike Rheine,1. FC Saarbrücken,3.0,2.0
+,15,WSV Wolfsburg-Wendschott,Brauweiler Pulheim,3.0,2.0
+,15,FSV Frankfurt,FCR Duisburg 55,0.0,2.0
+,15,Bayern Múnich,1. FFC Frankfurt,0.0,5.0
+01-05-2001,15,FFC Flaesheim-Hillen,SC 07 Bad Neuenahr,0.0,1.0
+,15,Sportfreunde Siegen,Turbine Potsdam,0.0,6.0
+01-04-2001,14,1. FFC Frankfurt,Heike Rheine,3.0,1.0
+,14,FCR Duisburg 55,WSV Wolfsburg-Wendschott,0.0,0.0
+,14,FFC Flaesheim-Hillen,Sportfreunde Siegen,0.0,0.0
+,14,Turbine Potsdam,Bayern Múnich,4.0,1.0
+,14,1. FC Saarbrücken,FSV Frankfurt,0.0,0.0
+,14,SC 07 Bad Neuenahr,Brauweiler Pulheim,1.0,0.0
+18-03-2001,13,WSV Wolfsburg-Wendschott,1. FC Saarbrücken,0.0,0.0
+,13,Heike Rheine,Turbine Potsdam,1.0,1.0
+,13,Bayern Múnich,FFC Flaesheim-Hillen,1.0,3.0
+,13,Brauweiler Pulheim,FCR Duisburg 55,2.0,3.0
+,13,FSV Frankfurt,1. FFC Frankfurt,1.0,3.0
+,13,SC 07 Bad Neuenahr,Sportfreunde Siegen,0.0,1.0
+11-03-2001,12,FFC Flaesheim-Hillen,Heike Rheine,3.0,0.0
+,12,Turbine Potsdam,FSV Frankfurt,1.0,1.0
+,12,1. FFC Frankfurt,WSV Wolfsburg-Wendschott,6.0,0.0
+,12,FCR Duisburg 55,SC 07 Bad Neuenahr,2.0,2.0
+,12,Sportfreunde Siegen,Bayern Múnich,2.0,3.0
+,12,1. FC Saarbrücken,Brauweiler Pulheim,2.0,3.0
+25-02-2001,11,1. FFC Frankfurt,Brauweiler Pulheim,5.0,1.0
+,11,1. FC Saarbrücken,FCR Duisburg 55,0.0,3.0
+,11,Bayern Múnich,SC 07 Bad Neuenahr,4.0,2.0
+,11,FFC Flaesheim-Hillen,FSV Frankfurt,1.0,1.0
+25-03-2001,11,Turbine Potsdam,WSV Wolfsburg-Wendschott,5.0,0.0
+14-04-2001,11,Sportfreunde Siegen,Heike Rheine,2.0,0.0
+18-02-2001,10,FCR Duisburg 55,1. FFC Frankfurt,0.0,2.0
+,10,Heike Rheine,Bayern Múnich,3.0,2.0
+,10,Brauweiler Pulheim,Turbine Potsdam,0.0,2.0
+,10,FSV Frankfurt,Sportfreunde Siegen,1.0,0.0
+,10,WSV Wolfsburg-Wendschott,FFC Flaesheim-Hillen,1.0,2.0
+,10,SC 07 Bad Neuenahr,1. FC Saarbrücken,0.0,0.0
+17-12-2000,9,Heike Rheine,SC 07 Bad Neuenahr,1.0,1.0
+,9,1. FFC Frankfurt,1. FC Saarbrücken,3.0,0.0
+,9,Turbine Potsdam,FCR Duisburg 55,1.0,1.0
+,9,Bayern Múnich,FSV Frankfurt,1.0,2.0
+11-02-2001,9,FFC Flaesheim-Hillen,Brauweiler Pulheim,1.0,0.0
+,9,Sportfreunde Siegen,WSV Wolfsburg-Wendschott,2.0,2.0
+10-12-2000,8,FCR Duisburg 55,FFC Flaesheim-Hillen,2.0,1.0
+,8,1. FC Saarbrücken,Turbine Potsdam,0.0,4.0
+,8,FSV Frankfurt,Heike Rheine,1.0,3.0
+,8,WSV Wolfsburg-Wendschott,Bayern Múnich,2.0,3.0
+,8,SC 07 Bad Neuenahr,1. FFC Frankfurt,1.0,6.0
+04-02-2001,8,Brauweiler Pulheim,Sportfreunde Siegen,2.0,1.0
+03-12-2000,7,Heike Rheine,WSV Wolfsburg-Wendschott,2.0,5.0
+,7,Turbine Potsdam,1. FFC Frankfurt,1.0,1.0
+,7,FFC Flaesheim-Hillen,1. FC Saarbrücken,3.0,0.0
+,7,Bayern Múnich,Brauweiler Pulheim,3.0,5.0
+,7,FSV Frankfurt,SC 07 Bad Neuenahr,3.0,2.0
+,7,Sportfreunde Siegen,FCR Duisburg 55,0.0,0.0
+25-11-2000,6,SC 07 Bad Neuenahr,Turbine Potsdam,5.0,2.0
+,6,FCR Duisburg 55,Bayern Múnich,3.0,1.0
+,6,WSV Wolfsburg-Wendschott,FSV Frankfurt,0.0,1.0
+,6,Brauweiler Pulheim,Heike Rheine,6.0,1.0
+,6,1. FFC Frankfurt,FFC Flaesheim-Hillen,2.0,0.0
+,6,1. FC Saarbrücken,Sportfreunde Siegen,2.0,3.0
+19-11-2000,5,Bayern Múnich,1. FC Saarbrücken,2.0,1.0
+,5,Heike Rheine,FCR Duisburg 55,1.0,3.0
+,5,FSV Frankfurt,Brauweiler Pulheim,1.0,7.0
+,5,WSV Wolfsburg-Wendschott,SC 07 Bad Neuenahr,4.0,1.0
+,5,FFC Flaesheim-Hillen,Turbine Potsdam,0.0,0.0
+,5,Sportfreunde Siegen,1. FFC Frankfurt,0.0,6.0
+12-11-2000,4,FCR Duisburg 55,FSV Frankfurt,2.0,1.0
+,4,1. FC Saarbrücken,Heike Rheine,3.0,1.0
+,4,1. FFC Frankfurt,Bayern Múnich,5.0,0.0
+,4,Turbine Potsdam,Sportfreunde Siegen,9.0,0.0
+,4,Brauweiler Pulheim,WSV Wolfsburg-Wendschott,1.0,1.0
+,4,SC 07 Bad Neuenahr,FFC Flaesheim-Hillen,0.0,0.0
+29-10-2000,3,Heike Rheine,1. FFC Frankfurt,0.0,4.0
+,3,Bayern Múnich,Turbine Potsdam,2.0,1.0
+,3,FSV Frankfurt,1. FC Saarbrücken,5.0,1.0
+,3,WSV Wolfsburg-Wendschott,FCR Duisburg 55,2.0,3.0
+,3,Brauweiler Pulheim,SC 07 Bad Neuenahr,5.0,1.0
+,3,Sportfreunde Siegen,FFC Flaesheim-Hillen,2.0,0.0
+22-10-2000,2,FCR Duisburg 55,Brauweiler Pulheim,0.0,7.0
+,2,1. FC Saarbrücken,WSV Wolfsburg-Wendschott,2.0,1.0
+,2,1. FFC Frankfurt,FSV Frankfurt,3.0,0.0
+,2,FFC Flaesheim-Hillen,Bayern Múnich,1.0,4.0
+,2,Turbine Potsdam,Heike Rheine,2.0,0.0
+,2,Sportfreunde Siegen,SC 07 Bad Neuenahr,1.0,2.0
+15-10-2000,1,Heike Rheine,FFC Flaesheim-Hillen,1.0,1.0
+,1,FSV Frankfurt,Turbine Potsdam,1.0,3.0
+,1,Bayern Múnich,Sportfreunde Siegen,4.0,1.0
+,1,WSV Wolfsburg-Wendschott,1. FFC Frankfurt,0.0,4.0
+,1,Brauweiler Pulheim,1. FC Saarbrücken,3.0,0.0
+,1,SC 07 Bad Neuenahr,FCR Duisburg 55,3.0,2.0
+21-05-2000,22,FCR Duisburg 55,1. FFC Frankfurt,1.0,0.0
+,22,Sportfreunde Siegen,1. FC Saarbrücken,1.0,0.0
+,22,SC 07 Bad Neuenahr,WSV Wolfsburg-Wendschott,3.0,2.0
+,22,FFC Flaesheim-Hillen,TuS Niederkirchen,1.0,1.0
+,22,FSV Frankfurt,Grün-Weiß Brauweiler,2.0,2.0
+,22,1. FC Nürnberg,Turbine Potsdam,2.0,1.0
+14-05-2000,21,1. FFC Frankfurt,Sportfreunde Siegen,3.0,0.0
+,21,Turbine Potsdam,FFC Flaesheim-Hillen,5.0,0.0
+,21,Grün-Weiß Brauweiler,FCR Duisburg 55,0.0,3.0
+,21,WSV Wolfsburg-Wendschott,1. FC Nürnberg,2.0,2.0
+,21,1. FC Saarbrücken,SC 07 Bad Neuenahr,2.0,2.0
+,21,TuS Niederkirchen,FSV Frankfurt,0.0,1.0
+30-04-2000,20,FCR Duisburg 55,Sportfreunde Siegen,0.0,1.0
+,20,FFC Flaesheim-Hillen,WSV Wolfsburg-Wendschott,2.0,2.0
+,20,Grün-Weiß Brauweiler,TuS Niederkirchen,7.0,1.0
+,20,SC 07 Bad Neuenahr,1. FFC Frankfurt,0.0,1.0
+,20,FSV Frankfurt,Turbine Potsdam,0.0,1.0
+,20,1. FC Nürnberg,1. FC Saarbrücken,1.0,3.0
+16-04-2000,19,1. FFC Frankfurt,1. FC Nürnberg,11.0,0.0
+,19,Turbine Potsdam,Grün-Weiß Brauweiler,1.0,1.0
+,19,1. FC Saarbrücken,FFC Flaesheim-Hillen,1.0,2.0
+,19,TuS Niederkirchen,FCR Duisburg 55,0.0,4.0
+,19,Sportfreunde Siegen,SC 07 Bad Neuenahr,2.0,0.0
+,19,WSV Wolfsburg-Wendschott,FSV Frankfurt,2.0,1.0
+09-04-2000,18,FCR Duisburg 55,SC 07 Bad Neuenahr,3.0,0.0
+,18,Grün-Weiß Brauweiler,WSV Wolfsburg-Wendschott,8.0,0.0
+,18,TuS Niederkirchen,Turbine Potsdam,1.0,0.0
+,18,FFC Flaesheim-Hillen,1. FFC Frankfurt,1.0,4.0
+,18,FSV Frankfurt,1. FC Saarbrücken,2.0,0.0
+,18,1. FC Nürnberg,Sportfreunde Siegen,0.0,3.0
+26-03-2000,17,1. FFC Frankfurt,FSV Frankfurt,1.0,2.0
+,17,Turbine Potsdam,FCR Duisburg 55,3.0,1.0
+,17,WSV Wolfsburg-Wendschott,TuS Niederkirchen,2.0,1.0
+,17,Sportfreunde Siegen,FFC Flaesheim-Hillen,5.0,0.0
+,17,SC 07 Bad Neuenahr,1. FC Nürnberg,3.0,0.0
+,17,1. FC Saarbrücken,Grün-Weiß Brauweiler,1.0,1.0
+19-03-2000,16,TuS Niederkirchen,1. FC Saarbrücken,0.0,2.0
+,16,Turbine Potsdam,WSV Wolfsburg-Wendschott,2.0,1.0
+,16,Grün-Weiß Brauweiler,1. FFC Frankfurt,1.0,1.0
+,16,FSV Frankfurt,Sportfreunde Siegen,0.0,1.0
+27-04-2000,16,FFC Flaesheim-Hillen,SC 07 Bad Neuenahr,0.0,4.0
+16-05-2000,16,FCR Duisburg 55,1. FC Nürnberg,4.0,0.0
+05-03-2000,15,1. FFC Frankfurt,TuS Niederkirchen,10.0,0.0
+,15,WSV Wolfsburg-Wendschott,FCR Duisburg 55,0.0,2.0
+,15,1. FC Saarbrücken,Turbine Potsdam,0.0,1.0
+,15,1. FC Nürnberg,FFC Flaesheim-Hillen,2.0,3.0
+27-04-2000,15,Sportfreunde Siegen,Grün-Weiß Brauweiler,2.0,1.0
+03-05-2000,15,SC 07 Bad Neuenahr,FSV Frankfurt,2.0,1.0
+27-02-2000,14,FCR Duisburg 55,FFC Flaesheim-Hillen,4.0,0.0
+,14,Turbine Potsdam,1. FFC Frankfurt,1.0,0.0
+,14,WSV Wolfsburg-Wendschott,1. FC Saarbrücken,2.0,0.0
+,14,Grün-Weiß Brauweiler,SC 07 Bad Neuenahr,2.0,1.0
+,14,FSV Frankfurt,1. FC Nürnberg,1.0,2.0
+,14,TuS Niederkirchen,Sportfreunde Siegen,0.0,3.0
+12-12-1999,13,FFC Flaesheim-Hillen,FSV Frankfurt,2.0,1.0
+,13,SC 07 Bad Neuenahr,TuS Niederkirchen,4.0,2.0
+,13,1. FC Nürnberg,Grün-Weiß Brauweiler,1.0,1.0
+29-03-2000,13,FCR Duisburg 55,1. FC Saarbrücken,1.0,0.0
+24-04-2000,13,Sportfreunde Siegen,Turbine Potsdam,1.0,0.0
+,13,1. FFC Frankfurt,WSV Wolfsburg-Wendschott,1.0,0.0
+05-12-1999,12,Turbine Potsdam,SC 07 Bad Neuenahr,2.0,0.0
+,12,Grün-Weiß Brauweiler,FFC Flaesheim-Hillen,2.0,1.0
+,12,WSV Wolfsburg-Wendschott,Sportfreunde Siegen,3.0,2.0
+,12,FSV Frankfurt,FCR Duisburg 55,0.0,7.0
+,12,1. FC Saarbrücken,1. FFC Frankfurt,1.0,4.0
+,12,TuS Niederkirchen,1. FC Nürnberg,2.0,0.0
+20-11-1999,11,Grün-Weiß Brauweiler,FSV Frankfurt,4.0,0.0
+,11,1. FC Saarbrücken,Sportfreunde Siegen,0.0,0.0
+21-11-1999,11,Turbine Potsdam,1. FC Nürnberg,6.0,0.0
+,11,1. FFC Frankfurt,FCR Duisburg 55,1.0,2.0
+,11,WSV Wolfsburg-Wendschott,SC 07 Bad Neuenahr,1.0,0.0
+,11,TuS Niederkirchen,FFC Flaesheim-Hillen,1.0,0.0
+14-11-1999,10,FCR Duisburg 55,Grün-Weiß Brauweiler,4.0,0.0
+,10,Sportfreunde Siegen,1. FFC Frankfurt,0.0,0.0
+,10,SC 07 Bad Neuenahr,1. FC Saarbrücken,1.0,0.0
+,10,FFC Flaesheim-Hillen,Turbine Potsdam,1.0,0.0
+,10,FSV Frankfurt,TuS Niederkirchen,2.0,1.0
+,10,1. FC Nürnberg,WSV Wolfsburg-Wendschott,0.0,8.0
+31-10-1999,9,1. FFC Frankfurt,SC 07 Bad Neuenahr,2.0,1.0
+,9,Turbine Potsdam,FSV Frankfurt,3.0,2.0
+,9,WSV Wolfsburg-Wendschott,FFC Flaesheim-Hillen,4.0,1.0
+,9,Sportfreunde Siegen,FCR Duisburg 55,0.0,6.0
+,9,1. FC Saarbrücken,1. FC Nürnberg,5.0,0.0
+,9,TuS Niederkirchen,Grün-Weiß Brauweiler,0.0,2.0
+24-10-1999,8,FCR Duisburg 55,TuS Niederkirchen,5.0,0.0
+,8,Grün-Weiß Brauweiler,Turbine Potsdam,3.0,2.0
+,8,FFC Flaesheim-Hillen,1. FC Saarbrücken,2.0,1.0
+,8,FSV Frankfurt,WSV Wolfsburg-Wendschott,2.0,3.0
+,8,1. FC Nürnberg,1. FFC Frankfurt,0.0,6.0
+12-04-2000,8,SC 07 Bad Neuenahr,Sportfreunde Siegen,3.0,2.0
+17-10-1999,7,1. FFC Frankfurt,FFC Flaesheim-Hillen,10.0,0.0
+,7,WSV Wolfsburg-Wendschott,Grün-Weiß Brauweiler,0.0,0.0
+,7,Sportfreunde Siegen,1. FC Nürnberg,4.0,0.0
+,7,Turbine Potsdam,TuS Niederkirchen,0.0,0.0
+,7,SC 07 Bad Neuenahr,FCR Duisburg 55,1.0,2.0
+,7,1. FC Saarbrücken,FSV Frankfurt,3.0,1.0
+10-10-1999,6,FCR Duisburg 55,Turbine Potsdam,5.0,1.0
+,6,TuS Niederkirchen,WSV Wolfsburg-Wendschott,1.0,5.0
+,6,Grün-Weiß Brauweiler,1. FC Saarbrücken,2.0,1.0
+,6,FFC Flaesheim-Hillen,Sportfreunde Siegen,1.0,6.0
+,6,FSV Frankfurt,1. FFC Frankfurt,0.0,2.0
+,6,1. FC Nürnberg,SC 07 Bad Neuenahr,0.0,0.0
+03-10-1999,5,1. FFC Frankfurt,Grün-Weiß Brauweiler,2.0,1.0
+,5,Sportfreunde Siegen,FSV Frankfurt,3.0,0.0
+,5,WSV Wolfsburg-Wendschott,Turbine Potsdam,2.0,3.0
+,5,1. FC Nürnberg,FCR Duisburg 55,2.0,7.0
+13-10-1999,5,1. FC Saarbrücken,TuS Niederkirchen,4.0,0.0
+28-11-1999,5,SC 07 Bad Neuenahr,FFC Flaesheim-Hillen,5.0,1.0
+19-09-1999,4,FCR Duisburg 55,WSV Wolfsburg-Wendschott,5.0,1.0
+,4,Turbine Potsdam,1. FC Saarbrücken,4.0,1.0
+,4,FFC Flaesheim-Hillen,1. FC Nürnberg,4.0,2.0
+,4,TuS Niederkirchen,1. FFC Frankfurt,0.0,3.0
+,4,Grün-Weiß Brauweiler,Sportfreunde Siegen,4.0,2.0
+,4,FSV Frankfurt,SC 07 Bad Neuenahr,1.0,2.0
+12-09-1999,3,1. FFC Frankfurt,Turbine Potsdam,1.0,2.0
+,3,1. FC Saarbrücken,WSV Wolfsburg-Wendschott,0.0,5.0
+,3,Sportfreunde Siegen,TuS Niederkirchen,5.0,2.0
+,3,SC 07 Bad Neuenahr,Grün-Weiß Brauweiler,3.0,1.0
+,3,FFC Flaesheim-Hillen,FCR Duisburg 55,0.0,6.0
+,3,1. FC Nürnberg,FSV Frankfurt,1.0,4.0
+05-09-1999,2,Turbine Potsdam,Sportfreunde Siegen,4.0,2.0
+,2,WSV Wolfsburg-Wendschott,1. FFC Frankfurt,0.0,0.0
+,2,1. FC Saarbrücken,FCR Duisburg 55,0.0,3.0
+,2,TuS Niederkirchen,SC 07 Bad Neuenahr,0.0,3.0
+,2,Grün-Weiß Brauweiler,1. FC Nürnberg,4.0,0.0
+,2,FSV Frankfurt,FFC Flaesheim-Hillen,5.0,0.0
+29-08-1999,1,FCR Duisburg 55,FSV Frankfurt,10.0,0.0
+,1,1. FFC Frankfurt,1. FC Saarbrücken,4.0,0.0
+,1,SC 07 Bad Neuenahr,Turbine Potsdam,3.0,1.0
+,1,1. FC Nürnberg,TuS Niederkirchen,0.0,3.0
+,1,Sportfreunde Siegen,WSV Wolfsburg-Wendschott,1.0,1.0
+,1,FFC Flaesheim-Hillen,Grün-Weiß Brauweiler,1.0,3.0
+23-05-1999,22,1. FFC Frankfurt,FCR Duisburg 55,2.0,2.0
+,22,Sportfreunde Siegen,1. FC Saarbrücken,2.0,0.0
+,22,Turbine Potsdam,SC 07 Bad Neuenahr,2.0,2.0
+,22,WSV Wolfsburg-Wendschott,FSV Frankfurt,2.0,3.0
+,22,Grün-Weiß Brauweiler,Heike Rheine,1.0,0.0
+,22,SC Freiburg,TuS Niederkirchen,0.0,1.0
+16-05-1999,21,FCR Duisburg 55,Turbine Potsdam,4.0,0.0
+,21,FSV Frankfurt,SC Freiburg,1.0,2.0
+,21,1. FC Saarbrücken,Grün-Weiß Brauweiler,0.0,0.0
+,21,TuS Niederkirchen,1. FFC Frankfurt,0.0,4.0
+,21,SC 07 Bad Neuenahr,Sportfreunde Siegen,0.0,1.0
+,21,Heike Rheine,WSV Wolfsburg-Wendschott,5.0,1.0
+09-05-1999,20,1. FFC Frankfurt,FSV Frankfurt,7.0,0.0
+,20,WSV Wolfsburg-Wendschott,1. FC Saarbrücken,5.0,1.0
+,20,SC Freiburg,Heike Rheine,3.0,0.0
+,20,Sportfreunde Siegen,Grün-Weiß Brauweiler,1.0,1.0
+,20,Turbine Potsdam,TuS Niederkirchen,2.0,1.0
+,20,SC 07 Bad Neuenahr,FCR Duisburg 55,1.0,5.0
+25-04-1999,19,FCR Duisburg 55,Sportfreunde Siegen,1.0,0.0
+,19,TuS Niederkirchen,SC 07 Bad Neuenahr,0.0,0.0
+,19,Grün-Weiß Brauweiler,WSV Wolfsburg-Wendschott,0.0,0.0
+,19,Heike Rheine,1. FFC Frankfurt,0.0,3.0
+,19,FSV Frankfurt,Turbine Potsdam,2.0,2.0
+,19,1. FC Saarbrücken,SC Freiburg,3.0,0.0
+18-04-1999,18,1. FFC Frankfurt,1. FC Saarbrücken,4.0,0.0
+,18,FCR Duisburg 55,TuS Niederkirchen,5.0,0.0
+,18,SC Freiburg,Grün-Weiß Brauweiler,1.0,3.0
+,18,Sportfreunde Siegen,WSV Wolfsburg-Wendschott,1.0,1.0
+,18,Turbine Potsdam,Heike Rheine,4.0,0.0
+,18,SC 07 Bad Neuenahr,FSV Frankfurt,0.0,0.0
+11-04-1999,17,1. FC Saarbrücken,Turbine Potsdam,0.0,1.0
+,17,Heike Rheine,SC 07 Bad Neuenahr,4.0,0.0
+,17,FSV Frankfurt,FCR Duisburg 55,0.0,0.0
+,17,WSV Wolfsburg-Wendschott,SC Freiburg,2.0,0.0
+,17,TuS Niederkirchen,Sportfreunde Siegen,2.0,1.0
+,17,Grün-Weiß Brauweiler,1. FFC Frankfurt,1.0,6.0
+21-03-1999,16,1. FFC Frankfurt,WSV Wolfsburg-Wendschott,10.0,0.0
+,16,FCR Duisburg 55,Heike Rheine,3.0,1.0
+,16,TuS Niederkirchen,FSV Frankfurt,3.0,1.0
+,16,Sportfreunde Siegen,SC Freiburg,1.0,0.0
+,16,SSV Turbine Potsdam,Grün-Weiß Brauweiler,2.0,2.0
+,16,SC 07 Bad Neuenahr,1. FC Saarbrücken,1.0,0.0
+14-03-1999,15,Heike Rheine,TuS Niederkirchen,6.0,1.0
+,15,FSV Frankfurt,Sportfreunde Siegen,2.0,2.0
+,15,WSV Wolfsburg-Wendschott,SSV Turbine Potsdam,2.0,3.0
+,15,1. FC Saarbrücken,FCR Duisburg 55,0.0,3.0
+,15,Grün-Weiß Brauweiler,SC 07 Bad Neuenahr,1.0,2.0
+,15,SC Freiburg,1. FFC Frankfurt,0.0,7.0
+07-03-1999,14,FCR Duisburg 55,Grün-Weiß Brauweiler,6.0,1.0
+,14,TuS Niederkirchen,1. FC Saarbrücken,1.0,2.0
+,14,Sportfreunde Siegen,1. FFC Frankfurt,0.0,2.0
+,14,SSV Turbine Potsdam,SC Freiburg,1.0,0.0
+,14,FSV Frankfurt,Heike Rheine,3.0,0.0
+,14,SC 07 Bad Neuenahr,WSV Wolfsburg-Wendschott,1.0,3.0
+31-01-1999,13,1. FFC Frankfurt,SSV Turbine Potsdam,3.0,0.0
+,13,WSV Wolfsburg-Wendschott,FCR Duisburg 55,0.0,1.0
+,13,Grün-Weiß Brauweiler,TuS Niederkirchen,5.0,0.0
+,13,SC Freiburg,SC 07 Bad Neuenahr,1.0,1.0
+03-04-1999,13,Sportfreunde Siegen,Heike Rheine,3.0,2.0
+,13,1. FC Saarbrücken,FSV Frankfurt,1.0,0.0
+06-12-1998,12,TuS Niederkirchen,WSV Wolfsburg-Wendschott,1.0,2.0
+,12,SSV Turbine Potsdam,Sportfreunde Siegen,1.0,1.0
+,12,FSV Frankfurt,Grün-Weiß Brauweiler,2.0,0.0
+,12,SC 07 Bad Neuenahr,1. FFC Frankfurt,0.0,6.0
+28-03-1999,12,Heike Rheine,1. FC Saarbrücken,2.0,2.0
+02-05-1999,12,FCR Duisburg 55,SC Freiburg,5.0,0.0
+21-11-1998,11,FCR Duisburg 55,1. FFC Frankfurt,2.0,0.0
+,11,Heike Rheine,Grün-Weiß Brauweiler,2.0,0.0
+22-11-1998,11,FSV Frankfurt,WSV Wolfsburg-Wendschott,2.0,2.0
+,11,1. FC Saarbrücken,Sportfreunde Siegen,0.0,1.0
+,11,TuS Niederkirchen,SC Freiburg,3.0,1.0
+,11,SC 07 Bad Neuenahr,SSV Turbine Potsdam,0.0,0.0
+15-11-1998,10,Sportfreunde Siegen,SC 07 Bad Neuenahr,2.0,0.0
+,10,SSV Turbine Potsdam,FCR Duisburg 55,2.0,1.0
+,10,WSV Wolfsburg-Wendschott,Heike Rheine,1.0,0.0
+,10,SC Freiburg,FSV Frankfurt,0.0,1.0
+05-04-1999,10,Grün-Weiß Brauweiler,1. FC Saarbrücken,1.0,2.0
+28-04-1999,10,1. FFC Frankfurt,TuS Niederkirchen,9.0,1.0
+31-10-1998,9,TuS Niederkirchen,SSV Turbine Potsdam,3.0,3.0
+,9,Heike Rheine,SC Freiburg,1.0,1.0
+20-12-1998,9,1. FC Saarbrücken,WSV Wolfsburg-Wendschott,3.0,0.0
+,9,Grün-Weiß Brauweiler,Sportfreunde Siegen,0.0,3.0
+07-04-1999,9,FSV Frankfurt,1. FFC Frankfurt,0.0,2.0
+,9,FCR Duisburg 55,SC 07 Bad Neuenahr,7.0,0.0
+25-10-1998,8,1. FFC Frankfurt,Heike Rheine,7.0,0.0
+,8,WSV Wolfsburg-Wendschott,Grün-Weiß Brauweiler,7.0,0.0
+,8,Sportfreunde Siegen,FCR Duisburg 55,2.0,6.0
+,8,SSV Turbine Potsdam,FSV Frankfurt,1.0,2.0
+,8,SC 07 Bad Neuenahr,TuS Niederkirchen,2.0,0.0
+,8,SC Freiburg,1. FC Saarbrücken,3.0,3.0
+18-10-1998,7,1. FC Saarbrücken,1. FFC Frankfurt,0.0,2.0
+,7,TuS Niederkirchen,FCR Duisburg 55,0.0,4.0
+,7,Grün-Weiß Brauweiler,SC Freiburg,4.0,3.0
+,7,Heike Rheine,SSV Turbine Potsdam,2.0,1.0
+,7,FSV Frankfurt,SC 07 Bad Neuenahr,0.0,0.0
+,7,WSV Wolfsburg-Wendschott,Sportfreunde Siegen,1.0,1.0
+13-09-1998,6,SSV Turbine Potsdam,1. FC Saarbrücken,0.0,0.0
+04-10-1998,6,1. FFC Frankfurt,Grün-Weiß Brauweiler,3.0,0.0
+,6,FCR Duisburg 55,FSV Frankfurt,1.0,2.0
+,6,SC Freiburg,WSV Wolfsburg-Wendschott,1.0,1.0
+,6,Sportfreunde Siegen,TuS Niederkirchen,2.0,0.0
+28-10-1998,6,SC 07 Bad Neuenahr,Heike Rheine,2.0,2.0
+27-09-1998,5,WSV Wolfsburg-Wendschott,1. FFC Frankfurt,0.0,5.0
+,5,Heike Rheine,FCR Duisburg 55,0.0,3.0
+,5,1. FC Saarbrücken,SC 07 Bad Neuenahr,2.0,2.0
+,5,FSV Frankfurt,TuS Niederkirchen,2.0,0.0
+,5,Grün-Weiß Brauweiler,SSV Turbine Potsdam,2.0,1.0
+,5,SC Freiburg,Sportfreunde Siegen,1.0,1.0
+20-09-1998,4,1. FFC Frankfurt,SC Freiburg,3.0,1.0
+,4,FCR Duisburg 55,1. FC Saarbrücken,1.0,0.0
+,4,TuS Niederkirchen,Heike Rheine,3.0,0.0
+,4,Sportfreunde Siegen,FSV Frankfurt,2.0,0.0
+,4,SSV Turbine Potsdam,WSV Wolfsburg-Wendschott,2.0,3.0
+,4,SC 07 Bad Neuenahr,Grün-Weiß Brauweiler,1.0,5.0
+06-09-1998,3,1. FFC Frankfurt,Sportfreunde Siegen,6.0,0.0
+,3,1. FC Saarbrücken,TuS Niederkirchen,0.0,1.0
+,3,Heike Rheine,FSV Frankfurt,2.0,1.0
+,3,WSV Wolfsburg-Wendschott,SC 07 Bad Neuenahr,1.0,2.0
+,3,Grün-Weiß Brauweiler,FCR Duisburg 55,1.0,6.0
+,3,SC Freiburg,SSV Turbine Potsdam,0.0,7.0
+30-08-1998,2,FCR Duisburg 55,WSV Wolfsburg-Wendschott,3.0,2.0
+,2,Heike Rheine,Sportfreunde Siegen,0.0,0.0
+,2,SSV Turbine Potsdam,1. FFC Frankfurt,4.0,4.0
+,2,FSV Frankfurt,1. FC Saarbrücken,1.0,1.0
+,2,TuS Niederkirchen,Grün-Weiß Brauweiler,2.0,0.0
+,2,SC 07 Bad Neuenahr,SC Freiburg,1.0,0.0
+22-08-1998,1,Sportfreunde Siegen,SSV Turbine Potsdam,5.0,2.0
+23-08-1998,1,Eintracht Frankfurt,SC 07 Bad Neuenahr,1.0,0.0
+,1,WSV Wolfsburg-Wendschott,TuS Niederkirchen,3.0,3.0
+,1,1. FC Saarbrücken,Heike Rheine,1.0,0.0
+,1,SC Freiburg,FCR Duisburg 55,0.0,8.0
+,1,Grün-Weiß Brauweiler,FSV Frankfurt,1.0,1.0
+07-06-1998,22,SG Praunheim,Grün-Weiß Brauweiler,3.0,1.0
+,22,FCR Duisburg 55,FSV Frankfurt,4.0,1.0
+,22,SSV Turbine Potsdam,SC Klinge-Seckach,6.0,2.0
+,22,Heike Rheine,SC 07 Bad Neuenahr,4.0,0.0
+,22,1. FC Saarbrücken,Hamburgo,2.0,0.0
+,22,TuS Niederkirchen,Sportfreunde Siegen,0.0,3.0
+31-05-1998,21,FSV Frankfurt,1. FC Saarbrücken,6.0,2.0
+,21,Grün-Weiß Brauweiler,TuS Niederkirchen,2.0,2.0
+,21,Sportfreunde Siegen,Heike Rheine,4.0,0.0
+,21,SC 07 Bad Neuenahr,SSV Turbine Potsdam,0.0,0.0
+,21,SC Klinge-Seckach,FCR Duisburg 55,1.0,3.0
+,21,Hamburgo,SG Praunheim,2.0,8.0
+10-05-1998,20,SG Praunheim,FSV Frankfurt,0.0,5.0
+,20,FCR Duisburg 55,SC 07 Bad Neuenahr,3.0,0.0
+,20,Sportfreunde Siegen,Grün-Weiß Brauweiler,1.0,2.0
+,20,Heike Rheine,SSV Turbine Potsdam,0.0,1.0
+,20,1. FC Saarbrücken,SC Klinge-Seckach,0.0,1.0
+,20,TuS Niederkirchen,Hamburgo,4.0,2.0
+03-05-1998,19,FSV Frankfurt,TuS Niederkirchen,3.0,0.0
+,19,Grün-Weiß Brauweiler,Heike Rheine,1.0,2.0
+,19,SSV Turbine Potsdam,FCR Duisburg 55,0.0,3.0
+,19,SC 07 Bad Neuenahr,1. FC Saarbrücken,3.0,1.0
+,19,SC Klinge-Seckach,SG Praunheim,3.0,1.0
+,19,Hamburgo,Sportfreunde Siegen,2.0,3.0
+26-04-1998,18,SG Praunheim,SC 07 Bad Neuenahr,6.0,1.0
+,18,Grün-Weiß Brauweiler,Hamburgo,3.0,0.0
+,18,Sportfreunde Siegen,FSV Frankfurt,1.0,1.0
+,18,Heike Rheine,FCR Duisburg 55,1.0,5.0
+,18,1. FC Saarbrücken,SSV Turbine Potsdam,1.0,3.0
+,18,TuS Niederkirchen,SC Klinge-Seckach,0.0,2.0
+05-04-1998,17,FSV Frankfurt,Grün-Weiß Brauweiler,5.0,0.0
+,17,FCR Duisburg 55,1. FC Saarbrücken,1.0,0.0
+,17,SSV Turbine Potsdam,SG Praunheim,0.0,0.0
+,17,SC 07 Bad Neuenahr,TuS Niederkirchen,0.0,0.0
+,17,SC Klinge-Seckach,Sportfreunde Siegen,2.0,1.0
+,17,Hamburgo,Heike Rheine,0.0,3.0
+22-03-1998,16,SG Praunheim,FCR Duisburg 55,1.0,0.0
+,16,Grün-Weiß Brauweiler,SC Klinge-Seckach,3.0,2.0
+,16,Sportfreunde Siegen,SC 07 Bad Neuenahr,3.0,0.0
+,16,Heike Rheine,1. FC Saarbrücken,1.0,2.0
+,16,TuS Niederkirchen,SSV Turbine Potsdam,4.0,2.0
+,16,Hamburgo,FSV Frankfurt,0.0,4.0
+15-03-1998,15,FSV Frankfurt,Heike Rheine,2.0,0.0
+,15,FCR Duisburg 55,TuS Niederkirchen,7.0,0.0
+,15,SSV Turbine Potsdam,Sportfreunde Siegen,0.0,4.0
+,15,1. FC Saarbrücken,SG Praunheim,0.0,3.0
+,15,SC 07 Bad Neuenahr,Grün-Weiß Brauweiler,1.0,2.0
+,15,SC Klinge-Seckach,Hamburgo,3.0,0.0
+01-03-1998,14,FSV Frankfurt,SC Klinge-Seckach,7.0,0.0
+,14,Grün-Weiß Brauweiler,SSV Turbine Potsdam,1.0,0.0
+,14,Sportfreunde Siegen,FCR Duisburg 55,0.0,1.0
+,14,Eintracht Rheine,SG Praunheim,1.0,0.0
+,14,TuS Niederkirchen,1. FC Saarbrücken,4.0,1.0
+,14,Hamburgo,SC 07 Bad Neuenahr,0.0,3.0
+22-02-1998,13,SG Praunheim,TuS Niederkirchen,4.0,2.0
+,13,FCR Duisburg 55,Grün-Weiß Brauweiler,3.0,0.0
+,13,SSV Turbine Potsdam,Hamburgo,4.0,2.0
+,13,Eintracht Rheine,SC Klinge-Seckach,3.0,0.0
+,13,1. FC Saarbrücken,Sportfreunde Siegen,1.0,0.0
+,13,SC 07 Bad Neuenahr,FSV Frankfurt,0.0,2.0
+15-02-1998,12,FSV Frankfurt,SSV Turbine Potsdam,1.0,0.0
+,12,Grün-Weiß Brauweiler,1. FC Saarbrücken,1.0,1.0
+,12,Sportfreunde Siegen,SG Praunheim,0.0,1.0
+,12,TuS Niederkirchen,Eintracht Rheine,0.0,1.0
+,12,SC Klinge-Seckach,SC 07 Bad Neuenahr,0.0,0.0
+,12,Hamburgo,FCR Duisburg 55,0.0,4.0
+30-11-1997,11,FSV Frankfurt,FCR Duisburg 55,3.0,1.0
+,11,Grün-Weiß Brauweiler,SG Praunheim,1.0,2.0
+,11,Sportfreunde Siegen,TuS Niederkirchen,3.0,1.0
+,11,SC 07 Bad Neuenahr,Eintracht Rheine,4.0,2.0
+,11,SC Klinge-Seckach,SSV Turbine Potsdam,1.0,2.0
+,11,Hamburgo,1. FC Saarbrücken,1.0,3.0
+23-11-1997,10,SG Praunheim,Hamburgo,6.0,0.0
+,10,FCR Duisburg 55,SC Klinge-Seckach,5.0,1.0
+,10,SSV Turbine Potsdam,SC 07 Bad Neuenahr,4.0,1.0
+,10,Eintracht Rheine,Sportfreunde Siegen,1.0,2.0
+,10,1. FC Saarbrücken,FSV Frankfurt,1.0,4.0
+,10,TuS Niederkirchen,Grün-Weiß Brauweiler,0.0,2.0
+09-11-1997,9,FSV Frankfurt,SG Praunheim,0.0,2.0
+,9,Grün-Weiß Brauweiler,Sportfreunde Siegen,1.0,0.0
+,9,SSV Turbine Potsdam,Eintracht Rheine,0.0,1.0
+,9,SC 07 Bad Neuenahr,FCR Duisburg 55,1.0,2.0
+,9,SC Klinge-Seckach,1. FC Saarbrücken,2.0,5.0
+,9,Hamburgo,TuS Niederkirchen,2.0,2.0
+02-11-1997,8,SG Praunheim,SC Klinge-Seckach,3.0,1.0
+,8,FCR Duisburg 55,SSV Turbine Potsdam,1.0,3.0
+,8,Sportfreunde Siegen,Hamburgo,1.0,0.0
+,8,Eintracht Rheine,Grün-Weiß Brauweiler,0.0,1.0
+,8,1. FC Saarbrücken,SC 07 Bad Neuenahr,3.0,0.0
+,8,TuS Niederkirchen,FSV Frankfurt,0.0,1.0
+26-10-1997,7,FSV Frankfurt,Sportfreunde Siegen,5.0,1.0
+,7,FCR Duisburg 55,Eintracht Rheine,0.0,0.0
+,7,SSV Turbine Potsdam,1. FC Saarbrücken,0.0,1.0
+,7,SC 07 Bad Neuenahr,SG Praunheim,0.0,1.0
+,7,SC Klinge-Seckach,TuS Niederkirchen,0.0,1.0
+,7,Hamburgo,Grün-Weiß Brauweiler,0.0,2.0
+05-10-1997,6,SG Praunheim,SSV Turbine Potsdam,7.0,1.0
+,6,Grün-Weiß Brauweiler,FSV Frankfurt,1.0,2.0
+,6,Sportfreunde Siegen,SC Klinge-Seckach,5.0,0.0
+,6,Eintracht Rheine,Hamburgo,3.0,0.0
+,6,1. FC Saarbrücken,FCR Duisburg 55,3.0,2.0
+,6,TuS Niederkirchen,SC 07 Bad Neuenahr,1.0,2.0
+28-09-1997,5,FSV Frankfurt,Hamburgo,11.0,2.0
+,5,FCR Duisburg 55,SG Praunheim,1.0,3.0
+,5,SSV Turbine Potsdam,TuS Niederkirchen,2.0,1.0
+,5,1. FC Saarbrücken,Eintracht Rheine,2.0,1.0
+,5,SC 07 Bad Neuenahr,Sportfreunde Siegen,0.0,2.0
+,5,SC Klinge-Seckach,Grün-Weiß Brauweiler,0.0,5.0
+14-09-1997,4,SG Praunheim,1. FC Saarbrücken,2.0,0.0
+,4,Grün-Weiß Brauweiler,SC 07 Bad Neuenahr,2.0,0.0
+,4,Sportfreunde Siegen,SSV Turbine Potsdam,6.0,0.0
+,4,Eintracht Rheine,FSV Frankfurt,1.0,4.0
+,4,TuS Niederkirchen,FCR Duisburg 55,2.0,2.0
+,4,Hamburgo,SC Klinge-Seckach,2.0,0.0
+07-09-1997,3,SG Praunheim,Eintracht Rheine,3.0,0.0
+,3,FCR Duisburg 55,Sportfreunde Siegen,2.0,1.0
+,3,SSV Turbine Potsdam,Grün-Weiß Brauweiler,2.0,2.0
+,3,1. FC Saarbrücken,TuS Niederkirchen,0.0,0.0
+,3,SC 07 Bad Neuenahr,Hamburgo,1.0,1.0
+,3,SC Klinge-Seckach,FSV Frankfurt,0.0,0.0
+24-08-1997,2,FSV Frankfurt,SC 07 Bad Neuenahr,9.0,1.0
+,2,Grün-Weiß Brauweiler,FCR Duisburg 55,0.0,1.0
+,2,Sportfreunde Siegen,1. FC Saarbrücken,4.0,2.0
+,2,TuS Niederkirchen,SG Praunheim,2.0,1.0
+,2,SC Klinge-Seckach,Eintracht Rheine,1.0,1.0
+,2,Hamburgo,SSV Turbine Potsdam,0.0,2.0
+17-08-1997,1,SG Praunheim,Sportfreunde Siegen,1.0,1.0
+,1,FCR Duisburg 55,Hamburgo,6.0,1.0
+,1,SSV Turbine Potsdam,FSV Frankfurt,2.0,4.0
+,1,Eintracht Rheine,TuS Niederkirchen,2.0,0.0
+,1,1. FC Saarbrücken,Grün-Weiß Brauweiler,1.0,2.0
+,1,SC 07 Bad Neuenahr,SC Klinge-Seckach,5.0,1.0
