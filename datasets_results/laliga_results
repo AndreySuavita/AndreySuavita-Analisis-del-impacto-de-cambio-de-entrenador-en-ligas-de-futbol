@@ -1,364 +1,364 @@
 fecha,jornada,local,visitante,goles_local,goles_visitante
-04-06-2023,38,Betis,Valencia,,
-,38,Osasuna,Girona,,
-,38,Celta,Barcelona,,
-,38,Espanyol,Almería,,
-,38,Elche,Cádiz CF,,
+04-06-2023,38,Osasuna,Girona,,
 ,38,Villarreal,Atlético,,
 ,38,Mallorca,Rayo,,
 ,38,Real Madrid,Athletic,,
 ,38,Real Sociedad,Sevilla,,
+,38,Betis,Valencia,,
+,38,Celta,Barcelona,,
+,38,Espanyol,Almería,,
+,38,Elche,Cádiz CF,,
 ,38,Valladolid,Getafe,,
-28-05-2023,37,Athletic,Elche,,
-,37,Atlético,Real Sociedad,,
-,37,Barcelona,Mallorca,,
-,37,Cádiz CF,Celta,,
-,37,Getafe,Osasuna,,
-,37,Girona,Betis,,
-,37,Sevilla,Real Madrid,,
-,37,Valencia,Espanyol,,
-,37,Rayo,Villarreal,,
-,37,Almería,Valladolid,,
-24-05-2023,36,Betis,Getafe,,
-,36,Osasuna,Athletic,,
-,36,Celta,Girona,,
-,36,Espanyol,Atlético,,
-,36,Elche,Sevilla,,
-,36,Villarreal,Cádiz CF,,
-,36,Mallorca,Valencia,,
-,36,Real Madrid,Rayo,,
-,36,Real Sociedad,Almería,,
-,36,Valladolid,Barcelona,,
-21-05-2023,35,Athletic,Celta,,
-,35,Atlético,Osasuna,,
-,35,Barcelona,Real Sociedad,,
-,35,Cádiz CF,Valladolid,,
-,35,Getafe,Elche,,
-,35,Girona,Villarreal,,
-,35,Sevilla,Betis,,
-,35,Valencia,Real Madrid,,
-,35,Rayo,Espanyol,,
-,35,Almería,Mallorca,,
-14-05-2023,34,Betis,Rayo,,
-,34,Osasuna,Almería,,
-,34,Celta,Valencia,,
-,34,Espanyol,Barcelona,,
-,34,Elche,Atlético,,
-,34,Villarreal,Athletic,,
-,34,Mallorca,Cádiz CF,,
-,34,Real Madrid,Getafe,,
-,34,Real Sociedad,Girona,,
-,34,Valladolid,Sevilla,,
-03-05-2023,33,Athletic,Betis,,
-,33,Atlético,Cádiz CF,,
-,33,Barcelona,Osasuna,,
-,33,Getafe,Celta,,
-,33,Girona,Mallorca,,
-,33,Sevilla,Espanyol,,
-,33,Valencia,Villarreal,,
-,33,Rayo,Valladolid,,
-,33,Real Sociedad,Real Madrid,,
-,33,Almería,Elche,,
-30-04-2023,32,Osasuna,Real Sociedad,,
-,32,Espanyol,Getafe,,
-,32,Barcelona,Betis,,
-,32,Cádiz CF,Valencia,,
-,32,Elche,Rayo,,
-,32,Sevilla,Girona,,
-,32,Villarreal,Celta,,
-,32,Mallorca,Athletic,,
-,32,Real Madrid,Almería,,
-,32,Valladolid,Atlético,,
-26-04-2023,31,Athletic,Sevilla,,
-,31,Atlético,Mallorca,,
-,31,Betis,Real Sociedad,,
-,31,Celta,Elche,,
-,31,Cádiz CF,Osasuna,,
-,31,Getafe,Almería,,
-,31,Girona,Real Madrid,,
-,31,Valencia,Valladolid,,
-,31,Villarreal,Espanyol,,
-,31,Rayo,Barcelona,,
-23-04-2023,30,Osasuna,Betis,,
-,30,Espanyol,Cádiz CF,,
-,30,Barcelona,Atlético,,
-,30,Elche,Valencia,,
-,30,Sevilla,Villarreal,,
-,30,Mallorca,Getafe,,
-,30,Real Madrid,Celta,,
-,30,Real Sociedad,Rayo,,
-,30,Valladolid,Girona,,
-,30,Almería,Athletic,,
-16-04-2023,29,Athletic,Real Sociedad,,
-,29,Atlético,Almería,,
-,29,Betis,Espanyol,,
-,29,Celta,Mallorca,,
-,29,Cádiz CF,Real Madrid,,
-,29,Getafe,Barcelona,,
-,29,Girona,Elche,,
-,29,Valencia,Sevilla,,
-,29,Villarreal,Valladolid,,
-,29,Rayo,Osasuna,,
-09-04-2023,28,Betis,Cádiz CF,,
-,28,Osasuna,Elche,,
-,28,Espanyol,Athletic,,
-,28,Barcelona,Girona,,
-,28,Sevilla,Celta,,
-,28,Rayo,Atlético,,
-,28,Real Madrid,Villarreal,,
-,28,Real Sociedad,Getafe,,
-,28,Valladolid,Mallorca,,
-,28,Almería,Valencia,,
-02-04-2023,27,Athletic,Getafe,,
-,27,Atlético,Betis,,
-,27,Celta,Almería,,
-,27,Cádiz CF,Sevilla,,
-,27,Elche,Barcelona,,
-,27,Girona,Espanyol,,
-,27,Valencia,Rayo,,
-,27,Villarreal,Real Sociedad,,
-,27,Mallorca,Osasuna,,
-,27,Real Madrid,Valladolid,,
-19-03-2023,26,Atlético,Valencia,,
-,26,Betis,Mallorca,,
-,26,Osasuna,Villarreal,,
-,26,Espanyol,Celta,,
-,26,Barcelona,Real Madrid,,
-,26,Getafe,Sevilla,,
-,26,Rayo,Girona,,
-,26,Real Sociedad,Elche,,
-,26,Valladolid,Athletic,,
-,26,Almería,Cádiz CF,,
-12-03-2023,25,Athletic,Barcelona,,
-,25,Celta,Rayo,,
-,25,Cádiz CF,Getafe,,
-,25,Elche,Valladolid,,
-,25,Girona,Atlético,,
-,25,Sevilla,Almería,,
-,25,Valencia,Osasuna,,
-,25,Villarreal,Betis,,
-,25,Mallorca,Real Sociedad,,
-,25,Real Madrid,Espanyol,,
-05-03-2023,24,Atlético,Sevilla,,
-,24,Betis,Real Madrid,,
-,24,Osasuna,Celta,,
-,24,Barcelona,Valencia,,
-,24,Getafe,Girona,,
-,24,Rayo,Athletic,,
-,24,Mallorca,Elche,,
-,24,Real Sociedad,Cádiz CF,,
-,24,Valladolid,Espanyol,,
-,24,Almería,Villarreal,,
-26-02-2023,23,Athletic,Girona,,
-,23,Celta,Valladolid,,
-,23,Espanyol,Mallorca,,
-,23,Cádiz CF,Rayo,,
-,23,Elche,Betis,,
-,23,Sevilla,Osasuna,,
-,23,Valencia,Real Sociedad,,
-,23,Villarreal,Getafe,,
-,23,Real Madrid,Atlético,,
-,23,Almería,Barcelona,,
-19-02-2023,22,Atlético,Athletic,,
-,22,Betis,Valladolid,,
-,22,Osasuna,Real Madrid,,
-,22,Barcelona,Cádiz CF,,
-,22,Elche,Espanyol,,
-,22,Getafe,Valencia,,
-,22,Girona,Almería,,
-,22,Rayo,Sevilla,,
-,22,Mallorca,Villarreal,,
-,22,Real Sociedad,Celta,,
-12-02-2023,21,Celta,Atlético,,
-,21,Espanyol,Real Sociedad,,
-,21,Cádiz CF,Girona,,
-,21,Getafe,Rayo,,
-,21,Sevilla,Mallorca,,
-,21,Valencia,Athletic,,
-,21,Villarreal,Barcelona,,
-,21,Real Madrid,Elche,,
-,21,Valladolid,Osasuna,,
-,21,Almería,Betis,,
-05-02-2023,20,Athletic,Cádiz CF,,
-,20,Atlético,Getafe,,
-,20,Betis,Celta,,
-,20,Espanyol,Osasuna,,
-,20,Barcelona,Sevilla,,
-,20,Elche,Villarreal,,
-,20,Girona,Valencia,,
-,20,Rayo,Almería,,
-,20,Mallorca,Real Madrid,,
-,20,Real Sociedad,Valladolid,,
-29-01-2023,19,Osasuna,Atlético,,
-,19,Celta,Athletic,,
-,19,Cádiz CF,Mallorca,,
-,19,Getafe,Betis,,
-,19,Girona,Barcelona,,
-,19,Sevilla,Elche,,
-,19,Villarreal,Rayo,,
-,19,Real Madrid,Real Sociedad,,
-,19,Valladolid,Valencia,,
-,19,Almería,Espanyol,,
-22-01-2023,18,Athletic,Real Madrid,,
-,18,Atlético,Valladolid,,
-,18,Espanyol,Betis,,
-,18,Barcelona,Getafe,,
-,18,Elche,Osasuna,,
-,18,Sevilla,Cádiz CF,,
-,18,Valencia,Almería,,
-,18,Villarreal,Girona,,
-,18,Rayo,Real Sociedad,,
-,18,Mallorca,Celta,,
-15-01-2023,17,Betis,Barcelona,,
-,17,Osasuna,Mallorca,,
-,17,Celta,Villarreal,,
-,17,Cádiz CF,Elche,,
-,17,Getafe,Espanyol,,
-,17,Girona,Sevilla,,
-,17,Real Madrid,Valencia,,
-,17,Real Sociedad,Athletic,,
-,17,Valladolid,Rayo,,
-,17,Almería,Atlético,,
-08-01-2023,16,Athletic,Osasuna,,
-,16,Atlético,Barcelona,,
-,16,Espanyol,Girona,,
-,16,Elche,Celta,,
-,16,Sevilla,Getafe,,
-,16,Valencia,Cádiz CF,,
-,16,Villarreal,Real Madrid,,
-,16,Rayo,Betis,,
-,16,Mallorca,Valladolid,,
-,16,Almería,Real Sociedad,,
-31-12-2022,15,Atlético,Elche,,
-,15,Betis,Athletic,,
-,15,Celta,Sevilla,,
-,15,Barcelona,Espanyol,,
-,15,Cádiz CF,Almería,,
-,15,Getafe,Mallorca,,
-,15,Girona,Rayo,,
-,15,Villarreal,Valencia,,
-,15,Real Sociedad,Osasuna,,
-,15,Valladolid,Real Madrid,,
-09-11-2022,14,Athletic,Valladolid,,
-,14,Osasuna,Barcelona,,
-,14,Espanyol,Villarreal,,
-,14,Elche,Girona,,
-,14,Sevilla,Real Sociedad,,
-,14,Valencia,Betis,,
-,14,Rayo,Celta,,
-,14,Mallorca,Atlético,,
-,14,Real Madrid,Cádiz CF,,
-,14,Almería,Getafe,,
-06-11-2022,13,Atlético,Espanyol,,
-,13,Betis,Sevilla,,
-,13,Celta,Osasuna,,
-,13,Barcelona,Almería,,
-,13,Getafe,Cádiz CF,,
-,13,Girona,Athletic,,
-,13,Villarreal,Mallorca,,
-,13,Rayo,Real Madrid,,
-,13,Real Sociedad,Valencia,,
-,13,Valladolid,Elche,,
-30-10-2022,12,Athletic,Villarreal,,
-,12,Osasuna,Valladolid,,
-,12,Cádiz CF,Atlético,,
-,12,Elche,Getafe,,
-,12,Sevilla,Rayo,,
-,12,Valencia,Barcelona,,
-,12,Mallorca,Espanyol,,
-,12,Real Madrid,Girona,,
-,12,Real Sociedad,Betis,,
-,12,Almería,Celta,,
-23-10-2022,11,Betis,Atlético,,
-,11,Celta,Getafe,,
-,11,Espanyol,Elche,,
-,11,Barcelona,Athletic,,
-,11,Girona,Osasuna,,
-,11,Valencia,Mallorca,,
-,11,Villarreal,Almería,,
-,11,Rayo,Cádiz CF,,
-,11,Real Madrid,Sevilla,,
-,11,Valladolid,Real Sociedad,,
-19-10-2022,10,Atlético,Rayo,,
-,10,Osasuna,Espanyol,,
-,10,Barcelona,Villarreal,,
-,10,Cádiz CF,Betis,,
-,10,Elche,Real Madrid,,
-,10,Getafe,Athletic,,
-,10,Sevilla,Valencia,,
-,10,Real Sociedad,Mallorca,,
-,10,Valladolid,Celta,,
-,10,Almería,Girona,,
-16-10-2022,9,Athletic,Atlético,,
-,9,Betis,Almería,,
-,9,Celta,Real Sociedad,,
-,9,Espanyol,Valladolid,,
-,9,Girona,Cádiz CF,,
-,9,Valencia,Elche,,
-,9,Villarreal,Osasuna,,
-,9,Rayo,Getafe,,
-,9,Mallorca,Sevilla,,
-,9,Real Madrid,Barcelona,,
-09-10-2022,8,Atlético,Girona,,
-,8,Osasuna,Valencia,,
-,8,Barcelona,Celta,,
-,8,Cádiz CF,Espanyol,,
-,8,Elche,Mallorca,,
-,8,Getafe,Real Madrid,,
-,8,Sevilla,Athletic,,
-,8,Real Sociedad,Villarreal,,
-,8,Valladolid,Betis,,
-,8,Almería,Rayo,,
-02-10-2022,7,Athletic,Almería,,
-,7,Celta,Betis,,
-,7,Espanyol,Valencia,,
-,7,Cádiz CF,Villarreal,,
-,7,Getafe,Valladolid,,
-,7,Girona,Real Sociedad,,
-,7,Sevilla,Atlético,,
-,7,Rayo,Elche,,
-,7,Mallorca,Barcelona,,
-,7,Real Madrid,Osasuna,,
-16-09-2022,6,Valladolid,Cádiz CF,,
-17-09-2022,6,Mallorca,Almería,,
-,6,Barcelona,Elche,,
-,6,Valencia,Celta,,
-,6,Athletic,Rayo,,
-18-09-2022,6,Betis,Girona,,
-,6,Villarreal,Sevilla,,
-,6,Osasuna,Getafe,,
-,6,Real Sociedad,Espanyol,,
-,6,Atlético,Real Madrid,,
-09-09-2022,5,Girona,Valladolid,,
-10-09-2022,5,Rayo,Valencia,,
-,5,Espanyol,Sevilla,,
-,5,Cádiz CF,Barcelona,,
-,5,Real Madrid,Mallorca,,
-11-09-2022,5,Getafe,Real Sociedad,,
-,5,Elche,Athletic,,
-,5,Atlético,Celta,,
-,5,Betis,Villarreal,,
-12-09-2022,5,Almería,Osasuna,,
-02-09-2022,4,Celta,Cádiz CF,,
-03-09-2022,4,Mallorca,Girona,,
-,4,Real Madrid,Betis,,
-,4,Real Sociedad,Atlético,,
-,4,Sevilla,Barcelona,,
-04-09-2022,4,Osasuna,Rayo,,
-,4,Athletic,Espanyol,,
-,4,Villarreal,Elche,,
-,4,Valencia,Getafe,,
-05-09-2022,4,Valladolid,Almería,,
+27-05-2023,37,Sevilla,Real Madrid,1.0,2.0
+28-05-2023,37,Athletic,Elche,0.0,1.0
+,37,Atlético,Real Sociedad,2.0,1.0
+,37,Barcelona,Mallorca,3.0,0.0
+,37,Cádiz CF,Celta,1.0,0.0
+,37,Getafe,Osasuna,2.0,1.0
+,37,Girona,Betis,1.0,2.0
+,37,Valencia,Espanyol,2.0,2.0
+,37,Rayo,Villarreal,2.0,1.0
+,37,Almería,Valladolid,0.0,0.0
+23-05-2023,36,Celta,Girona,1.0,1.0
+,36,Real Sociedad,Almería,1.0,0.0
+,36,Valladolid,Barcelona,3.0,1.0
+24-05-2023,36,Elche,Sevilla,1.0,1.0
+,36,Villarreal,Cádiz CF,2.0,0.0
+,36,Real Madrid,Rayo,2.0,1.0
+,36,Betis,Getafe,0.0,1.0
+,36,Espanyol,Atlético,3.0,3.0
+25-05-2023,36,Mallorca,Valencia,1.0,0.0
+,36,Osasuna,Athletic,2.0,0.0
+19-05-2023,35,Cádiz CF,Valladolid,2.0,0.0
+20-05-2023,35,Girona,Villarreal,1.0,2.0
+,35,Athletic,Celta,2.0,1.0
+,35,Getafe,Elche,1.0,1.0
+,35,Almería,Mallorca,3.0,0.0
+,35,Barcelona,Real Sociedad,1.0,2.0
+21-05-2023,35,Rayo,Espanyol,1.0,2.0
+,35,Atlético,Osasuna,3.0,0.0
+,35,Valencia,Real Madrid,1.0,0.0
+,35,Sevilla,Betis,0.0,0.0
+12-05-2023,34,Mallorca,Cádiz CF,1.0,0.0
+13-05-2023,34,Real Sociedad,Girona,2.0,2.0
+,34,Osasuna,Almería,3.0,1.0
+,34,Villarreal,Athletic,5.0,1.0
+,34,Real Madrid,Getafe,1.0,0.0
+14-05-2023,34,Celta,Valencia,1.0,2.0
+,34,Elche,Atlético,1.0,0.0
+,34,Valladolid,Sevilla,0.0,3.0
+,34,Espanyol,Barcelona,2.0,4.0
+15-05-2023,34,Betis,Rayo,3.0,1.0
+02-05-2023,33,Barcelona,Osasuna,1.0,0.0
+,33,Almería,Elche,2.0,1.0
+,33,Real Sociedad,Real Madrid,2.0,0.0
+03-05-2023,33,Valencia,Villarreal,1.0,1.0
+,33,Atlético,Cádiz CF,5.0,1.0
+,33,Getafe,Celta,1.0,0.0
+04-05-2023,33,Girona,Mallorca,2.0,1.0
+,33,Sevilla,Espanyol,3.0,2.0
+,33,Athletic,Betis,0.0,1.0
+,33,Rayo,Valladolid,2.0,1.0
+28-04-2023,32,Osasuna,Real Sociedad,0.0,2.0
+29-04-2023,32,Elche,Rayo,4.0,0.0
+,32,Real Madrid,Almería,4.0,2.0
+,32,Barcelona,Betis,4.0,0.0
+30-04-2023,32,Cádiz CF,Valencia,2.0,1.0
+,32,Villarreal,Celta,3.0,1.0
+,32,Espanyol,Getafe,1.0,0.0
+,32,Valladolid,Atlético,2.0,5.0
+01-05-2023,32,Mallorca,Athletic,1.0,1.0
+,32,Sevilla,Girona,0.0,2.0
+25-04-2023,31,Cádiz CF,Osasuna,0.0,1.0
+,31,Girona,Real Madrid,4.0,2.0
+,31,Betis,Real Sociedad,0.0,0.0
+26-04-2023,31,Atlético,Mallorca,3.0,1.0
+,31,Getafe,Almería,1.0,2.0
+,31,Celta,Elche,1.0,0.0
+,31,Rayo,Barcelona,2.0,1.0
+27-04-2023,31,Valencia,Valladolid,2.0,1.0
+,31,Villarreal,Espanyol,4.0,2.0
+,31,Athletic,Sevilla,0.0,1.0
+21-04-2023,30,Espanyol,Cádiz CF,0.0,0.0
+22-04-2023,30,Osasuna,Betis,3.0,2.0
+,30,Almería,Athletic,1.0,2.0
+,30,Real Sociedad,Rayo,2.0,1.0
+,30,Valladolid,Girona,1.0,0.0
+,30,Real Madrid,Celta,2.0,0.0
+23-04-2023,30,Elche,Valencia,0.0,2.0
+,30,Barcelona,Atlético,1.0,0.0
+,30,Mallorca,Getafe,3.0,1.0
+,30,Sevilla,Villarreal,2.0,1.0
+14-04-2023,29,Rayo,Osasuna,2.0,1.0
+15-04-2023,29,Villarreal,Valladolid,1.0,2.0
+,29,Athletic,Real Sociedad,2.0,0.0
+,29,Betis,Espanyol,3.0,1.0
+,29,Cádiz CF,Real Madrid,0.0,2.0
+16-04-2023,29,Girona,Elche,2.0,0.0
+,29,Getafe,Barcelona,0.0,0.0
+,29,Atlético,Almería,2.0,1.0
+,29,Valencia,Sevilla,0.0,2.0
+17-04-2023,29,Celta,Mallorca,0.0,1.0
+07-04-2023,28,Sevilla,Celta,2.0,2.0
+08-04-2023,28,Osasuna,Elche,2.0,1.0
+,28,Espanyol,Athletic,1.0,2.0
+,28,Real Sociedad,Getafe,2.0,0.0
+,28,Real Madrid,Villarreal,2.0,3.0
+09-04-2023,28,Valladolid,Mallorca,3.0,3.0
+,28,Betis,Cádiz CF,0.0,2.0
+,28,Almería,Valencia,2.0,1.0
+,28,Rayo,Atlético,1.0,2.0
+10-04-2023,28,Barcelona,Girona,0.0,0.0
+31-03-2023,27,Mallorca,Osasuna,0.0,0.0
+01-04-2023,27,Girona,Espanyol,2.0,1.0
+,27,Athletic,Getafe,0.0,0.0
+,27,Cádiz CF,Sevilla,0.0,2.0
+,27,Elche,Barcelona,0.0,4.0
+02-04-2023,27,Celta,Almería,2.0,2.0
+,27,Real Madrid,Valladolid,6.0,0.0
+,27,Villarreal,Real Sociedad,2.0,0.0
+,27,Atlético,Betis,1.0,0.0
+03-04-2023,27,Valencia,Rayo,1.0,1.0
+17-03-2023,26,Valladolid,Athletic,1.0,3.0
+18-03-2023,26,Almería,Cádiz CF,1.0,1.0
+,26,Rayo,Girona,2.0,2.0
+,26,Espanyol,Celta,1.0,3.0
+,26,Atlético,Valencia,3.0,0.0
+19-03-2023,26,Betis,Mallorca,1.0,0.0
+,26,Osasuna,Villarreal,0.0,3.0
+,26,Real Sociedad,Elche,2.0,0.0
+,26,Getafe,Sevilla,2.0,0.0
+,26,Barcelona,Real Madrid,2.0,1.0
+10-03-2023,25,Cádiz CF,Getafe,2.0,2.0
+11-03-2023,25,Real Madrid,Espanyol,3.0,1.0
+,25,Elche,Valladolid,1.0,1.0
+,25,Celta,Rayo,3.0,0.0
+,25,Valencia,Osasuna,1.0,0.0
+12-03-2023,25,Mallorca,Real Sociedad,1.0,1.0
+,25,Sevilla,Almería,2.0,1.0
+,25,Villarreal,Betis,1.0,1.0
+,25,Athletic,Barcelona,0.0,1.0
+13-03-2023,25,Girona,Atlético,0.0,1.0
+03-03-2023,24,Real Sociedad,Cádiz CF,0.0,0.0
+04-03-2023,24,Getafe,Girona,3.0,2.0
+,24,Almería,Villarreal,0.0,2.0
+,24,Mallorca,Elche,0.0,1.0
+,24,Atlético,Sevilla,6.0,1.0
+05-03-2023,24,Valladolid,Espanyol,2.0,1.0
+,24,Barcelona,Valencia,1.0,0.0
+,24,Rayo,Athletic,0.0,0.0
+,24,Betis,Real Madrid,0.0,0.0
+06-03-2023,24,Osasuna,Celta,0.0,0.0
+24-02-2023,23,Elche,Betis,2.0,3.0
+25-02-2023,23,Espanyol,Mallorca,2.0,1.0
+,23,Cádiz CF,Rayo,1.0,0.0
+,23,Real Madrid,Atlético,1.0,1.0
+,23,Valencia,Real Sociedad,1.0,0.0
+26-02-2023,23,Athletic,Girona,2.0,3.0
+,23,Celta,Valladolid,3.0,0.0
+,23,Almería,Barcelona,1.0,0.0
+,23,Sevilla,Osasuna,2.0,3.0
+27-02-2023,23,Villarreal,Getafe,2.0,1.0
+17-02-2023,22,Girona,Almería,6.0,2.0
+18-02-2023,22,Real Sociedad,Celta,1.0,1.0
+,22,Betis,Valladolid,2.0,1.0
+,22,Mallorca,Villarreal,4.0,2.0
+,22,Osasuna,Real Madrid,0.0,2.0
+19-02-2023,22,Elche,Espanyol,0.0,1.0
+,22,Rayo,Sevilla,1.0,1.0
+,22,Atlético,Athletic,1.0,0.0
+,22,Barcelona,Cádiz CF,2.0,0.0
+20-02-2023,22,Getafe,Valencia,1.0,0.0
+10-02-2023,21,Cádiz CF,Girona,2.0,0.0
+11-02-2023,21,Almería,Betis,2.0,3.0
+,21,Sevilla,Mallorca,2.0,0.0
+,21,Valencia,Athletic,1.0,2.0
+12-02-2023,21,Getafe,Rayo,1.0,1.0
+,21,Celta,Atlético,0.0,1.0
+,21,Valladolid,Osasuna,0.0,0.0
+,21,Villarreal,Barcelona,0.0,1.0
+13-02-2023,21,Espanyol,Real Sociedad,2.0,3.0
+15-02-2023,21,Real Madrid,Elche,4.0,0.0
+03-02-2023,20,Athletic,Cádiz CF,4.0,1.0
+04-02-2023,20,Espanyol,Osasuna,1.0,1.0
+,20,Elche,Villarreal,3.0,1.0
+,20,Atlético,Getafe,1.0,1.0
+,20,Betis,Celta,3.0,4.0
+05-02-2023,20,Mallorca,Real Madrid,1.0,0.0
+,20,Girona,Valencia,1.0,0.0
+,20,Real Sociedad,Valladolid,0.0,1.0
+,20,Barcelona,Sevilla,3.0,0.0
+06-02-2023,20,Rayo,Almería,2.0,0.0
+27-01-2023,19,Almería,Espanyol,3.0,1.0
+28-01-2023,19,Cádiz CF,Mallorca,2.0,0.0
+,19,Girona,Barcelona,0.0,1.0
+,19,Sevilla,Elche,3.0,0.0
+,19,Getafe,Betis,0.0,1.0
+29-01-2023,19,Valladolid,Valencia,1.0,0.0
+,19,Osasuna,Atlético,0.0,1.0
+,19,Celta,Athletic,1.0,0.0
+,19,Real Madrid,Real Sociedad,0.0,0.0
+30-01-2023,19,Villarreal,Rayo,0.0,1.0
+20-01-2023,18,Mallorca,Celta,1.0,0.0
+21-01-2023,18,Rayo,Real Sociedad,0.0,2.0
+,18,Espanyol,Betis,1.0,0.0
+,18,Atlético,Valladolid,3.0,0.0
+,18,Sevilla,Cádiz CF,1.0,0.0
+22-01-2023,18,Villarreal,Girona,1.0,0.0
+,18,Elche,Osasuna,1.0,1.0
+,18,Barcelona,Getafe,1.0,0.0
+,18,Athletic,Real Madrid,0.0,2.0
+23-01-2023,18,Valencia,Almería,2.0,2.0
+13-01-2023,17,Celta,Villarreal,1.0,1.0
+14-01-2023,17,Valladolid,Rayo,0.0,1.0
+,17,Girona,Sevilla,2.0,1.0
+,17,Osasuna,Mallorca,1.0,0.0
+,17,Real Sociedad,Athletic,3.0,1.0
+15-01-2023,17,Getafe,Espanyol,1.0,2.0
+,17,Almería,Atlético,1.0,1.0
+16-01-2023,17,Cádiz CF,Elche,1.0,1.0
+01-02-2023,17,Betis,Barcelona,1.0,2.0
+02-02-2023,17,Real Madrid,Valencia,2.0,0.0
+06-01-2023,16,Elche,Celta,0.0,1.0
+,16,Valencia,Cádiz CF,0.0,1.0
+07-01-2023,16,Villarreal,Real Madrid,2.0,1.0
+,16,Mallorca,Valladolid,1.0,0.0
+,16,Espanyol,Girona,2.0,2.0
+08-01-2023,16,Almería,Real Sociedad,0.0,2.0
+,16,Rayo,Betis,1.0,2.0
+,16,Sevilla,Getafe,2.0,1.0
+,16,Atlético,Barcelona,0.0,1.0
+09-01-2023,16,Athletic,Osasuna,0.0,0.0
+29-12-2022,15,Girona,Rayo,2.0,2.0
+,15,Betis,Athletic,0.0,0.0
+,15,Atlético,Elche,2.0,0.0
+30-12-2022,15,Getafe,Mallorca,2.0,0.0
+,15,Celta,Sevilla,1.0,1.0
+,15,Cádiz CF,Almería,1.0,1.0
+,15,Valladolid,Real Madrid,0.0,2.0
+31-12-2022,15,Barcelona,Espanyol,1.0,1.0
+,15,Villarreal,Valencia,2.0,1.0
+,15,Real Sociedad,Osasuna,2.0,0.0
+08-11-2022,14,Elche,Girona,1.0,2.0
+,14,Athletic,Valladolid,3.0,0.0
+,14,Osasuna,Barcelona,1.0,2.0
+09-11-2022,14,Sevilla,Real Sociedad,1.0,2.0
+,14,Almería,Getafe,1.0,0.0
+,14,Espanyol,Villarreal,0.0,1.0
+,14,Mallorca,Atlético,1.0,0.0
+10-11-2022,14,Rayo,Celta,0.0,0.0
+,14,Valencia,Betis,3.0,0.0
+,14,Real Madrid,Cádiz CF,2.0,1.0
+04-11-2022,13,Girona,Athletic,2.0,1.0
+05-11-2022,13,Getafe,Cádiz CF,0.0,0.0
+,13,Valladolid,Elche,2.0,1.0
+,13,Celta,Osasuna,1.0,2.0
+,13,Barcelona,Almería,2.0,0.0
+06-11-2022,13,Atlético,Espanyol,1.0,1.0
+,13,Real Sociedad,Valencia,1.0,1.0
+,13,Villarreal,Mallorca,0.0,2.0
+,13,Betis,Sevilla,1.0,1.0
+07-11-2022,13,Rayo,Real Madrid,3.0,2.0
+28-10-2022,12,Mallorca,Espanyol,1.0,1.0
+29-10-2022,12,Almería,Celta,3.0,1.0
+,12,Cádiz CF,Atlético,3.0,2.0
+,12,Sevilla,Rayo,0.0,1.0
+,12,Valencia,Barcelona,0.0,1.0
+30-10-2022,12,Osasuna,Valladolid,2.0,0.0
+,12,Real Madrid,Girona,1.0,1.0
+,12,Athletic,Villarreal,1.0,0.0
+,12,Real Sociedad,Betis,0.0,2.0
+31-10-2022,12,Elche,Getafe,0.0,1.0
+22-10-2022,11,Rayo,Cádiz CF,5.0,1.0
+,11,Valladolid,Real Sociedad,1.0,0.0
+,11,Valencia,Mallorca,1.0,2.0
+,11,Real Madrid,Sevilla,3.0,1.0
+23-10-2022,11,Espanyol,Elche,2.0,2.0
+,11,Betis,Atlético,1.0,2.0
+,11,Girona,Osasuna,1.0,1.0
+,11,Villarreal,Almería,2.0,1.0
+,11,Barcelona,Athletic,4.0,0.0
+24-10-2022,11,Celta,Getafe,1.0,1.0
+18-10-2022,10,Sevilla,Valencia,1.0,1.0
+,10,Getafe,Athletic,2.0,2.0
+,10,Atlético,Rayo,1.0,1.0
+19-10-2022,10,Cádiz CF,Betis,0.0,0.0
+,10,Valladolid,Celta,4.0,1.0
+,10,Real Sociedad,Mallorca,1.0,0.0
+,10,Elche,Real Madrid,0.0,3.0
+20-10-2022,10,Almería,Girona,3.0,2.0
+,10,Osasuna,Espanyol,1.0,0.0
+,10,Barcelona,Villarreal,3.0,0.0
+14-10-2022,9,Rayo,Getafe,0.0,0.0
+15-10-2022,9,Girona,Cádiz CF,1.0,1.0
+,9,Valencia,Elche,2.0,2.0
+,9,Mallorca,Sevilla,0.0,1.0
+,9,Athletic,Atlético,0.0,1.0
+16-10-2022,9,Celta,Real Sociedad,1.0,2.0
+,9,Real Madrid,Barcelona,3.0,1.0
+,9,Espanyol,Valladolid,1.0,0.0
+,9,Betis,Almería,3.0,1.0
+17-10-2022,9,Villarreal,Osasuna,2.0,0.0
+07-10-2022,8,Osasuna,Valencia,1.0,2.0
+08-10-2022,8,Almería,Rayo,3.0,1.0
+,8,Atlético,Girona,2.0,1.0
+,8,Sevilla,Athletic,1.0,1.0
+,8,Getafe,Real Madrid,0.0,1.0
+09-10-2022,8,Valladolid,Betis,0.0,0.0
+,8,Cádiz CF,Espanyol,2.0,2.0
+,8,Real Sociedad,Villarreal,1.0,0.0
+,8,Barcelona,Celta,1.0,0.0
+10-10-2022,8,Elche,Mallorca,1.0,1.0
+30-09-2022,7,Athletic,Almería,4.0,0.0
+01-10-2022,7,Cádiz CF,Villarreal,0.0,0.0
+,7,Getafe,Valladolid,2.0,3.0
+,7,Sevilla,Atlético,0.0,2.0
+,7,Mallorca,Barcelona,0.0,1.0
+02-10-2022,7,Espanyol,Valencia,2.0,2.0
+,7,Celta,Betis,1.0,0.0
+,7,Girona,Real Sociedad,3.0,5.0
+,7,Real Madrid,Osasuna,1.0,1.0
+03-10-2022,7,Rayo,Elche,2.0,1.0
+16-09-2022,6,Valladolid,Cádiz CF,0.0,1.0
+17-09-2022,6,Mallorca,Almería,1.0,0.0
+,6,Barcelona,Elche,3.0,0.0
+,6,Valencia,Celta,3.0,0.0
+,6,Athletic,Rayo,3.0,2.0
+18-09-2022,6,Osasuna,Getafe,0.0,2.0
+,6,Villarreal,Sevilla,1.0,1.0
+,6,Betis,Girona,2.0,1.0
+,6,Real Sociedad,Espanyol,2.0,1.0
+,6,Atlético,Real Madrid,1.0,2.0
+09-09-2022,5,Girona,Valladolid,2.0,1.0
+10-09-2022,5,Rayo,Valencia,2.0,1.0
+,5,Espanyol,Sevilla,2.0,3.0
+,5,Cádiz CF,Barcelona,0.0,4.0
+,5,Atlético,Celta,4.0,1.0
+11-09-2022,5,Real Madrid,Mallorca,4.0,1.0
+,5,Elche,Athletic,1.0,4.0
+,5,Getafe,Real Sociedad,2.0,1.0
+,5,Betis,Villarreal,1.0,0.0
+12-09-2022,5,Almería,Osasuna,0.0,1.0
+02-09-2022,4,Celta,Cádiz CF,3.0,0.0
+03-09-2022,4,Mallorca,Girona,1.0,1.0
+,4,Real Madrid,Betis,2.0,1.0
+,4,Real Sociedad,Atlético,1.0,1.0
+,4,Sevilla,Barcelona,0.0,3.0
+04-09-2022,4,Osasuna,Rayo,2.0,1.0
+,4,Athletic,Espanyol,0.0,1.0
+,4,Villarreal,Elche,4.0,0.0
+,4,Valencia,Getafe,5.0,1.0
+05-09-2022,4,Valladolid,Almería,1.0,0.0
 26-08-2022,3,Girona,Celta,0.0,1.0
 ,3,Betis,Osasuna,1.0,0.0
 27-08-2022,3,Elche,Real Sociedad,0.0,1.0
 ,3,Rayo,Mallorca,0.0,2.0
 ,3,Almería,Sevilla,2.0,1.0
-28-08-2022,3,Getafe,Villarreal,,
-,3,Barcelona,Valladolid,,
-,3,Espanyol,Real Madrid,,
-29-08-2022,3,Cádiz CF,Athletic,,
-,3,Valencia,Atlético,,
+28-08-2022,3,Getafe,Villarreal,0.0,0.0
+,3,Barcelona,Valladolid,4.0,0.0
+,3,Espanyol,Real Madrid,1.0,3.0
+29-08-2022,3,Cádiz CF,Athletic,0.0,4.0
+,3,Valencia,Atlético,0.0,1.0
 19-08-2022,2,Espanyol,Rayo,0.0,2.0
 ,2,Sevilla,Valladolid,1.0,1.0
 20-08-2022,2,Osasuna,Cádiz CF,2.0,0.0
@@ -6084,7 +6084,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,38,Valencia,Real Sociedad,3.0,3.0
 ,38,Athletic,Levante,2.0,0.0
 ,38,Espanyol,Deportivo,1.0,3.0
-,38,Gimnàstic,Barcelona,1.0,5.0
+,38,Gimnàstic de Tarragona,Barcelona,1.0,5.0
 ,38,Osasuna,Atlético,1.0,2.0
 ,38,Sevilla,Villarreal,0.0,1.0
 ,38,Real Madrid,Mallorca,3.0,1.0
@@ -6097,7 +6097,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,37,Villarreal,Athletic,3.0,1.0
 ,37,Mallorca,Sevilla,0.0,0.0
 ,37,Zaragoza,Real Madrid,2.0,2.0
-10-06-2007,37,Getafe,Gimnàstic,0.0,1.0
+10-06-2007,37,Getafe,Gimnàstic de Tarragona,0.0,1.0
 ,37,Deportivo,RC Recreativo,2.0,5.0
 26-05-2007,36,Valencia,Villarreal,2.0,3.0
 ,36,Real Madrid,Deportivo,3.0,1.0
@@ -6107,9 +6107,9 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,36,Real Racing,Levante,2.0,3.0
 ,36,Athletic,Mallorca,1.0,0.0
 ,36,RC Recreativo,Espanyol,0.0,1.0
-,36,Gimnàstic,Atlético,0.0,2.0
+,36,Gimnàstic de Tarragona,Atlético,0.0,2.0
 ,36,Sevilla,Zaragoza,3.0,1.0
-19-05-2007,35,Betis,Gimnàstic,1.0,1.0
+19-05-2007,35,Betis,Gimnàstic de Tarragona,1.0,1.0
 ,35,Mallorca,Valencia,0.0,1.0
 ,35,Zaragoza,Athletic,4.0,3.0
 20-05-2007,35,Espanyol,Getafe,1.0,5.0
@@ -6122,7 +6122,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 12-05-2007,34,Real Madrid,Espanyol,4.0,3.0
 ,34,Sevilla,RC Recreativo,2.0,1.0
 13-05-2007,34,Getafe,Atlético,1.0,4.0
-,34,Gimnàstic,Real Sociedad,1.0,3.0
+,34,Gimnàstic de Tarragona,Real Sociedad,1.0,3.0
 ,34,Celta,Levante,1.0,2.0
 ,34,Osasuna,Villarreal,1.0,4.0
 ,34,Real Racing,Mallorca,0.0,2.0
@@ -6132,7 +6132,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 05-05-2007,33,Real Sociedad,Barcelona,0.0,2.0
 ,33,Deportivo,Valencia,1.0,2.0
 06-05-2007,33,Betis,Getafe,0.0,2.0
-,33,Levante,Gimnàstic,2.0,0.0
+,33,Levante,Gimnàstic de Tarragona,2.0,0.0
 ,33,Villarreal,Celta,1.0,0.0
 ,33,Mallorca,Osasuna,3.0,1.0
 ,33,Zaragoza,Real Racing,0.0,0.0
@@ -6142,7 +6142,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 28-04-2007,32,Atlético,Betis,0.0,0.0
 ,32,Valencia,RC Recreativo,2.0,0.0
 29-04-2007,32,Getafe,Real Sociedad,1.0,0.0
-,32,Gimnàstic,Villarreal,0.0,3.0
+,32,Gimnàstic de Tarragona,Villarreal,0.0,3.0
 ,32,Celta,Mallorca,0.0,3.0
 ,32,Osasuna,Zaragoza,2.0,2.0
 ,32,Real Racing,Deportivo,0.0,0.0
@@ -6153,7 +6153,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,31,Real Madrid,Valencia,2.0,1.0
 22-04-2007,31,Espanyol,Betis,2.0,2.0
 ,31,Levante,Getafe,1.0,1.0
-,31,Mallorca,Gimnàstic,1.0,0.0
+,31,Mallorca,Gimnàstic de Tarragona,1.0,0.0
 ,31,Zaragoza,Celta,2.0,0.0
 ,31,Deportivo,Osasuna,1.0,0.0
 ,31,RC Recreativo,Real Racing,4.0,2.0
@@ -6163,7 +6163,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,30,Betis,Real Sociedad,0.0,1.0
 15-04-2007,30,Atlético,Levante,1.0,0.0
 ,30,Getafe,Villarreal,3.0,0.0
-,30,Gimnàstic,Zaragoza,1.0,0.0
+,30,Gimnàstic de Tarragona,Zaragoza,1.0,0.0
 ,30,Celta,Deportivo,1.0,0.0
 ,30,Osasuna,RC Recreativo,1.0,1.0
 ,30,Athletic,Espanyol,2.0,1.0
@@ -6174,7 +6174,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 08-04-2007,29,Espanyol,Real Sociedad,1.0,0.0
 ,29,Levante,Betis,1.0,1.0
 ,29,Mallorca,Getafe,2.0,0.0
-,29,Deportivo,Gimnàstic,1.0,0.0
+,29,Deportivo,Gimnàstic de Tarragona,1.0,0.0
 ,29,RC Recreativo,Celta,4.0,2.0
 ,29,Sevilla,Real Racing,0.0,0.0
 ,29,Real Madrid,Osasuna,2.0,0.0
@@ -6185,7 +6185,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,28,Barcelona,Deportivo,2.0,1.0
 01-04-2007,28,Atlético,Mallorca,1.0,1.0
 ,28,Getafe,Zaragoza,2.0,2.0
-,28,Gimnàstic,RC Recreativo,1.0,1.0
+,28,Gimnàstic de Tarragona,RC Recreativo,1.0,1.0
 ,28,Real Racing,Athletic,5.0,4.0
 ,28,Celta,Real Madrid,1.0,2.0
 ,28,Osasuna,Sevilla,0.0,0.0
@@ -6197,14 +6197,14 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,27,Villarreal,Real Sociedad,1.0,1.0
 ,27,Zaragoza,Atlético,1.0,0.0
 ,27,Deportivo,Getafe,1.0,0.0
-,27,Real Madrid,Gimnàstic,2.0,0.0
+,27,Real Madrid,Gimnàstic de Tarragona,2.0,0.0
 ,27,Sevilla,Celta,2.0,0.0
 10-03-2007,26,Levante,Villarreal,0.0,2.0
 ,26,Barcelona,Real Madrid,3.0,3.0
 11-03-2007,26,Real Sociedad,Mallorca,3.0,1.0
 ,26,Betis,Zaragoza,1.0,1.0
 ,26,Getafe,RC Recreativo,1.0,1.0
-,26,Gimnàstic,Sevilla,1.0,0.0
+,26,Gimnàstic de Tarragona,Sevilla,1.0,0.0
 ,26,Celta,Athletic,1.0,1.0
 ,26,Real Racing,Espanyol,1.0,1.0
 ,26,Atlético,Deportivo,2.0,0.0
@@ -6215,7 +6215,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,25,Mallorca,Levante,3.0,1.0
 ,25,Zaragoza,Real Sociedad,3.0,2.0
 ,25,Deportivo,Betis,0.0,1.0
-,25,Athletic,Gimnàstic,0.0,2.0
+,25,Athletic,Gimnàstic de Tarragona,0.0,2.0
 ,25,Real Racing,Osasuna,1.0,0.0
 ,25,Real Madrid,Getafe,1.0,1.0
 ,25,RC Recreativo,Atlético,1.0,0.0
@@ -6227,7 +6227,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,24,Getafe,Sevilla,0.0,0.0
 ,24,Celta,Real Racing,2.0,2.0
 ,24,Osasuna,Espanyol,0.0,2.0
-,24,Gimnàstic,Valencia,1.0,1.0
+,24,Gimnàstic de Tarragona,Valencia,1.0,1.0
 ,24,Barcelona,Athletic,3.0,0.0
 17-02-2007,23,Real Madrid,Betis,0.0,0.0
 ,23,Zaragoza,Villarreal,1.0,0.0
@@ -6235,7 +6235,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,23,Deportivo,Levante,0.0,0.0
 ,23,RC Recreativo,Real Sociedad,1.0,0.0
 ,23,Athletic,Getafe,2.0,0.0
-,23,Real Racing,Gimnàstic,4.0,1.0
+,23,Real Racing,Gimnàstic de Tarragona,4.0,1.0
 ,23,Osasuna,Celta,0.0,1.0
 ,23,Valencia,Barcelona,2.0,1.0
 ,23,Sevilla,Atlético,3.0,1.0
@@ -6245,7 +6245,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,22,Villarreal,Deportivo,0.0,2.0
 ,22,Levante,RC Recreativo,2.0,1.0
 ,22,Getafe,Valencia,3.0,0.0
-,22,Gimnàstic,Osasuna,2.0,3.0
+,22,Gimnàstic de Tarragona,Osasuna,2.0,3.0
 ,22,Celta,Espanyol,0.0,2.0
 ,22,Barcelona,Real Racing,2.0,0.0
 ,22,Atlético,Athletic,1.0,0.0
@@ -6256,7 +6256,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,21,Sevilla,Real Sociedad,0.0,0.0
 ,21,Athletic,Betis,1.0,2.0
 ,21,Real Racing,Getafe,1.0,0.0
-,21,Celta,Gimnàstic,1.0,1.0
+,21,Celta,Gimnàstic de Tarragona,1.0,1.0
 ,21,Real Madrid,Levante,0.0,1.0
 ,21,Osasuna,Barcelona,0.0,0.0
 27-01-2007,20,Atlético,Real Racing,1.0,1.0
@@ -6266,7 +6266,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,20,Levante,Sevilla,2.0,4.0
 ,20,Real Sociedad,Athletic,0.0,2.0
 ,20,Getafe,Osasuna,2.0,0.0
-,20,Gimnàstic,Espanyol,4.0,0.0
+,20,Gimnàstic de Tarragona,Espanyol,4.0,0.0
 ,20,Barcelona,Celta,3.0,1.0
 ,20,Betis,Valencia,2.0,1.0
 20-01-2007,19,Atlético,Osasuna,1.0,0.0
@@ -6277,11 +6277,11 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,19,Levante,Athletic,0.0,0.0
 ,19,Zaragoza,RC Recreativo,0.0,0.0
 ,19,Deportivo,Espanyol,0.0,0.0
-,19,Barcelona,Gimnàstic,3.0,0.0
+,19,Barcelona,Gimnàstic de Tarragona,3.0,0.0
 ,19,Mallorca,Real Madrid,0.0,1.0
 13-01-2007,18,Valencia,Levante,3.0,0.0
 ,18,Espanyol,Barcelona,3.0,1.0
-14-01-2007,18,Gimnàstic,Getafe,1.0,3.0
+14-01-2007,18,Gimnàstic de Tarragona,Getafe,1.0,3.0
 ,18,Osasuna,Betis,5.0,1.0
 ,18,Real Racing,Real Sociedad,1.0,0.0
 ,18,Athletic,Villarreal,0.0,1.0
@@ -6289,7 +6289,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,18,RC Recreativo,Deportivo,1.0,1.0
 ,18,Celta,Atlético,1.0,3.0
 ,18,Real Madrid,Zaragoza,1.0,0.0
-06-01-2007,17,Atlético,Gimnàstic,0.0,0.0
+06-01-2007,17,Atlético,Gimnàstic de Tarragona,0.0,0.0
 ,17,Real Sociedad,Osasuna,2.0,1.0
 ,17,Zaragoza,Sevilla,2.0,1.0
 07-01-2007,17,Getafe,Barcelona,1.0,1.0
@@ -6302,7 +6302,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 19-12-2006,16,Valencia,Mallorca,3.0,1.0
 ,16,Athletic,Zaragoza,0.0,0.0
 20-12-2006,16,Getafe,Espanyol,0.0,1.0
-,16,Gimnàstic,Betis,0.0,1.0
+,16,Gimnàstic de Tarragona,Betis,0.0,1.0
 ,16,Celta,Real Sociedad,0.0,0.0
 ,16,Osasuna,Levante,2.0,1.0
 ,16,Real Racing,Villarreal,2.0,1.0
@@ -6312,7 +6312,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 16-12-2006,15,Mallorca,Real Racing,1.0,2.0
 ,15,Deportivo,Athletic,0.0,2.0
 ,15,Zaragoza,Valencia,0.0,1.0
-17-12-2006,15,Real Sociedad,Gimnàstic,3.0,2.0
+17-12-2006,15,Real Sociedad,Gimnàstic de Tarragona,3.0,2.0
 ,15,Levante,Celta,1.0,1.0
 ,15,Villarreal,Osasuna,1.0,4.0
 ,15,RC Recreativo,Sevilla,1.0,3.0
@@ -6322,7 +6322,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 09-12-2006,14,Barcelona,Real Sociedad,1.0,0.0
 ,14,Sevilla,Real Madrid,2.0,1.0
 10-12-2006,14,Getafe,Betis,1.0,1.0
-,14,Gimnàstic,Levante,2.0,1.0
+,14,Gimnàstic de Tarragona,Levante,2.0,1.0
 ,14,Celta,Villarreal,1.0,1.0
 ,14,Osasuna,Mallorca,3.0,0.0
 ,14,Real Racing,Zaragoza,0.0,2.0
@@ -6333,7 +6333,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,13,RC Recreativo,Valencia,2.0,0.0
 ,13,Betis,Atlético,0.0,1.0
 03-12-2006,13,Real Sociedad,Getafe,0.0,0.0
-,13,Villarreal,Gimnàstic,2.0,0.0
+,13,Villarreal,Gimnàstic de Tarragona,2.0,0.0
 ,13,Mallorca,Celta,2.0,2.0
 ,13,Deportivo,Real Racing,0.0,0.0
 ,13,Espanyol,Sevilla,2.0,1.0
@@ -6343,7 +6343,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,12,Atlético,Real Sociedad,1.0,1.0
 26-11-2006,12,Betis,Espanyol,1.0,1.0
 ,12,Getafe,Levante,0.0,0.0
-,12,Gimnàstic,Mallorca,2.0,3.0
+,12,Gimnàstic de Tarragona,Mallorca,2.0,3.0
 ,12,Celta,Zaragoza,1.0,1.0
 ,12,Osasuna,Deportivo,4.0,1.0
 ,12,Real Racing,RC Recreativo,4.0,3.0
@@ -6354,7 +6354,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 19-11-2006,11,Real Sociedad,Betis,0.0,0.0
 ,11,Levante,Atlético,0.0,3.0
 ,11,Villarreal,Getafe,1.0,0.0
-,11,Zaragoza,Gimnàstic,3.0,0.0
+,11,Zaragoza,Gimnàstic de Tarragona,3.0,0.0
 ,11,RC Recreativo,Osasuna,2.0,0.0
 ,11,Espanyol,Athletic,3.0,2.0
 ,11,Mallorca,Barcelona,1.0,4.0
@@ -6364,7 +6364,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 12-11-2006,10,Real Sociedad,Espanyol,1.0,1.0
 ,10,Betis,Levante,2.0,1.0
 ,10,Getafe,Mallorca,1.0,0.0
-,10,Gimnàstic,Deportivo,0.0,0.0
+,10,Gimnàstic de Tarragona,Deportivo,0.0,0.0
 ,10,Celta,RC Recreativo,1.0,2.0
 ,10,Real Racing,Sevilla,0.0,0.0
 ,10,Osasuna,Real Madrid,1.0,4.0
@@ -6374,14 +6374,14 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,9,Deportivo,Barcelona,1.0,1.0
 05-11-2006,9,Villarreal,Betis,3.0,2.0
 ,9,Zaragoza,Getafe,3.0,1.0
-,9,RC Recreativo,Gimnàstic,2.0,1.0
+,9,RC Recreativo,Gimnàstic de Tarragona,2.0,1.0
 ,9,Sevilla,Osasuna,2.0,0.0
 ,9,Athletic,Real Racing,0.0,0.0
 ,9,Real Madrid,Celta,1.0,2.0
 ,9,Espanyol,Valencia,1.0,1.0
 28-10-2006,8,Barcelona,RC Recreativo,3.0,0.0
 ,8,Real Racing,Valencia,1.0,0.0
-,8,Gimnàstic,Real Madrid,1.0,3.0
+,8,Gimnàstic de Tarragona,Real Madrid,1.0,3.0
 29-10-2006,8,Levante,Espanyol,0.0,0.0
 ,8,Real Sociedad,Villarreal,0.0,1.0
 ,8,Betis,Mallorca,0.0,1.0
@@ -6394,7 +6394,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,7,Deportivo,Atlético,1.0,0.0
 22-10-2006,7,Mallorca,Real Sociedad,0.0,0.0
 ,7,RC Recreativo,Getafe,1.0,2.0
-,7,Sevilla,Gimnàstic,2.0,1.0
+,7,Sevilla,Gimnàstic de Tarragona,2.0,1.0
 ,7,Athletic,Celta,0.0,1.0
 ,7,Valencia,Osasuna,1.0,0.0
 ,7,Espanyol,Real Racing,2.0,2.0
@@ -6404,7 +6404,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 15-10-2006,6,Villarreal,Espanyol,0.0,0.0
 ,6,Levante,Mallorca,0.0,1.0
 ,6,Real Sociedad,Zaragoza,1.0,3.0
-,6,Gimnàstic,Athletic,2.0,3.0
+,6,Gimnàstic de Tarragona,Athletic,2.0,3.0
 ,6,Celta,Valencia,3.0,2.0
 ,6,Osasuna,Real Racing,0.0,1.0
 ,6,Barcelona,Sevilla,3.0,1.0
@@ -6418,7 +6418,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,5,Sevilla,Getafe,1.0,0.0
 ,5,Real Racing,Celta,1.0,1.0
 ,5,Espanyol,Osasuna,0.0,0.0
-,5,Valencia,Gimnàstic,4.0,0.0
+,5,Valencia,Gimnàstic de Tarragona,4.0,0.0
 23-09-2006,4,Betis,Real Madrid,0.0,1.0
 24-09-2006,4,Atlético,Sevilla,2.0,1.0
 ,4,Mallorca,Espanyol,1.0,0.0
@@ -6426,7 +6426,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,4,Levante,Deportivo,2.0,0.0
 ,4,Real Sociedad,RC Recreativo,2.0,3.0
 ,4,Getafe,Athletic,0.0,0.0
-,4,Gimnàstic,Real Racing,2.0,2.0
+,4,Gimnàstic de Tarragona,Real Racing,2.0,2.0
 ,4,Celta,Osasuna,0.0,2.0
 ,4,Barcelona,Valencia,1.0,1.0
 16-09-2006,3,Deportivo,Villarreal,2.0,0.0
@@ -6436,7 +6436,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,3,Athletic,Atlético,1.0,4.0
 ,3,Valencia,Getafe,2.0,0.0
 ,3,Real Racing,Barcelona,0.0,3.0
-,3,Osasuna,Gimnàstic,2.0,0.0
+,3,Osasuna,Gimnàstic de Tarragona,2.0,0.0
 ,3,Espanyol,Celta,2.0,1.0
 ,3,Real Madrid,Real Sociedad,2.0,0.0
 09-09-2006,2,Barcelona,Osasuna,3.0,0.0
@@ -6447,7 +6447,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,2,Real Sociedad,Sevilla,1.0,3.0
 ,2,Betis,Athletic,3.0,0.0
 ,2,Getafe,Real Racing,1.0,0.0
-,2,Gimnàstic,Celta,1.0,2.0
+,2,Gimnàstic de Tarragona,Celta,1.0,2.0
 ,2,Zaragoza,Espanyol,3.0,0.0
 26-08-2006,1,Valencia,Betis,2.0,1.0
 27-08-2006,1,Deportivo,Zaragoza,3.0,2.0
@@ -6455,7 +6455,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,1,Real Madrid,Villarreal,0.0,0.0
 ,1,Real Racing,Atlético,0.0,1.0
 ,1,Osasuna,Getafe,0.0,2.0
-,1,Espanyol,Gimnàstic,0.0,1.0
+,1,Espanyol,Gimnàstic de Tarragona,0.0,1.0
 ,1,Athletic,Real Sociedad,1.0,1.0
 28-08-2006,1,Celta,Barcelona,2.0,3.0
 29-08-2006,1,Sevilla,Levante,4.0,0.0
@@ -23873,11 +23873,11 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,26,Valladolid,Real Madrid,1.0,4.0
 ,26,Espanyol,Barcelona,2.0,2.0
 ,26,Atlético,Valencia,4.0,4.0
-,26,Gimnàstic,Sevilla,2.0,4.0
+,26,Gimnàstic de Tarragona,Sevilla,2.0,4.0
 ,26,Celta,Real Sociedad,0.0,1.0
 ,26,Málaga,Real Oviedo,2.0,1.0
 16-04-1950,25,Sevilla,Athletic,5.0,3.0
-,25,Real Madrid,Gimnàstic,5.0,1.0
+,25,Real Madrid,Gimnàstic de Tarragona,5.0,1.0
 ,25,Real Sociedad,Málaga,1.0,0.0
 ,25,Valencia,Valladolid,4.0,1.0
 ,25,Barcelona,Celta,2.0,1.0
@@ -23888,13 +23888,13 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,24,Espanyol,Sevilla,2.0,1.0
 ,24,Atlético,Real Sociedad,5.0,3.0
 ,24,Valencia,Real Oviedo,2.0,1.0
-,24,Gimnàstic,Valladolid,4.0,1.0
+,24,Gimnàstic de Tarragona,Valladolid,4.0,1.0
 ,24,Celta,Deportivo,2.0,3.0
 05-03-1950,23,Sevilla,Celta,4.0,3.0
 ,23,Barcelona,Atlético,1.0,0.0
 ,23,Valladolid,Real Oviedo,2.0,2.0
 ,23,Real Madrid,Espanyol,1.0,1.0
-,23,Gimnàstic,Athletic,5.0,3.0
+,23,Gimnàstic de Tarragona,Athletic,5.0,3.0
 ,23,Real Sociedad,Valencia,1.0,1.0
 ,23,Deportivo,Málaga,1.0,0.0
 26-02-1950,22,Valencia,Barcelona,4.0,0.0
@@ -23902,17 +23902,17 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,22,Real Oviedo,Real Sociedad,0.0,0.0
 ,22,Athletic,Valladolid,3.0,2.0
 ,22,Atlético,Deportivo,6.0,1.0
-,22,Espanyol,Gimnàstic,3.0,1.0
+,22,Espanyol,Gimnàstic de Tarragona,3.0,1.0
 ,22,Celta,Real Madrid,5.0,2.0
 19-02-1950,21,Barcelona,Real Oviedo,5.0,0.0
 ,21,Real Madrid,Málaga,2.0,1.0
-,21,Gimnàstic,Celta,1.0,5.0
+,21,Gimnàstic de Tarragona,Celta,1.0,5.0
 ,21,Valladolid,Real Sociedad,0.0,0.0
 ,21,Sevilla,Atlético,0.0,1.0
 ,21,Deportivo,Valencia,5.0,1.0
 ,21,Athletic,Espanyol,4.0,0.0
 12-02-1950,20,Celta,Athletic,1.0,1.0
-,20,Málaga,Gimnàstic,5.0,1.0
+,20,Málaga,Gimnàstic de Tarragona,5.0,1.0
 ,20,Real Oviedo,Deportivo,0.0,2.0
 ,20,Espanyol,Valladolid,0.0,4.0
 ,20,Real Sociedad,Barcelona,2.0,4.0
@@ -23922,10 +23922,10 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,19,Sevilla,Real Oviedo,7.0,0.0
 ,19,Espanyol,Celta,3.0,0.0
 ,19,Deportivo,Real Sociedad,4.0,4.0
-,19,Gimnàstic,Atlético,0.0,4.0
+,19,Gimnàstic de Tarragona,Atlético,0.0,4.0
 ,19,Valladolid,Barcelona,2.0,1.0
 ,19,Real Madrid,Valencia,2.0,2.0
-29-01-1950,18,Valencia,Gimnàstic,5.0,1.0
+29-01-1950,18,Valencia,Gimnàstic de Tarragona,5.0,1.0
 ,18,Real Oviedo,Real Madrid,2.0,0.0
 ,18,Atlético,Athletic,6.0,6.0
 ,18,Málaga,Espanyol,4.0,1.0
@@ -23933,7 +23933,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,18,Celta,Valladolid,4.0,0.0
 ,18,Barcelona,Deportivo,2.0,0.0
 22-01-1950,17,Sevilla,Barcelona,5.0,2.0
-,17,Gimnàstic,Real Oviedo,3.0,2.0
+,17,Gimnàstic de Tarragona,Real Oviedo,3.0,2.0
 ,17,Celta,Málaga,1.0,0.0
 ,17,Valladolid,Deportivo,1.0,1.0
 ,17,Athletic,Valencia,3.0,6.0
@@ -23945,29 +23945,29 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,16,Deportivo,Sevilla,3.0,0.0
 ,16,Atlético,Celta,4.0,2.0
 ,16,Málaga,Valladolid,2.0,1.0
-,16,Real Sociedad,Gimnàstic,3.0,1.0
+,16,Real Sociedad,Gimnàstic de Tarragona,3.0,1.0
 18-12-1949,15,Athletic,Real Sociedad,5.0,2.0
 ,15,Espanyol,Real Oviedo,1.0,1.0
 ,15,Valladolid,Sevilla,1.0,1.0
 ,15,Málaga,Atlético,3.0,3.0
 ,15,Celta,Valencia,3.0,2.0
-,15,Gimnàstic,Barcelona,1.0,4.0
+,15,Gimnàstic de Tarragona,Barcelona,1.0,4.0
 ,15,Real Madrid,Deportivo,1.0,1.0
 11-12-1949,14,Barcelona,Athletic,5.0,0.0
 ,14,Real Sociedad,Espanyol,5.0,0.0
 ,14,Real Oviedo,Celta,1.0,2.0
 ,14,Atlético,Valladolid,2.0,1.0
 ,14,Valencia,Málaga,4.0,0.0
-,14,Deportivo,Gimnàstic,1.0,0.0
+,14,Deportivo,Gimnàstic de Tarragona,1.0,0.0
 ,14,Sevilla,Real Madrid,2.0,1.0
-04-12-1949,13,Sevilla,Gimnàstic,9.0,0.0
+04-12-1949,13,Sevilla,Gimnàstic de Tarragona,9.0,0.0
 ,13,Deportivo,Athletic,1.0,1.0
 ,13,Barcelona,Espanyol,1.0,2.0
 ,13,Valencia,Atlético,6.0,0.0
 ,13,Real Sociedad,Celta,4.0,0.0
 ,13,Real Madrid,Valladolid,1.0,1.0
 ,13,Real Oviedo,Málaga,2.0,2.0
-20-11-1949,12,Gimnàstic,Real Madrid,0.0,3.0
+20-11-1949,12,Gimnàstic de Tarragona,Real Madrid,0.0,3.0
 ,12,Espanyol,Deportivo,3.0,2.0
 ,12,Atlético,Real Oviedo,4.0,1.0
 ,12,Málaga,Real Sociedad,5.0,2.0
@@ -23980,15 +23980,15 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,11,Real Sociedad,Atlético,4.0,1.0
 ,11,Deportivo,Celta,1.0,1.0
 ,11,Barcelona,Málaga,4.0,0.0
-,11,Valladolid,Gimnàstic,3.0,0.0
+,11,Valladolid,Gimnàstic de Tarragona,3.0,0.0
 06-11-1949,10,Real Oviedo,Valladolid,2.0,2.0
 ,10,Valencia,Real Sociedad,0.0,0.0
 ,10,Málaga,Deportivo,2.0,1.0
 ,10,Atlético,Barcelona,4.0,1.0
 ,10,Espanyol,Real Madrid,1.0,1.0
 ,10,Celta,Sevilla,4.0,2.0
-,10,Athletic,Gimnàstic,7.0,0.0
-30-10-1949,9,Gimnàstic,Espanyol,3.0,1.0
+,10,Athletic,Gimnàstic de Tarragona,7.0,0.0
+30-10-1949,9,Gimnàstic de Tarragona,Espanyol,3.0,1.0
 ,9,Barcelona,Valencia,2.0,0.0
 ,9,Deportivo,Atlético,3.0,1.0
 ,9,Real Madrid,Celta,1.0,0.0
@@ -23996,7 +23996,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,9,Sevilla,Málaga,3.0,1.0
 ,9,Valladolid,Athletic,6.0,2.0
 23-10-1949,8,Valencia,Deportivo,3.0,0.0
-,8,Celta,Gimnàstic,10.0,1.0
+,8,Celta,Gimnàstic de Tarragona,10.0,1.0
 ,8,Real Sociedad,Valladolid,1.0,1.0
 ,8,Atlético,Sevilla,0.0,1.0
 ,8,Espanyol,Athletic,4.0,1.0
@@ -24004,12 +24004,12 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,8,Málaga,Real Madrid,1.0,3.0
 16-10-1949,7,Deportivo,Real Oviedo,2.0,2.0
 ,7,Real Madrid,Atlético,4.0,2.0
-,7,Gimnàstic,Málaga,5.0,1.0
+,7,Gimnàstic de Tarragona,Málaga,5.0,1.0
 ,7,Valladolid,Espanyol,4.0,0.0
 ,7,Athletic,Celta,4.0,1.0
 ,7,Sevilla,Valencia,2.0,2.0
 ,7,Barcelona,Real Sociedad,2.0,0.0
-09-10-1949,6,Atlético,Gimnàstic,5.0,1.0
+09-10-1949,6,Atlético,Gimnàstic de Tarragona,5.0,1.0
 ,6,Real Sociedad,Deportivo,0.0,1.0
 ,6,Barcelona,Valladolid,2.0,2.0
 ,6,Real Oviedo,Sevilla,1.0,0.0
@@ -24018,14 +24018,14 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,6,Málaga,Athletic,2.0,3.0
 02-10-1949,5,Espanyol,Málaga,2.0,2.0
 ,5,Deportivo,Barcelona,3.0,0.0
-,5,Gimnàstic,Valencia,1.0,1.0
+,5,Gimnàstic de Tarragona,Valencia,1.0,1.0
 ,5,Athletic,Atlético,1.0,0.0
 ,5,Sevilla,Real Sociedad,3.0,4.0
 ,5,Valladolid,Celta,4.0,1.0
 ,5,Real Madrid,Real Oviedo,6.0,2.0
 25-09-1949,4,Real Sociedad,Real Madrid,1.0,1.0
 ,4,Málaga,Celta,2.0,0.0
-,4,Real Oviedo,Gimnàstic,1.0,1.0
+,4,Real Oviedo,Gimnàstic de Tarragona,1.0,1.0
 ,4,Deportivo,Valladolid,1.0,0.0
 ,4,Valencia,Athletic,4.0,1.0
 ,4,Barcelona,Sevilla,7.0,0.0
@@ -24033,7 +24033,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 18-09-1949,3,Real Madrid,Barcelona,6.0,1.0
 ,3,Espanyol,Valencia,6.0,4.0
 ,3,Celta,Atlético,2.0,0.0
-,3,Gimnàstic,Real Sociedad,2.0,1.0
+,3,Gimnàstic de Tarragona,Real Sociedad,2.0,1.0
 ,3,Athletic,Real Oviedo,3.0,0.0
 ,3,Sevilla,Deportivo,2.0,2.0
 ,3,Valladolid,Málaga,3.0,3.0
@@ -24043,15 +24043,15 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,2,Real Oviedo,Espanyol,2.0,3.0
 ,2,Real Sociedad,Athletic,2.0,3.0
 ,2,Deportivo,Real Madrid,3.0,0.0
-,2,Barcelona,Gimnàstic,10.0,1.0
+,2,Barcelona,Gimnàstic de Tarragona,10.0,1.0
 04-09-1949,1,Málaga,Valencia,1.0,2.0
 ,1,Real Madrid,Sevilla,4.0,2.0
 ,1,Espanyol,Real Sociedad,2.0,2.0
 ,1,Celta,Real Oviedo,3.0,1.0
-,1,Gimnàstic,Deportivo,3.0,2.0
+,1,Gimnàstic de Tarragona,Deportivo,3.0,2.0
 ,1,Athletic,Barcelona,3.0,1.0
 27-11-1949,1,Valladolid,Atlético,0.0,1.0
-17-04-1949,26,Gimnàstic,Deportivo,1.0,4.0
+17-04-1949,26,Gimnàstic de Tarragona,Deportivo,1.0,4.0
 ,26,CD Alcoyano,Real Madrid,2.0,2.0
 ,26,Celta,Athletic,3.0,4.0
 ,26,Barcelona,Espanyol,2.0,1.0
@@ -24059,7 +24059,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,26,CE Sabadell,Real Oviedo,2.0,2.0
 ,26,Atlético,Valladolid,2.0,0.0
 10-04-1949,25,Sevilla,Barcelona,1.0,2.0
-,25,Real Madrid,Gimnàstic,3.0,1.0
+,25,Real Madrid,Gimnàstic de Tarragona,3.0,1.0
 ,25,Real Oviedo,CD Alcoyano,1.0,1.0
 ,25,Espanyol,CE Sabadell,6.0,2.0
 ,25,Deportivo,Celta,3.0,3.0
@@ -24070,7 +24070,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,24,CD Alcoyano,Espanyol,2.0,0.0
 ,24,CE Sabadell,Sevilla,1.0,3.0
 ,24,Atlético,Celta,3.0,0.0
-,24,Gimnàstic,Real Oviedo,2.0,4.0
+,24,Gimnàstic de Tarragona,Real Oviedo,2.0,4.0
 ,24,Barcelona,Valladolid,6.0,0.0
 06-03-1949,23,Valladolid,CE Sabadell,4.0,0.0
 ,23,Real Oviedo,Deportivo,4.0,1.0
@@ -24078,16 +24078,16 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,23,Athletic,Barcelona,2.0,0.0
 ,23,Celta,Real Madrid,3.0,1.0
 ,23,Atlético,Valencia,2.0,2.0
-,23,Espanyol,Gimnàstic,5.0,4.0
+,23,Espanyol,Gimnàstic de Tarragona,5.0,4.0
 27-02-1949,22,Deportivo,Espanyol,3.0,0.0
 ,22,Barcelona,Atlético,4.0,0.0
-,22,Gimnàstic,Sevilla,1.0,3.0
+,22,Gimnàstic de Tarragona,Sevilla,1.0,3.0
 ,22,Valencia,Celta,1.0,0.0
 ,22,Real Madrid,Real Oviedo,0.0,2.0
 ,22,CD Alcoyano,Valladolid,2.0,1.0
 ,22,CE Sabadell,Athletic,2.0,2.0
 20-02-1949,21,Athletic,CD Alcoyano,3.0,0.0
-,21,Valladolid,Gimnàstic,3.0,1.0
+,21,Valladolid,Gimnàstic de Tarragona,3.0,1.0
 ,21,Atlético,CE Sabadell,6.0,0.0
 ,21,Sevilla,Deportivo,3.0,1.0
 ,21,Celta,Real Oviedo,2.0,1.0
@@ -24098,9 +24098,9 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,20,Barcelona,Celta,3.0,1.0
 ,20,Real Madrid,Sevilla,1.0,0.0
 ,20,Real Oviedo,Espanyol,3.0,0.0
-,20,Gimnàstic,Athletic,3.0,1.0
+,20,Gimnàstic de Tarragona,Athletic,3.0,1.0
 ,20,CD Alcoyano,Atlético,0.0,0.0
-06-02-1949,19,Atlético,Gimnàstic,1.0,0.0
+06-02-1949,19,Atlético,Gimnàstic de Tarragona,1.0,0.0
 ,19,Valencia,CD Alcoyano,5.0,3.0
 ,19,Barcelona,CE Sabadell,4.0,1.0
 ,19,Athletic,Deportivo,3.0,1.0
@@ -24110,13 +24110,13 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 30-01-1949,18,Real Oviedo,Valladolid,2.0,1.0
 ,18,CD Alcoyano,Barcelona,1.0,2.0
 ,18,Real Madrid,Athletic,4.0,2.0
-,18,Gimnàstic,Valencia,6.0,1.0
+,18,Gimnàstic de Tarragona,Valencia,6.0,1.0
 ,18,Deportivo,Atlético,3.0,1.0
 ,18,Espanyol,Sevilla,1.0,0.0
 ,18,CE Sabadell,Celta,3.0,0.0
 23-01-1949,17,Atlético,Real Madrid,0.0,2.0
 ,17,Valencia,Deportivo,7.0,1.0
-,17,Barcelona,Gimnàstic,3.0,1.0
+,17,Barcelona,Gimnàstic de Tarragona,3.0,1.0
 ,17,CE Sabadell,CD Alcoyano,3.0,1.0
 ,17,Valladolid,Espanyol,1.0,0.0
 ,17,Athletic,Real Oviedo,0.0,1.0
@@ -24127,29 +24127,29 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,16,Real Oviedo,Atlético,2.0,0.0
 ,16,CD Alcoyano,Celta,1.0,0.0
 ,16,Sevilla,Valladolid,2.0,1.0
-,16,Gimnàstic,CE Sabadell,3.0,2.0
+,16,Gimnàstic de Tarragona,CE Sabadell,3.0,2.0
 09-01-1949,15,Celta,Valladolid,2.0,0.0
 ,15,CE Sabadell,Deportivo,4.0,4.0
 ,15,Valencia,Real Oviedo,3.0,1.0
 ,15,Athletic,Sevilla,4.0,0.0
 ,15,Atlético,Espanyol,2.0,1.0
 ,15,Barcelona,Real Madrid,3.0,1.0
-,15,CD Alcoyano,Gimnàstic,2.0,2.0
+,15,CD Alcoyano,Gimnàstic de Tarragona,2.0,2.0
 12-12-1948,14,Valladolid,Athletic,1.0,0.0
 ,14,Espanyol,Valencia,3.0,0.0
 ,14,Sevilla,Atlético,0.0,1.0
-,14,Gimnàstic,Celta,3.0,2.0
+,14,Gimnàstic de Tarragona,Celta,3.0,2.0
 ,14,Real Madrid,CE Sabadell,5.0,1.0
 ,14,Deportivo,CD Alcoyano,6.0,1.0
 ,14,Real Oviedo,Barcelona,2.0,0.0
-05-12-1948,13,Deportivo,Gimnàstic,6.0,2.0
+05-12-1948,13,Deportivo,Gimnàstic de Tarragona,6.0,2.0
 ,13,Espanyol,Barcelona,1.0,1.0
 ,13,Sevilla,Valencia,0.0,2.0
 ,13,Valladolid,Atlético,0.0,1.0
 ,13,Athletic,Celta,3.0,2.0
 ,13,Real Oviedo,CE Sabadell,5.0,4.0
 ,13,Real Madrid,CD Alcoyano,3.0,1.0
-28-11-1948,12,Gimnàstic,Real Madrid,3.0,3.0
+28-11-1948,12,Gimnàstic de Tarragona,Real Madrid,3.0,3.0
 ,12,Celta,Deportivo,1.0,1.0
 ,12,Valencia,Valladolid,6.0,2.0
 ,12,CD Alcoyano,Real Oviedo,2.0,1.0
@@ -24162,11 +24162,11 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,11,Real Madrid,Deportivo,3.0,1.0
 ,11,Sevilla,CE Sabadell,4.0,1.0
 ,11,Espanyol,CD Alcoyano,1.0,1.0
-,11,Real Oviedo,Gimnàstic,0.0,2.0
+,11,Real Oviedo,Gimnàstic de Tarragona,0.0,2.0
 14-11-1948,10,Real Madrid,Celta,6.0,0.0
 ,10,CD Alcoyano,Sevilla,2.0,0.0
 ,10,Deportivo,Real Oviedo,1.0,2.0
-,10,Gimnàstic,Espanyol,4.0,1.0
+,10,Gimnàstic de Tarragona,Espanyol,4.0,1.0
 ,10,Barcelona,Athletic,5.0,2.0
 ,10,Valencia,Atlético,4.0,3.0
 ,10,CE Sabadell,Valladolid,3.0,1.0
@@ -24175,10 +24175,10 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,9,Espanyol,Deportivo,4.0,1.0
 ,9,Athletic,CE Sabadell,7.0,2.0
 ,9,Valladolid,CD Alcoyano,4.0,2.0
-,9,Sevilla,Gimnàstic,3.0,1.0
+,9,Sevilla,Gimnàstic de Tarragona,3.0,1.0
 ,9,Real Oviedo,Real Madrid,1.0,1.0
 31-10-1948,8,Real Oviedo,Celta,5.0,2.0
-,8,Gimnàstic,Valladolid,4.0,2.0
+,8,Gimnàstic de Tarragona,Valladolid,4.0,2.0
 ,8,Deportivo,Sevilla,2.0,0.0
 ,8,CE Sabadell,Atlético,1.0,3.0
 ,8,Barcelona,Valencia,4.0,3.0
@@ -24186,7 +24186,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,8,CD Alcoyano,Athletic,1.0,0.0
 24-10-1948,7,Atlético,CD Alcoyano,4.0,0.0
 ,7,Espanyol,Real Oviedo,0.0,0.0
-,7,Athletic,Gimnàstic,4.0,1.0
+,7,Athletic,Gimnàstic de Tarragona,4.0,1.0
 ,7,Sevilla,Real Madrid,1.0,5.0
 ,7,Valencia,CE Sabadell,3.0,0.0
 ,7,Celta,Barcelona,2.0,2.0
@@ -24194,18 +24194,18 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 17-10-1948,6,Real Madrid,Valladolid,4.0,1.0
 ,6,Espanyol,Celta,5.0,0.0
 ,6,Real Oviedo,Sevilla,0.0,1.0
-,6,Gimnàstic,Atlético,2.0,1.0
+,6,Gimnàstic de Tarragona,Atlético,2.0,1.0
 ,6,CD Alcoyano,Valencia,0.0,1.0
 ,6,CE Sabadell,Barcelona,1.0,0.0
 ,6,Deportivo,Athletic,3.0,1.0
-10-10-1948,5,Valencia,Gimnàstic,7.0,0.0
+10-10-1948,5,Valencia,Gimnàstic de Tarragona,7.0,0.0
 ,5,Athletic,Real Madrid,2.0,3.0
 ,5,Sevilla,Espanyol,0.0,3.0
 ,5,Valladolid,Real Oviedo,2.0,1.0
 ,5,Atlético,Deportivo,4.0,0.0
 ,5,Celta,CE Sabadell,3.0,2.0
 ,5,Barcelona,CD Alcoyano,4.0,0.0
-03-10-1948,4,Gimnàstic,Barcelona,2.0,2.0
+03-10-1948,4,Gimnàstic de Tarragona,Barcelona,2.0,2.0
 ,4,Sevilla,Celta,2.0,1.0
 ,4,CD Alcoyano,CE Sabadell,2.0,1.0
 ,4,Espanyol,Valladolid,5.0,1.0
@@ -24218,22 +24218,22 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,3,Atlético,Real Oviedo,6.0,0.0
 ,3,Barcelona,Deportivo,5.0,1.0
 ,3,Celta,CD Alcoyano,5.0,1.0
-,3,CE Sabadell,Gimnàstic,2.0,3.0
+,3,CE Sabadell,Gimnàstic de Tarragona,2.0,3.0
 19-09-1948,2,Valladolid,Celta,4.0,2.0
 ,2,Deportivo,CE Sabadell,5.0,2.0
 ,2,Espanyol,Atlético,4.0,1.0
 ,2,Real Oviedo,Valencia,2.0,1.0
 ,2,Sevilla,Athletic,6.0,0.0
 ,2,Real Madrid,Barcelona,1.0,2.0
-,2,Gimnàstic,CD Alcoyano,3.0,1.0
+,2,Gimnàstic de Tarragona,CD Alcoyano,3.0,1.0
 12-09-1948,1,Valencia,Espanyol,4.0,1.0
 ,1,Atlético,Sevilla,1.0,1.0
 ,1,Barcelona,Real Oviedo,5.0,2.0
 ,1,Athletic,Valladolid,7.0,2.0
 ,1,CD Alcoyano,Deportivo,1.0,0.0
-,1,Celta,Gimnàstic,6.0,4.0
+,1,Celta,Gimnàstic de Tarragona,6.0,4.0
 ,1,CE Sabadell,Real Madrid,1.0,2.0
-11-04-1948,26,Gimnàstic,CD Alcoyano,4.0,3.0
+11-04-1948,26,Gimnàstic de Tarragona,CD Alcoyano,4.0,3.0
 ,26,Barcelona,Athletic,3.0,0.0
 ,26,Real Sociedad,Espanyol,4.0,2.0
 ,26,Celta,Valencia,5.0,2.0
@@ -24241,13 +24241,13 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,26,CE Sabadell,Sevilla,3.0,1.0
 ,26,Real Madrid,Real Oviedo,2.0,0.0
 04-04-1948,25,Athletic,Real Madrid,3.0,0.0
-,25,Real Oviedo,Gimnàstic,6.0,2.0
+,25,Real Oviedo,Gimnàstic de Tarragona,6.0,2.0
 ,25,CD Alcoyano,CE Sabadell,3.0,0.0
 ,25,Sevilla,Sporting,3.0,1.0
 ,25,Espanyol,Celta,2.0,1.0
 ,25,Valencia,Barcelona,1.0,3.0
 ,25,Atlético,Real Sociedad,4.0,3.0
-28-03-1948,24,Gimnàstic,Athletic,7.0,1.0
+28-03-1948,24,Gimnàstic de Tarragona,Athletic,7.0,1.0
 ,24,Barcelona,Espanyol,5.0,1.0
 ,24,Real Madrid,Valencia,1.0,1.0
 ,24,Celta,Atlético,4.0,1.0
@@ -24260,15 +24260,15 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,23,Atlético,Barcelona,2.0,2.0
 ,23,Espanyol,Real Madrid,2.0,0.0
 ,23,Sporting,Real Sociedad,4.0,1.0
-,23,Valencia,Gimnàstic,3.0,1.0
-29-02-1948,22,Gimnàstic,Espanyol,1.0,0.0
+,23,Valencia,Gimnàstic de Tarragona,3.0,1.0
+29-02-1948,22,Gimnàstic de Tarragona,Espanyol,1.0,0.0
 ,22,CD Alcoyano,Valencia,0.0,2.0
 ,22,Real Madrid,Atlético,1.0,1.0
 ,22,Barcelona,Sevilla,6.0,0.0
 ,22,Celta,Sporting,3.0,2.0
 ,22,Real Sociedad,CE Sabadell,3.0,0.0
 ,22,Real Oviedo,Athletic,2.0,2.0
-22-02-1948,21,Atlético,Gimnàstic,5.0,2.0
+22-02-1948,21,Atlético,Gimnàstic de Tarragona,5.0,2.0
 ,21,Espanyol,CD Alcoyano,2.0,2.0
 ,21,Valencia,Real Oviedo,6.0,1.0
 ,21,Real Sociedad,Celta,4.0,1.0
@@ -24281,8 +24281,8 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,20,Barcelona,Real Sociedad,6.0,0.0
 ,20,Athletic,Valencia,2.0,1.0
 ,20,Real Oviedo,Espanyol,0.0,0.0
-,20,Gimnàstic,Sevilla,2.0,0.0
-08-02-1948,19,Sporting,Gimnàstic,3.0,2.0
+,20,Gimnàstic de Tarragona,Sevilla,2.0,0.0
+08-02-1948,19,Sporting,Gimnàstic de Tarragona,3.0,2.0
 ,19,Sevilla,CD Alcoyano,2.0,0.0
 ,19,Atlético,Real Oviedo,4.0,0.0
 ,19,CE Sabadell,Valencia,3.0,2.0
@@ -24293,17 +24293,17 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,18,Valencia,Espanyol,1.0,1.0
 ,18,Athletic,Atlético,0.0,1.0
 ,18,Real Oviedo,Sevilla,4.0,0.0
-,18,Gimnàstic,Real Sociedad,2.0,0.0
+,18,Gimnàstic de Tarragona,Real Sociedad,2.0,0.0
 ,18,Real Madrid,Celta,1.0,4.0
 ,18,CD Alcoyano,Sporting,6.0,1.0
 25-01-1948,17,Barcelona,Real Madrid,4.0,2.0
 ,17,Sporting,Real Oviedo,2.0,1.0
-,17,Celta,Gimnàstic,5.0,0.0
+,17,Celta,Gimnàstic de Tarragona,5.0,0.0
 ,17,Real Sociedad,CD Alcoyano,5.0,0.0
 ,17,Sevilla,Athletic,2.0,1.0
 ,17,Atlético,Valencia,2.0,2.0
 ,17,CE Sabadell,Espanyol,3.0,3.0
-18-01-1948,16,Gimnàstic,Barcelona,1.0,2.0
+18-01-1948,16,Gimnàstic de Tarragona,Barcelona,1.0,2.0
 ,16,Espanyol,Atlético,2.0,2.0
 ,16,Valencia,Sevilla,1.0,0.0
 ,16,Real Oviedo,Real Sociedad,3.0,0.0
@@ -24316,15 +24316,15 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,15,Sporting,Valencia,1.0,4.0
 ,15,Sevilla,Espanyol,3.0,1.0
 ,15,Real Sociedad,Athletic,0.0,3.0
-,15,Real Madrid,Gimnàstic,1.0,3.0
+,15,Real Madrid,Gimnàstic de Tarragona,1.0,3.0
 04-01-1948,14,Real Oviedo,Barcelona,2.0,2.0
 ,14,Atlético,Sevilla,5.0,3.0
 ,14,Valencia,Real Sociedad,2.0,1.0
 ,14,Athletic,Celta,5.0,0.0
 ,14,Espanyol,Sporting,5.0,1.0
-,14,Gimnàstic,CE Sabadell,0.0,1.0
+,14,Gimnàstic de Tarragona,CE Sabadell,0.0,1.0
 ,14,CD Alcoyano,Real Madrid,2.0,1.0
-21-12-1947,13,CD Alcoyano,Gimnàstic,2.0,1.0
+21-12-1947,13,CD Alcoyano,Gimnàstic de Tarragona,2.0,1.0
 ,13,Real Oviedo,Real Madrid,7.0,1.0
 ,13,Athletic,Barcelona,3.0,2.0
 ,13,Espanyol,Real Sociedad,2.0,0.0
@@ -24333,7 +24333,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,13,Sevilla,CE Sabadell,3.0,0.0
 14-12-1947,12,Celta,Espanyol,4.0,0.0
 ,12,CE Sabadell,CD Alcoyano,3.0,2.0
-,12,Gimnàstic,Real Oviedo,3.0,0.0
+,12,Gimnàstic de Tarragona,Real Oviedo,3.0,0.0
 ,12,Sporting,Sevilla,3.0,1.0
 ,12,Barcelona,Valencia,1.0,1.0
 ,12,Real Sociedad,Atlético,3.0,1.0
@@ -24344,11 +24344,11 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,11,Atlético,Celta,3.0,1.0
 ,11,CE Sabadell,Sporting,5.0,0.0
 ,11,Real Oviedo,CD Alcoyano,4.0,3.0
-,11,Athletic,Gimnàstic,7.0,0.0
+,11,Athletic,Gimnàstic de Tarragona,7.0,0.0
 30-11-1947,10,Real Sociedad,Sporting,3.0,2.0
 ,10,Celta,Sevilla,1.0,1.0
 ,10,Real Oviedo,CE Sabadell,4.0,2.0
-,10,Gimnàstic,Valencia,1.0,0.0
+,10,Gimnàstic de Tarragona,Valencia,1.0,0.0
 ,10,CD Alcoyano,Athletic,0.0,4.0
 ,10,Barcelona,Atlético,2.0,1.0
 18-12-1947,10,Real Madrid,Espanyol,3.0,1.0
@@ -24357,30 +24357,30 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,9,Sporting,Celta,3.0,1.0
 ,9,Athletic,Real Oviedo,5.0,1.0
 ,9,Valencia,CD Alcoyano,1.0,0.0
-,9,Espanyol,Gimnàstic,1.0,0.0
+,9,Espanyol,Gimnàstic de Tarragona,1.0,0.0
 ,9,Atlético,Real Madrid,5.0,0.0
 16-11-1947,8,Barcelona,Sporting,4.0,0.0
 ,8,Athletic,CE Sabadell,3.0,1.0
 ,8,Celta,Real Sociedad,2.0,0.0
 ,8,Real Madrid,Sevilla,2.0,1.0
-,8,Gimnàstic,Atlético,2.0,1.0
+,8,Gimnàstic de Tarragona,Atlético,2.0,1.0
 ,8,Real Oviedo,Valencia,1.0,0.0
 ,8,CD Alcoyano,Espanyol,1.0,0.0
 09-11-1947,7,Atlético,CD Alcoyano,3.0,2.0
 ,7,Valencia,Athletic,3.0,0.0
-,7,Sevilla,Gimnàstic,3.0,1.0
+,7,Sevilla,Gimnàstic de Tarragona,3.0,1.0
 ,7,Sporting,Real Madrid,2.0,0.0
 ,7,Espanyol,Real Oviedo,3.0,1.0
 ,7,Real Sociedad,Barcelona,0.0,0.0
 ,7,CE Sabadell,Celta,2.0,0.0
 02-11-1947,6,Valencia,CE Sabadell,4.0,1.0
-,6,Gimnàstic,Sporting,5.0,0.0
+,6,Gimnàstic de Tarragona,Sporting,5.0,0.0
 ,6,Barcelona,Celta,1.0,1.0
 ,6,Real Madrid,Real Sociedad,3.0,0.0
 ,6,CD Alcoyano,Sevilla,1.0,1.0
 ,6,Athletic,Espanyol,1.0,2.0
 ,6,Real Oviedo,Atlético,2.0,2.0
-26-10-1947,5,Real Sociedad,Gimnàstic,3.0,1.0
+26-10-1947,5,Real Sociedad,Gimnàstic de Tarragona,3.0,1.0
 ,5,Celta,Real Madrid,4.0,1.0
 ,5,CE Sabadell,Barcelona,2.0,4.0
 ,5,Atlético,Athletic,1.0,1.0
@@ -24388,7 +24388,7 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,5,Sevilla,Real Oviedo,5.0,1.0
 ,5,Sporting,CD Alcoyano,1.0,1.0
 12-10-1947,4,Real Madrid,Barcelona,1.0,1.0
-,4,Gimnàstic,Celta,2.0,2.0
+,4,Gimnàstic de Tarragona,Celta,2.0,2.0
 ,4,Espanyol,CE Sabadell,2.0,3.0
 ,4,Real Oviedo,Sporting,0.0,0.0
 ,4,Valencia,Atlético,3.0,1.0
@@ -24400,20 +24400,20 @@ fecha,jornada,local,visitante,goles_local,goles_visitante
 ,3,Sevilla,Valencia,3.0,0.0
 ,3,Real Sociedad,Real Oviedo,1.0,2.0
 ,3,Celta,CD Alcoyano,2.0,0.0
-,3,Barcelona,Gimnàstic,1.0,1.0
+,3,Barcelona,Gimnàstic de Tarragona,1.0,1.0
 28-09-1947,2,Real Oviedo,Celta,1.0,2.0
 ,2,Valencia,Sporting,3.0,1.0
 ,2,Athletic,Real Sociedad,1.0,3.0
 ,2,Espanyol,Sevilla,0.0,1.0
 ,2,CD Alcoyano,Barcelona,0.0,2.0
-,2,Gimnàstic,Real Madrid,3.0,3.0
+,2,Gimnàstic de Tarragona,Real Madrid,3.0,3.0
 ,2,Atlético,CE Sabadell,8.0,0.0
 21-09-1947,1,Sporting,Espanyol,1.0,1.0
 ,1,Real Sociedad,Valencia,0.0,2.0
 ,1,Sevilla,Atlético,1.0,1.0
 ,1,Barcelona,Real Oviedo,2.0,1.0
 ,1,Real Madrid,CD Alcoyano,2.0,2.0
-,1,CE Sabadell,Gimnàstic,2.0,2.0
+,1,CE Sabadell,Gimnàstic de Tarragona,2.0,2.0
 ,1,Celta,Athletic,5.0,1.0
 13-04-1947,26,Real Oviedo,CD Castellón,4.0,1.0
 ,26,Atlético,Real Madrid,2.0,3.0

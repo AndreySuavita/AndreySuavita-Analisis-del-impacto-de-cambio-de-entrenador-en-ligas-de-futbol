@@ -140,6 +140,6 @@ df = pd.DataFrame({'fecha':fecha,'jornada':jornada_lista,'local':local,'visitant
 #trasnformar en datatime las columnas respectivas
 #df['fecha'] = pd.to_datetime(df['fecha'], errors='coerce')
 
-df.to_csv('D:/MEGAsync/andrey u/Maestría/Tesis/datasets_results/laliga_results',index=False)
+df.to_csv('C:/D/MEGAsync/andrey u/Maestría/Tesis/datasets_results',index=False)
 print(df)
 
